@@ -1,1 +1,1 @@
-# Awesome-AIoT
+# AIoT Reading List
