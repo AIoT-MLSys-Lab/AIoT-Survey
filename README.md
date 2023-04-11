@@ -1,1 +1,1 @@
-# AIoT Reading List
+# Must-read papers on AIoT
