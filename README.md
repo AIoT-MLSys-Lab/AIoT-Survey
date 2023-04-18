@@ -11,6 +11,31 @@ Veneus:
 Years: 2018 ~ Present
 
 
+## What is AIoT?
+
+## Table of Contents
+* [Sensing](#sensing)
+  * [Wireless Sensing](#wireless-sensing)
+  * [Data Labeling](#data-labeling)
+  * [Data Preparation](#data-preparation)
+  * [Data Reduction](#data-reduction)
+  * [Data Augmentation](#data-augmentation)
+  * [Pipeline Search](#pipeline-search)
+* [Inference Data Development](#inference-data-development)
+  * [In-distribution Evaluation](#in-distribution-evaluation)
+  * [Out-of-distribution Evaluation](#out-of-distribution-evaluation)
+  * [Prompt Engineering](#prompt-engineering)
+* [Data Maintenance](#data-maintenance)
+  * [Data Understanding](#data-understanding)
+  * [Data Quality Assurance](#data-quality-assurance)
+  * [Data Storage and Retrieval](#data-storage-and-retrieval)
+* [Data Benchmark](#data-benchmark)
+  * [Training Data Development Benchmark](#training-data-development-benchmark)
+  * [Inference Data Development Benchmark](#inference-data-development-benchmark)
+  * [Data Maintenance Benchmark](#data-maintenance-benchmark)
+  * [Unified Benchmark](#unified-benchmark)
+
+
 ### Sensing
 Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)
 
