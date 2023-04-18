@@ -35,7 +35,6 @@ Each week, focus on Writing one sub-topic.
   * [Multi-modal Sensing](#multimodal-sensing)
 * [COMPUTING](#computing)
   * [On-Device Inferences](#on-device-Inferences)
-  * [On-Device Scheduling/Deploying](#on-device-schedulingdeploying)
   * [On-Device Training Evaluation](#on-device-training-evaluation)
   * [Offloading](#offloading)
   * [Automated Machine Learning](#automated-machine-learning)
@@ -81,8 +80,6 @@ Each week, focus on Writing one sub-topic.
 ## COMPUTING
 
 ### On-Device Inferences
-
-### On-Device Scheduling/Deploying
 
 ### On-Device Training Evaluation
 
