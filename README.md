@@ -21,7 +21,7 @@ Each week, focus on Writing one sub-topic.
 
 
 ## Table of Contents
-* [APPLICATION DOMAINS](#application)
+* [APPLICATION DOMAINS](#application-domains)
   * [Healthcare](#healthcare)
   * [AR/VR/Metaverse](#ar/vr/metaverse)
   * [Smart Home](#smart-home)
@@ -35,7 +35,7 @@ Each week, focus on Writing one sub-topic.
   * [Multi-modal Sensing](#multi-modal sensing)
 * [COMPUTING](#computing)
   * [On-Device Inferences](#on-device-inference)
-  * [On-Devices Scheduling/Depolying](#on-device scheduling/deploying)
+  * [On-Device Scheduling/Deploying](#on-device-scheduling/deploying)
   * [On-Device Training Evaluation](#on-device-training-evaluation)
   * [Offloading](#offloading)
   * [Automated Machine Learning](#automated-machine-learning)
@@ -54,40 +54,40 @@ Each week, focus on Writing one sub-topic.
 
 
 
-## [APPLICATION DOMAINS](#application)
+## APPLICATION DOMAINS
 
-### [Healthcare](#healthcare) 
-###[AR/VR/Metaverse]
-###[Smart Home]
-###[Smart Cities]
-###[Smart Transportation]
-###[Smart Agriculture]
+### Healthcare
+###AR/VR/Metaverse
+###Smart Home
+###Smart Cities
+###Smart Transportation
+###Smart Agriculture
 
-##[Sensing]
-###[Wireless Sensing]
-###[Acoustic Sensing]
-###[Under Water Sensing]
-###[Multi-modal Sensing]
+##Sensing]
+###Wireless Sensing
+###Acoustic Sensing
+###Under Water Sensing
+###Multi-modal Sensing
 
-##[COMPUTING]
-###[On-Device Inferences]
-###[On-Devices Scheduling/Depolying]
-###[On-Device Training Evaluation]
-###[Offloading]
-###[Automated Machine Learning]
-###[Compiler for Deep Learning]
+##COMPUTING]
+###On-Device Inferences
+###On-Device Scheduling/Deploying
+###On-Device Training Evaluation
+###Offloading
+###Automated Machine Learning
+###Compiler for Deep Learning
 
-##[NETWORKING AND COMMUNICATION]
-###[Backscatter]
-###[LoRa]
-###[Under Water Communication]
+##NETWORKING AND COMMUNICATION
+###Backscatter
+###LoRa
+###Under Water Communication
 
-##[Security and Privacy]
-###[Security of AIoT]
-###[Federated Learning]
+##Security and Privacy
+###Security of AIoT
+###Federated Learning
 
-##[Building AIoT Systems]
-###[AIoT for Healthcare Systems]
-###[AIoT for Video Analytics Systems]
-###[AIoT for Communication Systems]
+##Building AIoT Systems
+###AIoT for Healthcare Systems
+###AIoT for Video Analytics Systems
+###AIoT for Communication Systems
 
