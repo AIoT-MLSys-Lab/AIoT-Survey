@@ -2,4 +2,8 @@
 
 A curated, but incomplete, list of AIoT resources. It should be noted that it is unfeasible to encompass every paper. Thus, we prefer to selectively choose papers that present a range of distinct ideas. We welcome contributions to further enrich and refine this list.
 
-Veneus: system conferences (OSDI/SOSP/ATC/EuroSys/ASPLOS), network conferences (NSDI/SIGCOMM) and mobile conferences (MobiCom/MobiSys/SenSys/UbiComp).
+Veneus: 
+- mobile conferences (MobiCom/MobiSys/SenSys/UbiComp)
+- network conferences (NSDI/SIGCOMM) 
+- core system conferences (OSDI/SOSP/EuroSys/ASPLOS/ATC)
+- AI conferences (MLSys, NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACL)
