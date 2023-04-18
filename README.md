@@ -58,62 +58,62 @@ Each week, focus on Writing one sub-topic.
 
 ### Healthcare
 
-###AR/VR/Metaverse
+### AR/VR/Metaverse
 
-###Smart Home
+### Smart Home
 
-###Smart Cities
+### Smart Cities
 
-###Smart Transportation
+### Smart Transportation
 
-###Smart Agriculture
+### Smart Agriculture
 
-##Sensing
+## Sensing
 
-###Wireless Sensing
+### Wireless Sensing
 
-###Acoustic Sensing
+### Acoustic Sensing
 
-###Under Water Sensing
+### Under Water Sensing
 
-###Multi-modal Sensing
+### Multi-modal Sensing
 
-##COMPUTING
+## COMPUTING
 
-###On-Device Inferences
+### On-Device Inferences
 
-###On-Device Scheduling/Deploying
+### On-Device Scheduling/Deploying
 
-###On-Device Training Evaluation
+### On-Device Training Evaluation
 
-###Offloading
+### Offloading
 
-###Automated Machine Learning
+### Automated Machine Learning
 
-###Compiler for Deep Learning
-
-
-##NETWORKING AND COMMUNICATION
-
-###Backscatter
-
-###LoRa
-
-###Under Water Communication
-
-##Security and Privacy
-
-###Security of AIoT
-
-###Federated Learning
+### Compiler for Deep Learning
 
 
-##Building AIoT Systems
+## NETWORKING AND COMMUNICATION
 
-###AIoT for Healthcare Systems
+### Backscatter
 
-###AIoT for Video Analytics Systems
+### LoRa
 
-###AIoT for Communication Systems
+### Under Water Communication
+
+## Security and Privacy
+
+### Security of AIoT
+
+### Federated Learning
+
+
+## Building AIoT Systems
+
+### AIoT for Healthcare Systems
+
+### AIoT for Video Analytics Systems
+
+### AIoT for Communication Systems
 
 
