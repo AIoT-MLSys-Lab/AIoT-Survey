@@ -17,8 +17,6 @@ Each week, focus on Writing one sub-topic.
 
 ## What is AIoT?
 
-## Why do we need AIoT
-
 
 ## Table of Contents
 * [Sensing](#sensing)
@@ -44,21 +42,6 @@ Each week, focus on Writing one sub-topic.
   * [AIoT for Video Analytics Systems](#aiot-for-video-analytics-systems)
   * [AIoT for Communication Systems](#aiot-for-communication-systems) 
 
-
-
-## APPLICATION DOMAINS
-
-### Healthcare
-
-### AR/VR/Metaverse
-
-### Smart Home
-
-### Smart Cities
-
-### Smart Transportation
-
-### Smart Agriculture
 
 ## Sensing
 
