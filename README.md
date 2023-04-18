@@ -12,6 +12,8 @@ Years: 2018 ~ Present
 
 Find at most 10 papers in each sub-topic.
 
+Each week, focus on Writing one sub-topic.
+
 
 ## What is AIoT?
 
