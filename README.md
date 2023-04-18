@@ -53,7 +53,8 @@ Each week, focus on Writing one sub-topic.
 
 ### Multi-modal Sensing
 
-## COMPUTING
+
+## Computing
 
 ### On-Device Inferences
 
@@ -66,13 +67,14 @@ Each week, focus on Writing one sub-topic.
 ### Compiler for Deep Learning
 
 
-## NETWORKING AND COMMUNICATION
+## Networking and Communication
 
 ### Backscatter
 
 ### LoRa
 
 ### Under Water Communication
+
 
 ## Security and Privacy
 
@@ -81,7 +83,7 @@ Each week, focus on Writing one sub-topic.
 ### Federated Learning
 
 
-## Building AIoT Systems
+## AIoT Systems and their Applications
 
 ### AIoT for Healthcare Systems
 
