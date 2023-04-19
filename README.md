@@ -1,4 +1,4 @@
-# A collection of survey, research papers, open-source resources, and research seminars of AIoT (Artificial Intelligence of Things)
+# A collection of survey, research papers, benchmarks, open-source resources, and seminars of AIoT (Artificial Intelligence of Things)
 
 Papers selected from the following conferences: 
 - mobile computing conferences (MobiCom/MobiSys/SenSys/UbiComp)
