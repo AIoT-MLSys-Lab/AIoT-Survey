@@ -1,6 +1,4 @@
-# Awesome AIoT
-
-A survey, paper list, and open-source collection of AIoT.
+# A survey, paper list, and open-source collection of AIoT
 
 Papers selected from the following conferences: 
 - mobile computing conferences (MobiCom/MobiSys/SenSys/UbiComp)
