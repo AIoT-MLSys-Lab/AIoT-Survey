@@ -60,7 +60,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ## Computing
 
 ### On-Device Inferences
-* CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538932)\
+* CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538932)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448625)
 * Fast and scalable in-memory deep multitask learning via neural weight virtualization, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)
@@ -108,7 +108,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### AIoT for Video Analytics Systems
 * Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)
 * Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision, MobiCom 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)
-* Approximate query service on autonomous IoT cameras, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)\
+* Approximate query service on autonomous IoT cameras, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * Starfish: resilient image compression for AIoT cameras,SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769) 
 
 
