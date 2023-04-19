@@ -37,9 +37,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
   * [Security of AIoT](#security-of-aiot)
   * [Federated Learning](#federated-learning)
 * [AIoT Systems and their Applications](#building-aiot-systems)
-  * [AIoT for Healthcare Systems](#aiot-for-healthcare-systems)
-  * [AIoT for Video Analytics Systems](#aiot-for-video-analytics-systems)
-  * [AIoT for Communication Systems](#aiot-for-communication-systems) 
+  * [AIoT Systems for Healthcare](#aiot-for-healthcare-systems)
+  * [AIoT Systems for Video Analytics](#aiot-for-video-analytics-systems)
+  * [AIoT Systems for Communication](#aiot-for-communication-systems) 
 
 
 
