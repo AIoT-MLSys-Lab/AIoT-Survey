@@ -1,8 +1,8 @@
 # Awesome AIoT
 
-A curated, but incomplete, list of AIoT resources. It should be noted that it is unfeasible to encompass every paper. Thus, we prefer to selectively choose papers that present a range of distinct ideas. We welcome contributions to further enrich and refine this list.
+A survey, paper list, and open-source collection of AIoT.
 
-Veneus: 
+Papers selected from the following conferences: 
 - mobile computing conferences (MobiCom/MobiSys/SenSys/UbiComp)
 - computer networks conferences (NSDI/SIGCOMM) 
 - operating systems conferences (OSDI/SOSP/EuroSys/ASPLOS/ATC)
