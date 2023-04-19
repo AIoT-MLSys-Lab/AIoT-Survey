@@ -15,6 +15,7 @@ Each week, focus on Writing one sub-topic.
 
 ## What is AIoT?
 
+Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
 
 ## Table of Contents
 * [Sensing](#sensing)
