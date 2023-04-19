@@ -45,9 +45,10 @@ Each week, focus on Writing one sub-topic.
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI)
 
 ### Wireless Sensing
-* milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430776)
+
 
 ### Acoustic Sensing
+* milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430776)
 
 ### Under Water Sensing
 
