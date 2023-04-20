@@ -97,11 +97,21 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ### On-Device Training Evaluation
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930) 
+* Memory-efficient DNN training on mobile devices. MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3539765)
+* Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning, ATC21 [[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)
+* A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)
+* Mandheling: mixed-precision on-device DNN training with DSP offloading, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)
+
+
+
+
+
 
 ### Offloading
 * CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215) 
 * Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448628)
 * Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)
+
 
 ### Automated Machine Learning
 
