@@ -23,6 +23,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
   * [Acoustic Sensing](#acoustic-sensing)
   * [Under Water Sensing](#under-water-sensing)
   * [Multi-modal Sensing](#multimodal-sensing)
+  * [Vision Sensing](#vision-sensing)
 * [Computing](#computing)
   * [On-Device Inferences](#on-device-Inferences)
   * [On-Device Training Evaluation](#on-device-training-evaluation)
@@ -62,6 +63,12 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ### Multi-modal Sensing
 * Low-latency speculative inference on distributed multi-modal data streams, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467884)
+
+### Vision Sensing
+* Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)
+* Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision, MobiCom 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)
+* Approximate query service on autonomous IoT cameras, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
+* Starfish: resilient image compression for AIoT cameras,SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769) 
 
 
 ## Computing
@@ -124,20 +131,27 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ### Federated Learning
 * PyramidFL: a fine-grained client selection framework for efficient federated learning, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017) 
+* FedBalancer: data and pace control for efficient federated learning on heterogeneous clients, MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538917)
+* Hermes: an efficient federated learning framework for heterogeneous mobile clients, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483278)
+* PPFL: privacy-preserving federated learning with trusted execution environments, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3466628)
+* ClusterFL: a similarity-aware federated learning system for human activity recognition, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467681)
+* FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)
+* FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485929)
+* Oort: Efficient Federated Learning via Guided Participant Selection, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-lai.pdf)
+* Billion-scale federated learning on mobile clients: a submodel design with tunable privacy, MobiCom 20 [[Paper]](https://dl.acm.org/doi/10.1145/3372224.3419188)
+
+
+
 
 ## AIoT Systems and their Applications
 
 ### AIoT for Healthcare Systems
 
 ### AIoT for Video Analytics Systems
-* Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)
-* Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision, MobiCom 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)
-* Approximate query service on autonomous IoT cameras, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
-* Starfish: resilient image compression for AIoT cameras,SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769) 
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications [[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)
 * SmrtFridge: IoT-based, user interaction-driven food item & quantity sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360028)
 * When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079)
-
+* AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)
 
 ### AIoT for Communication Systems
 
