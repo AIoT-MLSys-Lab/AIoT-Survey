@@ -46,12 +46,19 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI)
 
 ### Wireless Sensing
+* Ember: energy management of batteryless event detection sensors with deep reinforcement learning, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430734)
+* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification, SenSys21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)
+* FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360035)
+* General-purpose deep tracking platform across protocols for the internet of things, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3389029)
+* milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430776)
 
 
 ### Acoustic Sensing
+* MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360020)
 
 
 ### Under Water Sensing
+
 
 ### Multi-modal Sensing
 * Low-latency speculative inference on distributed multi-modal data streams, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467884)
@@ -73,6 +80,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210337)
 * RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938) 
+* PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378534)
+* Memory-Efficient Domain Incremental Learning for Internet of Things, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436) 
+* MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430716)
+* LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485937) 
 
 
 ### On-Device Training Evaluation
@@ -122,6 +133,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Approximate query service on autonomous IoT cameras, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * Starfish: resilient image compression for AIoT cameras,SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769) 
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications [[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)
+* SmrtFridge: IoT-based, user interaction-driven food item & quantity sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360028)
+* When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079)
 
 
 ### AIoT for Communication Systems
