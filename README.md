@@ -143,6 +143,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ### Federated Learning Systems
 * PyramidFL: a fine-grained client selection framework for efficient federated learning, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017) 
+* FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22
 * FedBalancer: data and pace control for efficient federated learning on heterogeneous clients, MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538917)
 * FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices
 * Hermes: an efficient federated learning framework for heterogeneous mobile clients, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483278)
