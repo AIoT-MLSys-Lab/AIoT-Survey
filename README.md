@@ -76,6 +76,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### On-Device Inferences
 #### Scheduling
 * CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538932)
+* BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
 #### Compressing
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448625)
@@ -101,7 +102,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning, ATC21 [[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)
 * A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)
 * Mandheling: mixed-precision on-device DNN training with DSP offloading, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)
-
+* Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)
 
 
 
@@ -111,7 +112,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215) 
 * Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448628)
 * Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)
-
+* Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
 
 ### Automated Machine Learning
 
@@ -137,6 +138,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Large-scale Urban IoT Activity Data for DDoS Attack Emulation, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3493695)
 * Light Auditor: Power Measurement Can Tell Private Data Leakage through IoT Covert Channels, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568535)
 * DarkneTZ: towards model privacy at the edge using trusted execution environments MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388946)
+* SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)
 
 
 ### Federated Learning
