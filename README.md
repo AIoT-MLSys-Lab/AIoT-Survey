@@ -159,14 +159,16 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ## AIoT Systems and their Applications
 
-### AIoT for Healthcare Systems
+### AIoT Systems for Healthcare and Social Good
+* MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images, MobiSys 17
+* DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation, SenSys 17
 
-### AIoT for Video Analytics Systems
+### AIoT Systems for Video Analytics 
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications [[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)
 * SmrtFridge: IoT-based, user interaction-driven food item & quantity sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360028)
 * When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079)
 * AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)
 * Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence
 
-### AIoT for Communication Systems
+### AIoT Systems for Communication 
 
