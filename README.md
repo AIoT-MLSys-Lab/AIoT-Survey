@@ -141,9 +141,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)
 
 
-### Federated Learning
+### Federated Learning Systems
 * PyramidFL: a fine-grained client selection framework for efficient federated learning, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017) 
 * FedBalancer: data and pace control for efficient federated learning on heterogeneous clients, MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538917)
+* FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices
 * Hermes: an efficient federated learning framework for heterogeneous mobile clients, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483278)
 * PPFL: privacy-preserving federated learning with trusted execution environments, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3466628)
 * ClusterFL: a similarity-aware federated learning system for human activity recognition, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467681)
@@ -164,6 +165,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * SmrtFridge: IoT-based, user interaction-driven food item & quantity sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360028)
 * When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079)
 * AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)
+* Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence
 
 ### AIoT for Communication Systems
 
