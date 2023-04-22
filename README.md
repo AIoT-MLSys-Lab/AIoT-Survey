@@ -52,6 +52,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360035)
 * General-purpose deep tracking platform across protocols for the internet of things, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3389029)
 * milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430776)
+* RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430735)
 
 
 ### Acoustic Sensing
@@ -77,6 +78,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 #### Scheduling
 * CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538932)
 * BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
+* MobiPose: real-time multi-person pose estimation on mobile devices, SensSys20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)
+
 #### Compressing
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448625)
@@ -168,7 +171,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * SmrtFridge: IoT-based, user interaction-driven food item & quantity sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360028)
 * When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079)
 * AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)
-* Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence
+* Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430721)
+* EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388917)
+
 
 ### AIoT Systems for Communication 
 
