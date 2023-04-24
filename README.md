@@ -46,7 +46,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI)
 
-### Wireless Sensing
+### Wireless Sensing (Look at papers from Jie Xiong @ UMASS)
 * Ember: energy management of batteryless event detection sensors with deep reinforcement learning, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430734)
 * UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification, SenSys21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)
 * FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360035)
@@ -59,7 +59,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360020)
 
 
-### Under Water Sensing
+### Under Water Sensing (Look at papers from Fadel @ MIT)
 
 
 ### Multi-modal Sensing
@@ -125,7 +125,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ## Networking and Communication
 
-### Backscatter
+### Backscatter (Look at papers from Shyam @ University of Washington)
 
 ### LoRa
 * NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485928)
