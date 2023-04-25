@@ -53,14 +53,25 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * General-purpose deep tracking platform across protocols for the internet of things, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3389029)
 * milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430776)
 * RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430735)
-* Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (DLx)
+* Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (NO ML)
+* LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568525) (NO ML)
+* Experience: pushing indoor localization from laboratory to the wild, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (NO ML)
+* Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, IMWUT/UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237)
+
+
 
 
 ### Acoustic Sensing
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360020)
 * ClearBuds: wireless binaural earbuds for learning-based speech enhancement, MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538933)
-* In-body backscatter communication and localization, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565) (DLx)
+* In-body backscatter communication and localization, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565) (NO ML)
 * Hybrid Neural Networks for On-device Directional Hearing, AAAI 22 [[Paper]](https://arxiv.org/abs/2112.05893)[[Code]](https://github.com/wanganran/HybridBeam)
+* Experience: practical problems for acoustic sensing, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560527)(NO ML)
+* Enabling Contact-free Acoustic Sensing under Device Motion, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550329)(NO ML)
+* LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Sign, IMWUT/UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3517253) (NO ML)
+* HeadFi: bringing intelligence to all headphones, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448624) (NO ML)
+
+
 
 
 
@@ -130,7 +141,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ## Networking and Communication
 
-### Backscatter (Look at papers from Shyam @ University of Washington) (DLx)
+### Backscatter (Look at papers from Shyam @ University of Washington) (NO ML)
 * Wind dispersal of battery-free wireless devices, Nature 2022 [[Paper]](https://www.nature.com/articles/s41586-021-04363-9)
 * VMscatter: A Versatile MIMO Backscatter, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-liu.pdf)
 * Towards Battery-Free HD Video Streaming, NSDI 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)
@@ -142,14 +153,19 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ### LoRa
 * NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485928)
-* Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (DLx)
-* Sensor-free Soil Moisture Sensing Using LoRa Signals, MobiCom22 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534608)
+* Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (NO ML)
+* Sensor-free Soil Moisture Sensing Using LoRa Signals, MobiCom22 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534608) (NO ML) 
+* Exploring LoRa for Long-range Through-wall Sensing, IMWUT/UbiComp 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397326) (NO ML)
+* WIDESEE: Towards Wide-Area Contactless Wireless Sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360031) (NO ML)
+
 
 ### Under Water Communication
-* Underwater backscatter networking, SIGCOMM 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3341302.3342091) (DLx)
-* Underwater Messaging Using Mobile Devices, SIGCOMM 22 [[Paper]](https://underwatermessaging.cs.washington.edu/underwater_comms.pdf)[[Code]](https://github.com/uw-x/watercomms) (DLx)
-* Ultra-Wideband Underwater Backscatter via Piezoelectric Metamaterials, SIGCOMM22 [[Paper]](https://www.mit.edu/~fadel/papers/U2B-paper.pdf) (DLx)
-* Networking across boundaries: enabling wireless communication through the water-air interface, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/10.1145/3230543.3230580) (DLx)
+* Underwater backscatter networking, SIGCOMM 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3341302.3342091) (NO ML)
+* Underwater Messaging Using Mobile Devices, SIGCOMM 22 [[Paper]](https://underwatermessaging.cs.washington.edu/underwater_comms.pdf)[[Code]](https://github.com/uw-x/watercomms) (NO ML)
+* Ultra-Wideband Underwater Backscatter via Piezoelectric Metamaterials, SIGCOMM22 [[Paper]](https://www.mit.edu/~fadel/papers/U2B-paper.pdf) (NO ML)
+* Networking across boundaries: enabling wireless communication through the water-air interface, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/10.1145/3230543.3230580) (NO ML)
+* Shrimp: a robust underwater visible light communication system, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448616) (NO ML)
+
 
 
 ## Security and Privacy
@@ -161,6 +177,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Light Auditor: Power Measurement Can Tell Private Data Leakage through IoT Covert Channels, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568535)
 * DarkneTZ: towards model privacy at the edge using trusted execution environments MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388946)
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)
+* Sniffing Visible Light Communication Through Walls, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419187) (NO ML)
+
+
 
 
 ### Federated Learning Systems
@@ -184,8 +203,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### AIoT Systems for Healthcare and Social Good
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images, MobiSys 17
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation, SenSys 17
-* Contactless Infant Monitoring using White Noise, MobiCom 19 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/whitenoise.pdf) (DLx)
-* SmartLens : Sensing Eye Activities Using Zero-power Contact Lens, MobiCom22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532) (DLx)
+* Contactless Infant Monitoring using White Noise, MobiCom 19 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/whitenoise.pdf) (NO ML)
+* SmartLens : Sensing Eye Activities Using Zero-power Contact Lens, MobiCom22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532) (NO ML)
+* Your Smart Speaker Can “Hear” Your Heartbeat!, IMWUT/UbiComp 21 [[Paper]](https://dl.acm.org/doi/10.1145/3432237) (NO ML)
 
 ### AIoT Systems for Video Analytics 
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications [[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)
@@ -198,4 +218,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 
 ### AIoT Systems for Communication 
+
+
+
+
 
