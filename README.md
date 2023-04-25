@@ -143,6 +143,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### LoRa
 * NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485928)
 * Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (DLx)
+* Sensor-free Soil Moisture Sensing Using LoRa Signals, MobiCom22 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534608)
 
 ### Under Water Communication
 * Underwater backscatter networking, SIGCOMM 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3341302.3342091) (DLx)
