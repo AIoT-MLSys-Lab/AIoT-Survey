@@ -53,10 +53,15 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * General-purpose deep tracking platform across protocols for the internet of things, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3389029)
 * milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430776)
 * RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430735)
+* Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (DLx)
 
 
 ### Acoustic Sensing
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360020)
+* ClearBuds: wireless binaural earbuds for learning-based speech enhancement, MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538933)
+* In-body backscatter communication and localization, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565) (DLx)
+* Hybrid Neural Networks for On-device Directional Hearing, AAAI 22 [[Paper]](https://arxiv.org/abs/2112.05893)[[Code]](https://github.com/wanganran/HybridBeam)
+
 
 
 ### Under Water Sensing (Look at papers from Fadel @ MIT)
@@ -125,12 +130,25 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ## Networking and Communication
 
-### Backscatter (Look at papers from Shyam @ University of Washington)
+### Backscatter (Look at papers from Shyam @ University of Washington) (DLx)
+* Wind dispersal of battery-free wireless devices, Nature 2022 [[Paper]](https://www.nature.com/articles/s41586-021-04363-9)
+* VMscatter: A Versatile MIMO Backscatter, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-liu.pdf)
+* Towards Battery-Free HD Video Streaming, NSDI 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)
+* Charging a Smartphone Across a Room Using Lasers, UbiComp 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/laserpower.pdf)
+* LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf)
+* Battery-Free Cellphone, UbiComp 17[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/phone.pdf)
+
+
 
 ### LoRa
 * NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485928)
+* Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (DLx)
 
 ### Under Water Communication
+* Underwater backscatter networking, SIGCOMM 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3341302.3342091) (DLx)
+* Underwater Messaging Using Mobile Devices, SIGCOMM 22 [[Paper]](https://underwatermessaging.cs.washington.edu/underwater_comms.pdf)[[Code]](https://github.com/uw-x/watercomms) (DLx)
+* Ultra-Wideband Underwater Backscatter via Piezoelectric Metamaterials, SIGCOMM22 [[Paper]](https://www.mit.edu/~fadel/papers/U2B-paper.pdf) (DLx)
+* Networking across boundaries: enabling wireless communication through the water-air interface, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/10.1145/3230543.3230580) (DLx)
 
 
 ## Security and Privacy
@@ -165,6 +183,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### AIoT Systems for Healthcare and Social Good
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images, MobiSys 17
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation, SenSys 17
+* Contactless Infant Monitoring using White Noise, MobiCom 19 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/whitenoise.pdf) (DLx)
+* SmartLens : Sensing Eye Activities Using Zero-power Contact Lens, MobiCom22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532) (DLx)
 
 ### AIoT Systems for Video Analytics 
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications [[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)
@@ -173,6 +193,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)
 * Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430721)
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388917)
+* NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)
 
 
 ### AIoT Systems for Communication 
