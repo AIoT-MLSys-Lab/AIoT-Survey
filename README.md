@@ -56,7 +56,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (NO ML)
 * LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568525) (NO ML)
 * Experience: pushing indoor localization from laboratory to the wild, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (NO ML)
-* Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, IMWUT/UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237)
+* Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, IMWUT/UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
+* Exploring Multiple Antennas for Long-range WiFi Sensing, IMWUT/UniComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
+* LTE-based Pervasive Sensing Across Indoor and Outdoor, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943) (NO ML)
+
 
 
 
