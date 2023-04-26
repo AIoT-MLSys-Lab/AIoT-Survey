@@ -83,6 +83,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ### Multi-modal Sensing
 * Low-latency speculative inference on distributed multi-modal data streams, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467884)
+* Indoor localization via multi-modal sensing on smartphones, UbiComp 16 [[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)
+
 
 ### Vision Sensing
 * Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)
@@ -98,17 +100,16 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538932)
 * BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
 * MobiPose: real-time multi-person pose estimation on mobile devices, SensSys20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)
-
-#### Compressing
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448625)
+
+#### DNN Compressing
 * Fast and scalable in-memory deep multitask learning via neural weight virtualization, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)
 * ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304076)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 2021 [[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)
-* Characterising the Role of Pre-Processing Parameters in Audio-based Embedded Machine Learning, SenSys21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3493448)
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210337)
 * RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938) 
@@ -144,13 +145,13 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ## Networking and Communication
 
-### Backscatter (Look at papers from Shyam @ University of Washington) (NO ML)
-* Wind dispersal of battery-free wireless devices, Nature 2022 [[Paper]](https://www.nature.com/articles/s41586-021-04363-9)
-* VMscatter: A Versatile MIMO Backscatter, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-liu.pdf)
-* Towards Battery-Free HD Video Streaming, NSDI 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)
-* Charging a Smartphone Across a Room Using Lasers, UbiComp 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/laserpower.pdf)
-* LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf)
-* Battery-Free Cellphone, UbiComp 17[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/phone.pdf)
+### Backscatter (Look at papers from Shyam @ University of Washington) 
+* Wind dispersal of battery-free wireless devices, Nature 2022 [[Paper]](https://www.nature.com/articles/s41586-021-04363-9) (NO ML)
+* VMscatter: A Versatile MIMO Backscatter, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-liu.pdf) (NO ML)
+* Towards Battery-Free HD Video Streaming, NSDI 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf) (NO ML)
+* Charging a Smartphone Across a Room Using Lasers, UbiComp 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/laserpower.pdf) (NO ML)
+* LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf) (NO ML)
+* Battery-Free Cellphone, UbiComp 17[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/phone.pdf) (NO ML)
 
 
 
@@ -176,8 +177,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### Security of AIoT
 * Client-optimized algorithms and acceleration for encrypted compute offloading, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)
 * Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX, MObiCom 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345447)
-* Large-scale Urban IoT Activity Data for DDoS Attack Emulation, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3493695)
-* Light Auditor: Power Measurement Can Tell Private Data Leakage through IoT Covert Channels, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568535)
+* Light Auditor: Power Measurement Can Tell Private Data Leakage through IoT Covert Channels, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568535) 
 * DarkneTZ: towards model privacy at the edge using trusted execution environments MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388946)
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)
 * Sniffing Visible Light Communication Through Walls, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419187) (NO ML)
