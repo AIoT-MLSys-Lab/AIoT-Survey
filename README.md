@@ -59,8 +59,16 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, IMWUT/UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
 * Exploring Multiple Antennas for Long-range WiFi Sensing, IMWUT/UniComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
 * LTE-based Pervasive Sensing Across Indoor and Outdoor, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943) (NO ML)
-
-
+* RF-URL: unsupervised representation learning for RF sensing, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560529)
+* Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding, MobiCom 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241547) (NO ML) 
+* Augmenting Augmented Reality with Non-Line-of-Sight Perception, NSDI 23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki) (NO ML)
+* Cross-Frequency Communication: Near-Field Identification of UHF RFIDs with WiFi!, MobiCom 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241569)
+* See through smoke: robust indoor mapping with low-cost mmWave radar, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388945)
+* TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain, MobiSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677) (NO ML) 
+* M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568545)
+* Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)
+* On the Feasibility of Wi-Fi Based Material Sensing, MobiCom 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345442)(NO ML)
+* Empowering smart buildings with self-sensing concrete for structural health monitoring, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270) (NO ML)
 
 
 
@@ -73,17 +81,36 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Enabling Contact-free Acoustic Sensing under Device Motion, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550329)(NO ML)
 * LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Sign, IMWUT/UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3517253) (NO ML)
 * HeadFi: bringing intelligence to all headphones, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448624) (NO ML)
-
-
+* MAVL: Multiresolution Analysis of Voice Localization, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf) (NO ML)
+* SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568534)
+* SPiDR: ultra-low-power acoustic spatial sensing for micro-robot navigation, MobiSys 22  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539775) (NO ML)
+* Owlet: enabling spatial information in ubiquitous acoustic devices, MobiSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467880)
+* Acoustic Sensing and Communication Using Metasurface, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf)
+* SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568530)
 
 
 
 ### Under Water Sensing (Look at papers from Fadel @ MIT)
+Sunflower: locating underwater robots from the air, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
+
 
 
 ### Multi-modal Sensing
 * Low-latency speculative inference on distributed multi-modal data streams, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467884)
 * Indoor localization via multi-modal sensing on smartphones, UbiComp 16 [[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)
+* EngageMon: Multi-Modal Engagement Sensing for Mobile Games, UniComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745) (NO ML)
+* mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483263)
+* UltraSE: single-channel speech enhancement using ultrasound, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448626)
+* RFID and camera fusion for recognition of human-object interactions, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483244)
+* Cosmo: contrastive fusion learning with small data for multimodal human activity recognition, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560519)
+* Personalizing head related transfer functions for earables, SIGCOMM 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472907)
+* VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic Signals, MobiCom 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241568) (NO ML) 
+* CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services, MobiSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210320) (NO ML) 
+* Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485945)
+* SenseHAR: a robust virtual activity sensor for smartphones and wearables, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360032)
+* Capricorn: Towards Real-Time Rich Scene Analysis Using RF-Vision Sensor Fusion, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568504)
+* A closer look at quality-aware runtime assessment of sensing models in multi-device environments, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360043)
+* Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)
 
 
 ### Vision Sensing
@@ -91,6 +118,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision, MobiCom 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)
 * Approximate query service on autonomous IoT cameras, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * Starfish: resilient image compression for AIoT cameras,SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769) 
+* Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326092)
+
 
 
 ## Computing
@@ -102,6 +131,11 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * MobiPose: real-time multi-person pose estimation on mobile devices, SensSys20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448625)
+* Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)
+* μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)
+* BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568520)
+
+
 
 #### DNN Compressing
 * Fast and scalable in-memory deep multitask learning via neural weight virtualization, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)
@@ -111,6 +145,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 2021 [[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)
+* nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467882)
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210337)
 * RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938) 
 * PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378534)
@@ -129,13 +164,18 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 
 
-
-
 ### Offloading
 * CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215) 
 * Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448628)
 * Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)
 * Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
+* FoggyCache: Cross-Device Approximate Computation Reuse, MobiCom 18, [[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241557)
+* InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517016)
+* Neuro.ZERO: a zero-energy neural network accelerator for embedded sensing and inference systems, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360030)
+* Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568511)
+
+
+
 
 ### Automated Machine Learning
 
@@ -152,6 +192,12 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Charging a Smartphone Across a Room Using Lasers, UbiComp 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/laserpower.pdf) (NO ML)
 * LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf) (NO ML)
 * Battery-Free Cellphone, UbiComp 17[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/phone.pdf) (NO ML)
+* OmniScatter: extreme sensitivity mmWave backscattering using commodity FMCW radar, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538924) (NO ML)
+* Towards scalable backscatter sensor mesh with decodable relay and distributed excitation, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388942) (NO ML)
+* Content-agnostic backscatter from thin air, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538930) (NO ML)
+* Low-Latency Visible Light Backscatter Networking with RetroMUMIMO, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568507) (NO ML)
+* Microphone array backscatter: an application-driven design for lightweight spatial sound recording over the air, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483265) (NO ML)
+* Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419216) (NO ML)
 
 
 
@@ -161,14 +207,20 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Sensor-free Soil Moisture Sensing Using LoRa Signals, MobiCom22 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534608) (NO ML) 
 * Exploring LoRa for Long-range Through-wall Sensing, IMWUT/UbiComp 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397326) (NO ML)
 * WIDESEE: Towards Wide-Area Contactless Wireless Sensing, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360031) (NO ML)
+* HyLink: Towards High Throughput LPWANs with LoRa Compatible Communication, SenSys 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/HyLink-SenSys22.pdf) (NO ML)
+* LAVA: fine-grained 3D indoor wireless coverage for small IoT devices, SIGCOMM 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472890) (NO ML)
+* Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf) (NO ML)
+
 
 
 ### Under Water Communication
 * Underwater backscatter networking, SIGCOMM 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3341302.3342091) (NO ML)
-* Underwater Messaging Using Mobile Devices, SIGCOMM 22 [[Paper]](https://underwatermessaging.cs.washington.edu/underwater_comms.pdf)[[Code]](https://github.com/uw-x/watercomms) (NO ML)
+* Underwater Messaging Using Mobile Devices, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544258)[[Code]](https://github.com/uw-x/watercomms) (NO ML)
 * Ultra-Wideband Underwater Backscatter via Piezoelectric Metamaterials, SIGCOMM22 [[Paper]](https://www.mit.edu/~fadel/papers/U2B-paper.pdf) (NO ML)
 * Networking across boundaries: enabling wireless communication through the water-air interface, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/10.1145/3230543.3230580) (NO ML)
 * Shrimp: a robust underwater visible light communication system, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448616) (NO ML)
+* U-star: an underwater navigation system based on passive 3D optical identification tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517019)
+
 
 
 
@@ -181,6 +233,14 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * DarkneTZ: towards model privacy at the edge using trusted execution environments MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388946)
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)
 * Sniffing Visible Light Communication Through Walls, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419187) (NO ML)
+* Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear, MobiSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210344) (NO ML)
+* FastZIP: faster and more secure zero-interaction pairing, MobiSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467883) (NO ML)
+* HideSeeker: Uncover the Hidden Gems in Obfuscated Images, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568514)
+* G2Auth: secure mutual authentication for drone delivery without special user-side hardware, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538941) (NO ML)
+
+
+
+
 
 
 
@@ -209,6 +269,12 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Contactless Infant Monitoring using White Noise, MobiCom 19 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/whitenoise.pdf) (NO ML)
 * SmartLens : Sensing Eye Activities Using Zero-power Contact Lens, MobiCom22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532) (NO ML)
 * Your Smart Speaker Can “Hear” Your Heartbeat!, IMWUT/UbiComp 21 [[Paper]](https://dl.acm.org/doi/10.1145/3432237) (NO ML)
+* PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3380889)
+* U-Verse: a miniaturized platform for end-to-end closed-loop implantable internet of medical things systems, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360026) (NO ML)
+* Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437)
+
+
+
 
 ### AIoT Systems for Video Analytics 
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications [[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)
@@ -218,6 +284,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430721)
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388917)
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)
+* FollowUpAR: enabling follow-up effects in mobile AR applications,  MobiSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467675)
+* Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210323) (NO ML) 
+
+
 
 
 ### AIoT Systems for Communication 
