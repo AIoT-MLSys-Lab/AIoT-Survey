@@ -91,7 +91,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 
 ### Under Water Sensing (Look at papers from Fadel @ MIT)
-Sunflower: locating underwater robots from the air, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
+* Sunflower: locating underwater robots from the air, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
 
 
 
