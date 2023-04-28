@@ -134,6 +134,13 @@ Sunflower: locating underwater robots from the air, MobiSys 22 [[Paper]](https:/
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)
 * BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568520)
+* ARK: GPU-driven Code Execution for Distributed Deep Learning, NSDI 23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/hwang)
+* ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for on-Device Machine Learning in IoT Systems, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568296)
+* VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)
+
+
+
+
 
 
 
@@ -152,6 +159,8 @@ Sunflower: locating underwater robots from the air, MobiSys 22 [[Paper]](https:/
 * Memory-Efficient Domain Incremental Learning for Internet of Things, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436) 
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430716)
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485937) 
+* SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)
+
 
 
 ### On-Device Training Evaluation
@@ -173,15 +182,29 @@ Sunflower: locating underwater robots from the air, MobiSys 22 [[Paper]](https:/
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517016)
 * Neuro.ZERO: a zero-energy neural network accelerator for embedded sensing and inference systems, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360030)
 * Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568511)
+* Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/lv)
+
 
 
 
 
 ### Automated Machine Learning
-
+* 
 
 ### Compiler for Deep Learning
+* TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)
+* Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf)
+* Janus: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-jeong.pdf)
+* Romou: rapidly generate high-performance tensor kernels for mobile GPUs, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517020)
+* ROLLER: Fast and Efficient Tensor Compilation for Deep Learning, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/zhu)
+* Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks, OSDI 20 [[Paper]] (https://www.usenix.org/system/files/osdi20-ma.pdf)
+* Ansor: Generating High-Performance Tensor Programs for Deep Learning, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)
+* TASO: optimizing deep learning computation with automatic generation of graph substitutions, SOSP 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3341301.3359630)
 * 
+
+
+
+
 
 
 
@@ -222,6 +245,8 @@ Sunflower: locating underwater robots from the air, MobiSys 22 [[Paper]](https:/
 * Networking across boundaries: enabling wireless communication through the water-air interface, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/10.1145/3230543.3230580) (NO ML)
 * Shrimp: a robust underwater visible light communication system, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448616) (NO ML)
 * U-star: an underwater navigation system based on passive 3D optical identification tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517019)
+* AmphiLight: Direct Air-Water Communication with Laser Light, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/carver)
+
 
 
 
