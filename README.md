@@ -18,29 +18,34 @@ Each week, focus on Writing one sub-topic.
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
 
 ## Table of Contents
-* [Sensing](#sensing)
-  * [Wireless Sensing](#wireless-sensing)
-  * [Acoustic Sensing](#acoustic-sensing)
-  * [Under Water Sensing](#under-water-sensing)
-  * [Multi-modal Sensing](#multimodal-sensing)
-  * [Vision Sensing](#vision-sensing)
-* [Computing](#computing)
-  * [On-Device Inferences](#on-device-Inferences)
-  * [On-Device Training Evaluation](#on-device-training-evaluation)
-  * [Offloading](#offloading)
-  * [Automated Machine Learning](#automated-machine-learning)
-  * [Compiler for Deep Learning](#compiler-for-deep-learning)
-* [Networking and Communication](#networking-and-communication)
-  * [Backscatter](#backscatter)
-  * [LoRa](#lora)
-  * [Under Water Communication](#under-water-communication)
-* [Security and Privacy](#security-and-privacy)
-  * [Security of AIoT](#security-of-aiot)
-  * [Federated Learning](#federated-learning)
-* [AIoT Systems and their Applications](#building-aiot-systems)
-  * [AIoT Systems for Healthcare](#aiot-for-healthcare-systems)
-  * [AIoT Systems for Video Analytics](#aiot-for-video-analytics-systems)
-  * [AIoT Systems for Communication](#aiot-for-communication-systems) 
+- [A collection of survey, research papers, benchmarks, open-source resources, and seminars of AIoT (Artificial Intelligence of Things)](#a-collection-of-survey-research-papers-benchmarks-open-source-resources-and-seminars-of-aiot-artificial-intelligence-of-things)
+  - [What is AIoT?](#what-is-aiot)
+  - [Table of Contents](#table-of-contents)
+  - [Sensing (MobiCom, MobiSys, SenSys, NSDI)](#sensing-mobicom-mobisys-sensys-nsdi)
+    - [Wireless Sensing (Look at papers from Jie Xiong @ UMASS)](#wireless-sensing-look-at-papers-from-jie-xiong--umass)
+    - [Acoustic Sensing](#acoustic-sensing)
+    - [Under Water Sensing (Look at papers from Fadel @ MIT)](#under-water-sensing-look-at-papers-from-fadel--mit)
+    - [Multi-modal Sensing](#multi-modal-sensing)
+    - [Vision Sensing](#vision-sensing)
+  - [Computing](#computing)
+    - [On-Device Inferences](#on-device-inferences)
+      - [Scheduling](#scheduling)
+      - [DNN Compressing](#dnn-compressing)
+    - [On-Device Training Evaluation](#on-device-training-evaluation)
+    - [Offloading](#offloading)
+    - [Automated Machine Learning](#automated-machine-learning)
+    - [Compiler for Deep Learning](#compiler-for-deep-learning)
+  - [Networking and Communication](#networking-and-communication)
+    - [Backscatter (Look at papers from Shyam @ University of Washington)](#backscatter-look-at-papers-from-shyam--university-of-washington)
+    - [LoRa](#lora)
+    - [Under Water Communication](#under-water-communication)
+  - [Security and Privacy](#security-and-privacy)
+    - [Security of AIoT](#security-of-aiot)
+    - [Federated Learning Systems](#federated-learning-systems)
+  - [AIoT Systems and their Applications](#aiot-systems-and-their-applications)
+    - [AIoT Systems for Healthcare and Social Good](#aiot-systems-for-healthcare-and-social-good)
+    - [AIoT Systems for Video Analytics](#aiot-systems-for-video-analytics)
+    - [AIoT Systems for Communication](#aiot-systems-for-communication)
 
 
 
@@ -137,6 +142,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * ARK: GPU-driven Code Execution for Distributed Deep Learning, NSDI 23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/hwang)
 * ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for on-Device Machine Learning in IoT Systems, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568296)
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)
+* Efficient Deep Learning Inference on Edge Devices, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/29.pdf)
+
 
 
 
@@ -160,6 +167,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430716)
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485937) 
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)
+* DeepThin: A Self-Compressing Library for Deep Neural Networks, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/33.pdf)
 
 
 
@@ -189,7 +197,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 
 ### Automated Machine Learning
-* 
+* Slice Finder: Automated Data Slicing for Model Interpretability, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/8.pdf)
+* Declarative Metadata Management: A Missing Piece in End-To-End Machine Learning, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/23.pdf)
 
 ### Compiler for Deep Learning
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)
@@ -200,10 +209,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks, OSDI 20 [[Paper]] (https://www.usenix.org/system/files/osdi20-ma.pdf)
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)
 * TASO: optimizing deep learning computation with automatic generation of graph substitutions, SOSP 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3341301.3359630)
-* 
-
-
-
+* A SIMD-MIMD Acceleration with Access-Execute Decoupling for Generative Adversarial Networks, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/4.pdf)
+* Speeding up ImageNet Training on Supercomputers, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/10.pdf)
+* Parameter Hub: High Performance Parameter Servers for Efficient Distributed Deep Neural Network Training, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/16.pdf)
+* Stitch-X: An Accelerator Architecture for Exploiting Unstructured Sparsity in Deep Neural Networks, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/17.pdf)
 
 
 
@@ -313,8 +322,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)
 * FollowUpAR: enabling follow-up effects in mobile AR applications,  MobiSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467675)
 * Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210323) (NO ML) 
-
-
+* Massively Parallel Video Networks, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/20.pdf)
+* EVA: An Efficient System for Exploratory Video Analysis, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/22.pdf)
 
 
 ### AIoT Systems for Communication 
