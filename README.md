@@ -143,6 +143,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for on-Device Machine Learning in IoT Systems, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568296)
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)
 * Efficient Deep Learning Inference on Edge Devices, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/29.pdf)
+* IOS: Inter-Operator Scheduler for CNN Acceleration, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)
 
 
 
@@ -168,6 +169,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485937) 
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)
 * DeepThin: A Self-Compressing Library for Deep Neural Networks, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/33.pdf)
+* PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-Time Execution on Mobile Devices, AAAI 20 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5954)
 
 
 
@@ -199,6 +201,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### Automated Machine Learning
 * Slice Finder: Automated Data Slicing for Model Interpretability, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/8.pdf)
 * Declarative Metadata Management: A Missing Piece in End-To-End Machine Learning, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/23.pdf)
+#### NAS
+* MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers, MLSys 21, [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)
+* MCUNet: Tiny Deep Learning on IoT Devices, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)
+
 
 ### Compiler for Deep Learning
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)
@@ -213,6 +219,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Speeding up ImageNet Training on Supercomputers, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/10.pdf)
 * Parameter Hub: High Performance Parameter Servers for Efficient Distributed Deep Neural Network Training, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/16.pdf)
 * Stitch-X: An Accelerator Architecture for Exploiting Unstructured Sparsity in Deep Neural Networks, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/17.pdf)
+* A Deep Learning Based Cost Model for Automatic Code Optimization, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/3def184ad8f4755ff269862ea77393dd-Abstract.html)
+* FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378508)
+* TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)
 
 
 
@@ -324,6 +333,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210323) (NO ML) 
 * Massively Parallel Video Networks, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/20.pdf)
 * EVA: An Efficient System for Exploratory Video Analysis, SysML 2018 [[Paper]](https://mlsys.org/Conferences/doc/2018/22.pdf)
+* TSM: Temporal Shift Module for Efficient Video Understanding, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)
 
 
 ### AIoT Systems for Communication 
