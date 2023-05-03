@@ -58,7 +58,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Exploring Multiple Antennas for Long-range WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO	ML)
 * Mobi2Sense: Empowering Wireless Sensing with Mobility	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518)	(NO	ML)
 * Experience: pushing indoor localization from laboratory to the wild	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546)	(NO	ML)
-* RF-URL: unsupervised representation learning for RF sensing	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560529)		
+* RF-URL: unsupervised representation learning for RF sensing	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560529)	
 * Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)		
 * LTE-Based Low-Cost and Low-Power Soil Moisture Sensing	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568525)	(NO	ML)
 * M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568545)		
@@ -67,7 +67,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * LTE-based Pervasive Sensing Across Indoor and Outdoor	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)	(NO	ML)
 * UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)	
 * Towards Position-Independent Sensing for Gesture Recognition with Wi-Fi, UbiComp 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3463504)
-	
 * General-purpose deep tracking platform across protocols for the internet of things	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3389029)		
 * See through smoke: robust indoor mapping with low-cost mmWave radar	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388945)		
 * Ember: energy management of batteryless event detection sensors with deep reinforcement learning	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430734)		
