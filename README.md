@@ -151,6 +151,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for on-Device Machine Learning in IoT Systems	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568296)			
 * IOS: Inter-Operator Scheduler for CNN Acceleration	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)			
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs	,	MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448625)			
+* MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization	,	EuroSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)			
 * TicTac: Accelerating Distributed Deep Learning with Communication Scheduling	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/index.html#schedule)			
 * Efficient Deep Learning Inference on Edge Devices	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/29.pdf)			
@@ -174,6 +175,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-Time Execution on Mobile Devices	,	AAAI	20	[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5954)			
 * PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning	,	ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378534)			
 * Fast and scalable in-memory deep multitask learning via neural weight virtualization	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)			
+* Memory-Driven Mixed Low Precision Quantization for Enabling Deep Network Inference on Microcontrollers, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9b8619251a19057cff70779273e95aa6-Paper.pdf)
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430716)			
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
 * ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304076)			
@@ -193,6 +195,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning	,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)			
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
 * A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)			
+* Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)
 							
 							
 							
@@ -215,7 +218,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 #### NAS							
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
-* MCUNet: Tiny Deep Learning on IoT Devices	,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)			
+* Searching for Winograd-aware Quantized Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/45c48cce2e2d7fbdea1afc51c7c6ad26-Paper.pdf)
+* SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
+* MCUNet: Tiny Deep Learning on IoT Devices	,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)		
+
 							
 							
 ### Compiler for ML Systems							
@@ -224,6 +230,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * A Deep Learning Based Cost Model for Automatic Code Optimization	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/3def184ad8f4755ff269862ea77393dd-Abstract.html)			
 * TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)			
 * FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System	,	ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378508)			
+* Ordering Chaos: Memory-Aware Scheduling of Irregularly Wired Neural Networks for Edge Devices, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9bf31c7ff062936a96d3c8bd1f8f2ff3-Paper.pdf)
 * Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis	,	NSDI	20	[[Paper]](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf)			
 * Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks	,	OSDI	20	[[Paper]]	(https://www.usenix.org/system/files/osdi20-ma.pdf)		
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)			
@@ -283,6 +290,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * FastZIP: faster and more secure zero-interaction pairing	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467883)	(NO	ML)	
 * Sniffing Visible Light Communication Through Walls,		MobiCom	20	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419187)	(NO	ML)	
 * DarkneTZ: towards model privacy at the edge using trusted execution environments ,		MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388946)			
+* Privacy-Preserving Bandits, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/42a0e188f5033bc65bf8d78622277c4e-Paper.pdf)
 * Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX,		MObiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345447)			
 * Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear,		MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210344)	(NO	ML)	
 							
