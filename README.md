@@ -46,7 +46,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
   - [AIoT Systems and their Applications](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Social Good](#aiot-systems-for-healthcare-and-social-good)
     - [AIoT Systems for Video Analytics](#aiot-systems-for-video-analytics)
-    - [AIoT Systems for Communication](#aiot-systems-for-communication)
+    - [AIoT Systems for Agriculture](#aiot-systems-for-agriculture)
 
 
 
@@ -326,7 +326,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Dynamic Stem-Sharing for Multi-Tenant Video Processing, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/149.pdf)
 * Scaling Video Analytics on Constrained Edge Nodes, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf)
 
-
+### AIoT Systems for Agriculture 
 
 
 
