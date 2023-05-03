@@ -194,7 +194,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Neuro.ZERO: a zero-energy neural network accelerator for embedded sensing and inference systems, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360030)
 * Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568511)
 * Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/lv)
-
+* Distributed Placement of Machine Learning Operators for IoT applications spanning Edge and Cloud Resources, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/204.pdf)
 
 
 
@@ -202,6 +202,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### Automated Machine Learning
 * Slice Finder: Automated Data Slicing for Model Interpretability, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/8.pdf)
 * Declarative Metadata Management: A Missing Piece in End-To-End Machine Learning, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/23.pdf)
+
 #### NAS
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers, MLSys 21, [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)
 * MCUNet: Tiny Deep Learning on IoT Devices, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)
@@ -216,13 +217,11 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks, OSDI 20 [[Paper]] (https://www.usenix.org/system/files/osdi20-ma.pdf)
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)
 * TASO: optimizing deep learning computation with automatic generation of graph substitutions, SOSP 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3341301.3359630)
-* A SIMD-MIMD Acceleration with Access-Execute Decoupling for Generative Adversarial Networks, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/4.pdf)
-* Speeding up ImageNet Training on Supercomputers, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/10.pdf)
-* Parameter Hub: High Performance Parameter Servers for Efficient Distributed Deep Neural Network Training, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/16.pdf)
-* Stitch-X: An Accelerator Architecture for Exploiting Unstructured Sparsity in Deep Neural Networks, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/17.pdf)
 * A Deep Learning Based Cost Model for Automatic Code Optimization, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/3def184ad8f4755ff269862ea77393dd-Abstract.html)
 * FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378508)
 * TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)
+* Intel® nGraph™ An Intermediate Representation, Compiler, and Executor for Deep Learning, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/132.pdf)
+* Compiling machine learning programs via high-level tracing, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/146.pdf)
 
 
 
@@ -303,6 +302,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485929)
 * Oort: Efficient Federated Learning via Guided Participant Selection, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-lai.pdf)
 * Billion-scale federated learning on mobile clients: a submodel design with tunable privacy, MobiCom 20 [[Paper]](https://dl.acm.org/doi/10.1145/3372224.3419188)
+* Federated Kernelized Multi-Task Learning, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/30.pdf)
 
 
 
@@ -332,9 +332,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)
 * FollowUpAR: enabling follow-up effects in mobile AR applications,  MobiSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467675)
 * Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210323) (NO ML) 
-* Massively Parallel Video Networks, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/20.pdf)
 * EVA: An Efficient System for Exploratory Video Analysis, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/22.pdf)
 * TSM: Temporal Shift Module for Efficient Video Understanding, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)
+* Efficient Multi-Tenant Inference on Video using Microclassifiers, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/133.pdf)
+* Dynamic Stem-Sharing for Multi-Tenant Video Processing, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/149.pdf)
 
 
 ### AIoT Systems for Communication 
