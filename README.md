@@ -74,9 +74,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * On the Feasibility of Wi-Fi Based Material Sensing	,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345442)(NO	ML)	
 * FaHo: deep learning enhanced holographic localization for RFID tags	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360035)		
 * Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241547)	(NO	ML)
-* Cross-Frequency Communication: Near-Field Identification of UHF RFIDs with WiFi!	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241569)		![image](https://user-images.githubusercontent.com/48382328/236002214-a7085cff-6969-444c-8f48-45a421397474.png)
-
-
+* Cross-Frequency Communication: Near-Field Identification of UHF RFIDs with WiFi!	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241569)		
 
 
 
