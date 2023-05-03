@@ -35,7 +35,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
     - [Offloading](#offloading)
     - [Automated Machine Learning](#automated-machine-learning)
       - [NAS](#nas)
-    - [Compiler for ML Systems](#compiler-for-ml-systems)
+    - [Compiler for Deep Learning](#compiler-for-deep-learning)
   - [Networking and Communication](#networking-and-communication)
     - [Backscatter (Look at papers from Shyam @ University of Washington)](#backscatter-look-at-papers-from-shyam--university-of-washington)
     - [LoRa](#lora)
@@ -65,11 +65,14 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Empowering smart buildings with self-sensing concrete for structural health monitoring	,	SIGCOMM	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270)	(NO	ML)
 * TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO	ML)
 * LTE-based Pervasive Sensing Across Indoor and Outdoor	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)	(NO	ML)
-* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)		
+* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)	
+* Towards Position-Independent Sensing for Gesture Recognition with Wi-Fi, UbiComp 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3463504)
+	
 * General-purpose deep tracking platform across protocols for the internet of things	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3389029)		
 * See through smoke: robust indoor mapping with low-cost mmWave radar	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388945)		
 * Ember: energy management of batteryless event detection sensors with deep reinforcement learning	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430734)		
 * milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430776)		
+* Wi-fi see it all: generative adversarial network-augmented versatile wi-fi imaging, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430725)
 * RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430735)		
 * On the Feasibility of Wi-Fi Based Material Sensing	,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345442)(NO	ML)	
 * FaHo: deep learning enhanced holographic localization for RFID tags	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360035)		
@@ -180,7 +183,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Full deep neural network training on a pruned weight budget	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)			
 * Accurate and Efficient 2-bit Quantized Neural Networks	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/168.pdf)			
 * Ternary Hybrid Neural-Tree Networks for Highly Constrained IoT Applications	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/107.pdf)			
-* DeepThin: A Self-Compressing Library for Deep Neural Networks	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/33.pdf)			
+* DeepThin: A Self-Compressing Library for Deep Neural Networks	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/33.pdf)
+* NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241559)			
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework	,	MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210337)			
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices	,	SenSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)			
 							
@@ -212,10 +216,15 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 ### Automated Machine Learning							
-
+* Slice Finder: Automated Data Slicing for Model Interpretability	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/8.pdf)			
+* Declarative Metadata Management: A Missing Piece in End-To-End Machine Learning	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/23.pdf)			
+							
 #### NAS							
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
-* MCUNet: Tiny Deep Learning on IoT Devices	,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)			
+* MCUNet: Tiny Deep Learning on IoT Devices	,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)
+* Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
+* HM-NAS: Efficient Neural Architecture Search via Hierarchical Masking, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/NeurArch/Yan_HM-NAS_Efficient_Neural_Architecture_Search_via_Hierarchical_Masking_ICCVW_2019_paper.html)
+		
 							
 							
 ### Compiler for ML Systems							
@@ -279,15 +288,17 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)			
 * G2Auth: secure mutual authentication for drone delivery without special user-side hardware,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538941)	(NO	ML)	
 * Light Auditor: Power Measurement Can Tell Private Data Leakage through IoT Covert Channels,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568535)			
-* HideSeeker: Uncover the Hidden Gems in Obfuscated Images,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568514)			
+* HideSeeker: Uncover the Hidden Gems in Obfuscated Images,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568514)	
 * FastZIP: faster and more secure zero-interaction pairing	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467883)	(NO	ML)	
 * Sniffing Visible Light Communication Through Walls,		MobiCom	20	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419187)	(NO	ML)	
-* DarkneTZ: towards model privacy at the edge using trusted execution environments ,		MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388946)			
+* DarkneTZ: towards model privacy at the edge using trusted execution environments ,		MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388946)		
+* SecWIR: securing smart home IoT communications via wi-fi routers with embedded intelligence, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388941)
+	
 * Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX,		MObiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345447)			
 * Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear,		MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210344)	(NO	ML)	
 							
 							
-### Federated Learning Systems							
+### Federated Learning Systems			
 * PyramidFL: a fine-grained client selection framework for efficient federated learning	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)			
 * FedBalancer: data and pace control for efficient federated learning on heterogeneous clients	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538917)			
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction,		NeurIPS	22	[[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
@@ -299,7 +310,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition,		SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)			
 * FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking,		SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485929)			
 * Billion-scale federated learning on mobile clients: a submodel design with tunable privacy,		MobiCom	20	[[Paper]](https://dl.acm.org/doi/10.1145/3372224.3419188)			
-* Federated Optimization in Heterogeneous Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/38af86134b65d0f10fe33d30dd76442e-Paper.pdf)
 * Towards Federated Learning at Scale: System Design,		MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)			
 * Federated Kernelized Multi-Task Learning,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/30.pdf)			
 							
@@ -311,14 +321,18 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones	, SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437)			
 * Your Smart Speaker Can “Hear” Your Heartbeat!, IMWUT/UbiComp	21	[[Paper]](https://dl.acm.org/doi/10.1145/3432237)	(NO	ML)	
 * U-Verse: a miniaturized platform for end-to-end closed-loop implantable internet of medical things systems		SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360026)	(NO	ML)	
-* PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion,		MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3380889)			
+* PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion,		MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3380889)		
+* When Virtual Reality Meets Internet of Things in the Gym: Enabling Immersive Interactive Machine Exercises, ubiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3214281)	
 * Contactless Infant Monitoring using White Noise,		MobiCom	19	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/whitenoise.pdf)	(NO	ML)	
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images,		MobiSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081336)			
-* DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,		SenSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693)			
+* DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,		SenSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693)
+
+			
 							
 							
 ### AIoT Systems for Video Analytics 							
-* NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)			
+* NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
+* Multiview Transformers for Video Recognition, CVPR 22 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Multiview_Transformers_for_Video_Recognition_CVPR_2022_paper.html)		
 * AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles,		SenSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)			
 * FollowUpAR: enabling follow-up effects in mobile AR applications,		MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467675)			
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices,		MobiSys	20	[[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388917)			
