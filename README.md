@@ -145,6 +145,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)
 * Efficient Deep Learning Inference on Edge Devices, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/29.pdf)
 * IOS: Inter-Operator Scheduler for CNN Acceleration, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)
+* TicTac: Accelerating Distributed Deep Learning with Communication Scheduling, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/index.html#schedule)
 
 
 
@@ -171,6 +172,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)
 * DeepThin: A Self-Compressing Library for Deep Neural Networks, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/33.pdf)
 * PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-Time Execution on Mobile Devices, AAAI 20 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5954)
+* Full deep neural network training on a pruned weight budget, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)
+* Accurate and Efficient 2-bit Quantized Neural Networks, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/168.pdf)
+* Ternary Hybrid Neural-Tree Networks for Highly Constrained IoT Applications, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/107.pdf)
 
 
 
@@ -222,6 +226,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)
 * Intel® nGraph™ An Intermediate Representation, Compiler, and Executor for Deep Learning, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/132.pdf)
 * Compiling machine learning programs via high-level tracing, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/146.pdf)
+* Optimizing DNN Computation with Relaxed Graph Substitutions, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/22.pdf)
 
 
 
@@ -303,6 +308,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Oort: Efficient Federated Learning via Guided Participant Selection, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-lai.pdf)
 * Billion-scale federated learning on mobile clients: a submodel design with tunable privacy, MobiCom 20 [[Paper]](https://dl.acm.org/doi/10.1145/3372224.3419188)
 * Federated Kernelized Multi-Task Learning, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/30.pdf)
+* Towards Federated Learning at Scale: System Design, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)
 
 
 
@@ -336,6 +342,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * TSM: Temporal Shift Module for Efficient Video Understanding, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)
 * Efficient Multi-Tenant Inference on Video using Microclassifiers, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/133.pdf)
 * Dynamic Stem-Sharing for Multi-Tenant Video Processing, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/149.pdf)
+* Scaling Video Analytics on Constrained Edge Nodes, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf)
 
 
 ### AIoT Systems for Communication 
