@@ -53,12 +53,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI)
 
 ### Wireless Sensing (Look at papers from Jie Xiong @ UMASS)
-* Ember: energy management of batteryless event detection sensors with deep reinforcement learning, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430734)
-* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification, SenSys21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)
-* FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360035)
-* General-purpose deep tracking platform across protocols for the internet of things, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3389029)
-* milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430776)
-* RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430735)
 * Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (NO ML)
 * LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568525) (NO ML)
 * Experience: pushing indoor localization from laboratory to the wild, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (NO ML)
@@ -66,15 +60,24 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Exploring Multiple Antennas for Long-range WiFi Sensing, IMWUT/UniComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
 * LTE-based Pervasive Sensing Across Indoor and Outdoor, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943) (NO ML)
 * RF-URL: unsupervised representation learning for RF sensing, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560529)
+* M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568545)
+* Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)
+* Empowering smart buildings with self-sensing concrete for structural health monitoring, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270) (NO ML)
+
+* Ember: energy management of batteryless event detection sensors with deep reinforcement learning, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430734)
+* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification, SenSys21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)
+* FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360035)
+* General-purpose deep tracking platform across protocols for the internet of things, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3389029)
+* milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430776)
+* RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430735)
+
 * Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding, MobiCom 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241547) (NO ML) 
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception, NSDI 23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki) (NO ML)
 * Cross-Frequency Communication: Near-Field Identification of UHF RFIDs with WiFi!, MobiCom 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241569)
 * See through smoke: robust indoor mapping with low-cost mmWave radar, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388945)
 * TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain, MobiSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677) (NO ML) 
-* M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568545)
-* Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)
 * On the Feasibility of Wi-Fi Based Material Sensing, MobiCom 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345442)(NO ML)
-* Empowering smart buildings with self-sensing concrete for structural health monitoring, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270) (NO ML)
+
 
 
 
