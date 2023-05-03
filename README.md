@@ -35,7 +35,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
     - [Offloading](#offloading)
     - [Automated Machine Learning](#automated-machine-learning)
       - [NAS](#nas)
-    - [Compiler for Deep Learning](#compiler-for-deep-learning)
+    - [Compiler for ML Systems](#compiler-for-ml-systems)
   - [Networking and Communication](#networking-and-communication)
     - [Backscatter (Look at papers from Shyam @ University of Washington)](#backscatter-look-at-papers-from-shyam--university-of-washington)
     - [LoRa](#lora)
@@ -212,9 +212,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 ### Automated Machine Learning							
-* Slice Finder: Automated Data Slicing for Model Interpretability	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/8.pdf)			
-* Declarative Metadata Management: A Missing Piece in End-To-End Machine Learning	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/23.pdf)			
-							
+
 #### NAS							
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
 * MCUNet: Tiny Deep Learning on IoT Devices	,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)			
@@ -301,6 +299,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition,		SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)			
 * FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking,		SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485929)			
 * Billion-scale federated learning on mobile clients: a submodel design with tunable privacy,		MobiCom	20	[[Paper]](https://dl.acm.org/doi/10.1145/3372224.3419188)			
+* Federated Optimization in Heterogeneous Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/38af86134b65d0f10fe33d30dd76442e-Paper.pdf)
 * Towards Federated Learning at Scale: System Design,		MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)			
 * Federated Kernelized Multi-Task Learning,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/30.pdf)			
 							
