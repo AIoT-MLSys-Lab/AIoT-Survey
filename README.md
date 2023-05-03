@@ -212,7 +212,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * MCUNet: Tiny Deep Learning on IoT Devices, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)
 
 
-### Compiler for Deep Learning
+### Compiler for ML Systems
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18 [[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)
 * Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf)
 * Janus: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-jeong.pdf)
@@ -227,8 +227,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Intel® nGraph™ An Intermediate Representation, Compiler, and Executor for Deep Learning, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/132.pdf)
 * Compiling machine learning programs via high-level tracing, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/146.pdf)
 * Optimizing DNN Computation with Relaxed Graph Substitutions, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/22.pdf)
-
-
 
 
 ## Networking and Communication
@@ -248,7 +246,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419216) (NO ML)
 
 
-
 ### LoRa
 * NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485928)
 * Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (NO ML)
@@ -259,8 +256,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * LAVA: fine-grained 3D indoor wireless coverage for small IoT devices, SIGCOMM 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472890) (NO ML)
 * Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf) (NO ML)
 
-
-
 ### Under Water Communication
 * Underwater backscatter networking, SIGCOMM 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3341302.3342091) (NO ML)
 * Underwater Messaging Using Mobile Devices, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544258)[[Code]](https://github.com/uw-x/watercomms) (NO ML)
@@ -269,9 +264,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Shrimp: a robust underwater visible light communication system, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448616) (NO ML)
 * U-star: an underwater navigation system based on passive 3D optical identification tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517019)
 * AmphiLight: Direct Air-Water Communication with Laser Light, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/carver)
-
-
-
 
 
 ## Security and Privacy
@@ -287,12 +279,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * FastZIP: faster and more secure zero-interaction pairing, MobiSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467883) (NO ML)
 * HideSeeker: Uncover the Hidden Gems in Obfuscated Images, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568514)
 * G2Auth: secure mutual authentication for drone delivery without special user-side hardware, MobiSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538941) (NO ML)
-
-
-
-
-
-
 
 
 ### Federated Learning Systems
@@ -311,8 +297,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Towards Federated Learning at Scale: System Design, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)
 
 
-
-
 ## AIoT Systems and their Applications
 
 ### AIoT Systems for Healthcare and Social Good
@@ -324,8 +308,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3380889)
 * U-Verse: a miniaturized platform for end-to-end closed-loop implantable internet of medical things systems, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360026) (NO ML)
 * Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437)
-
-
 
 
 ### AIoT Systems for Video Analytics 
@@ -344,8 +326,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Dynamic Stem-Sharing for Multi-Tenant Video Processing, MLSys 18 [[Paper]](https://mlsys.org/Conferences/doc/2018/149.pdf)
 * Scaling Video Analytics on Constrained Edge Nodes, MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf)
 
-
-### AIoT Systems for Communication 
 
 
 
