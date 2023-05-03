@@ -55,7 +55,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### Wireless Sensing (Look at papers from Jie Xiong @ UMASS)
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception	,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki)	(NO	ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237)	(NO	ML)
-* Exploring Multiple Antennas for Long-range WiFi Sensing	,	IMWUT/UniComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO	ML)
+* Exploring Multiple Antennas for Long-range WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO	ML)
 * Mobi2Sense: Empowering Wireless Sensing with Mobility	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518)	(NO	ML)
 * Experience: pushing indoor localization from laboratory to the wild	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546)	(NO	ML)
 * RF-URL: unsupervised representation learning for RF sensing	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560529)		
@@ -115,7 +115,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * A closer look at quality-aware runtime assessment of sensing models in multi-device environments	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360043)			
 * VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic Signals	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241568)	(NO	ML)	
 * CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services	,	MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210320)	(NO	ML)	
-* EngageMon: Multi-Modal Engagement Sensing for Mobile Games	,	UniComp	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745)	(NO	ML)	
+* EngageMon: Multi-Modal Engagement Sensing for Mobile Games	,	UbiComp	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745)	(NO	ML)	
 * Indoor localization via multi-modal sensing on smartphones	,	UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)			
 							
 							
