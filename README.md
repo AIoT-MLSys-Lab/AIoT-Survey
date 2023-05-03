@@ -4,7 +4,7 @@ Papers selected from the following conferences:
 - mobile computing conferences (MobiCom/MobiSys/SenSys/UbiComp)
 - computer networks conferences (NSDI/SIGCOMM) 
 - operating systems conferences (OSDI/SOSP/EuroSys/ASPLOS/ATC)
-- AI conferences (MLSys, NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACL)
+- AI conferences (MLSys, NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACL, AAAI)
 
 Years: 2018 ~ Present
 
