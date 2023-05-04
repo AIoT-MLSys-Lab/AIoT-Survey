@@ -142,6 +142,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 ### On-Device Inferences							
 #### Scheduling							
+
+* CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 2023
+* Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 2023
 * MobiPose: real-time multi-person pose estimation on mobile devices	,	SensSys20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)				
 * ARK: GPU-driven Code Execution for Distributed Deep Learning	,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/hwang)			
 * GPUReplay: a 50-KB GPU stack for client ML	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)			
@@ -166,7 +169,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 #### DNN Compressing							
-* Mistify: Automating DNN Model Porting for On-Device Inference at the Edge	,	NSDI	2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)			
+* mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 2023
+* Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)			
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute	,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
