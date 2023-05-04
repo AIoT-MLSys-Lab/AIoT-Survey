@@ -168,6 +168,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 #### DNN Compressing							
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge	,	NSDI	2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)			
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)			
+* Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute	,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
 * Memory-Efficient Domain Incremental Learning for Internet of Things	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)			
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision	,	MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)			
@@ -194,7 +195,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### On-Device Training Evaluation							
 * Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)			
 * Mandheling: mixed-precision on-device DNN training with DSP offloading	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
-* Memory-efficient DNN training on mobile devices	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3539765)			
+* Memory-efficient DNN training on mobile devices	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3539765)		
+* URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
+* ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
+* MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning	,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)			
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
 * A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)			
@@ -219,7 +223,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 ### Automated Machine Learning								
 							
-#### NAS							
+#### NAS
+* Towards The Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)							
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
 * Searching for Winograd-aware Quantized Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/45c48cce2e2d7fbdea1afc51c7c6ad26-Paper.pdf)
 * SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
