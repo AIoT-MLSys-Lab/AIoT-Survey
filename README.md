@@ -250,11 +250,11 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis	,	NSDI	20	[[Paper]](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf)			
 * Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks	,	OSDI	20	[[Paper]]	(https://www.usenix.org/system/files/osdi20-ma.pdf)		
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)			
-* Optimizing DNN Computation with Relaxed Graph Substitutions	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/22.pdf)			
+* Optimizing DNN Computation with Relaxed Graph Substitutions	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/22.pdf)	
 * Janus: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs	,	NSDI	19	[[Paper]](https://www.usenix.org/system/files/nsdi19-jeong.pdf)			
 * TASO: optimizing deep learning computation with automatic generation of graph substitutions	,	SOSP	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3341301.3359630)			
 * Intel® nGraph™ An Intermediate Representation,  Compiler,  and Executor for Deep Learning	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/132.pdf)			
-* Compiling machine learning programs via high-level tracing	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/146.pdf)			
+* Compiling machine learning programs via high-level tracing	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/146.pdf)	
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning	,	OSDI	18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)			
 							
 							
@@ -266,6 +266,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * OmniScatter: extreme sensitivity mmWave backscattering using commodity FMCW radar	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538924)	(NO	ML)	
 * Content-agnostic backscatter from thin air		MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538930)	(NO	ML)	
 * Low-Latency Visible Light Backscatter Networking with RetroMUMIMO	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568507)	(NO	ML)	
+Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-katanbaf.pdf) (NO ML)
 * Microphone array backscatter: an application-driven design for lightweight spatial sound recording over the air,		MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483265)	(NO	ML)	
 * Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity	,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419216)	(NO	ML)	
 * Towards scalable backscatter sensor mesh with decodable relay and distributed excitation	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388942)	(NO	ML)	
