@@ -130,9 +130,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 ### Vision Sensing							
-* Starfish: resilient image compression for AIoT cameras	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769)			
 * Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power	,	ASPLOS	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)			
-* Approximate query service on autonomous IoT cameras	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)			
+* Approximate query service on autonomous IoT cameras	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
+* Starfish: resilient image compression for AIoT cameras	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769)	
 * Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision	,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)			
 * Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs	,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326092)			
 							
@@ -145,7 +145,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 * CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 2023
 * Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 2023
-* MobiPose: real-time multi-person pose estimation on mobile devices	,	SensSys20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)				
 * ARK: GPU-driven Code Execution for Distributed Deep Learning	,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/hwang)			
 * GPUReplay: a 50-KB GPU stack for client ML	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)			
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)			
@@ -156,6 +155,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for on-Device Machine Learning in IoT Systems	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568296)			
 * IOS: Inter-Operator Scheduler for CNN Acceleration	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)			
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs	,	MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448625)			
+* MobiPose: real-time multi-person pose estimation on mobile devices	,	SensSys20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)				
 * MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization	,	EuroSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)			
 * TicTac: Accelerating Distributed Deep Learning with Communication Scheduling	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/index.html#schedule)			
@@ -212,10 +212,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 ### Offloading							
-* Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading	,	MobiCom21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448628)				
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517016)			
 * Walle: An End-to-End,  General-Purpose,  and Large-Scale Production System for Device-Cloud Collaborative Machine Learning	,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)			
 * Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568511)			
+* Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading	,	MobiCom21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448628)				
 * CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud	,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215)			
 * Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)			
 * Neuro.ZERO: a zero-energy neural network accelerator for embedded sensing and inference systems	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360030)			
@@ -309,10 +309,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * DarkneTZ: towards model privacy at the edge using trusted execution environments,		MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388946)			
 * SecWIR: securing smart home IoT communications via wi-fi routers with embedded intelligence, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388941)
 * Privacy-Preserving Bandits, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/42a0e188f5033bc65bf8d78622277c4e-Paper.pdf)
-	
 * Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX,		MObiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345447)			
-* Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear,		MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210344)	(NO	ML)	
-							
+* Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear,		MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210344)	(NO	ML)
 							
 ### Federated Learning Systems			
 * PyramidFL: a fine-grained client selection framework for efficient federated learning	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)			
