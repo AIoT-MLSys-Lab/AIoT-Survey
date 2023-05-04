@@ -49,11 +49,13 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
     - [AIoT Systems for Agriculture](#aiot-systems-for-agriculture)
 
 
+## Others
+
 
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI, UbiComp)
 
 ### Wireless Sensing (Look at papers from Jie Xiong @ UMASS)
-* Augmenting Augmented Reality with Non-Line-of-Sight Perception	,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki)	(NO	ML)
+* Augmenting Augmented Reality with Non-Line-of-Sight Perception,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki)	(NO	ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237)	(NO	ML)
 * Exploring Multiple Antennas for Long-range WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO	ML)
 * Mobi2Sense: Empowering Wireless Sensing with Mobility	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518)	(NO	ML)
