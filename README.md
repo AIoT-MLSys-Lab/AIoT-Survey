@@ -91,6 +91,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 #### TeraHertz Sensing
 
+### Earables Sensing (Look at papers from Romit @ UIUC)
 
 ### Acoustic Sensing							
 * Acoustic Sensing and Communication Using Metasurface	,	NSDI	23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf)			
