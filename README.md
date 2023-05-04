@@ -100,7 +100,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 ### Under Water Sensing (Look at papers from Fadel @ MIT)
 * Unsupervised Underwater Image Restoration: From a Homology Perspective, AAAI 22 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/19944)
-* Sunflower: locating underwater robots from the air	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
+* Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
 * Learning To Remove Refractive Distortions From Underwater Images, ICCV 21 [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Thapa_Learning_To_Remove_Refractive_Distortions_From_Underwater_Images_ICCV_2021_paper.html)
 * Restoration of Non-Rigidly Distorted Underwater Images Using a Combination of Compressive Sensing and Local Polynomial Image Representations, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/James_Restoration_of_Non-Rigidly_Distorted_Underwater_Images_Using_a_Combination_of_ICCV_2019_paper.html)
 * Surface Normals and Shape From Water, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Murai_Surface_Normals_and_Shape_From_Water_ICCV_2019_paper.html)
