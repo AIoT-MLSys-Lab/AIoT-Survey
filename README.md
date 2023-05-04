@@ -169,6 +169,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge	,	NSDI	2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)			
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)			
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
+* Learning Compressed Embeddings for On-Device Inference, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf)
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute	,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
 * Memory-Efficient Domain Incremental Learning for Internet of Things	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)			
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision	,	MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)			
@@ -224,7 +225,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### Automated Machine Learning								
 							
 #### NAS
-* Towards The Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)							
+* Towards The Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)				
+* Improving Model Training with Multi-fidelity Hyperparameter Evaluation, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Paper.pdf)			
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
 * Searching for Winograd-aware Quantized Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/45c48cce2e2d7fbdea1afc51c7c6ad26-Paper.pdf)
 * SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
@@ -234,7 +236,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 ### Compiler for ML Systems							
-* Romou: rapidly generate high-performance tensor kernels for mobile GPUs	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517020)			
+* Romou: rapidly generate high-performance tensor kernels for mobile GPUs	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517020)		
+* The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)	
 * ROLLER: Fast and Efficient Tensor Compilation for Deep Learning	,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/zhu)			
 * A Deep Learning Based Cost Model for Automatic Code Optimization	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/3def184ad8f4755ff269862ea77393dd-Abstract.html)			
 * TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)			
@@ -294,6 +297,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Client-optimized algorithms and acceleration for encrypted compute offloading	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)			
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)			
 * G2Auth: secure mutual authentication for drone delivery without special user-side hardware,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538941)	(NO	ML)	
+* A Tale of Two Models Constructing Evasive Attacks on Edge Models, MLSys 22 [[Paper]][(](https://proceedings.mlsys.org/paper_files/paper/2022/file/92cc227532d17e56e07902b254dfad10-Paper.pdf))
 * Light Auditor: Power Measurement Can Tell Private Data Leakage through IoT Covert Channels,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568535)			
 * HideSeeker: Uncover the Hidden Gems in Obfuscated Images,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568514)	
 * FastZIP: faster and more secure zero-interaction pairing	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467883)	(NO	ML)	
@@ -309,6 +313,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### Federated Learning Systems			
 * PyramidFL: a fine-grained client selection framework for efficient federated learning	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)			
 * FedBalancer: data and pace control for efficient federated learning on heterogeneous clients	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538917)			
+* LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf)
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction,		NeurIPS	22	[[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
 * FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568538)			
 * Hermes: an efficient federated learning framework for heterogeneous mobile clients,		MobiCom	21	[[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483278)			
@@ -342,6 +347,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ### AIoT Systems for Video Analytics 							
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
 * Multiview Transformers for Video Recognition, CVPR 22 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Multiview_Transformers_for_Video_Recognition_CVPR_2022_paper.html)		
+* AccMPEG: Optimizing Video Encoding for Video Analytics, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/98f13708210194c475687be6106a3b84-Paper.pdf)
 * AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles,		SenSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)			
 * FollowUpAR: enabling follow-up effects in mobile AR applications,		MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467675)			
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices,		MobiSys	20	[[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388917)			
