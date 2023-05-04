@@ -83,6 +83,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 #### Wi-Fi Sensing
 
 #### RFID Sensing
+* MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]]
 
 #### mmWave Sensing
 
