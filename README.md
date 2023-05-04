@@ -80,6 +80,13 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241547)	(NO	ML)
 * Cross-Frequency Communication: Near-Field Identification of UHF RFIDs with WiFi!	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241569)		
 
+#### Wi-Fi Sensing
+
+#### RFID Sensing
+
+#### mmWave Sensing
+
+#### TeraHertz Sensing
 
 
 ### Acoustic Sensing							
@@ -99,7 +106,14 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * In-body backscatter communication and localization	,	SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565)	(NO	ML)	
 							
 							
-							
+### Vision Sensing							
+* Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power	,	ASPLOS	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)			
+* Approximate query service on autonomous IoT cameras	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
+* Starfish: resilient image compression for AIoT cameras	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769)	
+* Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision	,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)			
+* Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs	,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326092)			
+
+
 ### Under Water Sensing (Look at papers from Fadel @ MIT)
 * Unsupervised Underwater Image Restoration: From a Homology Perspective, AAAI 22 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/19944)
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
@@ -108,7 +122,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Surface Normals and Shape From Water, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Murai_Surface_Normals_and_Shape_From_Water_ICCV_2019_paper.html)
 
 
-	
+### Visible Light Sensing (Look at papers from Xia Zhou @ Columbia)	
 		
 							
 							
@@ -131,12 +145,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Indoor localization via multi-modal sensing on smartphones	,	UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)			
 							
 							
-### Vision Sensing							
-* Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power	,	ASPLOS	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)			
-* Approximate query service on autonomous IoT cameras	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
-* Starfish: resilient image compression for AIoT cameras	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769)	
-* Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision	,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)			
-* Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs	,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326092)			
 							
 							
 							
