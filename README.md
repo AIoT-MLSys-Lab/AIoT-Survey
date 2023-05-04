@@ -54,6 +54,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI, UbiComp)
 
+### Others
+
 ### Wireless Sensing (Look at papers from Jie Xiong @ UMASS)
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki)	(NO	ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237)	(NO	ML)
@@ -150,7 +152,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 ## Computing							
-							
+	
+### Others
+
 ### On-Device Inferences							
 #### Scheduling							
 
@@ -270,7 +274,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 ## Networking and Communication							
-							
+
+### Others
+
 ### Backscatter (Look at papers from Shyam @ University of Washington) 							
 							
 * Wind dispersal of battery-free wireless devices	,	Nature	2022	[[Paper]](https://www.nature.com/articles/s41586-021-04363-9)	(NO	ML)	
