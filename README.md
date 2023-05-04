@@ -1,10 +1,10 @@
 # A collection of survey, research papers, benchmarks, open-source resources, and seminars of AIoT (Artificial Intelligence of Things)
 
 Papers selected from the following conferences: 
-- mobile computing conferences (MobiCom/MobiSys/SenSys/UbiComp)
+- mobile computing conferences (MobiCom/MobiSys/SenSys/IPSN)
 - computer networks conferences (NSDI/SIGCOMM) 
 - operating systems conferences (OSDI/SOSP/EuroSys/ASPLOS/ATC)
-- AI conferences (MLSys, NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACL, AAAI)
+- AI + Systems conferences (MLSys)
 
 Years: 2018 ~ Present
 
@@ -50,7 +50,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 
 
-## Sensing (MobiCom, MobiSys, SenSys, NSDI)
+## Sensing (MobiCom, MobiSys, SenSys, NSDI, UbiComp)
 
 ### Wireless Sensing (Look at papers from Jie Xiong @ UMASS)
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception	,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki)	(NO	ML)
