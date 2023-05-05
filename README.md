@@ -59,14 +59,13 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI, UbiComp)
-uGPS: Design and Field-Tested Seamless GNSS Infrastructure in Metro City, MobiCom 22 [[Paper]](https://dl.acm.org/doi/10.1145/3495243.3560520) (NO ML)
-
-
 
 ### Others
 * Mobi2Sense: Empowering Wireless Sensing with Mobility	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518)	(NO	ML) (Best Paper Award Runner-ups) (using UWB)
 * Enabling High Accuracy Pervasive Tracking with Ultra Low Power UWB Tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560542) (NO ML) (using UWB)
 * Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf) (Magnetic Sensing)
+* uGPS: Design and Field-Tested Seamless GNSS Infrastructure in Metro City, MobiCom 22 [[Paper]](https://dl.acm.org/doi/10.1145/3495243.3560520) (NO ML)
+
 
 
 ### Wireless Sensing (Look at papers from Jie Xiong @ UMASS)
