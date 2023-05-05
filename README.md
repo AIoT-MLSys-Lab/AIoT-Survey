@@ -255,7 +255,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * HM-NAS: Efficient Neural Architecture Search via Hierarchical Masking, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/NeurArch/Yan_HM-NAS_Efficient_Neural_Architecture_Search_via_Hierarchical_Masking_ICCVW_2019_paper.html)
 							
 							
-### Compiler for ML Systems							
+### Compiler for AI Systems							
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517020)		
 * The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)	
 * ROLLER: Fast and Efficient Tensor Compilation for Deep Learning	,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/zhu)			
@@ -270,8 +270,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Janus: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs	,	NSDI	19	[[Paper]](https://www.usenix.org/system/files/nsdi19-jeong.pdf)			
 * TASO: optimizing deep learning computation with automatic generation of graph substitutions	,	SOSP	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3341301.3359630)			
 * Intel® nGraph™ An Intermediate Representation,  Compiler,  and Executor for Deep Learning	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/132.pdf)			
-* Compiling machine learning programs via high-level tracing	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/146.pdf)	
-* TVM: An Automated End-to-End Optimizing Compiler for Deep Learning	,	OSDI	18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)			
+* Compiling machine learning programs via high-level tracing,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/146.pdf)	
+* TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI	18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)			
 							
 							
 ## Networking and Communication							
