@@ -59,6 +59,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI, UbiComp)
+uGPS: Design and Field-Tested Seamless GNSS Infrastructure in Metro City, MobiCom 22 [[Paper]](https://dl.acm.org/doi/10.1145/3495243.3560520) (NO ML)
+
+
 
 ### Others
 * Mobi2Sense: Empowering Wireless Sensing with Mobility	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518)	(NO	ML) (Best Paper Award Runner-ups) (using UWB)
@@ -146,6 +149,7 @@ Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena,
 * MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560537) (NO ML)
 * CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560526)
 * DoCam: Depth Sensing with an Optical Image Stabilization Supported RGB Camera, MobiCom 22 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/assets/publications/mobicom22_pan.pdf)
+* MobiDepth: Real-Time Depth Estimation Using On-Device Dual Cameras, MobiCom 22 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/09/mobicom22-final138.pdf)
 
 
 
@@ -195,6 +199,8 @@ Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena,
 ## Computing							
 	
 ### Others
+* A-Mash: Providing Single-App Illusion for Multi-App Use through User-centric UI Mashup, MobiCom 22 [[Paper]](https://jyskwon.github.io/publications/mobicom22-a-mash.pdf)
+
 
 ### On-Device Inferences							
 #### Scheduling							
@@ -299,7 +305,7 @@ Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena,
 							
 							
 ### Compiler for AI Systems							
-* Romou: rapidly generate high-performance tensor kernels for mobile GPUs	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517020)		
+* Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3495243.3517020](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf))	
 * The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)	
 * ROLLER: Fast and Efficient Tensor Compilation for Deep Learning	,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/zhu)			
 * A Deep Learning Based Cost Model for Automatic Code Optimization	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/3def184ad8f4755ff269862ea77393dd-Abstract.html)			
@@ -320,7 +326,9 @@ Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena,
 ## Networking and Communication							
 
 ### Others
-Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)
+* Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)
+* Towards automatic troubleshooting for user-level performance degradation in cellular services, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560535) (cellular)
+
 
 
 ### Network 
@@ -352,6 +360,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 ### LoRa							
 * Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems	,	NSDI	22	[[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf)	(NO	ML)	
 * De-spreading over the air: long-range CTC for diverse receivers with LoRa, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560524) NO ML)
+* BSMA: scalable LoRa networks using full duplex gateways, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560544) (NO ML)
+
 
 
 
@@ -378,6 +388,16 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Client-optimized algorithms and acceleration for encrypted compute offloading	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)			
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)	
 * Protego: securing wireless communication via programmable metasurface, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560547) (NO ML)
+* Assessing certificate validation user interfaces of WPA supplicants, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517026) (NO ML)
+* Enabling Secure Touch-to-Access Device Pairing based on Human Body’s Electrical Response, MobiCom 22 [[Paper]](https://taogu.site/pub/paper/Device_Pairing.pdf)
+* Non-Cooperative Wi-Fi Localization & its Privacy Implications, MobiCom 22 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/WiPeep_Mobicom2022.pdf) (NO ML)
+* Sifter: Protecting Security-Critical Kernel Modules in Android through Attack Surface Reduction, MobiCom 22 [[Paper]](https://www.ics.uci.edu/~ardalan/papers/Hung_MobiCom22.pdf) (NO ML)
+* Audio-domain Position-independent Backdoor Attack via Unnoticeable Triggers, MobiCom 22 [[Paper]](https://www.winlab.rutgers.edu/~yychen/papers/Audio-domain%20Position-independent%20Backdoor%20Attack%20via%20Subsecond%20Triggers.pdf)
+* StreamingTag: A Scalable Piracy Tracking Solution for Streaming Services , MobiCom 22 [[Paper]](https://people.gix.tsinghua.edu.cn/dangfan/publication/mobicom22-streaming-tag/mobicom22-streaming-tag.pdf)
+* Authentication for Drone Delivery Through a Novel Way of Using Face Biometrics, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560550)
+* Uncovering Insecure Designs of Cellular Emergency Services (911), MobiCom 22 [[Paper]](https://www.cse.msu.edu/~ghtu/published-papers/Hu-MobiCom22.pdf) (NO ML)
+* AdaptOver: Adaptive Overshadowing Attacks in Cellular Networks, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2106.05039.pdf) (NO ML)
+
 		
 * G2Auth: secure mutual authentication for drone delivery without special user-side hardware,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538941)	(NO	ML)	
 * A Tale of Two Models Constructing Evasive Attacks on Edge Models, MLSys 22 [[Paper]][(](https://proceedings.mlsys.org/paper_files/paper/2022/file/92cc227532d17e56e07902b254dfad10-Paper.pdf))
@@ -419,6 +439,8 @@ Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Busines
 ### AIoT Systems for Healthcare and Social Good							
 * SmartLens : Sensing Eye Activities Using Zero-power Contact Lens,		MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532)	(NO	ML)	
 * Network-side digital contact tracing on a large university campus, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2201.10641.pdf) (NO ML)
+* PROS: an Efficient Pattern-Driven Compressive Sensing Framework for Low-Power Biopotential-based Wearables with On-chip Intelligence, MobiCom 22 [[Paper]](https://theyoungkwon.github.io/papers/articles/pham_pros_mobicom22.pdf)
+
 
 * Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones	, SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437)			
 * Your Smart Speaker Can “Hear” Your Heartbeat!, IMWUT/UbiComp	21	[[Paper]](https://dl.acm.org/doi/10.1145/3432237)	(NO	ML)	
@@ -439,6 +461,10 @@ Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Busines
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
 * Multiview Transformers for Video Recognition, CVPR 22 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Multiview_Transformers_for_Video_Recognition_CVPR_2022_paper.html)		
 * AccMPEG: Optimizing Video Encoding for Video Analytics, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/98f13708210194c475687be6106a3b84-Paper.pdf)
+* SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, MobiCom 22 [[Papaer]](https://www-users.cse.umn.edu/~fengqian/paper/salientvr_mobicom22.pdf)
+* Vues: Practical Mobile Volumetric Video Streaming Through Multiview Transcoding, MobiCom22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vues_mobicom22.pdf)
+* Tutti: coupling 5G RAN and mobile edge computing for latency-critical video analytics, MobiCom 22 [[Paper]](https://dl.acm.org/doi/10.1145/3495243.3560538)
+
 * AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles,		SenSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)			
 * FollowUpAR: enabling follow-up effects in mobile AR applications,		MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467675)			
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices,		MobiSys	20	[[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388917)			
