@@ -13,7 +13,7 @@ Find at most 10 papers in each sub-topic.
 Each week, focus on Writing one sub-topic.
 
 
-##### TODO  
+#### TODO  
 Re-organize the paper by its category (vision-sensing -> computing, video... and Lots of other sensing papers)
 
 
