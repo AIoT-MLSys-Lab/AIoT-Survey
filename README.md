@@ -13,6 +13,10 @@ Find at most 10 papers in each sub-topic.
 Each week, focus on Writing one sub-topic.
 
 
+# TODO  
+Re-organize the paper by its category (vision-sensing -> computing, video... and Lots of other sensing papers)
+
+
 ## What is AIoT?
 
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
@@ -50,21 +54,25 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 
 ## Others
+* RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) (Maybe new section battery?)
+
 
 
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI, UbiComp)
 
 ### Others
+* Mobi2Sense: Empowering Wireless Sensing with Mobility	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518)	(NO	ML) (Best Paper Award Runner-ups) (using UWB)
+* Enabling High Accuracy Pervasive Tracking with Ultra Low Power UWB Tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560542) (NO ML) (using UWB)
+* Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf) (Magnetic Sensing)
+
 
 ### Wireless Sensing (Look at papers from Jie Xiong @ UMASS)
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki)	(NO	ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237)	(NO	ML)
 * Exploring Multiple Antennas for Long-range WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO	ML)
-* Mobi2Sense: Empowering Wireless Sensing with Mobility	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518)	(NO	ML)
 * Experience: pushing indoor localization from laboratory to the wild	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546)	(NO	ML)
 * RF-URL: unsupervised representation learning for RF sensing	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560529)	
 * Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)		
-* LTE-Based Low-Cost and Low-Power Soil Moisture Sensing	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568525)	(NO	ML)
 * M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568545)		
 * Empowering smart buildings with self-sensing concrete for structural health monitoring	,	SIGCOMM	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270)	(NO	ML)
 * TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO	ML)
@@ -82,16 +90,40 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241547)	(NO	ML)
 * Cross-Frequency Communication: Near-Field Identification of UHF RFIDs with WiFi!	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241569)		
 
+#### General Wireless Sensing (Temporal subsubsectionn that using RF signal)
+* LiqRay: non-invasive and fine-grained liquid recognition system, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560540)
+
+
+
+#### Bluetooth Sensing
+* Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
+
+
 #### Wi-Fi Sensing
+* Experience: pushing indoor localization from laboratory to the wild, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (Best Community Contribution Runner-ups) (NO ML)
+* Wiffract: A New Foundation for RF Imaging via Edge Tracing, MobiCom 22 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/PallaproluKoranyMostofi_MobiCom2022.pdf) (NO ML)
+* RF-URL: unsupervised representation learning for RF sensing, MobiCom 22 [[Paper]](http://staff.ustc.edu.cn/~dongheng/dhfiles/rf-url.pdf)
+
+
 
 #### RFID Sensing
-* MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]]
+* RF-DNA: Large-Scale Physical-layer Identifications of RFIDs via Dual Natural Attributes, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517028)
+* MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]] (NO ML)
+
+
 
 #### mmWave Sensing
+* MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion, MobiCom 22 [[Paper]](http://xyzhang.ucsd.edu/papers/Kun.Qian_MobiCom22_MilliMirror.pdf) (NO ML)
+* Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (NO ML)
+* mmEve: Eavesdropping on Smartphone's Earpiece via COTS mmWave Device, MobiCom 22 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2022.pdf)
 
 #### TeraHertz Sensing
+* Quasi-Optical 3D localization using Asymmetric Signatures above 100 GHz, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517022) (NO ML)
 
 ### Earables Sensing (Look at papers from Romit @ UIUC)
+Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, IMWUT 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314)
+
+
 
 ### Acoustic Sensing							
 * Acoustic Sensing and Communication Using Metasurface	,	NSDI	23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf)			
@@ -110,7 +142,13 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * In-body backscatter communication and localization	,	SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565)	(NO	ML)	
 							
 							
-### Vision Sensing							
+### Vision Sensing		
+* MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560537) (NO ML)
+* CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560526)
+* DoCam: Depth Sensing with an Optical Image Stabilization Supported RGB Camera, MobiCom 22 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/assets/publications/mobicom22_pan.pdf)
+
+
+
 * Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power	,	ASPLOS	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)			
 * Approximate query service on autonomous IoT cameras	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * Starfish: resilient image compression for AIoT cameras	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769)	
@@ -132,7 +170,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 ### Multi-modal Sensing							
-* Cosmo: contrastive fusion learning with small data for multimodal human activity recognition	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560519)			
+* Cosmo: contrastive fusion learning with small data for multimodal human activity recognition,	MobiCom	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560519)
+
+
 * Capricorn: Towards Real-Time Rich Scene Analysis Using RF-Vision Sensor Fusion	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568504)			
 * mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking	,	MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483263)			
 * UltraSE: single-channel speech enhancement using ultrasound	,	MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448626)			
@@ -189,7 +229,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)			
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
-* Learning Compressed Embeddings for On-Device Inference, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf)
+* NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
+
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute	,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
 * Memory-Efficient Domain Incremental Learning for Internet of Things	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)			
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision	,	MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)			
@@ -200,6 +241,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning	,	ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378534)			
 * Fast and scalable in-memory deep multitask learning via neural weight virtualization	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)			
 * Memory-Driven Mixed Low Precision Quantization for Enabling Deep Network Inference on Microcontrollers, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9b8619251a19057cff70779273e95aa6-Paper.pdf)
+* Learning Compressed Embeddings for On-Device Inference, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf)
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430716)			
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
 * ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304076)			
@@ -228,7 +270,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 							
 							
 ### Offloading							
-* InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517016)			
+* InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference	,	MobiCom	22	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3495243.3517016](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf))	
+* Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI, MobiCom 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom22.pdf)
 * Walle: An End-to-End,  General-Purpose,  and Large-Scale Production System for Device-Cloud Collaborative Machine Learning	,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)			
 * Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568511)			
 * Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading	,	MobiCom21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448628)				
@@ -277,10 +320,22 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ## Networking and Communication							
 
 ### Others
+Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)
+
+
+### Network 
+FLEW: Fully Emulated WiFi, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-cho.pdf) (NO ML)
+
+
 
 ### Backscatter (Look at papers from Shyam @ University of Washington) 							
 							
 * Wind dispersal of battery-free wireless devices	,	Nature	2022	[[Paper]](https://www.nature.com/articles/s41586-021-04363-9)	(NO	ML)	
+* Magnetoelectric backscatter communication for millimeter-sized wireless biomedical implants, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560541) (NO ML) (Best Paper Award)
+* RF-Transformer: A Unified Backscatter Radio Hardware Abstraction, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2209.15195.pdf)(NO ML)
+* 
+
+
 * OmniScatter: extreme sensitivity mmWave backscattering using commodity FMCW radar	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538924)	(NO	ML)	
 * Content-agnostic backscatter from thin air		MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538930)	(NO	ML)	
 * Low-Latency Visible Light Backscatter Networking with RetroMUMIMO	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568507)	(NO	ML)	
@@ -296,9 +351,12 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 							
 ### LoRa							
 * Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems	,	NSDI	22	[[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf)	(NO	ML)	
+* De-spreading over the air: long-range CTC for diverse receivers with LoRa, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560524) NO ML)
+
+
+
 * Embracing LoRa Sensing with Device Mobility	,	SenSys	22	[[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf)	(NO	ML)	
 * HyLink: Towards High Throughput LPWANs with LoRa Compatible Communication	,	SenSys	22	[[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/HyLink-SenSys22.pdf)	(NO	ML)	
-* Sensor-free Soil Moisture Sensing Using LoRa Signals		,MobiCom22	21	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534608)	(NO	ML)	
 * NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485928)			
 * LAVA: fine-grained 3D indoor wireless coverage for small IoT devices	,	SIGCOMM	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472890)	(NO	ML)	
 * Exploring LoRa for Long-range Through-wall Sensing	,	IMWUT/UbiComp	20	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397326)	(NO	ML)	
@@ -318,7 +376,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 							
 ### Security of AIoT							
 * Client-optimized algorithms and acceleration for encrypted compute offloading	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)			
-* SOTER: Guarding Black-box Inference for General Neural Networks at the Edge	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)			
+* SOTER: Guarding Black-box Inference for General Neural Networks at the Edge	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)	
+* Protego: securing wireless communication via programmable metasurface, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560547) (NO ML)
+		
 * G2Auth: secure mutual authentication for drone delivery without special user-side hardware,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538941)	(NO	ML)	
 * A Tale of Two Models Constructing Evasive Attacks on Edge Models, MLSys 22 [[Paper]][(](https://proceedings.mlsys.org/paper_files/paper/2022/file/92cc227532d17e56e07902b254dfad10-Paper.pdf))
 * Light Auditor: Power Measurement Can Tell Private Data Leakage through IoT Covert Channels,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568535)			
@@ -350,10 +410,16 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Federated Kernelized Multi-Task Learning,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/30.pdf)			
 							
 							
-## AIoT Systems and their Applications							
+## AIoT Systems and their Applications	
+
+### Others
+Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Business, MobiCom22 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_22_1.pdf)
+
 							
 ### AIoT Systems for Healthcare and Social Good							
 * SmartLens : Sensing Eye Activities Using Zero-power Contact Lens,		MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532)	(NO	ML)	
+* Network-side digital contact tracing on a large university campus, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2201.10641.pdf) (NO ML)
+
 * Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones	, SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437)			
 * Your Smart Speaker Can “Hear” Your Heartbeat!, IMWUT/UbiComp	21	[[Paper]](https://dl.acm.org/doi/10.1145/3432237)	(NO	ML)	
 * U-Verse: a miniaturized platform for end-to-end closed-loop implantable internet of medical things systems		SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360026)	(NO	ML)	
@@ -365,7 +431,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 			
 ### AIoT Systems for Autonomous Driving							
-							
+* VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
+* 
+
+
 ### AIoT Systems for Video Analytics 							
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
 * Multiview Transformers for Video Recognition, CVPR 22 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Multiview_Transformers_for_Video_Recognition_CVPR_2022_paper.html)		
@@ -386,6 +455,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 
 ### AIoT Systems for Agriculture 
+
+* IoTree: a battery-free wearable system with biocompatible sensors for continuous tree health monitoring, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3567652) (NO ML)
+* Estimating Soil Moisture using RF Signals, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517025) (NO ML) 
+* LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568525) (NO ML)
 
 
 
