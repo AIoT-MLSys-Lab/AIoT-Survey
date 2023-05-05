@@ -1,10 +1,10 @@
 # A collection of survey, research papers, benchmarks, open-source resources, and seminars of AIoT (Artificial Intelligence of Things)
 
 Papers selected from the following conferences: 
-- mobile computing conferences (MobiCom/MobiSys/SenSys/IPSN)
+- mobile computing and IoT conferences (MobiCom/MobiSys/SenSys/IPSN/UbiComp)
 - computer networks conferences (NSDI/SIGCOMM) 
-- operating systems conferences (OSDI/SOSP/EuroSys/ASPLOS/ATC)
-- AI + Systems conferences (MLSys)
+- computer systems conferences (OSDI/SOSP/EuroSys/ASPLOS/ATC)
+- AI Systems conferences (MLSys)
 
 Years: 2018 ~ Present
 
