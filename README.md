@@ -192,7 +192,6 @@ Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena,
 ## Computing							
 	
 ### Others
-* A-Mash: Providing Single-App Illusion for Multi-App Use through User-centric UI Mashup, MobiCom 22 [[Paper]](https://jyskwon.github.io/publications/mobicom22-a-mash.pdf)
 
 
 ### On-Device Inferences							
@@ -229,7 +228,6 @@ Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena,
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)			
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
 * NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
-
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute	,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
 * Memory-Efficient Domain Incremental Learning for Internet of Things	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)			
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision	,	MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)			
@@ -373,18 +371,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 ### Security of AIoT							
 * Client-optimized algorithms and acceleration for encrypted compute offloading	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)			
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)	
-* Protego: securing wireless communication via programmable metasurface, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560547) (NO ML)
-* Assessing certificate validation user interfaces of WPA supplicants, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517026) (NO ML)
 * Enabling Secure Touch-to-Access Device Pairing based on Human Body’s Electrical Response, MobiCom 22 [[Paper]](https://taogu.site/pub/paper/Device_Pairing.pdf)
 * Non-Cooperative Wi-Fi Localization & its Privacy Implications, MobiCom 22 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/WiPeep_Mobicom2022.pdf) (NO ML)
-* Sifter: Protecting Security-Critical Kernel Modules in Android through Attack Surface Reduction, MobiCom 22 [[Paper]](https://www.ics.uci.edu/~ardalan/papers/Hung_MobiCom22.pdf) (NO ML)
 * Audio-domain Position-independent Backdoor Attack via Unnoticeable Triggers, MobiCom 22 [[Paper]](https://www.winlab.rutgers.edu/~yychen/papers/Audio-domain%20Position-independent%20Backdoor%20Attack%20via%20Subsecond%20Triggers.pdf)
-* StreamingTag: A Scalable Piracy Tracking Solution for Streaming Services , MobiCom 22 [[Paper]](https://people.gix.tsinghua.edu.cn/dangfan/publication/mobicom22-streaming-tag/mobicom22-streaming-tag.pdf)
 * Authentication for Drone Delivery Through a Novel Way of Using Face Biometrics, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560550)
-* Uncovering Insecure Designs of Cellular Emergency Services (911), MobiCom 22 [[Paper]](https://www.cse.msu.edu/~ghtu/published-papers/Hu-MobiCom22.pdf) (NO ML)
-* AdaptOver: Adaptive Overshadowing Attacks in Cellular Networks, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2106.05039.pdf) (NO ML)
-
-		
 * G2Auth: secure mutual authentication for drone delivery without special user-side hardware,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538941)	(NO	ML)	
 * A Tale of Two Models Constructing Evasive Attacks on Edge Models, MLSys 22 [[Paper]][(](https://proceedings.mlsys.org/paper_files/paper/2022/file/92cc227532d17e56e07902b254dfad10-Paper.pdf))
 * Light Auditor: Power Measurement Can Tell Private Data Leakage through IoT Covert Channels,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568535)			
@@ -426,7 +416,6 @@ Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Busines
 * SmartLens : Sensing Eye Activities Using Zero-power Contact Lens,		MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532)	(NO	ML)	
 * Network-side digital contact tracing on a large university campus, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2201.10641.pdf) (NO ML)
 * PROS: an Efficient Pattern-Driven Compressive Sensing Framework for Low-Power Biopotential-based Wearables with On-chip Intelligence, MobiCom 22 [[Paper]](https://theyoungkwon.github.io/papers/articles/pham_pros_mobicom22.pdf)
-
 
 * Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones	, SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437)			
 * Your Smart Speaker Can “Hear” Your Heartbeat!, IMWUT/UbiComp	21	[[Paper]](https://dl.acm.org/doi/10.1145/3432237)	(NO	ML)	
