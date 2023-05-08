@@ -55,6 +55,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 
 ## Others
 * RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) (Maybe new section battery?)
+* TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380890)
+* Understanding power consumption of NB-IoT in the wild: tool and large-scale measurement, MobiCom 20 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/nbiot20mobicom.pdf) (NO ML)
+
 
 
 
@@ -117,6 +120,11 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Deep learning based wireless localization for indoor navigation, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380894)
 * SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)
 * Towards 3D human pose construction using wifi, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~lusu/papers/MobiCom2020.pdf)
+* Proximity Detection with Single-Antenna IoT Devices, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300120) (NO ML)
+* mD-Track: Leveraging Multi-Dimensionality for Passive Indoor Wi-Fi Tracking, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300133) (NO ML)
+* On the Feasibility of Wi-Fi Based Material Sensing, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345442)
+
+
 
 
 
@@ -126,6 +134,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 #### RFID Sensing
 * RF-DNA: Large-Scale Physical-layer Identifications of RFIDs via Dual Natural Attributes, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517028)
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]] (NO ML)
+* RFGo: A Seamless Self-checkout System for Apparel Stores Using RFID, MobiCom 20 [[Paper]](https://genesys-lab.org/papers/RFGo-Mobicom.pdf)
 
 
 
@@ -149,7 +158,10 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * HeadFi: bringing intelligence to all headphones, MobiCom 21	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448624) (NO ML)	(Best Paper Award Runner-up)
 * Personalizing Head Related Transfer Functions for Earables, SIGCOMM 21 [[Paper]](https://synrg.csl.illinois.edu/papers/UNIQ_Sigcomm21.pdf) (NO ML)
 * Ear-AR: indoor acoustic augmented reality on earphones, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/ear-ar_mobicom20.pdf) (NO ML)
-* 
+* EarSense: earphones as a teeth activity sensor, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/earsense_mobicom20.pdf) (NO ML)
+* eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User's Ear, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345454) (NO ML) (Best Paper)
+
+
 
 
 
@@ -167,6 +179,11 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Owlet: enabling spatial information in ubiquitous acoustic devices	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467880)			
 * MAVL: Multiresolution Analysis of Voice Localization	,	NSDI	21	[[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf)	(NO	ML)	
 * Voice Localization Using Nearby Wall Reflections, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/voloc_mobicom20.pdf)
+* Deaf-aid: mobile IoT communication exploiting stealthy speaker-to-gyroscope channel, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020c.pdf) (NO ML)
+* Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.02349.pdf) (NO ML)
+* RNN-Based Room Scale Hand Motion Tracking, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345439)
+
+
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360020)			
 * In-body backscatter communication and localization	,	SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565)	(NO	ML)	
 							
@@ -186,7 +203,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power	,	ASPLOS	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)			
 * Approximate query service on autonomous IoT cameras	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * Starfish: resilient image compression for AIoT cameras	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769)	
-* Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision	,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)			
 * Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs	,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326092)			
 
 
@@ -214,7 +230,9 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * RFID and camera fusion for recognition of human-object interactions, MobiCom	21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483244)			
 * Low-latency speculative inference on distributed multi-modal data streams	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467884)			
 * Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485945)			
-* Personalizing head related transfer functions for earables	,	SIGCOMM	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472907)			
+* Personalizing head related transfer functions for earables	,	SIGCOMM	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472907)
+* XModal-ID: Using WiFi for Through-Wall Person Identification from Candidate Video Footage, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345437)
+	
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors	,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)			
 * SenseHAR: a robust virtual activity sensor for smartphones and wearables	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360032)			
 * A closer look at quality-aware runtime assessment of sensing models in multi-device environments	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360043)			
@@ -246,9 +264,12 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568520)			
 * ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for on-Device Machine Learning in IoT Systems	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568296)			
 * IOS: Inter-Operator Scheduler for CNN Acceleration	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)			
-* AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs , MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448625](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf))			
+* AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs , MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448625](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf))
+* Heimdall: mobile GPU coordination platform for augmented reality applications, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/Heimdall.pdf)
+			
 * MobiPose: real-time multi-person pose estimation on mobile devices	,	SensSys20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)				
 * MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
+* MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1908.07985.pdf)
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization	,	EuroSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)			
 * TicTac: Accelerating Distributed Deep Learning with Communication Scheduling	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/index.html#schedule)			
 * Efficient Deep Learning Inference on Edge Devices	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/29.pdf)			
@@ -311,8 +332,13 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568511)			
 * Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448628](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)	
 * Visage: Enabling Timely Analytics for Drone Imagery, MobiCom 21 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/Visage_Mobicom_2021.pdf) 			
-* CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud	,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215)			
+* CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud	,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215)	
+* SPINN: synergistic progressive inference of neural networks over device and cloud, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419194)		
+* EagleEye: wearable camera-based person identification in crowded urban spaces, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/EagleEye.pdf)
+
 * Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)			
+* Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision	,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)			
+
 * Neuro.ZERO: a zero-energy neural network accelerator for embedded sensing and inference systems	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360030)			
 * Distributed Placement of Machine Learning Operators for IoT applications spanning Edge and Cloud Resources	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/204.pdf)			
 * FoggyCache: Cross-Device Approximate Computation Reuse	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241557)			
@@ -359,6 +385,8 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)
 * FIRE: Enabling Reciprocity for FDD MIMO Systems, MobiCom 21 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/FIRE_Mobicom2021.pdf) (General network-channel estimation using ML)
 * DeepRadar: A Deep-Learning-based Environmental Sensing Capability Sensor Design for CBRS, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448632) (Bandwidth/Rader estimate/detection using DL)
+* Blind Distributed MU-MIMO for IoT Networking over VHF Narrowband Spectrum, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345427)
+
 
 
 ### Backscatter (Look at papers from Shyam @ University of Washington) 							
@@ -370,19 +398,22 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 * Content-agnostic backscatter from thin air		MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538930)	(NO	ML)	
 * Low-Latency Visible Light Backscatter Networking with RetroMUMIMO	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568507)	(NO	ML)	
 Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-katanbaf.pdf) (NO ML)
-* Microphone array backscatter: an application-driven design for lightweight spatial sound recording over the air,		MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483265)	(NO	ML)	
+* Microphone array backscatter: an application-driven design for lightweight spatial sound recording over the air,		MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483265)	(NO ML)	
 * MIXIQ: re-thinking ultra-low power receiver design for next-generation on-body applications, MobiCom 21 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/Mobicom21-MIXIQ.pdf) (NO ML)
 * Verification: Can WiFi Backscatter replace RFID?, MobiCom 21 [[Paper]](https://cs.uwaterloo.ca/~brecht/papers/wifi-vs-rfid-mobicom-2021.pdf) (NO ML)
 * Long-Range Ambient LoRa Backscatter with Parallel Decoding, MobiCom 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBICOM21-p2lora.pdf) (NO ML)
 * PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, MobiCom 21 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/PCube-MobiCom21.pdf) (NO ML)
 * Combating link dynamics for reliable lora connection in urban settings, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483250) (NO ML)
 * PassiveLiFi: Rethinking LiFi for Low-Power and Long Range RF Backscatter, MobiCom 21 [[Paper]](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/1541/Mobicom_PassiveLiFi_authors_version.pdf?sequence=1) (NO ML)
-
-
-
-
+* Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter, MobiCom 20 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_20_2.pdf) (NO ML)
+* Tunnel emitter: tunnel diode based low-power carrier emitters for backscatter tags, MobiCom 20 [[Paper]](https://lorenzocorneo.github.io/papers/2020-mobicom.pdf) (NO ML)
+* Redefining passive in backscattering with commodity devices, MobiCom 20 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/xShift-Mobicom2020.pdf)
 * Towards scalable backscatter sensor mesh with decodable relay and distributed excitation	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388942)	(NO	ML)	
 * VMscatter: A Versatile MIMO Backscatter	,	NSDI	20	[[Paper]](https://www.usenix.org/system/files/nsdi20-paper-liu.pdf)	(NO	ML)	
+* OFDMA-Enabled Wi-Fi Backscatter,MobiCom 19 [[Paper]](https://renjiezhao.github.io/files/OFDMA_BS_paper.pdf) (NO ML)
+* TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345451) (NO ML)
+
+
 * Towards Battery-Free HD Video Streaming	,	NSDI	18	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)	(NO	ML)	
 * Charging a Smartphone Across a Room Using Lasers	,	UbiComp	18	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/laserpower.pdf)	(NO	ML)	
 * LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity	,	UbiComp	17	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf)	(NO	ML)	
@@ -393,16 +424,15 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * De-spreading over the air: long-range CTC for diverse receivers with LoRa, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560524) (NO ML)
 * BSMA: scalable LoRa networks using full duplex gateways, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560544) (NO ML)
 * Seirios: Leveraging Multiple Channels for LoRaWAN Indoor and Outdoor Localization, MobiCom 21 [[Paper]](https://arxiv.org/pdf/2108.06884.pdf) (NO ML)
-
-
-
-
-
 * Embracing LoRa Sensing with Device Mobility	,	SenSys	22	[[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf)	(NO	ML)	
 * HyLink: Towards High Throughput LPWANs with LoRa Compatible Communication	,	SenSys	22	[[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/HyLink-SenSys22.pdf)	(NO	ML)	
 * NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485928)			
 * LAVA: fine-grained 3D indoor wireless coverage for small IoT devices	,	SIGCOMM	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472890)	(NO	ML)	
 * Exploring LoRa for Long-range Through-wall Sensing	,	IMWUT/UbiComp	20	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397326)	(NO	ML)	
+* LMAC: efficient carrier-sense multiple access for LoRa, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419200) (NO ML)
+* WiChronos: energy-efficient modulation for long-range, large-scale wireless networks, MobiCom 20 [[Paper]](https://uwconnect.ece.wisc.edu/wp-content/uploads/sites/1525/2021/10/WiChronos.pdf) (NO ML)
+
+
 * WIDESEE: Towards Wide-Area Contactless Wireless Sensing	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360031)	(NO	ML)	
 							
 ### Under Water Communication							
@@ -432,16 +462,22 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Data-plane signaling in cellular IoT: attacks and defense, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483255) (NO ML)
 * Insecurity of Operational Cellular IoT Service: New Vulnerabilities, Attacks, and Countermeasures, MobiCom 21 [[Paper]](https://www.cs.purdue.edu/homes/chunyi/pubs/mobicom21-wang.pdf) (NO ML)
 * Notification Privacy Protection via Unobtrusive Gripping Hand Verification Using Media Sounds, MobiCom 21 [[Paper]](https://csc.lsu.edu/~chenwang/source_files/mobicom2021notificaiton.pdf)
-
-
-
-	
 * FastZIP: faster and more secure zero-interaction pairing	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467883)	(NO	ML)	
 * Sniffing Visible Light Communication Through Walls,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419187)	(NO ML) ( Honourable Mention Award)	
+* TouchPass: towards behavior-irrelevant on-touch user authentication on smartphones leveraging vibrations, MobiCom 20 [[Paper]](http://eceweb1.rutgers.edu/~daisylab/papers/TouchPass%20Towards%20Behavior-irrelevant%20on-touch%20User%20Authentication%20on%20Smartphones%20Leveraging%20Vibrations.pdf)
+
 * DarkneTZ: towards model privacy at the edge using trusted execution environments,		MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388946)			
 * SecWIR: securing smart home IoT communications via wi-fi routers with embedded intelligence, MobiSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388941)
 * Privacy-Preserving Bandits, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/42a0e188f5033bc65bf8d78622277c4e-Paper.pdf)
-* Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX,		MObiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345447)			
+* Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX, MobiCom 19 [[Paper]](https://soar.group/pubs/Occlumency.MobiCom19.pdf)
+* Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1902.07057.pdf) (NO ML)
+* Touch Well Before Use: Intuitive and Secure Authentication for IoT Devices, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345434)
+* Taprint: Secure Text Input for Commodity Smart Wristbands, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300124)
+* Canceling Inaudible Voice Commands Against Voice Control Systems, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345429)
+
+
+
+
 * Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear,		MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210344)	(NO	ML)
 							
 ### Federated Learning Systems			
@@ -478,18 +514,21 @@ Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Busines
 * MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing, MobiCom 21 [[Paper]](https://rabbitnick.github.io/pubs/movifi.pdf)
 * Crisp-BP: Continuous Wrist PPG-based Blood Pressure Measurement, MobiCom 21 [[Paper]](https://cis.temple.edu/~yu/research/CrispBP-Mobicom21.pdf)
 * U-Verse: a miniaturized platform for end-to-end closed-loop implantable internet of medical things systems		SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360026)	(NO	ML)	
-* PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion,		MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3380889)		
+* PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion,	MobiCom	20	[[Paper]](https://www.acsu.buffalo.edu/~huiningl/papers/pdlens.pdf)		
 * MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://www.ece.sunysb.edu/~slin/Publications/MOBICOM2020.pdf)
 * Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO	ML)	
 * Towards flexible wireless charging for medical implants using distributed antenna system, MobiCom 20 [[Paper]](https://arxiv.org/pdf/2001.07644.pdf) (NO ML)
 * SpiroSonic: monitoring human lung function via acoustic sensing on commodity smartphones, MobiCom 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom20.pdf)
 * Contactless seismocardiography via deep learning radars, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419982)
-
+* Contactless Infant Monitoring using White Noise,		MobiCom	19	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/whitenoise.pdf)	(NO	ML)	
+* Experience: Design, Development and Evaluation of a Wearable Device for mHealth Applications, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345432) (NO ML)
+* HealthSense: Software-defined Mobile-based Clinical Trials, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345433) (Best Paper)
+* PDVocal: Towards Privacy-preserving Parkinson's Disease Detection using Non-speech Body Sounds, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300125)
+* SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300117)
 
 
 
 * When Virtual Reality Meets Internet of Things in the Gym: Enabling Immersive Interactive Machine Exercises, ubiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3214281)	
-* Contactless Infant Monitoring using White Noise,		MobiCom	19	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/whitenoise.pdf)	(NO	ML)	
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images,		MobiSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081336)			
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,		SenSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693)
 
@@ -498,6 +537,14 @@ Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Busines
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
 * EMP: Edge-assisted Multi-vehicle Perception, MobiCom 21 [[Paper]](https://xiaoshawnzhu.github.io/emp-mobicom21.pdf)
 * Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419208)
+* Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach, MobiCom 20 [[Paper]](https://soar.group/pubs/RetroI2V.MobiCom20.pdf) (NO ML)
+* VeMo: Enabling Transparent Vehicular Mobility Modeling at Individual Levels with Full Penetration, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300130)
+* Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300132) (NO ML)
+* Diagnosing Vehicles with Automotive Batteries, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300126)	
+
+
+
+
 
 
 ### AIoT Systems for Video Analytics 							
@@ -507,13 +554,31 @@ Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Busines
 * SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, MobiCom 22 [[Papaer]](https://www-users.cse.umn.edu/~fengqian/paper/salientvr_mobicom22.pdf)
 * Vues: Practical Mobile Volumetric Video Streaming Through Multiview Transcoding, MobiCom22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vues_mobicom22.pdf)
 * Tutti: coupling 5G RAN and mobile edge computing for latency-critical video analytics, MobiCom 22 [[Paper]](https://dl.acm.org/doi/10.1145/3495243.3560538)
+* AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles,		SenSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)	
+* Loki: Improving Long Tail Performance of Learning-Based Real-Time Video Adaptation by Fusing Rule-Based Models, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483259)
+		
+* FollowUpAR: enabling follow-up effects in mobile AR applications,		MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467675)	
+* GROOT: a real-time streaming system of high-fidelity volumetric videos, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/GROOT.pdf) (NO ML)
+* OnRL: improving mobile video telephony via online reinforcement learning, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419186)
+* NEMO: enabling neural-enhanced video streaming on commodity mobile devices, MobiCom 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3372224.3419185.pdf)
+* ViVo: visibility-aware mobile volumetric video streaming, MobiCom 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf)
+* C-14: Assured Timestamps for Drone Videos, MobiCom 20 [[Paper]](https://people.cs.umass.edu/~elm/papers/mobicom20-final809.pdf)
 
-* AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles,		SenSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568519)			
-* FollowUpAR: enabling follow-up effects in mobile AR applications,		MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467675)			
+
+
+		
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices,		MobiSys	20	[[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388917)			
 * Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence,		SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430721)			
 * TSM: Temporal Shift Module for Efficient Video Understanding,		ICCV	19	[[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)			
-* Scaling Video Analytics on Constrained Edge Nodes,		MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf)			
+* Scaling Video Analytics on Constrained Edge Nodes,		MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf)		
+* Edge Assisted Real-time Object Detection for Mobile Augmented Reality, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300116)
+* Jigsaw: Robust Live 4K Video Streaming, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300127) (NO ML)
+* Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345430)
+
+
+
+* 
+
 * When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View,		MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079)			
 * SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,		SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360028)			
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications,		ASPLOS	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)			
@@ -528,6 +593,11 @@ Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Busines
 * IoTree: a battery-free wearable system with biocompatible sensors for continuous tree health monitoring, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3567652) (NO ML)
 * Estimating Soil Moisture using RF Signals, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517025) (NO ML) 
 * LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568525) (NO ML)
+* Airdropping sensor networks from drones and insects, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419981) (NO ML)
+* Towards Low Cost Soil Sensing Using Wi-Fi, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345440) (NO ML) (Honorable Mention)
+* Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf)
+
+
 
 
 
