@@ -343,7 +343,7 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 	
 							
 							
-							
+#### Hardware Accelerators							
 							
 							
 #### Memory Optimization							
@@ -351,7 +351,7 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
 
 							
-#### DNN Compressing							
+#### Model Compression							
 
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)			
