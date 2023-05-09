@@ -610,22 +610,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images,		MobiSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081336)	
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,		SenSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693)
 		
-### AIoT Systems for Autonomous Driving					
-* VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
-* Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538918)
-* Mosaic: leveraging diverse reflector geometries for omnidirectional around-corner automotive radar, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538944) (NO ML)
-* AutoCast: scalable infrastructure-less cooperative perception for distributed collaborative driving, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538925)
-* AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles,		SenSys	22	[[Paper]](https://yanzhenyu.com/assets/pdf/AutoMatch-SenSys22.pdf)
-* EMP: Edge-assisted Multi-vehicle Perception, MobiCom 21 [[Paper]](https://xiaoshawnzhu.github.io/emp-mobicom21.pdf)
-* Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving, SenSys 22 [[Paper]](https://www.acsu.buffalo.edu/~yzhu39/Yi_Zhu_homepage_files/papers/SenSys22.pdf)
-* RayTrack: enabling interference-free outdoor mobile VLC with dynamic field-of-view, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466867) (NO ML)
-* Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419208)
-* Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach, MobiCom 20 [[Paper]](https://soar.group/pubs/RetroI2V.MobiCom20.pdf) (NO ML)
-* Wi-Go: Accurate and Scalable Vehicle Positioning using WiFi Fine Timing Measurement, MobiSys 20 [[Paper]](https://www.andrew.cmu.edu/user/miahmed/papers/wi-go_mobisys.pdf) (NO ML)
-* VeMo: Enabling Transparent Vehicular Mobility Modeling at Individual Levels with Full Penetration, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300130)
-* Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300132) (NO ML)
-* Diagnosing Vehicles with Automotive Batteries, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300126)	
-
 ### AIoT Systems for Video Analytics 							
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
 * Multiview Transformers for Video Recognition, CVPR 22 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Multiview_Transformers_for_Video_Recognition_CVPR_2022_paper.html)		
@@ -658,6 +642,22 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Dynamic Stem-Sharing for Multi-Tenant Video Processing,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/149.pdf)			
 * Rubiks: Practical 360-Degree Streaming for Smartphones,		MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210323)	(NO	ML)	
 
+### AIoT Systems for Autonomous Driving					
+* VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
+* Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538918)
+* Mosaic: leveraging diverse reflector geometries for omnidirectional around-corner automotive radar, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538944) (NO ML)
+* AutoCast: scalable infrastructure-less cooperative perception for distributed collaborative driving, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538925)
+* AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles,		SenSys	22	[[Paper]](https://yanzhenyu.com/assets/pdf/AutoMatch-SenSys22.pdf)
+* EMP: Edge-assisted Multi-vehicle Perception, MobiCom 21 [[Paper]](https://xiaoshawnzhu.github.io/emp-mobicom21.pdf)
+* Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving, SenSys 22 [[Paper]](https://www.acsu.buffalo.edu/~yzhu39/Yi_Zhu_homepage_files/papers/SenSys22.pdf)
+* RayTrack: enabling interference-free outdoor mobile VLC with dynamic field-of-view, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466867) (NO ML)
+* Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419208)
+* Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach, MobiCom 20 [[Paper]](https://soar.group/pubs/RetroI2V.MobiCom20.pdf) (NO ML)
+* Wi-Go: Accurate and Scalable Vehicle Positioning using WiFi Fine Timing Measurement, MobiSys 20 [[Paper]](https://www.andrew.cmu.edu/user/miahmed/papers/wi-go_mobisys.pdf) (NO ML)
+* VeMo: Enabling Transparent Vehicular Mobility Modeling at Individual Levels with Full Penetration, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300130)
+* Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300132) (NO ML)
+* Diagnosing Vehicles with Automotive Batteries, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300126)	
+
 ### AIoT Systems for Agriculture  
 * IoTree: a battery-free wearable system with biocompatible sensors for continuous tree health monitoring, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3567652) (NO ML)
 * Estimating Soil Moisture using RF Signals, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517025) (NO ML) 
@@ -670,7 +670,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf)
 
 ### Others
-Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Business, MobiCom22 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_22_1.pdf)
+* Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Business, MobiCom 22 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_22_1.pdf)
 
 
 
