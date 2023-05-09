@@ -529,9 +529,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Networking across boundaries: enabling wireless communication through the water-air interface		SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/10.1145/3230543.3230580)	(NO	ML)	
 							
 							
-## Security and Privacy							
-							
-### Security of AIoT							
+## Security and Privacy																					
 * Client-optimized algorithms and acceleration for encrypted compute offloading	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)			
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)	
 * Enabling Secure Touch-to-Access Device Pairing based on Human Body’s Electrical Response, MobiCom 22 [[Paper]](https://taogu.site/pub/paper/Device_Pairing.pdf)
