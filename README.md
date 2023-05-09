@@ -346,8 +346,10 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 							
 							
 							
-							
-							
+#### Memory Optimization							
+
+* mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
+
 							
 #### DNN Compressing							
 
@@ -355,13 +357,12 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)			
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
 * NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
-* mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute	,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
 * Memory-Efficient Domain Incremental Learning for Internet of Things	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)			
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision,	MobiCom	21 [[Paper]](https://arxiv.org/pdf/2112.09852.pdf) (Best Community Paper Award Runner-Up)		
 * RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938)			
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485937)			
-* PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-Time Execution on Mobile Devices	,	AAAI	20	[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5954)			
+* PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-Time Execution on Mobile Devices	,	AAAI	20	[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5954)	
 * PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning	,	ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378534)			
 * Fast and scalable in-memory deep multitask learning via neural weight virtualization	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)			
 * Memory-Driven Mixed Low Precision Quantization for Enabling Deep Network Inference on Microcontrollers, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9b8619251a19057cff70779273e95aa6-Paper.pdf)
