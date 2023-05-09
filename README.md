@@ -3,6 +3,7 @@
 ### ToDo  
 * Keep adding papers into the list.
 * Put the papers under their correct categories. Create new categories if the papers do not fit the current ones.
+* Add the link of the open source codes if the paper has one.
 * Seems some "wifi network" paper goes to "wifi sensing" -> need double check 
 * Each week, focus on writing one sub-topic.
 
