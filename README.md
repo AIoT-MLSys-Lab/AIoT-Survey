@@ -408,9 +408,8 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 							
 							
 							
-### Automated Machine Learning								
+### Automated Machine Learning for AIoT								
 							
-#### NAS
 * Towards The Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
 * Improving Model Training with Multi-fidelity Hyperparameter Evaluation, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Paper.pdf)	
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
