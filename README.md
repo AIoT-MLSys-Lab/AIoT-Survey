@@ -384,8 +384,6 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
 
-### Model Deployment
-* ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
 
 
 ### On-Device Training	
@@ -399,7 +397,7 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 #### Distributed On-Device Training
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
 
-### Federated Learning for AIoT			
+#### Federated Learning for AIoT			
 * PyramidFL: a fine-grained client selection framework for efficient federated learning	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)			
 * FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients,	MobiSys	22	[[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
 * LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf)
@@ -436,9 +434,10 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 * FoggyCache: Cross-Device Approximate Computation Reuse	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241557)			
 							
 							
+### Model Deployment
+* ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
 							
-							
-							
+														
 ### Automated Machine Learning (AutoML) for AIoT								
 							
 * Towards The Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
