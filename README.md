@@ -361,7 +361,7 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices	,	SenSys	20	[[Paper]](https://taogu.site/pub/paper/Paper_3_SenSys_2020.pdf)			
 * ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles, SenSys 20 [[Paper]](https://arxiv.org/pdf/2010.10754.pdf)
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
-* ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304076)			
+* ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304076)	
 * Full deep neural network training on a pruned weight budget	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)			
 * Accurate and Efficient 2-bit Quantized Neural Networks	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/168.pdf)			
 * Ternary Hybrid Neural-Tree Networks for Highly Constrained IoT Applications	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/107.pdf)			
@@ -374,15 +374,14 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 ### On-Device Training Evaluation							
 * Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)			
 * Mandheling: mixed-precision on-device DNN training with DSP offloading	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
-* Memory-efficient DNN training on mobile devices	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3539765)		
+* Memory-efficient DNN Training on Mobile Device, MobiSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3539765)		
 * Melon: breaking the memory wall for resource-efficient on-device machine learning, MobiSys 22 [[Paper]](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)
-
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning	,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)			
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
-* A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)			
+* A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)		
 * Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)
 							
 							
@@ -412,8 +411,8 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 ### Automated Machine Learning								
 							
 #### NAS
-* Towards The Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)				
-* Improving Model Training with Multi-fidelity Hyperparameter Evaluation, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Paper.pdf)			
+* Towards The Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
+* Improving Model Training with Multi-fidelity Hyperparameter Evaluation, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Paper.pdf)	
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
 * Searching for Winograd-aware Quantized Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/45c48cce2e2d7fbdea1afc51c7c6ad26-Paper.pdf)
 * SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
@@ -424,14 +423,14 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 							
 ### Compiler for AI Systems							
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3495243.3517020](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf))	
-* The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)	
+* The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)
 * DIPS: Debug Intermittently-Powered Systems Like Any Embedded System, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568543)
 * ROLLER: Fast and Efficient Tensor Compilation for Deep Learning	,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/zhu)			
 * A Deep Learning Based Cost Model for Automatic Code Optimization	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/3def184ad8f4755ff269862ea77393dd-Abstract.html)			
 * TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)			
 * FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System	,	ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378508)			
 * Ordering Chaos: Memory-Aware Scheduling of Irregularly Wired Neural Networks for Edge Devices, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9bf31c7ff062936a96d3c8bd1f8f2ff3-Paper.pdf)
-* Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis	,	NSDI	20	[[Paper]](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf)			
+* Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis	,	NSDI	20	[[Paper]](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf)		
 * Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks	,	OSDI	20	[[Paper]]	(https://www.usenix.org/system/files/osdi20-ma.pdf)		
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)			
 * Optimizing DNN Computation with Relaxed Graph Substitutions	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/22.pdf)	
@@ -449,8 +448,6 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 * FIRE: Enabling Reciprocity for FDD MIMO Systems, MobiCom 21 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/FIRE_Mobicom2021.pdf) (General network-channel estimation using ML)
 * DeepRadar: A Deep-Learning-based Environmental Sensing Capability Sensor Design for CBRS, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448632) (Bandwidth/Rader estimate/detection using DL)
 * Blind Distributed MU-MIMO for IoT Networking over VHF Narrowband Spectrum, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345427)
-
-
 
 ### Backscatter (Look at papers from Shyam @ University of Washington) 							
 							
