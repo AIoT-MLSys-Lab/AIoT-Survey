@@ -399,7 +399,26 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 #### Distributed On-Device Training
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
 
-													
+### Federated Learning for AIoT			
+* PyramidFL: a fine-grained client selection framework for efficient federated learning	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)			
+* FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients,	MobiSys	22	[[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
+* LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf)
+* Papaya: Practical, Private, and Scalable Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
+* FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction,		NeurIPS	22	[[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
+* FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568538)	
+* TailorFL: Dual-Personalized Federated Learning under System and Data Heterogeneity, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568503)		
+* Hermes: an efficient federated learning framework for heterogeneous mobile clients, MobiCom 21 [[Paper]](https://sites.duke.edu/angli/files/2021/10/2021_Mobicom_Hermes_v1.pdf)			
+* PPFL: privacy-preserving federated learning with trusted execution environments,		MobiSys	21	[[Paper]](https://arxiv.org/pdf/2104.14380.pdf) (Best Paper)		
+* ClusterFL: a similarity-aware federated learning system for human activity recognition, MobiSys	21	[[Paper]](https://aiot.ie.cuhk.edu.hk/papers/ClusterFL.pdf)			
+* Oort: Efficient Federated Learning via Guided Participant Selection,		OSDI	21	[[Paper]](https://www.usenix.org/system/files/osdi21-lai.pdf)			
+* FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition,		SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)			
+* FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking,		SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485929)			
+* Billion-scale federated learning on mobile clients: a submodel design with tunable privacy, MobiCom 20	[[Paper]](https://www.cs.sjtu.edu.cn/~fwu/res/Paper/NWTHJLWC20MobiCom.pdf)	
+* Federated Optimization in Heterogeneous Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/38af86134b65d0f10fe33d30dd76442e-Paper.pdf)
+* Towards Federated Learning at Scale: System Design,		MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)		
+* Federated Kernelized Multi-Task Learning,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/30.pdf)			
+
+
 ### Edge-Cloud Offloading							
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference	,	MobiCom	22	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3495243.3517016](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf))	
 * Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI, MobiCom 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom22.pdf)
@@ -574,24 +593,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SpecEye: Towards Pervasive and Privacy-Preserving Screen Exposure Detection in Daily Life, MobiSys 19 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2019a.pdf)
 * Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear,		MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210344)	(NO	ML)
 							
-### Federated Learning Systems			
-* PyramidFL: a fine-grained client selection framework for efficient federated learning	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)			
-* FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients,	MobiSys	22	[[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
-* LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf)
-* Papaya: Practical, Private, and Scalable Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
-* FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction,		NeurIPS	22	[[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
-* FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices,		SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568538)	
-* TailorFL: Dual-Personalized Federated Learning under System and Data Heterogeneity, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568503)		
-* Hermes: an efficient federated learning framework for heterogeneous mobile clients, MobiCom 21 [[Paper]](https://sites.duke.edu/angli/files/2021/10/2021_Mobicom_Hermes_v1.pdf)			
-* PPFL: privacy-preserving federated learning with trusted execution environments,		MobiSys	21	[[Paper]](https://arxiv.org/pdf/2104.14380.pdf) (Best Paper)		
-* ClusterFL: a similarity-aware federated learning system for human activity recognition, MobiSys	21	[[Paper]](https://aiot.ie.cuhk.edu.hk/papers/ClusterFL.pdf)			
-* Oort: Efficient Federated Learning via Guided Participant Selection,		OSDI	21	[[Paper]](https://www.usenix.org/system/files/osdi21-lai.pdf)			
-* FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition,		SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)			
-* FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking,		SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485929)			
-* Billion-scale federated learning on mobile clients: a submodel design with tunable privacy, MobiCom 20	[[Paper]](https://www.cs.sjtu.edu.cn/~fwu/res/Paper/NWTHJLWC20MobiCom.pdf)	
-* Federated Optimization in Heterogeneous Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/38af86134b65d0f10fe33d30dd76442e-Paper.pdf)
-* Towards Federated Learning at Scale: System Design,		MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)		
-* Federated Kernelized Multi-Task Learning,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/30.pdf)			
 							
 							
 ## AIoT Systems and their Applications	
