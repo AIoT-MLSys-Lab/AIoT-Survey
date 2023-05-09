@@ -311,6 +311,16 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 ### On-Device Inferences							
 #### Scheduling							
 
+#### Multi-tenant Inference	
+
+#### Cross-Processor Inference
+
+#### Applications
+
+* Heimdall: mobile GPU coordination platform for augmented reality applications, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/Heimdall.pdf)
+* MobiPose: real-time multi-person pose estimation on mobile devices	,	SensSys20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)	
+
+
 * ARK: GPU-driven Code Execution for Distributed Deep Learning	,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/hwang)			
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)			
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)				
@@ -323,8 +333,7 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 * IOS: Inter-Operator Scheduler for CNN Acceleration	,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs , MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448625](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf))
 * nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://air.tsinghua.edu.cn/pdf/nn-Meter-Towards-Accurate-Latency-Prediction-of-Deep-Learning-Model-Inference-on-Diverse-Edge-Devices.pdf) (Best Paper)
-* Heimdall: mobile GPU coordination platform for augmented reality applications, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/Heimdall.pdf)
-* MobiPose: real-time multi-person pose estimation on mobile devices	,	SensSys20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)				
+			
 * MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1908.07985.pdf)
 * DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)
