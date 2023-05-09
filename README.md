@@ -1,26 +1,24 @@
-# A collection of survey, research papers, benchmarks, open-source resources, and seminars of AIoT (Artificial Intelligence of Things)
+# AIoT (Artificial Intelligence of Things): Survey, Seminars, Research Papers, Benchmarks, and Open-Source Resources.  
 
-Papers selected from the following conferences: 
+### ToDo  
+* Re-organize the paper by its category (vision-sensing -> computing, video... and Lots of other sensing papers) (AR/Video/Vision?)
+* Seems some "wifi network" paper goes to "wifi sensing" -> need double check 
+* Find at most 10 papers in each sub-topic.
+* Each week, focus on Writing one sub-topic.
+
+## What is AIoT?
+Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
+
+## OSU AIoT Seminar Series
+https://sites.google.com/view/osu-aiot-seminar
+
+## AIoT Papers by Topics
+Majority of the included papers are published at top-tier venues including from 2016 to now: 
 - mobile computing and IoT conferences (MobiCom/MobiSys/SenSys/IPSN/UbiComp)
 - computer networks conferences (NSDI/SIGCOMM) 
 - computer systems conferences (OSDI/SOSP/EuroSys/ASPLOS/ATC)
 - AI Systems conferences (MLSys)
 
-Years: 2018 ~ Present
-
-Find at most 10 papers in each sub-topic.
-
-Each week, focus on Writing one sub-topic.
-
-
-#### ToDo  
-* Re-organize the paper by its category (vision-sensing -> computing, video... and Lots of other sensing papers) (AR/Video/Vision?)
-* Seems some "wifi network" paper goes to "wifi sensing" -> need double check 
-
-## What is AIoT?
-Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
-
-## Table of Contents
   - [Sensing (MobiCom, MobiSys, SenSys, NSDI)](#sensing-mobicom-mobisys-sensys-nsdi)
     - [Wireless Sensing (Look at papers from Jie Xiong @ UMASS)](#wireless-sensing-look-at-papers-from-jie-xiong--umass)
     - [Acoustic Sensing](#acoustic-sensing)
