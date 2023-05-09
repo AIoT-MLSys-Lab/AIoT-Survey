@@ -48,15 +48,6 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
     - [AIoT Systems for Video Analytics](#aiot-systems-for-video-analytics)
     - [AIoT Systems for Agriculture](#aiot-systems-for-agriculture)
 
-## Others
-* RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) (Maybe new section battery?)
-* Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568561)
-* zTT: learning-based DVFS with zero thermal throttling for mobile devices, MobiSys 21 [[Paper]](https://netstech.org/wp-content/uploads/2021/07/zTT_MobiSys21.pdf) (Best Paper)
-* LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937)
-* TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380890)
-* Understanding power consumption of NB-IoT in the wild: tool and large-scale measurement, MobiCom 20 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/nbiot20mobicom.pdf) (NO ML)
-* ePerceptive - Energy Reactive Embedded Intelligence for Batteryless Sensors, SenSys 20 [[Paper]](https://ubicomplab.cs.washington.edu/pdfs/ePerceptive.pdf)
-
 ## Sensing (MobiCom, MobiSys, SenSys, NSDI, UbiComp)
 
 ### Others
@@ -631,6 +622,15 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 ### Others
 * Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Business, MobiCom 22 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_22_1.pdf)
+
+## Others
+* RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) (Maybe new section battery?)
+* Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568561)
+* zTT: learning-based DVFS with zero thermal throttling for mobile devices, MobiSys 21 [[Paper]](https://netstech.org/wp-content/uploads/2021/07/zTT_MobiSys21.pdf) (Best Paper)
+* LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937)
+* TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380890)
+* Understanding power consumption of NB-IoT in the wild: tool and large-scale measurement, MobiCom 20 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/nbiot20mobicom.pdf) (NO ML)
+* ePerceptive - Energy Reactive Embedded Intelligence for Batteryless Sensors, SenSys 20 [[Paper]](https://ubicomplab.cs.washington.edu/pdfs/ePerceptive.pdf)
 
 
 
