@@ -1,10 +1,10 @@
 # AIoT (Artificial Intelligence of Things): Survey, Seminars, Research Papers, Benchmarks, and Open-Source Resources.  
 
 ### ToDo  
-* Re-organize the paper by its category (vision-sensing -> computing, video... and Lots of other sensing papers) (AR/Video/Vision?)
+* Keep adding papers into the list.
+* Put the papers under their correct categories. Create new categories if the papers do not fit the current ones.
 * Seems some "wifi network" paper goes to "wifi sensing" -> need double check 
-* Find at most 10 papers in each sub-topic.
-* Each week, focus on Writing one sub-topic.
+* Each week, focus on writing one sub-topic.
 
 ## What is AIoT?
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
