@@ -568,7 +568,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 							
 ### Federated Learning Systems			
 * PyramidFL: a fine-grained client selection framework for efficient federated learning	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)			
-* FedBalancer: data and pace control for efficient federated learning on heterogeneous clients	,	MobiSys	22	[[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
+* FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients,	MobiSys	22	[[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
 * LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf)
 * Papaya: Practical, Private, and Scalable Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction,		NeurIPS	22	[[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
