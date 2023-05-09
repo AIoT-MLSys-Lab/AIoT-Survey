@@ -380,23 +380,26 @@ FabToys: plush toys with large arrays of fabric-based pressure sensors to enable
 * DeepThin: A Self-Compressing Library for Deep Neural Networks	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/33.pdf)
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241559)			
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework	,	MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210337)			
-							
-							
-							
-### On-Device Training							
+* Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)							
+* MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
+* URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
+
+### Model Deployment
+* ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
+
+
+### On-Device Training	
+
+#### Training on a Single Device
 * Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training	,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)			
 * Mandheling: mixed-precision on-device DNN training with DSP offloading	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
 * Memory-efficient DNN Training on Mobile Device, MobiSys	22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3539765)		
 * Melon: breaking the memory wall for resource-efficient on-device machine learning, MobiSys 22 [[Paper]](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)
-* URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
-* ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
-* MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
-* Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning	,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)			
-* Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
-* Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)
-							
+* Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)			
+#### Distributed On-Device Training
+* Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
 
-							
+													
 ### Edge-Cloud Offloading							
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference	,	MobiCom	22	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3495243.3517016](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf))	
 * Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI, MobiCom 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom22.pdf)
