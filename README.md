@@ -17,11 +17,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 https://sites.google.com/view/osu-aiot-seminar
 
 ## AIoT Papers by Topics
-Majority of the included papers are published at top-tier venues including from 2016 to now: 
-- mobile computing and IoT conferences (MobiCom/MobiSys/SenSys/IPSN/UbiComp)
-- computer networks conferences (NSDI/SIGCOMM) 
-- computer systems conferences (OSDI/SOSP/EuroSys/ASPLOS/ATC)
-- AI Systems conferences (MLSys)
+Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys/IPSN), networks (NSDI/SIGCOMM), computer systems (OSDI/SOSP/EuroSys/ASPLOS/ATC), and AI systems (MLSys) from 2016 to now. 
 
   - [Sensing (MobiCom, MobiSys, SenSys, NSDI)](#sensing-mobicom-mobisys-sensys-nsdi)
     - [Wireless Sensing (Look at papers from Jie Xiong @ UMASS)](#wireless-sensing-look-at-papers-from-jie-xiong--umass)
