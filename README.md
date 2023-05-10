@@ -1,4 +1,4 @@
-# AIoT (Artificial Intelligence of Things): Survey, Seminars, Research Papers, Benchmarks, and Open-Source Resources.  
+# AIoT (Artificial Intelligence of Things): Survey, Seminars, Papers, Benchmarks, and Open-Source Resources.  
 
 ### ToDo (05/09/2023) 
 * Keep adding papers into the list.
