@@ -325,12 +325,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### On-Device Training	
 
 #### Training on a Single Device
-* Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)			
 * Mandheling: mixed-precision on-device DNN training with DSP offloading,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
 * Memory-efficient DNN Training on Mobile Device, MobiSys 22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3539765)		
 * Melon: breaking the memory wall for resource-efficient on-device machine learning, MobiSys 22 [[Paper]](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)
-* Using Deep Data Augmentation Training to Address Software and Hardware Heterogeneities in Wearable and Smartphone Sensing Devices, IPSN 18 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)		
 
 #### Distributed On-Device Training
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
@@ -403,6 +401,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### ML Systems	
 * A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)		
+* Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)			
+* Using Deep Data Augmentation Training to Address Software and Hardware Heterogeneities in Wearable and Smartphone Sensing Devices, IPSN 18 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)		
 	
 	
 ## Networking and Communication							
