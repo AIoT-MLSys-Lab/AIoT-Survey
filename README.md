@@ -27,7 +27,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [On-Device Inferences](#on-device-inferences)
       - [Scheduling](#scheduling)
       - [DNN Compressing](#dnn-compressing)
-    - [On-Device Training Evaluation](#on-device-training-evaluation)
+    - [On-Device Training (Checked by MZ)](#on-device-training)
     - [Offloading](#offloading)
     - [Automated Machine Learning](#automated-machine-learning)
       - [NAS](#nas)
