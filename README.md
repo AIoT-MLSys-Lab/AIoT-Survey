@@ -155,7 +155,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User's Ear, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345454) (NO ML) (Best Paper)
 
 ### Acoustic Sensing							
-* Acoustic Sensing and Communication Using Metasurface	,	NSDI	23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf)
+* Acoustic Sensing and Communication Using Metasurface	, NSDI	23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf)
 * Hybrid Neural Networks for On-device Directional Hearing	,	AAAI	22	[[Paper]](https://arxiv.org/abs/2112.05893)[[Code]](https://github.com/wanganran/HybridBeam)			
 * LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Sign	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3517253)	(NO	ML)	
 * Experience: practical problems for acoustic sensing	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560527)(NO	ML)				
