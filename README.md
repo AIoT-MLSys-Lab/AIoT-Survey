@@ -145,7 +145,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Earables Sensing
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314)
-* ClearBuds: wireless binaural earbuds for learning-based speech enhancement,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538933)	
+* ClearBuds: wireless binaural earbuds for learning-based speech enhancement,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538933)
 * EarGate: Gait-based User Identification with In-ear Microphones, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483240)
 * HeadFi: bringing intelligence to all headphones, MobiCom 21	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448624) (NO ML)	(Best Paper Award Runner-up)
 * Personalizing Head Related Transfer Functions for Earables, SIGCOMM 21 [[Paper]](https://synrg.csl.illinois.edu/papers/UNIQ_Sigcomm21.pdf) (NO ML)
