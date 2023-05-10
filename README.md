@@ -76,7 +76,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Experience: pushing indoor localization from laboratory to the wild, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (Best Community Contribution Runner-ups) (NO ML)
 * Wiffract: A New Foundation for RF Imaging via Edge Tracing, MobiCom 22 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/PallaproluKoranyMostofi_MobiCom2022.pdf) (NO ML)
 * RF-URL: unsupervised representation learning for RF sensing, MobiCom 22 [[Paper]](http://staff.ustc.edu.cn/~dongheng/dhfiles/rf-url.pdf)
-* Wi-drone: wi-fi-based 6-DoF tracking for indoor drone flight control, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538936)
 * Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.10957.pdf)
 * SiFall: Practical Online Fall Detection with RF Sensing, SenSys 22 [[Paper]](https://arxiv.org/pdf/2301.03773.pdf)
 * Solving the WiFi Sensing Dilemma in Reality Leveraging Conformal Prediction, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568529)
@@ -162,9 +161,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SPiDR: ultra-low-power acoustic spatial sensing for micro-robot navigation	,	MobiSys	22	[[Paper]](https://www.cs.umd.edu/~nakul/assets/papers/spidr_mobisys2022_nakul.pdf)	(NO	ML) (Best Paper)
 * SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568534)
 * Room-scale Hand Gesture Recognition Using Smart Speakers, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dli/papers/SenSys2022_SpeakerGesture.pdf)
-* AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking, SenSys 22 [[Paper]](https://mottola.faculty.polimi.it/papers/sun22aim.pdf)
 * Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf)
-* MicNest: Long-Range Instant Acoustic Localization of Drones in Precise Landing, SenSys 22 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2022.MicNest.pdf)
 * SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568530)	
 * SpeechQoE: A Novel Personalized QoE Assessment Model for Voice Services via Speech Sensing, SenSys 22 [[Paper]](https://ranger.uta.edu/~mingli/publications/SpeechQoE.pdf)
 * Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/Telesonar-SenSys22.pdf) (NO ML)		
@@ -365,7 +362,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Walle: An End-to-End,  General-Purpose,  and Large-Scale Production System for Device-Cloud Collaborative Machine Learning	,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)			
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
 * Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448628](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)	
-* Visage: Enabling Timely Analytics for Drone Imagery, MobiCom 21 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/Visage_Mobicom_2021.pdf) 			
 * CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud	,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215)	
 * SPINN: synergistic progressive inference of neural networks over device and cloud, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419194)		
 * EagleEye: wearable camera-based person identification in crowded urban spaces, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/EagleEye.pdf)
@@ -583,7 +579,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * OnRL: improving mobile video telephony via online reinforcement learning, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419186)
 * NEMO: enabling neural-enhanced video streaming on commodity mobile devices, MobiCom 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3372224.3419185.pdf)
 * ViVo: visibility-aware mobile volumetric video streaming, MobiCom 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf)
-* C-14: Assured Timestamps for Drone Videos, MobiCom 20 [[Paper]](https://people.cs.umass.edu/~elm/papers/mobicom20-final809.pdf)
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices,	MobiSys	20	[[Paper]](https://dongshuhao.github.io/assets/pdf/2020/Wu_2020.pdf)		
 * Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence,		SenSys	20	[[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)	
 * TSM: Temporal Shift Module for Efficient Video Understanding,		ICCV	19	[[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)			
@@ -630,6 +625,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 
 ### AIoT Systems for Drones
+* Wi-drone: wi-fi-based 6-DoF tracking for indoor drone flight control, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538936)
+* AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking, SenSys 22 [[Paper]](https://mottola.faculty.polimi.it/papers/sun22aim.pdf)
+* MicNest: Long-Range Instant Acoustic Localization of Drones in Precise Landing, SenSys 22 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2022.MicNest.pdf)
+* Visage: Enabling Timely Analytics for Drone Imagery, MobiCom 21 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/Visage_Mobicom_2021.pdf)	
+* C-14: Assured Timestamps for Drone Videos, MobiCom 20 [[Paper]](https://people.cs.umass.edu/~elm/papers/mobicom20-final809.pdf)
 
 ### AIoT Systems for Agriculture  
 * IoTree: a battery-free wearable system with biocompatible sensors for continuous tree health monitoring, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3567652) (NO ML)
