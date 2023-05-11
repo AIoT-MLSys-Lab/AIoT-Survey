@@ -199,6 +199,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * UltraDepth: Exposing High-Resolution Texture from Depth Cameras, SenSys 21 [[Paper]](http://cvlab.cse.msu.edu/pdfs/Xie_Ouyang_Liu_Xing_UltraDepth_SenSys2021.pdf)
 * FaceRevelio: a face liveness detection system for smartphones with a single front camera, MobiCom 20 [[Paper]](https://habiba-farrukh.github.io/files/FaceRevelio.pdf)
 * Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power	,	ASPLOS	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446737)			
+* EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices,	MobiSys	20	[[Paper]](https://dongshuhao.github.io/assets/pdf/2020/Wu_2020.pdf)		
 * Approximate query service on autonomous IoT cameras	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * Starfish: resilient image compression for AIoT cameras	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430769)	
 * GazeGraph: Graph-based Few-Shot Cognitive Context Sensing from Human Visual Behavior, SenSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10296635)
@@ -571,13 +572,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images,		MobiSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081336)	
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,		SenSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693)
 		
-### AIoT Systems for Video Analytics 							
+### AIoT Systems for Video Streaming and Analytics 							
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
-* Multiview Transformers for Video Recognition, CVPR 22 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yan_Multiview_Transformers_for_Video_Recognition_CVPR_2022_paper.html)		
 * AccMPEG: Optimizing Video Encoding for Video Analytics, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/98f13708210194c475687be6106a3b84-Paper.pdf)
 * Vues: Practical Mobile Volumetric Video Streaming Through Multiview Transcoding, MobiCom22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vues_mobicom22.pdf)
 * Tutti: coupling 5G RAN and mobile edge computing for latency-critical video analytics, MobiCom 22 [[Paper]](https://dl.acm.org/doi/10.1145/3495243.3560538)
-* Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality, SenSys 22 [[Paper]](https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf)
 * Turbo: Opportunistic Enhancement for Edge Video Analytics, SenSys 22 [[Paper]](https://arxiv.org/pdf/2207.00172.pdf)	
 * Enhancing Video Analytics Accuracy via Real-time Automated Camera Parameter Tuning, SenSys 22 [[Paper]](https://arxiv.org/pdf/2107.03964.pdf)
 * Loki: Improving Long Tail Performance of Learning-Based Real-Time Video Adaptation by Fusing Rule-Based Models, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483259)
@@ -585,7 +584,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * OnRL: improving mobile video telephony via online reinforcement learning, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419186)
 * NEMO: enabling neural-enhanced video streaming on commodity mobile devices, MobiCom 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3372224.3419185.pdf)
 * ViVo: visibility-aware mobile volumetric video streaming, MobiCom 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf)
-* EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices,	MobiSys	20	[[Paper]](https://dongshuhao.github.io/assets/pdf/2020/Wu_2020.pdf)		
 * Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence,		SenSys	20	[[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)	
 * TSM: Temporal Shift Module for Efficient Video Understanding,		ICCV	19	[[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)			
 * Scaling Video Analytics on Constrained Edge Nodes,		MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf)		
@@ -618,6 +616,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 ### AIoT Systems for AR/VR/MR
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki)	(NO	ML)
+* Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality, SenSys 22 [[Paper]](https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf)
 * SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, MobiCom 22 [[Papaer]](https://www-users.cse.umn.edu/~fengqian/paper/salientvr_mobicom22.pdf)
 * Face-Mic: Inferring Live Speech and Speaker Identity via Subtle Facial Dynamics Captured by AR/VR Motion Sensors, MobiCom 21 [[Paper]](https://www.winlab.rutgers.edu/~yychen/papers/FaceMic.pdf)
 * FollowUpAR: enabling follow-up effects in mobile AR applications,		MobiSys	21	[[Paper]](http://tns.thss.tsinghua.edu.cn/~jingao/papers/mobisys21_followupar.pdf)	
