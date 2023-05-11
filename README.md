@@ -533,6 +533,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SpecEye: Towards Pervasive and Privacy-Preserving Screen Exposure Detection in Daily Life, MobiSys 19 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2019a.pdf)
 * Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear,		MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210344)	(NO	ML)
 * CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping, MobiSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/CardioCam.pdf)
+* H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration, IPSN 19 [[Paper]](https://arxiv.org/pdf/1904.00750.pdf)
 
 
 ## AIoT Systems and their Applications	
@@ -559,10 +560,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Towards flexible wireless charging for medical implants using distributed antenna system, MobiCom 20 [[Paper]](https://arxiv.org/pdf/2001.07644.pdf) (NO ML)
 * SpiroSonic: monitoring human lung function via acoustic sensing on commodity smartphones, MobiCom 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom20.pdf)
 * Contactless seismocardiography via deep learning radars, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419982)
-* Painometry: Wearable and Objective !antification System for Acute Postoperative Pain, MobiSys 20 [[Paper]](http://mnslab.org/tamvu/paper/2020%20Painometry_Hoang.pdf)
+* Painometry: Wearable and Objective Quantification System for Acute Postoperative Pain, MobiSys 20 [[Paper]](http://mnslab.org/tamvu/paper/2020%20Painometry_Hoang.pdf)
 * RFWash: A Weakly Supervised Tracking of Hand Hygiene Technique, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430733)
 * Event-triggered Natural Hazard Monitoring with Convolutional Neural Networks on the Edge, IPSN 19 [[Paper]](https://arxiv.org/pdf/1810.09409.pdf)
-* H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration, IPSN 19 [[Paper]](https://arxiv.org/pdf/1904.00750.pdf)
 * Contactless Infant Monitoring using White Noise,		MobiCom	19	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/whitenoise.pdf)	(NO	ML)	
 * Experience: Design, Development and Evaluation of a Wearable Device for mHealth Applications, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345432) (NO ML)
 * HealthSense: Software-defined Mobile-based Clinical Trials, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345433) (Best Paper)
