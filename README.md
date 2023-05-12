@@ -326,6 +326,13 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1908.07985.pdf)
 * DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)
 * Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391)
+* Using deep data augmentation training to address software and hardware heterogeneities in wearable and smartphone sensing devices, IPSN 2018
+*  Multimodal deep learning for activity and context recognition, UbiComp 2018
+* Low-resource multi-task audio sensing for mobile and embedded devices via shared deep neural network representations, UbiComp 2017
+* DeepEye:ResourceEfficientLocalExecutionofMultiple DeepVisionModelsusingWearableCommodityHardware, MobiSys 2017
+* Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 2016
+* DeepX: ASoftwareAcceleratorforLow-Power DeepLearningInferenceonMobileDevices
+* DeepEar: RobustSmartphoneAudioSensingin UnconstrainedAcousticEnvironmentsusingDeepLearning, UbiComp 2015 
 
 ### On-Device Training	
 
