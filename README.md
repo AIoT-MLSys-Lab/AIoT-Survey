@@ -41,10 +41,13 @@ Majority of the included papers are published at top-tier venues in the areas of
   - [Security and Privacy](#security-and-privacy)
     - [Security of AIoT](#security-of-aiot)
   - [AIoT Systems and their Applications](#aiot-systems-and-their-applications)
-    - [AIoT Systems for Healthcare and Social Good](#aiot-systems-for-healthcare-and-social-good)
+    - [AIoT Systems for Healthcare and Wellbeing (Checked by MZ)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Analytics](#aiot-systems-for-video-analytics)
-    - [AIoT Systems for Agriculture](#aiot-systems-for-agriculture)
-
+    - [AIoT Systems for AR/VR/MR (Checked by MZ)](#aiot-systems-for-ar/vr/mr)
+    - [AIoT Systems for Drones (Checked by MZ)](#aiot-systems-for-drones)
+    - [AIoT Systems for Agriculture (Checked by MZ)](#aiot-systems-for-agriculture)
+    - [AIoT Systems for Biology (Checked by MZ)](#aiot-systems-for-biology)
+    	
 ## Sensing
 
 ### Wireless Sensing
