@@ -621,8 +621,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications,		ASPLOS	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)		
 * EVA: An Efficient System for Exploratory Video Analysis,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/22.pdf)			
 * Efficient Multi-Tenant Inference on Video using Microclassifiers,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/133.pdf)			
-* Dynamic Stem-Sharing for Multi-Tenant Video Processing,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/149.pdf)			
-* Rubiks: Practical 360-Degree Streaming for Smartphones,		MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210323)	(NO	ML)	
+* Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing,		ATC	18	[[Paper]]([https://mlsys.org/Conferences/doc/2018/149.pdf](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf))			
+* Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210323)	(NO	ML)	
 
 ### AIoT Systems for Autonomous Driving					
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
