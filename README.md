@@ -543,6 +543,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping, MobiSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/CardioCam.pdf)
 * H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration, IPSN 19 [[Paper]](https://arxiv.org/pdf/1904.00750.pdf)
 * Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508)	
+* Face-Mic: Inferring Live Speech and Speaker Identity via Subtle Facial Dynamics Captured by AR/VR Motion Sensors, MobiCom 21 [[Paper]](https://www.winlab.rutgers.edu/~yychen/papers/FaceMic.pdf)
 
 
 ## AIoT Systems and their Applications	
@@ -625,7 +626,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki)	(NO	ML)
 * Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality, SenSys 22 [[Paper]](https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf)
 * SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, MobiCom 22 [[Papaer]](https://www-users.cse.umn.edu/~fengqian/paper/salientvr_mobicom22.pdf)
-* Face-Mic: Inferring Live Speech and Speaker Identity via Subtle Facial Dynamics Captured by AR/VR Motion Sensors, MobiCom 21 [[Paper]](https://www.winlab.rutgers.edu/~yychen/papers/FaceMic.pdf)
 * FollowUpAR: enabling follow-up effects in mobile AR applications,		MobiSys	21	[[Paper]](http://tns.thss.tsinghua.edu.cn/~jingao/papers/mobisys21_followupar.pdf)	
 * Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality, MobiSys 21 [[Paper]](https://arxiv.org/pdf/2106.15280.pdf)
 * Heimdall: mobile GPU coordination platform for augmented reality applications, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/Heimdall.pdf)
