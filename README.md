@@ -572,7 +572,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 ## AIoT Systems and their Applications	
 							
 ### AIoT Systems for Healthcare and Wellbeing							
-* SmartLens : Sensing Eye Activities Using Zero-power Contact Lens,		MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532)	(NO	ML)	
+* SmartLens: Sensing Eye Activities Using Zero-power Contact Lens,		MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532)	(NO	ML)	
 * Network-side digital contact tracing on a large university campus, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2201.10641.pdf) (NO ML)
 * PROS: an Efficient Pattern-Driven Compressive Sensing Framework for Low-Power Biopotential-based Wearables with On-chip Intelligence, MobiCom 22 [[Paper]](https://theyoungkwon.github.io/papers/articles/pham_pros_mobicom22.pdf)
 * EarHealth: an earphone-based acoustic otoscope for detection of multiple ear diseases in daily life, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538935)
@@ -598,6 +598,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300117)
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images,		MobiSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081336)	
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,		SenSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693)
+* BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 2014 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf)
 		
 ### AIoT Systems for Video Streaming and Analytics 							
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
