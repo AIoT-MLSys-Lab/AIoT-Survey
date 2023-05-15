@@ -20,6 +20,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
   - [Sensing](#sensing-mobicom-mobisys-sensys-nsdi)
     - [Wireless Sensing](#wireless-sensing-look-at-papers-from-jie-xiong--umass)
+    - [Earables (Checked with MZ)](#erables)
     - [Acoustic Sensing](#acoustic-sensing)
     - [Under Water Sensing](#under-water-sensing-look-at-papers-from-fadel--mit)
     - [Multi-modal Sensing](#multi-modal-sensing)
@@ -147,12 +148,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Chorus: UWB Concurrent Transmissions for GPS-like Passive Localization of Countless Target, IPSN 19 [[Paper]](http://dit.unitn.it/~picco/papers/ipsn19-uwb.pdf) (NO ML)
 * SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tag, IPSN 19 [[Paper]](http://www.carloalbertoboano.com/documents/grosswindhager19snaploc.pdf) (NO ML)
 
-### Earables Sensing
+### Earables
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314)
 * ClearBuds: wireless binaural earbuds for learning-based speech enhancement,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538933)
 * EarGate: Gait-based User Identification with In-ear Microphones, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483240)
 * BioFace-3D: Continuous 3D Facial Reconstruction Through Lightweight Single-ear Biosensors, MobiCom 21 [[Paper]](http://wsslab.org/vpnguyen/papers/bioface_2021.pdf)
-
 * HeadFi: bringing intelligence to all headphones, MobiCom 21	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448624) (NO ML)	(Best Paper Award Runner-up)
 * Personalizing Head Related Transfer Functions for Earables, SIGCOMM 21 [[Paper]](https://synrg.csl.illinois.edu/papers/UNIQ_Sigcomm21.pdf) (NO ML)
 * OESense: employing occlusion effect for in-ear human sensing, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467680)
