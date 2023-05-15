@@ -326,6 +326,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices	,	SenSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
 
 #### Multi-Tenant Inferences	
+* Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)	
 																			
 #### Memory Optimization							
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
@@ -621,8 +622,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,		SenSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3356250.3360028)			
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications,		ASPLOS	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)		
 * EVA: An Efficient System for Exploratory Video Analysis,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/22.pdf)			
-* Efficient Multi-Tenant Inference on Video using Microclassifiers,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/133.pdf)			
-* Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing,		ATC	18	[[Paper]]([https://mlsys.org/Conferences/doc/2018/149.pdf](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf))			
+* Efficient Multi-Tenant Inference on Video using Microclassifiers,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/133.pdf)					
 * Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3210240.3210323)	(NO	ML)	
 
 ### AIoT Systems for Autonomous Driving					
