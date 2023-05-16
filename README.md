@@ -73,6 +73,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)
 * Octopus: a practical and versatile wideband MIMO sensing platform, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483267)
 * RFMap: Generating Indoor Maps using RF Signals, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110988)
+* EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)
 
 #### Bluetooth Sensing
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
@@ -137,6 +138,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf)	
 * WaveEar: Exploring a mmWave-based Noise-resistant Speech Sensing for Voice-User Interface, MobiSys 19 [[Paper]](https://www.acsu.buffalo.edu/~huiningl/papers/waveear2019.pdf)	
 * FerroTag: a paper-based mmWave-scannable tagging infrastructure, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360019) (Best Paper)
+* Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852)
+
 
 
 
@@ -154,6 +157,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * UWHear: Through-wall Extraction and Separation of Audio Vibrations Using Wireless Signals, SenSys 20 [[Paper]](https://ziqi.plus/papers/UWHear.pdf) (NO ML)
 * Chorus: UWB Concurrent Transmissions for GPS-like Passive Localization of Countless Target, IPSN 19 [[Paper]](http://dit.unitn.it/~picco/papers/ipsn19-uwb.pdf) (NO ML)
 * SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tag, IPSN 19 [[Paper]](http://www.carloalbertoboano.com/documents/grosswindhager19snaploc.pdf) (NO ML)
+* SALMA: UWB-based Single-Anchor Localization System using Multipath Assistance, SenSys 18 [[Paper]](http://www.carloalbertoboano.com/documents/grosswindhager18salma.pdf)
 
 ### Earables
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314)
@@ -207,6 +211,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * BreathListener: Fine-grained Breathing Monitoring in Driving Environments Utilizing Acoustic Signals, MobiSys 19 [[Paper]](https://www.cs.sjtu.edu.cn/~linghe.kong/2019/XuMOBISYS2019BreathListener.pdf)
 * Animal-Borne Anti-Poaching System, MobiSys 19 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326080) (NO ML)
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing	,	SenSys	19	[[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)			
+* UbiTap: Leveraging Acoustic Dispersion for Ubiquitous Touch Interface on Solid Surfaces, SenSys 18 [[Paper]](http://cps.kaist.ac.kr/papers/18SenSys-UbiTap.pdf)
 * In-body backscatter communication and localization	,	SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565)	(NO ML)	
 													
 ### Vision Sensing		
@@ -363,6 +368,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)
 * Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391)
 * Using deep data augmentation training to address software and hardware heterogeneities in wearable and smartphone sensing devices, IPSN 2018
+* Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274836)
 *  Multimodal deep learning for activity and context recognition, UbiComp 2018
 * Low-resource multi-task audio sensing for mobile and embedded devices via shared deep neural network representations, UbiComp 2017
 * DeepEye:ResourceEfficientLocalExecutionofMultiple DeepVisionModelsusingWearableCommodityHardware, MobiSys 2017
@@ -449,7 +455,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * TASO: optimizing deep learning computation with automatic generation of graph substitutions	,	SOSP	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3341301.3359630)			
 * Intel® nGraph™ An Intermediate Representation,  Compiler,  and Executor for Deep Learning	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/132.pdf)			
 * Compiling machine learning programs via high-level tracing,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/146.pdf)	
-* TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI	18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)			
+* TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI	18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)		
+* CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
+	
 							
 ### Others
 
@@ -495,9 +503,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345451) (NO ML)
 * Slocalization: Sub-muW, Static, Decimeter-Accurate Localization with Ultra Wideband Backscatter, IPSN 18 [[Paper]](https://patpannuto.com/pubs/pannuto18slocalization.pdf) (NO ML)
 * Towards Battery-Free HD Video Streaming	,	NSDI	18	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)	(NO	ML)	
-* Charging a Smartphone Across a Room Using Lasers	,	UbiComp	18	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/laserpower.pdf)	(NO	ML)	
-* LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity	,	UbiComp	17	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf)	(NO	ML)	
-* Battery-Free Cellphone		UbiComp	17	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/phone.pdf) 	(NO ML)		
+* 3D Localization for Sub-Centimeter Sized Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274851) (Best Paper)
+* Charging a Smartphone Across a Room Using Lasers	,	UbiComp	18	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/laserpower.pdf)	(NO ML)	
+* LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf)	(NO ML)	
+* Battery-Free Cellphone, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/phone.pdf) (NO ML)		
 							
 ### LoRa							
 * Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems	,	NSDI	22	[[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf)	(NO	ML)	
@@ -591,6 +600,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping, MobiSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/CardioCam.pdf)
 * H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration, IPSN 19 [[Paper]](https://arxiv.org/pdf/1904.00750.pdf)
 * Moving target defense for embedded deep visual sensing against adversarial examples, SenSys 19 [[Paper]](https://personal.ntu.edu.sg/tanrui/pub/deepMTD.pdf)
+* ShieldScatter: Improving IoT Security with Backscatter Assistance, SenSys 18 [[Paper]](https://arxiv.org/pdf/1810.07058.pdf)
 * Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508)	
 * Face-Mic: Inferring Live Speech and Speaker Identity via Subtle Facial Dynamics Captured by AR/VR Motion Sensors, MobiCom 21 [[Paper]](https://www.winlab.rutgers.edu/~yychen/papers/FaceMic.pdf)
 
@@ -687,6 +697,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View,		MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079)	
 * Frugal following: power thrifty object detection and tracking for mobile augmented reality, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360044)	
 * HandSense: capacitive coupling-based dynamic, micro finger gesture recognition, SenSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/sensys19-final195.pdf)
+* MARVEL: Enabling Mobile Augmented Reality with Low Energy and Low Latency, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274834)
 * When Virtual Reality Meets Internet of Things in the Gym: Enabling Immersive Interactive Machine Exercises, UbiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3214281)	
 
 ### AIoT Systems for Drones
