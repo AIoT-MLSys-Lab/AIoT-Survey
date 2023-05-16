@@ -54,15 +54,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Wireless Sensing
 
-#### General Wireless Sensing (Temporal subsubsectionn that using RF signal)
-* RFTacho: Non-intrusive RF monitoring of rotating machines, IPSN 22 [[Paper]](https://arxiv.org/pdf/2202.09841.pdf)
-* LiqRay: non-invasive and fine-grained liquid recognition system, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560540)
-* RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)
-* Octopus: a practical and versatile wideband MIMO sensing platform, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483267)
-* TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO	ML)
-* RFMap: Generating Indoor Maps using RF Signals, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110988)
-* EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)
-
 #### Bluetooth Sensing
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
 * Intermittently-powered bluetooth that works, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538934)
@@ -238,7 +229,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FaceRevelio: a face liveness detection system for smartphones with a single front camera, MobiCom 20 [[Paper]](https://habiba-farrukh.github.io/files/FaceRevelio.pdf)
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices,	MobiSys	20	[[Paper]](https://dongshuhao.github.io/assets/pdf/2020/Wu_2020.pdf)		
 * Approximate query service on autonomous IoT cameras	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
-* Starfish: resilient image compression for AIoT cameras	,	SenSys	20	[[Paper]](https://panhu.me/pdf/2020/Starfish.pdf)	
 * GazeGraph: Graph-based Few-Shot Cognitive Context Sensing from Human Visual Behavior, SenSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10296635)
 * BackCam: Wireless Computer Vision Using Commodity Devices, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310403)
 * Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs,	MobiSys	19	[[Paper]](https://meteor.ame.asu.edu/publications/mobisys19hu-banner.pdf) (NO ML)
@@ -325,7 +315,13 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Neuroplex: Learning to Detect Complex Events in Sensor Networks through Knowledge Injection, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3431158)
 * Towards Environment Independent Device Free Human Activity Recognition, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241548)
 * Surface MIMO: Using Conductive Surfaces For MIMO Between Small Devices, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1809.02726.pdf)
-
+* RFTacho: Non-intrusive RF monitoring of rotating machines, IPSN 22 [[Paper]](https://arxiv.org/pdf/2202.09841.pdf)
+* LiqRay: non-invasive and fine-grained liquid recognition system, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560540)
+* RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)
+* Octopus: a practical and versatile wideband MIMO sensing platform, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483267)
+* TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO	ML)
+* RFMap: Generating Indoor Maps using RF Signals, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110988)
+* EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)
 
 									
 ## Computing							
@@ -536,7 +532,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * OFDMA-Enabled Wi-Fi Backscatter,MobiCom 19 [[Paper]](https://renjiezhao.github.io/files/OFDMA_BS_paper.pdf) (NO ML)
 * TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345451) (NO ML)
 * Slocalization: Sub-muW, Static, Decimeter-Accurate Localization with Ultra Wideband Backscatter, IPSN 18 [[Paper]](https://patpannuto.com/pubs/pannuto18slocalization.pdf) (NO ML)
-* Towards Battery-Free HD Video Streaming	,	NSDI	18	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)	(NO	ML)	
+* Towards Battery-Free HD Video Streaming, NSDI	18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)	(NO	ML)	
 * Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241544)
 * Spatial Stream Backscatter Using Commodity WiFi, MobiSys 18 [[Paper]](https://www2.cs.sfu.ca/~jcliu/Papers/mobisys18-Liu.pdf)
 * BARNET: Activity Recognition using Passive Backscattering Tag-to-Tag Network, MobiSys 18 [[Paper]](http://www.wings.cs.sunysb.edu/pdfs/2018-Jihoon-mobisys.pdf)
@@ -701,6 +697,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * NEMO: enabling neural-enhanced video streaming on commodity mobile devices, MobiCom 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3372224.3419185.pdf)
 * ViVo: visibility-aware mobile volumetric video streaming, MobiCom 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf)
 * Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence,		SenSys	20	[[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)	
+* Starfish: resilient image compression for AIoT cameras, SenSys 20 [[Paper]](https://panhu.me/pdf/2020/Starfish.pdf)	
 * TSM: Temporal Shift Module for Efficient Video Understanding,		ICCV	19	[[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)			
 * Scaling Video Analytics on Constrained Edge Nodes,		MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf)		
 * Jigsaw: Robust Live 4K Video Streaming, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300127) (NO ML)
@@ -711,7 +708,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Efficient Multi-Tenant Inference on Video using Microclassifiers,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/133.pdf)				
 * DeepCache: Principled Cache for Mobile Deep Vision, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1712.01670.pdf)	
 * Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241565)
-* Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210323) (NO ML)	
 
 ### AIoT Systems for Autonomous Driving					
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
@@ -760,6 +756,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Frugal following: power thrifty object detection and tracking for mobile augmented reality, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360044)	
 * HandSense: capacitive coupling-based dynamic, micro finger gesture recognition, SenSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/sensys19-final195.pdf)
 * Conductive Inkjet Printed Passive 2D TrackPad for VR Interaction, MobiCom 18 [[Paper]](http://xyzhang.ucsd.edu/papers/CGao_MobiCom18_Inkput.pdf)
+* Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210323) (NO ML)
 * Empath-D: VR-based Empathetic App Design for Accessibility, MobiSys 18 [[Paper]](https://nclab.kaist.ac.kr/files/papers/Conference/mobisys18-10-kim.pdf)
 * Depth Aware Finger Tapping on Virtual Display, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210315)
 * MARVEL: Enabling Mobile Augmented Reality with Low Energy and Low Latency, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274834)
