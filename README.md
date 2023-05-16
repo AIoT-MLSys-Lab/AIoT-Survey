@@ -298,7 +298,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Batteryless
 * DeepAuditor: Distributed Online Intrusion Detection System for IoT devices via Power Side-channel Auditing, IPSN 22 [[Paper]](https://arxiv.org/pdf/2106.12753.pdf)
 * An Energy Supervisor Architecture for Energy-Harvesting Applications, IPSN 22 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/saoda22altair.pdf)
-* RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) (Maybe new section battery?)
+* RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) 
 * Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568561)
 * Understanding power consumption of NB-IoT in the wild: tool and large-scale measurement, MobiCom 20 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/nbiot20mobicom.pdf) (NO ML)
 * Ember: energy management of batteryless event detection sensors with deep reinforcement learning,	SenSys	20	[[Paper]](https://assets.amazon.science/60/cf/c743fa3b4078825ff4ec05120fe7/ember-energy-management-of-batteryless-event-detection-sensors-with-deep-reinforcement-learning.pdf)		
