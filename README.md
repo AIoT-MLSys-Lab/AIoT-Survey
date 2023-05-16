@@ -53,25 +53,13 @@ Majority of the included papers are published at top-tier venues in the areas of
 ## Sensing
 
 ### Wireless Sensing
-* Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237)	(NO	ML)
-* Exploring Multiple Antennas for Long-range WiFi Sensing	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO	ML)
-* Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation	,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)		
-* Empowering smart buildings with self-sensing concrete for structural health monitoring	,	SIGCOMM	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270)	(NO	ML)
-* TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO	ML)
-* LTE-based Pervasive Sensing Across Indoor and Outdoor	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)	(NO	ML)
-* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)	
-* Towards Position-Independent Sensing for Gesture Recognition with Wi-Fi, UbiComp 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3463504)
-* Ember: energy management of batteryless event detection sensors with deep reinforcement learning	,	SenSys	20	[[Paper]](https://assets.amazon.science/60/cf/c743fa3b4078825ff4ec05120fe7/ember-energy-management-of-batteryless-event-detection-sensors-with-deep-reinforcement-learning.pdf)		
-* RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430735)		
-* FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dapowan.github.io/files/FaHo.pdf)	
-* Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241547)	(NO	ML)
-* Cross-Frequency Communication: Near-Field Identification of UHF RFIDs with WiFi!	,	MobiCom	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3241539.3241569)		
 
 #### General Wireless Sensing (Temporal subsubsectionn that using RF signal)
 * RFTacho: Non-intrusive RF monitoring of rotating machines, IPSN 22 [[Paper]](https://arxiv.org/pdf/2202.09841.pdf)
 * LiqRay: non-invasive and fine-grained liquid recognition system, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560540)
 * RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)
 * Octopus: a practical and versatile wideband MIMO sensing platform, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483267)
+* TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO	ML)
 * RFMap: Generating Indoor Maps using RF Signals, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110988)
 * EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)
 
@@ -85,12 +73,15 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 
 #### Wi-Fi Sensing
+* Exploring Multiple Antennas for Long-range WiFi Sensing, IMWUT/UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO ML)
+* Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, IMWUT/UbiComp 22[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
 * Experience: pushing indoor localization from laboratory to the wild, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (Best Community Contribution Runner-ups) (NO ML)
 * Wiffract: A New Foundation for RF Imaging via Edge Tracing, MobiCom 22 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/PallaproluKoranyMostofi_MobiCom2022.pdf) (NO ML)
 * RF-URL: unsupervised representation learning for RF sensing, MobiCom 22 [[Paper]](http://staff.ustc.edu.cn/~dongheng/dhfiles/rf-url.pdf)
 * Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.10957.pdf)
 * SiFall: Practical Online Fall Detection with RF Sensing, SenSys 22 [[Paper]](https://arxiv.org/pdf/2301.03773.pdf)
 * Solving the WiFi Sensing Dilemma in Reality Leveraging Conformal Prediction, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568529)
+* Towards Position-Independent Sensing for Gesture Recognition with Wi-Fi, UbiComp 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3463504)
 * WiBeacon: Expanding BLE Location-based Services via WiFi, MobiCom 21 [[Paper]](https://liux4189.github.io/files/WiBeacon_MobiCom_CameraReady.pdf) (NO ML)
 * Counting a stationary crowd using off-the-shelf wifi, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468012) (NO ML)
 * OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi, SenSys 21 [[Paper]](https://ruixiao24.github.io/files/rui_onefi.pdf)
@@ -124,6 +115,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * 3D-OmniTrack: 3D Tracking with COTS RFID Systems, IPSN 19 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2019.4.pdf) (NO ML)
 * Are RFID Sensing Systems Ready for the Real World?, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326084)
 * Detecting Misplaced RFID Tags on Static Shelved Items, MobiSys 19 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2019/luo-mobisys19.pdf)
+* FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dapowan.github.io/files/FaHo.pdf)	
 * Tagtag: material sensing with commodity RFID, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360027)
 * Orientation-aware RFID Tracking with Centimeter-level Accuracy, IPSN 18 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2018.8.pdf) (NO ML)
 * Challenge: RFID Hacking for Fun and Profit, MobiCom 18 [[Paper]](http://web.cs.ucla.edu/~omid/Papers/Mobicom18a.pdf)
@@ -155,9 +147,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241579) (NO ML)
 * Multi-Stream Beam-Training for mmWave MIMO Networks, MobiCom 18 [[Paper]](https://cse.buffalo.edu/faculty/dimitrio/publications/mobicom18_mute.pdf)
 * Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852)
-
-
-
 
 #### TeraHertz Sensing
 * Quasi-Optical 3D localization using Asymmetric Signatures above 100 GHz, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517022) (NO ML)
@@ -284,6 +273,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 								
 									
 ### Multi-modal Sensing		
+* Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)		
 * Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensor, IPSN 22 [[Paper]](https://www.winlab.rutgers.edu/~hansiiii/papers/ViFi_Paper___IPSN_2022__Camera_Ready_.pdf)
 * VMA: Domain Variance- and Modality-Aware Model Transfer for Fine-Grained Occupant Activity Recognition, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a247/962400a247.pdf)
 * Cosmo: contrastive fusion learning with small data for multimodal human activity recognition,	MobiCom	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560519)
@@ -314,6 +304,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) (Maybe new section battery?)
 * Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568561)
 * Understanding power consumption of NB-IoT in the wild: tool and large-scale measurement, MobiCom 20 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/nbiot20mobicom.pdf) (NO ML)
+* Ember: energy management of batteryless event detection sensors with deep reinforcement learning,	SenSys	20	[[Paper]](https://assets.amazon.science/60/cf/c743fa3b4078825ff4ec05120fe7/ember-energy-management-of-batteryless-event-detection-sensors-with-deep-reinforcement-learning.pdf)		
 * ePerceptive - Energy Reactive Embedded Intelligence for Batteryless Sensors, SenSys 20 [[Paper]](https://ubicomplab.cs.washington.edu/pdfs/ePerceptive.pdf)
 * Shepherd: A Portable Testbed for the Batteryless IoT, SenSys 19 [[Paper]](https://wwwpub.zih.tu-dresden.de/~mzimmerl/pubs/geissdoerfer19shepherd.pdf) (NO ML)
 * SkinnyPower: enabling batteryless wearable sensors via intra-body power transfer, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360034) (NO ML)
@@ -327,6 +318,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
 * FabToys: plush toys with large arrays of fabric-based pressure sensors to enable fine-grained interaction detection, MobiSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/FabToy-MobiSys22.pdf)
 * MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://alansonsample.com/publications/docs/2021%20-%20MobiCom%20-%20MagX-%20Wearable,%20Untethered%20Hands%20Tracking%20with%20Passive%20Magnets.pdf) (using magnetic)
+* LTE-based Pervasive Sensing Across Indoor and Outdoor, SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)	(NO ML)
 * Locating Everyday Objects using NFC Textiles, IPSN 21 [[Paper]](https://swarunkumar.com/papers/textilesense-ipsn2021.pdf)
 * LOCI: Privacy-aware, Device-free, Low-power Localization of Multiple Persons using IR Sensors, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9111059)
 * From relative azimuth to absolute location: pushing the limit of PIR sensor based localization, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380878)
@@ -405,12 +397,14 @@ Majority of the included papers are published at top-tier venues in the areas of
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
 
 #### Applications
+* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)	
 * Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9110971) [[code]](https://github.com/lkh329/Supreme)
 * MobiPose: real-time multi-person pose estimation on mobile devices,	SensSys20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)	
+* RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition,	SenSys	20 [[Paper]](https://arxiv.org/pdf/2111.04566.pdf)		
 * MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1908.07985.pdf)
 * DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)
 * Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391)
-* Using deep data augmentation training to address software and hardware heterogeneities in wearable and smartphone sensing devices, IPSN 2018
+* Using deep data augmentation training to address software and hardware heterogeneities in wearable and smartphone sensing devices, IPSN 2018 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)
 * Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274836)
 *  Multimodal deep learning for activity and context recognition, UbiComp 2018
 * Low-resource multi-task audio sensing for mobile and embedded devices via shared deep neural network representations, UbiComp 2017
@@ -815,6 +809,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Hivemind: social control-and-use of IoT towards democratization of public spaces, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466626) (NO ML)
 
 ## Others
+* Empowering smart buildings with self-sensing concrete for structural health monitoring	,	SIGCOMM	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270)	(NO	ML)
 * zTT: learning-based DVFS with zero thermal throttling for mobile devices, MobiSys 21 [[Paper]](https://netstech.org/wp-content/uploads/2021/07/zTT_MobiSys21.pdf) (Best Paper)
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937)
 * TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380890)
