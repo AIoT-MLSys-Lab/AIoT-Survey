@@ -111,6 +111,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Orientation-aware RFID Tracking with Centimeter-level Accuracy, IPSN 18 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2018.8.pdf) (NO ML)
 * Challenge: RFID Hacking for Fun and Profit, MobiCom 18 [[Paper]](http://web.cs.ucla.edu/~omid/Papers/Mobicom18a.pdf)
 * WiSh: Towards a Wireless Shape-aware World using Passive RFIDs, MobiSys 18 [[Paper]](https://www.witechlab.com/papers/wish-mobisys2018.pdf)
+* Minding the Billions: Ultra-wideband Localization for Deployed RFID Tags, MobiCom 17 [[Paper]](https://www.mit.edu/~fadel/papers/RFind-paper.pdf) (NO ML)
 
 
 
@@ -175,7 +176,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Acoustic Sensing							
 * Acoustic Sensing and Communication Using Metasurface	, NSDI	23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf)
-* Hybrid Neural Networks for On-device Directional Hearing	,	AAAI	22	[[Paper]](https://arxiv.org/abs/2112.05893)[[Code]](https://github.com/wanganran/HybridBeam)			
+* Hybrid Neural Networks for On-device Directional Hearing	,	AAAI	22	[[Paper]](https://arxiv.org/abs/2112.05893)[[Code]](https://github.com/wanganran/HybridBeam)		
 * LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Sign	,	IMWUT/UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3517253)	(NO	ML)	
 * MOM: Microphone based 3D Orientation Measurement, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a120/962400a120.pdf)
 * MiLTOn: Sensing Product Integrity without Opening the Box using Non-Invasive Acoustic Vibrometry, IPSN 22 [[Paper]](https://swarunkumar.com/papers/milton-ipsn2022.pdf)
@@ -194,7 +195,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sound-Adapter: Multi-Source Domain Adaptation for Acoustic Classification Through Domain Discovery, IPSN 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3412382.3458265)
 * CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments, IPSN 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3412382.3458267)
 * Microphone Array Backscatter: An Application-Driven Design for Lightweight Spatial Sound Recording over the Air, MobiCom 21 [[Paper]](https://www2.cs.sfu.ca/~jcliu/Papers/Microphone21.pdf) (NO ML)
-* Owlet: enabling spatial information in ubiquitous acoustic devices	,	MobiSys	21	[[Paper]](https://www.cs.umd.edu/~nirupam/images/2_publication/papers/Owlet_MobiSys21_nirupam.pdf)	
+* Owlet: enabling spatial information in ubiquitous acoustic devices	,	MobiSys	21	[[Paper]](https://www.cs.umd.edu/~nirupam/images/2_publication/papers/Owlet_MobiSys21_nirupam.pdf)
 * MAVL: Multiresolution Analysis of Voice Localization	,	NSDI	21	[[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf)	(NO	ML)	
 * Voice Localization Using Nearby Wall Reflections, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/voloc_mobicom20.pdf)
 * Deaf-aid: mobile IoT communication exploiting stealthy speaker-to-gyroscope channel, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020c.pdf) (NO ML)
@@ -257,6 +258,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * LuxLink: creating a wireless link from ambient light, SenSys 19 [[Paper]](https://www.st.ewi.tudelft.nl/marco/files/luxlink_Sensys19.pdf)	
 * RainbowLight: Towards Low Cost Ambient Light Positioning with Mobile Phones, MobiCom 18 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBICOM2018-rainbowlight.pdf) (NO ML)
 * Augmenting Indoor Inertial Tracking with Polarized Light, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210340)
+* Pulsar: Towards Ubiquitous Visible Light Localization, MobiCom 17 [[Paper]](http://xyzhang.ucsd.edu/papers/CZhang_MobiCom17_Pulsar.pdf) (NO ML)
+* ReflexCode: Coding with Superposed Reflection Light for LED-Camera Communication, MobiCom 17 [[Paper]](https://dl.acm.org/doi/10.1145/3117811.3117836) (NO ML)
+
 								
 									
 ### Multi-modal Sensing		
@@ -322,6 +326,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO	ML)
 * RFMap: Generating Indoor Maps using RF Signals, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110988)
 * EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)
+* RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, mobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)
 
 									
 ## Computing							
@@ -539,6 +544,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * 3D Localization for Sub-Centimeter Sized Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274851) (Best Paper)
 * Charging a Smartphone Across a Room Using Lasers	,	UbiComp	18	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/laserpower.pdf)	(NO ML)	
 * LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf)	(NO ML)	
+* PassiveVLC: Enabling Practical Visible Light Backscatter Communication for Battery-free IoT Applications, MobiCom 17 [[Paper]](https://ceca.pku.edu.cn/media/lw/63a22162bb427709099f765883bf243b.pdf)
 * Battery-Free Cellphone, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/phone.pdf) (NO ML)		
 							
 ### LoRa							
