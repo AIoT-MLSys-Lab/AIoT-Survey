@@ -657,6 +657,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * E-Eye: Hidden Electronics Recognition through mmWave Nonlinear Effects, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274833) (NO ML)
 * NICScatter: Backscatter as a Covert Channel in Mobile Devices, MobiCom 17 [[Paper]](https://www.yangzhice.com/docforweb/NICScatter/NICScatter_MobiCom.pdf) (NO ML)
 * Automating Visual Privacy Protection Using a Smart LED, MobiCom 17 [[Paper]](http://xyzhang.ucsd.edu/papers/SZhu_CZhang_MobiCom17_LiShield.pdf) (NO ML)
+* BackDoor: Making Microphones Hear Inaudible Sounds, MobiSys 17 [[Paper]](https://synrg.csl.illinois.edu/papers/backdoor_mobisys17.pdf) (NO ML) (Best Paper)
 
 ### Spoofing
 * Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures, MobiCom 16 [[Paper]](https://lenders.ch/publications/conferences/mobicom16.pdf) (NO ML)
