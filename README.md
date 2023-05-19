@@ -22,7 +22,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Motion Sensing (Checked by MZ)](#motion-sensing)
     - [Wireless Sensing](#wireless-sensing)
     - [Earables (Checked by MZ)](#erables)
-    - [Acoustic Sensing](#acoustic-sensing)
+    - [Acoustic Sensing (Checked by MZ)](#acoustic-sensing)
     - [Vision Sensing](#vision-sensing)
     - [Air-Water Sensing (Checked by MZ)](#air-water-sensing)
     - [Multi-Modal Sensing (Checked by MZ)](#multi-modal-sensing)
@@ -215,11 +215,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.02349.pdf) (NO ML)
 * RNN-Based Room Scale Hand Motion Tracking, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345439)
 * BreathListener: Fine-grained Breathing Monitoring in Driving Environments Utilizing Acoustic Signals, MobiSys 19 [[Paper]](https://www.cs.sjtu.edu.cn/~linghe.kong/2019/XuMOBISYS2019BreathListener.pdf)
-* MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing	,	SenSys	19	[[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
 * Sonoloc: Scalable positioning of commodity mobile devices, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210324)
 * AIM: Acoustic Imaging on a Mobile, MobiSys 18 [[Paper]](https://www.cs.utexas.edu/~meiwang/uploads/8/9/9/1/89919297/aim.pdf)	
 * UbiTap: Leveraging Acoustic Dispersion for Ubiquitous Touch Interface on Solid Surfaces, SenSys 18 [[Paper]](http://cps.kaist.ac.kr/papers/18SenSys-UbiTap.pdf)
-* In-body backscatter communication and localization	,	SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565)	(NO ML)	
 * Device-Free Gesture Tracking Using Acoustic Signals, MobiCom 16 [[Paper]](https://cs.nju.edu.cn/ww/papers/mobicom16_ultrasound.pdf) (NO ML)
 * CAT: High-Precision Acoustic Motion Tracking, MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973755) (NO ML)
 * DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom 16 [[Paper]](https://wands.sg/team/pengfei/papers/MobiCom16-DopEnc.pdf) (NO ML)
@@ -364,7 +362,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)		
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)	
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)			
-																			
+
+#### Adaptation
+* MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing,	SenSys	19	[[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
+
 #### Memory Optimization							
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
 
@@ -530,6 +531,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Battery-Free Cellphone, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/phone.pdf) (NO ML)
 * FlipTracer: Practical Parallel Decoding for Backscatter Communication, MobiCom 17 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2017.1.pdf)	
 * Making Sense of Mechanical Vibration Period with Sub-millisecond Accuracy Using Backscatter Signals, MobiCom 16 [[Paper]](https://www4.comp.polyu.edu.hk/~csyanglei/data/files/tagbeat-mobicom.pdf)
+* In-body backscatter communication and localization,	SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565)	(NO ML)	
 							
 ### LoRa							
 * Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems	,	NSDI	22	[[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf)	(NO	ML)	
