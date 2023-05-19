@@ -243,7 +243,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://www.osti.gov/servlets/purl/1811681)
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf)
 
-### Under Water Sensing (Look at papers from Fadel @ MIT and Xia Zhou @ Columbia)
+### Air-Water Sensing
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
 
 ### Motion Sensing
