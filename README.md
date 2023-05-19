@@ -672,6 +672,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Augmented Reality-based Mimicry Attacks on Behaviour-Based Smartphone Authentication, MobiSys 18 [[Paper]](https://cs.uwaterloo.ca/~uhengart/publications/mobisys18.pdf)
 * Continuous Authentication for Voice Assistants, MobiCom 17 [[Paper]](https://arxiv.org/pdf/1701.04507.pdf)
 * Cardiac Scan: A Non-contact and Continuous Heart-based User Authentication System, MobiCom 17 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2017.pdf)
+* BreathPrint: Breathing Acoustics-based User Authentication, MobiSys 17 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4794&context=sis_research)
 * SALVE: Server Authentication with Location VErification, MobiCom 16 [[Paper]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2016/mobicom16_yu.pdf) (NO ML)
 
 
