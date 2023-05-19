@@ -52,6 +52,12 @@ Majority of the included papers are published at top-tier venues in the areas of
     	
 ## Sensing
 
+### Motion Sensing
+* Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)			
+* SenseHAR: a robust virtual activity sensor for smartphones and wearables,	SenSys	19	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032)			
+* Closing the Gaps in Inertial Motion Tracking, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/muse-mobicom18.pdf)
+* Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
+
 ### Wireless Sensing
 
 #### Bluetooth Sensing
@@ -245,12 +251,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Air-Water Sensing
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
-
-### Motion Sensing
-* Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)			
-* SenseHAR: a robust virtual activity sensor for smartphones and wearables,	SenSys	19	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032)			
-* Closing the Gaps in Inertial Motion Tracking, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/muse-mobicom18.pdf)
-* Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
 
 ### Multi-modal Sensing		
 * Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)		
