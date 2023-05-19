@@ -311,11 +311,14 @@ Majority of the included papers are published at top-tier venues in the areas of
 ## Computing							
 	
 ### On-Device Inferences							
-						
+
+#### Model Compression
+* On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework	,	MobiSys	18	[[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)			
+
 #### Efficient Inference
 * MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
-* BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)	
+* BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)	
 * YONO: Modeling Multiple Heterogeneous Neural Networks on Microcontrollers, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.03794.pdf)
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
 * NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
@@ -333,11 +336,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles, SenSys 20 [[Paper]](https://arxiv.org/pdf/2010.10754.pdf)
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
 * ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304076)	
-* Full deep neural network training on a pruned weight budget	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)			
 * Accurate and Efficient 2-bit Quantized Neural Networks	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/168.pdf)			
 * Ternary Hybrid Neural-Tree Networks for Highly Constrained IoT Applications	,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/107.pdf)			
 * DeepThin: A Self-Compressing Library for Deep Neural Networks	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/33.pdf)
-* On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework	,	MobiSys	18	[[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)			
 * Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)							
 
 #### Multi-Tenant Inference	
@@ -400,6 +401,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Melon: breaking the memory wall for resource-efficient on-device machine learning, MobiSys 22 [[Paper]](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)
 * Memory-Efficient Domain Incremental Learning for Internet of Things,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)	
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)
+* Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)			
 
 #### Distributed On-Device Training
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
