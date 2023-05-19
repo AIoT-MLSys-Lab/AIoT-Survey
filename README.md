@@ -23,7 +23,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Earables (Checked with MZ)](#erables)
     - [Acoustic Sensing](#acoustic-sensing)
     - [Under Water Sensing](#under-water-sensing-look-at-papers-from-fadel--mit)
-    - [Multi-modal Sensing](#multi-modal-sensing)
+    - [Multi-modal Sensing (Checked by MZ)](#multi-modal-sensing)
     - [Vision Sensing](#vision-sensing)
   - [Computing](#computing)
     - [On-Device Inferences](#on-device-inferences)
@@ -218,6 +218,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Device-Free Gesture Tracking Using Acoustic Signals, MobiCom 16 [[Paper]](https://cs.nju.edu.cn/ww/papers/mobicom16_ultrasound.pdf) (NO ML)
 * CAT: High-Precision Acoustic Motion Tracking, MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973755) (NO ML)
 * DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom 16 [[Paper]](https://wands.sg/team/pengfei/papers/MobiCom16-DopEnc.pdf) (NO ML)
+* VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic Signals, MobiCom 18 [[Paper]](https://cs.nju.edu.cn/lxie/publication/Mobicom2018.pdf) (NO ML)	
 													
 ### Vision Sensing		
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf)
@@ -266,6 +267,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)			
 * Closing the Gaps in Inertial Motion Tracking, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/muse-mobicom18.pdf)
 * SenseHAR: a robust virtual activity sensor for smartphones and wearables,	SenSys	19	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032)			
+* Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
 
 ### Multi-modal Sensing		
 * Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)		
@@ -284,10 +286,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion,	SenSys	20	[[Paper]](https://arxiv.org/pdf/2006.02266.pdf)		
 * XModal-ID: Using WiFi for Through-Wall Person Identification from Candidate Video Footage, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345437)	
 * A closer look at quality-aware runtime assessment of sensing models in multi-device environments,	SenSys	19	[[Paper]](https://akhilmathurs.github.io/papers/min_sensys2019.pdf)	
-* VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic Signals, MobiCom 18 [[Paper]](https://cs.nju.edu.cn/lxie/publication/Mobicom2018.pdf) (NO ML)	
 * CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services, MobiSys 18 [[Paper]](https://arxiv.org/pdf/1909.13673.pdf)	(NO ML)	
 * EngageMon: Multi-Modal Engagement Sensing for Mobile Games,	UbiComp	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745)	(NO	ML)	
-* Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
 * Indoor localization via multi-modal sensing on smartphones,	UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)			
 		
 ### Batteryless
