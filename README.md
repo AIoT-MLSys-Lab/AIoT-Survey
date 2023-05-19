@@ -480,12 +480,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 							
 ### Others
 
-### ML Systems	
-* ARK: GPU-driven Code Execution for Distributed Deep Learning,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/hwang)			
-* A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)		
-* Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)			
-* Using Deep Data Augmentation Training to Address Software and Hardware Heterogeneities in Wearable and Smartphone Sensing Devices, IPSN 18 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)		
-* TicTac: Accelerating Distributed Deep Learning with Communication Scheduling,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/index.html#schedule)				
 	
 ## Networking and Communication							
 
