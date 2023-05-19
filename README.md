@@ -361,7 +361,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs , MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448625](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf))
 * nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://air.tsinghua.edu.cn/pdf/nn-Meter-Towards-Accurate-Latency-Prediction-of-Deep-Learning-Model-Inference-on-Diverse-Edge-Devices.pdf) (Best Paper)		
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization	,	EuroSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)			
-* TicTac: Accelerating Distributed Deep Learning with Communication Scheduling,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/index.html#schedule)			
 * Efficient Deep Learning Inference on Edge Devices,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/29.pdf)		
 
 #### Adaptation
@@ -487,7 +486,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)		
 * Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)			
 * Using Deep Data Augmentation Training to Address Software and Hardware Heterogeneities in Wearable and Smartphone Sensing Devices, IPSN 18 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)		
-	
+* TicTac: Accelerating Distributed Deep Learning with Communication Scheduling,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/index.html#schedule)				
 	
 ## Networking and Communication							
 
