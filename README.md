@@ -234,7 +234,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * UltraDepth: Exposing High-Resolution Texture from Depth Cameras, SenSys 21 [[Paper]](http://cvlab.cse.msu.edu/pdfs/Xie_Ouyang_Liu_Xing_UltraDepth_SenSys2021.pdf)
 * FaceRevelio: a face liveness detection system for smartphones with a single front camera, MobiCom 20 [[Paper]](https://habiba-farrukh.github.io/files/FaceRevelio.pdf)
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices,	MobiSys	20	[[Paper]](https://dongshuhao.github.io/assets/pdf/2020/Wu_2020.pdf)		
-* Approximate query service on autonomous IoT cameras	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
+* Approximate query service on autonomous IoT cameras,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * GazeGraph: Graph-based Few-Shot Cognitive Context Sensing from Human Visual Behavior, SenSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10296635)
 * BackCam: Wireless Computer Vision Using Commodity Devices, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310403)
 * Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs,	MobiSys	19	[[Paper]](https://meteor.ame.asu.edu/publications/mobisys19hu-banner.pdf) (NO ML)
@@ -245,23 +245,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Under Water Sensing (Look at papers from Fadel @ MIT and Xia Zhou @ Columbia)
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
-
-### Visible Light Sensing (Look at papers from Xia Zhou @ Columbia)	
-* Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna, SenSys 22 [[Paper]](https://people.cs.umass.edu/~minhaocui/sensys22.pdf)
-* Harmony: An In-band Time Synchronisation System for Visible Light Communication, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568549) (NO ML)
-* RadioInLight: Doubling the Data Rate of VLC Systems, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483271) (NO ML)
-* Lili: Liquor Quality Monitoring Based on Light Signals, MobiCom 21 [[Paper]](https://www.huangyongzhi.com.cn/data/Lili.pdf) (NO ML)
-* SMART: Screen-based Gesture Recognition on Commodity Mobile Devices, MobiCom 21 [[Paper]](https://huangqy7.github.io/Paper/mobicom21-SMART.pdf)
-* CurveLight:An Accurateand Practical Light Positioning System, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485934) (NO ML)
-* SpiderWeb: Enabling Through-Screen Visible Light Communication, SenSys 21 [[Paper]](https://pure.tudelft.nl/ws/portalfiles/portal/103302355/3485730.3485948.pdf) (NO ML)
-* LiTag: Localization and Posture Estimation with Passive Visible Light Tags, SenSys 20 [[Paper]](https://www.cse.msu.edu/~lilingk1/publications/sensys20-LiTag.pdf)
-* Breaking the Limitations of Visible Light Communication Through Its Side Channel, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430728)
-* LuxLink: creating a wireless link from ambient light, SenSys 19 [[Paper]](https://www.st.ewi.tudelft.nl/marco/files/luxlink_Sensys19.pdf)	
-* RainbowLight: Towards Low Cost Ambient Light Positioning with Mobile Phones, MobiCom 18 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBICOM2018-rainbowlight.pdf) (NO ML)
-* Augmenting Indoor Inertial Tracking with Polarized Light, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210340)
-* Pulsar: Towards Ubiquitous Visible Light Localization, MobiCom 17 [[Paper]](http://xyzhang.ucsd.edu/papers/CZhang_MobiCom17_Pulsar.pdf) (NO ML)
-* ReflexCode: Coding with Superposed Reflection Light for LED-Camera Communication, MobiCom 17 [[Paper]](https://dl.acm.org/doi/10.1145/3117811.3117836) (NO ML)
-* LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](http://xyzhang.ucsd.edu/papers/CZhang_MobiCom16_LiTell.pdf) (NO ML)
 
 ### Motion Sensing
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)			
@@ -583,9 +566,23 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Networking across boundaries: enabling wireless communication through the water-air interface		SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/10.1145/3230543.3230580)	(NO	ML)	
 
 ### Visible Light Communication 
+* Harmony: An In-band Time Synchronisation System for Visible Light Communication, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568549) (NO ML)
 * The DarkLight Rises: Visible Light Communication in the Dark, MobiCom 16 [[Paper]](https://www.cs.dartmouth.edu/~xia/papers/mobicom16-darklight.pdf) (NO ML)
-
-							
+* Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna, SenSys 22 [[Paper]](https://people.cs.umass.edu/~minhaocui/sensys22.pdf)
+* RadioInLight: Doubling the Data Rate of VLC Systems, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483271) (NO ML)
+* Lili: Liquor Quality Monitoring Based on Light Signals, MobiCom 21 [[Paper]](https://www.huangyongzhi.com.cn/data/Lili.pdf) (NO ML)
+* SMART: Screen-based Gesture Recognition on Commodity Mobile Devices, MobiCom 21 [[Paper]](https://huangqy7.github.io/Paper/mobicom21-SMART.pdf)
+* CurveLight:An Accurateand Practical Light Positioning System, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485934) (NO ML)
+* SpiderWeb: Enabling Through-Screen Visible Light Communication, SenSys 21 [[Paper]](https://pure.tudelft.nl/ws/portalfiles/portal/103302355/3485730.3485948.pdf) (NO ML)
+* LiTag: Localization and Posture Estimation with Passive Visible Light Tags, SenSys 20 [[Paper]](https://www.cse.msu.edu/~lilingk1/publications/sensys20-LiTag.pdf)
+* Breaking the Limitations of Visible Light Communication Through Its Side Channel, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430728)
+* LuxLink: creating a wireless link from ambient light, SenSys 19 [[Paper]](https://www.st.ewi.tudelft.nl/marco/files/luxlink_Sensys19.pdf)	
+* RainbowLight: Towards Low Cost Ambient Light Positioning with Mobile Phones, MobiCom 18 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBICOM2018-rainbowlight.pdf) (NO ML)
+* Augmenting Indoor Inertial Tracking with Polarized Light, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210340)
+* Pulsar: Towards Ubiquitous Visible Light Localization, MobiCom 17 [[Paper]](http://xyzhang.ucsd.edu/papers/CZhang_MobiCom17_Pulsar.pdf) (NO ML)
+* ReflexCode: Coding with Superposed Reflection Light for LED-Camera Communication, MobiCom 17 [[Paper]](https://dl.acm.org/doi/10.1145/3117811.3117836) (NO ML)
+* LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](http://xyzhang.ucsd.edu/papers/CZhang_MobiCom16_LiTell.pdf) (NO ML)
+						
 ### Others
 * Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)
 * FIRE: Enabling Reciprocity for FDD MIMO Systems, MobiCom 21 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/FIRE_Mobicom2021.pdf) (General network-channel estimation using ML)
