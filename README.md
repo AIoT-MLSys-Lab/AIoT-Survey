@@ -246,12 +246,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://www.osti.gov/servlets/purl/1811681)
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf)
 
-### Under Water Sensing (Look at papers from Fadel @ MIT)
-* Unsupervised Underwater Image Restoration: From a Homology Perspective, AAAI 22 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/19944)
+### Under Water Sensing (Look at papers from Fadel @ MIT and Xia Zhou @ Columbia)
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
-* Learning To Remove Refractive Distortions From Underwater Images, ICCV 21 [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Thapa_Learning_To_Remove_Refractive_Distortions_From_Underwater_Images_ICCV_2021_paper.html)
-* Restoration of Non-Rigidly Distorted Underwater Images Using a Combination of Compressive Sensing and Local Polynomial Image Representations, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/James_Restoration_of_Non-Rigidly_Distorted_Underwater_Images_Using_a_Combination_of_ICCV_2019_paper.html)
-* Surface Normals and Shape From Water, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Murai_Surface_Normals_and_Shape_From_Water_ICCV_2019_paper.html)
 
 ### Visible Light Sensing (Look at papers from Xia Zhou @ Columbia)	
 * Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna, SenSys 22 [[Paper]](https://people.cs.umass.edu/~minhaocui/sensys22.pdf)
@@ -269,9 +265,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Pulsar: Towards Ubiquitous Visible Light Localization, MobiCom 17 [[Paper]](http://xyzhang.ucsd.edu/papers/CZhang_MobiCom17_Pulsar.pdf) (NO ML)
 * ReflexCode: Coding with Superposed Reflection Light for LED-Camera Communication, MobiCom 17 [[Paper]](https://dl.acm.org/doi/10.1145/3117811.3117836) (NO ML)
 * LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](http://xyzhang.ucsd.edu/papers/CZhang_MobiCom16_LiTell.pdf) (NO ML)
-
-								
-									
+							
 ### Multi-modal Sensing		
 * Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)		
 * Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensor, IPSN 22 [[Paper]](https://www.winlab.rutgers.edu/~hansiiii/papers/ViFi_Paper___IPSN_2022__Camera_Ready_.pdf)
