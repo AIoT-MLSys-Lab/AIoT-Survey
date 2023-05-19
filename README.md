@@ -21,6 +21,8 @@ Majority of the included papers are published at top-tier venues in the areas of
   - [Sensing](#sensing-mobicom-mobisys-sensys-nsdi)
     - [Motion Sensing (Checked by MZ)](#motion-sensing)
     - [Wireless Sensing](#wireless-sensing)
+    	- [Wi-Fi Sensing](#wi-fi-sensing)
+    	- [mmWave Sensing](#mmwave-sensing)
     - [Earables (Checked by MZ)](#erables)
     - [Acoustic Sensing (Checked by MZ)](#acoustic-sensing)
     - [Vision Sensing (Checked by MZ)](#vision-sensing)
@@ -65,14 +67,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Wireless Sensing
 
-#### Bluetooth Sensing
-* Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
-* Intermittently-powered bluetooth that works, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538934)
-* BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458271)
-* BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection, IPSN 21 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/billah21blecansee.pdf)
-* Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf)
-* Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241547) (NO ML)
-
 #### Wi-Fi Sensing
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
@@ -103,29 +97,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Multipath Triangulation: Decimeter-level WiFi Localization and Orientation with a Single Unaided Receiver, MobiSys 18 [[Paper]](https://elahe.web.illinois.edu/Elahe%20Soltan_files/papers/MobiSys18_MonoLoco_CameraReady.pdf)
 * Widar2.0: Passive Human Tracking with a Single Wi-Fi Link, MobiSys 18 [[Paper]](https://www.cswu.me/papers/mobisys18_widar2.0_paper.pdf) (NO ML)
 * LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(NO ML)
-
-#### RFID Sensing
-* RF-DNA: Large-Scale Physical-layer Identifications of RFIDs via Dual Natural Attributes, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517028)
-* MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
-* A Passive Eye-in-Hand “Camera” for Minature Robots, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568505)
-* Thermotag: item-level temperature sensing with a passive RFID tag, MobiSys 21 [[Paper]](https://cs.nju.edu.cn/liujia/papers/mobisys21-themotag.pdf)
-* RFGo: A Seamless Self-checkout System for Apparel Stores Using RFID, MobiCom 20 [[Paper]](https://genesys-lab.org/papers/RFGo-Mobicom.pdf)
-* Exploring commodity RFID for contactless sub-millimeter vibration sensing, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430771) (NO ML)
-* Sensing Finger Input Using An RFID Transmission Line, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430712) (NO ML)
-* RTSense: RFID based Temperature Sensing, SenSys 20 [[Paper]](https://www.swadhinpradhan.com/papers/rtsense.pdf) (NO ML)
-* 3D-OmniTrack: 3D Tracking with COTS RFID Systems, IPSN 19 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2019.4.pdf) (NO ML)
-* Are RFID Sensing Systems Ready for the Real World?, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326084)
-* Detecting Misplaced RFID Tags on Static Shelved Items, MobiSys 19 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2019/luo-mobisys19.pdf)
-* FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dapowan.github.io/files/FaHo.pdf)	
-* Tagtag: material sensing with commodity RFID, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360027)
-* Orientation-aware RFID Tracking with Centimeter-level Accuracy, IPSN 18 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2018.8.pdf) (NO ML)
-* Challenge: RFID Hacking for Fun and Profit, MobiCom 18 [[Paper]](http://web.cs.ucla.edu/~omid/Papers/Mobicom18a.pdf)
-* WiSh: Towards a Wireless Shape-aware World using Passive RFIDs, MobiSys 18 [[Paper]](https://www.witechlab.com/papers/wish-mobisys2018.pdf)
-* Minding the Billions: Ultra-wideband Localization for Deployed RFID Tags, MobiCom 17 [[Paper]](https://www.mit.edu/~fadel/papers/RFind-paper.pdf) (NO ML)
-* TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices, MobiCom 17 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4878&context=sis_research)
-* RIO: A Pervasive RFID-based Touch Gesture Interface, MobiCom 17 [[Paper]](https://dl.acm.org/doi/10.1145/3117811.3117818)
-* Gyro in the Air: Tracking 3D Orientation of Batteryless Internet-of-Things, MobiCom 16 [[Paper]](http://xyzhang.ucsd.edu/papers/TWei_MobiCom16_Tagyro.pdf) (NO ML)
-* 3D Real-time Indoor Localization via Broadband Nonlinear Backscatter in Passive Devices with Centimeter Precision, MobiCom 16 [[Paper]](https://yfmascgy.github.io/papers/3d-localization.pdf) (NO ML)
 
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
@@ -168,6 +139,37 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tag, IPSN 19 [[Paper]](http://www.carloalbertoboano.com/documents/grosswindhager19snaploc.pdf) (NO ML)
 * LiquID: A Wireless Liquid IDentifier, MobiSys 18 [[Paper]](https://synrg.csl.illinois.edu/papers/liquid_mobisys2018.pdf) (NO ML)
 * SALMA: UWB-based Single-Anchor Localization System using Multipath Assistance, SenSys 18 [[Paper]](http://www.carloalbertoboano.com/documents/grosswindhager18salma.pdf)
+
+#### RFID Sensing
+* RF-DNA: Large-Scale Physical-layer Identifications of RFIDs via Dual Natural Attributes, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517028)
+* MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
+* A Passive Eye-in-Hand “Camera” for Minature Robots, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568505)
+* Thermotag: item-level temperature sensing with a passive RFID tag, MobiSys 21 [[Paper]](https://cs.nju.edu.cn/liujia/papers/mobisys21-themotag.pdf)
+* RFGo: A Seamless Self-checkout System for Apparel Stores Using RFID, MobiCom 20 [[Paper]](https://genesys-lab.org/papers/RFGo-Mobicom.pdf)
+* Exploring commodity RFID for contactless sub-millimeter vibration sensing, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430771) (NO ML)
+* Sensing Finger Input Using An RFID Transmission Line, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430712) (NO ML)
+* RTSense: RFID based Temperature Sensing, SenSys 20 [[Paper]](https://www.swadhinpradhan.com/papers/rtsense.pdf) (NO ML)
+* 3D-OmniTrack: 3D Tracking with COTS RFID Systems, IPSN 19 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2019.4.pdf) (NO ML)
+* Are RFID Sensing Systems Ready for the Real World?, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326084)
+* Detecting Misplaced RFID Tags on Static Shelved Items, MobiSys 19 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2019/luo-mobisys19.pdf)
+* FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dapowan.github.io/files/FaHo.pdf)	
+* Tagtag: material sensing with commodity RFID, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360027)
+* Orientation-aware RFID Tracking with Centimeter-level Accuracy, IPSN 18 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2018.8.pdf) (NO ML)
+* Challenge: RFID Hacking for Fun and Profit, MobiCom 18 [[Paper]](http://web.cs.ucla.edu/~omid/Papers/Mobicom18a.pdf)
+* WiSh: Towards a Wireless Shape-aware World using Passive RFIDs, MobiSys 18 [[Paper]](https://www.witechlab.com/papers/wish-mobisys2018.pdf)
+* Minding the Billions: Ultra-wideband Localization for Deployed RFID Tags, MobiCom 17 [[Paper]](https://www.mit.edu/~fadel/papers/RFind-paper.pdf) (NO ML)
+* TagScan: Simultaneous Target Imaging and Material Identification with Commodity RFID Devices, MobiCom 17 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4878&context=sis_research)
+* RIO: A Pervasive RFID-based Touch Gesture Interface, MobiCom 17 [[Paper]](https://dl.acm.org/doi/10.1145/3117811.3117818)
+* Gyro in the Air: Tracking 3D Orientation of Batteryless Internet-of-Things, MobiCom 16 [[Paper]](http://xyzhang.ucsd.edu/papers/TWei_MobiCom16_Tagyro.pdf) (NO ML)
+* 3D Real-time Indoor Localization via Broadband Nonlinear Backscatter in Passive Devices with Centimeter Precision, MobiCom 16 [[Paper]](https://yfmascgy.github.io/papers/3d-localization.pdf) (NO ML)
+
+#### Bluetooth Sensing
+* Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
+* Intermittently-powered bluetooth that works, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538934)
+* BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458271)
+* BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection, IPSN 21 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/billah21blecansee.pdf)
+* Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf)
+* Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241547) (NO ML)
 
 ### Earables
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314)
