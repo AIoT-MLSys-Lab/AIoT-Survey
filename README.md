@@ -284,7 +284,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * XModal-ID: Using WiFi for Through-Wall Person Identification from Candidate Video Footage, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345437)	
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors	,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)			
 * SenseHAR: a robust virtual activity sensor for smartphones and wearables	,	SenSys	19	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032)			
-* A closer look at quality-aware runtime assessment of sensing models in multi-device environments	,	SenSys	19	[[Paper]](https://akhilmathurs.github.io/papers/min_sensys2019.pdf)		
+* A closer look at quality-aware runtime assessment of sensing models in multi-device environments	,	SenSys	19	[[Paper]](https://akhilmathurs.github.io/papers/min_sensys2019.pdf)	
 * VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic Signals, MobiCom 18 [[Paper]](https://cs.nju.edu.cn/lxie/publication/Mobicom2018.pdf) (NO ML)	
 * Closing the Gaps in Inertial Motion Tracking, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/muse-mobicom18.pdf)
 * CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services, MobiSys 18 [[Paper]](https://arxiv.org/pdf/1909.13673.pdf)	(NO ML)	
@@ -349,7 +349,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision,	MobiCom	21 [[Paper]](https://arxiv.org/pdf/2112.09852.pdf) (Best Community Paper Award Runner-Up)		
 * RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938)			
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications	,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485937)			
-* PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-Time Execution on Mobile Devices	,	AAAI	20	[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5954)	
+* PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-Time Execution on Mobile Devices	,	AAAI	20	[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5954)
 * PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning	,	ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378534)			
 * Fast and scalable in-memory deep multitask learning via neural weight virtualization	,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)			
 * Memory-Driven Mixed Low Precision Quantization for Enabling Deep Network Inference on Microcontrollers, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9b8619251a19057cff70779273e95aa6-Paper.pdf)
@@ -367,9 +367,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)							
 
 #### Cross-Processor Inference
-* ARK: GPU-driven Code Execution for Distributed Deep Learning	,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/hwang)			
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
-* VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)		
 * CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 22 [[Paper]](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)
 * Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences	,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
@@ -387,6 +385,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices	,	SenSys	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
 
 #### Multi-Tenant Inferences	
+* VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)		
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)	
 																			
 #### Memory Optimization							
@@ -502,6 +501,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Others
 
 ### ML Systems	
+* ARK: GPU-driven Code Execution for Distributed Deep Learning,	NSDI	23	[[Paper]](https://www.usenix.org/conference/nsdi23/presentation/hwang)			
 * A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters	,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf)		
 * Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training,	ATC	22	[[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)			
 * Using Deep Data Augmentation Training to Address Software and Hardware Heterogeneities in Wearable and Smartphone Sensing Devices, IPSN 18 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)		
