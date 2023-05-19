@@ -19,12 +19,13 @@ https://sites.google.com/view/osu-aiot-seminar
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys/IPSN), networks (NSDI/SIGCOMM), computer systems (OSDI/SOSP/EuroSys/ASPLOS/ATC), and AI systems (MLSys) from 2016 to now. 
 
   - [Sensing](#sensing-mobicom-mobisys-sensys-nsdi)
-    - [Wireless Sensing](#wireless-sensing-look-at-papers-from-jie-xiong--umass)
-    - [Earables (Checked with MZ)](#erables)
+    - [Motion Sensing (Checked by MZ)](#motion-sensing)
+    - [Wireless Sensing](#wireless-sensing)
+    - [Earables (Checked by MZ)](#erables)
     - [Acoustic Sensing](#acoustic-sensing)
-    - [Under Water Sensing](#under-water-sensing-look-at-papers-from-fadel--mit)
-    - [Multi-modal Sensing (Checked by MZ)](#multi-modal-sensing)
     - [Vision Sensing](#vision-sensing)
+    - [Air-Water Sensing (Checked by MZ)](#air-water-sensing)
+    - [Multi-Modal Sensing (Checked by MZ)](#multi-modal-sensing)
   - [Computing](#computing)
     - [On-Device Inferences](#on-device-inferences)
       	- [Scheduling](#scheduling)
