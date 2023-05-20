@@ -49,7 +49,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Security of AIoT](#security-of-aiot)
   - [AIoT Systems and their Applications](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (Checked by MZ)](#aiot-systems-for-healthcare-and-wellbeing)
-    - [AIoT Systems for Video Streaming and Analytics](#aiot-systems-for-video-streaming-and-analytics)
+    - [AIoT Systems for Video Streaming and Analytics (Checked by MZ)](#aiot-systems-for-video-streaming-and-analytics)
     - [AIoT Systems for Autonomous Driving](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (Checked by MZ)](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (Checked by MZ)](#aiot-systems-for-drones)
