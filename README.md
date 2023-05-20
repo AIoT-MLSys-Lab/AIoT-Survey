@@ -342,6 +342,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
 * ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers	,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304076)	
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
+* Efficient Execution of Deep Neural Networks on Mobile Devices with NPU, IPSN 21 [[Paper]](http://mcn.cse.psu.edu/paper/tan-tianxiang/ipsn20-tan.pdf)		
+* IOS: Inter-Operator Scheduler for CNN Acceleration,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
+* AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs , MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448625](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf))
+* nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://air.tsinghua.edu.cn/pdf/nn-Meter-Towards-Accurate-Latency-Prediction-of-Deep-Learning-Model-Inference-on-Diverse-Edge-Devices.pdf) (Best Paper)		
+* μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 
 #### Multi-Tenant Inference	
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)		
@@ -351,20 +356,14 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
 
 #### Cross-Processor Inference
+* Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
 * CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 22 [[Paper]](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)
 * Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
-* Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
-* BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference,	SenSys	22	[[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
-* Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
-* ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for on-Device Machine Learning in IoT Systems,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568296)	
-* Efficient Execution of Deep Neural Networks on Mobile Devices with NPU, IPSN 21 [[Paper]](http://mcn.cse.psu.edu/paper/tan-tianxiang/ipsn20-tan.pdf)		
-* IOS: Inter-Operator Scheduler for CNN Acceleration,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
-* AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs , MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448625](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf))
-* nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://air.tsinghua.edu.cn/pdf/nn-Meter-Towards-Accurate-Latency-Prediction-of-Deep-Learning-Model-Inference-on-Diverse-Edge-Devices.pdf) (Best Paper)		
-* μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)			
-
+* BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
+		
 #### Adaptation
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing,	SenSys	19	[[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
+* Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
 
 #### Memory Optimization							
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
