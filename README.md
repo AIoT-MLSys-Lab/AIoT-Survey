@@ -245,6 +245,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs,	MobiSys	19	[[Paper]](https://meteor.ame.asu.edu/publications/mobisys19hu-banner.pdf) (NO ML)
 * Liquid Testing with Your Smartphone, MobiSys 19 [[Paper]](https://people.csail.mit.edu/scyue/projects/capcam/capcam.pdf)
 * HyperSight: boosting distant 3D vision on a single dual-camera smartphone, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360029) (NO ML)
+* SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,	SenSys	19	[[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5649&context=sis_research)		
 * ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://www.osti.gov/servlets/purl/1811681)
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf)
 
@@ -580,6 +581,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](http://xyzhang.ucsd.edu/papers/CZhang_MobiCom16_LiTell.pdf) (NO ML)
 * DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays, IPSN 21 [[Paper]](https://arxiv.org/pdf/2105.05092.pdf)
 * CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560526)
+* RayTrack: enabling interference-free outdoor mobile VLC with dynamic field-of-view, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466867) (NO ML)
 						
 ### Others
 * Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)
@@ -722,10 +724,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Scaling Video Analytics on Constrained Edge Nodes,		MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf)		
 * Jigsaw: Robust Live 4K Video Streaming, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300127) (NO ML)
 * Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345430)
-* SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,	SenSys	19	[[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5649&context=sis_research)			
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications,		ASPLOS	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)		
-* EVA: An Efficient System for Exploratory Video Analysis,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/22.pdf)			
-* Efficient Multi-Tenant Inference on Video using Microclassifiers,		MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/133.pdf)				
 * DeepCache: Principled Cache for Mobile Deep Vision, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1712.01670.pdf)
 * Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241565)
 * RnB: Rate and Brightness Adaptation for Rate-Distortion-Energy Tradeoff in HTTP Adaptive Streaming over Mobile Devices, MobiCom 16 [[Paper]](https://mason.gmu.edu/~zyan4/papers/rnb_mobicom16.pdf)
@@ -739,7 +738,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * EMP: Edge-assisted Multi-vehicle Perception, MobiCom 21 [[Paper]](https://xiaoshawnzhu.github.io/emp-mobicom21.pdf)
 * Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving, SenSys 22 [[Paper]](https://www.acsu.buffalo.edu/~yzhu39/Yi_Zhu_homepage_files/papers/SenSys22.pdf)
 * Large-Scale Vehicle Trajectory Reconstruction with Camera Sensing Network, MobiCom 21 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_21_1.pdf)
-* RayTrack: enabling interference-free outdoor mobile VLC with dynamic field-of-view, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466867) (NO ML)
 * Electric Vehicle Battery Energy Information is Enough to Track You, IPSN 20 [[Paper]](https://engineering.virginia.edu/sites/default/files/common/departments/computer-science/files/Shen-Electric%20Vehicle%20Battery%20Energy%20Information%20is%20Enough%20to%20Track%20You_IPSN2020.pdf)
 * Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419208)
 * Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach, MobiCom 20 [[Paper]](https://soar.group/pubs/RetroI2V.MobiCom20.pdf) (NO ML)
