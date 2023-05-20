@@ -323,7 +323,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Accurate and Efficient 2-bit Quantized Neural Networks, MLSys	19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/168.pdf)	
 * Ternary Hybrid Neural-Tree Networks for Highly Constrained IoT Applications,	MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/107.pdf)					
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)			
-
 #### Efficient Inference
 * MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
@@ -352,7 +351,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
 
 #### Cross-Processor Inference
-* GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 22 [[Paper]](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)
 * Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
@@ -394,6 +392,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeepX: ASoftwareAcceleratorforLow-Power DeepLearningInferenceonMobileDevices
 * DeepEar: RobustSmartphoneAudioSensingin UnconstrainedAcousticEnvironmentsusingDeepLearning, UbiComp 2015 
 * Approximate query service on autonomous IoT cameras,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
+* GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 
 ### On-Device Training	
 
