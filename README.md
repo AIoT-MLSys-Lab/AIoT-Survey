@@ -308,6 +308,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (NO ML)
 * Listening through a Vibration Motor, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/VibraPhone_mobisys16.pdf) (NO ML)
 * Platypus — Indoor Localization and Identification through Sensing Electric Potential Changes in Human Bodies, MobiSys 16 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/grosse2016platypus.pdf)
+* Expansion of Human–Phone Interface By Sensing Structure-Borne Sound Propagation, MobiSys 16 [[Paper]](https://yctung.github.io/files/publication/mobisys16-forcephone.pdf) (NO ML)
 
 									
 ## Computing							
@@ -677,6 +678,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * TrustShadow: Secure Execution of Unmodified Applications with ARM TrustZone, MobiSys 17 [[Paper]](https://arxiv.org/pdf/1704.05600.pdf)
 * Techu: Open and Privacy-Preserving Crowdsourced GPS for the Masses, MobiSys 17 [[Paper]](https://www.portokalidis.net/files/techu_mobisys17.pdf) (NO ML)
 * Regulating ARM TrustZone Devices in Restricted Spaces, MobiSys 17 [[Paper]](https://download.hrz.tu-darmstadt.de/media/FB20/Dekanat/Publikationen/TRUST/mobisys16_restricted-spaces.pdf) (NO ML)
+* Viola: Trustworthy Sensor Notifications for Enhanced Privacy on Mobile Systems, MobiSys 16 [[Paper]](https://www.ics.uci.edu/~ardalan/papers/Mirzamohammadi_MobiSys16.pdf) (NO ML)
+* I-Pic: A Platform for Privacy-Compliant Image Capture, MobiSys 16 [[Paper]](https://people.mpi-sws.org/~druschel/publications/ipic.pdf)
 
 ### Spoofing/Sniffing
 * Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures, MobiCom 16 [[Paper]](https://lenders.ch/publications/conferences/mobicom16.pdf) (NO ML)
@@ -814,6 +817,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * MARVEL: Enabling Mobile Augmented Reality with Low Energy and Low Latency, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274834)
 * When Virtual Reality Meets Internet of Things in the Gym: Enabling Immersive Interactive Machine Exercises, UbiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3214281)	
 * Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices, MobiCom 17 [[Paper]](https://www.cse.psu.edu/~gxc27/teach/597/Furion.pdf) (NO ML)
+* FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (NO ML)
 
 ### AIoT Systems for Drones
 * Placement Optimization for UAV-Enabled Wireless Networks with Multi-Hop Backhauls in Urban Environments, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a054/962400a054.pdf)
