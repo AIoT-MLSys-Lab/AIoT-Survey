@@ -357,7 +357,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
 * Efficient Execution of Deep Neural Networks on Mobile Devices with NPU, IPSN 21 [[Paper]](http://mcn.cse.psu.edu/paper/tan-tianxiang/ipsn20-tan.pdf)		
 * IOS: Inter-Operator Scheduler for CNN Acceleration,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
-* AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs , MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448625](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf))
+* AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs , MobiCom 21 [[Paper]](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf)
 * nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://air.tsinghua.edu.cn/pdf/nn-Meter-Towards-Accurate-Latency-Prediction-of-Deep-Learning-Model-Inference-on-Diverse-Edge-Devices.pdf) (Best Paper)		
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 * MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
