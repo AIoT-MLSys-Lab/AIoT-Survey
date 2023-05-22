@@ -48,6 +48,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Backscatter](#backscatter-look-at-papers-from-shyam--university-of-washington)
     - [LoRa](#lora)
     - [Under Water Communication](#under-water-communication)
+  - [Power](#power)
   - [Security and Privacy](#security-and-privacy)
     - [Security of AIoT](#security-of-aiot)
   - [AIoT Systems and their Applications](#aiot-systems-and-their-applications)
