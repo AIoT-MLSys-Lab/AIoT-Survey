@@ -21,7 +21,7 @@ Majority of the included papers are published at top-tier venues in the areas of
   - [Sensing](#sensing-mobicom-mobisys-sensys-nsdi)
     - [Motion Sensing (Checked by MZ)](#motion-sensing)
     - [Wireless Sensing](#wireless-sensing)
-    	- [Wi-Fi Sensing](#wi-fi-sensing)
+    	- [Wi-Fi Sensing (Checked by MZ)](#wi-fi-sensing)
     	- [mmWave Sensing](#mmwave-sensing)
     - [Earables (Checked by MZ)](#erables)
     - [Acoustic Sensing (Checked by MZ)](#acoustic-sensing)
