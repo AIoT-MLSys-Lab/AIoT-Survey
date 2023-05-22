@@ -252,7 +252,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,	SenSys	19	[[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5649&context=sis_research)		
 * ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://www.osti.gov/servlets/purl/1811681)
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf)
-* Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl-acm-org.proxy.lib.ohio-state.edu/doi/pdf/10.1145/3081333.3081347), MobiSys 17 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3081333.3081347) (Honorable Mention)
+* Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3081333.3081347) (Honorable Mention)
 
 
 ### Air-Water Sensing
