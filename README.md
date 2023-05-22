@@ -125,6 +125,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Widar2.0: Passive Human Tracking with a Single Wi-Fi Link, MobiSys 18 [[Paper]](https://www.cswu.me/papers/mobisys18_widar2.0_paper.pdf) (NO ML)
 * LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(NO ML)
 * Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340)
+* Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
+
 
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
@@ -161,6 +163,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tag, IPSN 19 [[Paper]](http://www.carloalbertoboano.com/documents/grosswindhager19snaploc.pdf) (NO ML)
 * LiquID: A Wireless Liquid IDentifier, MobiSys 18 [[Paper]](https://synrg.csl.illinois.edu/papers/liquid_mobisys2018.pdf) (NO ML)
 * SALMA: UWB-based Single-Anchor Localization System using Multipath Assistance, SenSys 18 [[Paper]](http://www.carloalbertoboano.com/documents/grosswindhager18salma.pdf)
+* SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization, SenSys 16 [[Paper]](https://patpannuto.com/pubs/kempke16surepoint.pdf) (NO ML)
 
 #### Bluetooth Sensing
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
@@ -185,6 +188,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ERICA: Enabling Real-time Mistake Detection & Corrective Feedback for Free-Weights Exercises, SenSys 20 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6897&context=sis_research)
 * eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User's Ear, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345454) (NO ML) (Best Paper)
 * TYTH-Typing On Your Teeth: Tongue-Teeth Localization for Human-Computer Interface, MobiSys 18 [[Paper]](http://mnslab.org/tamvu/paper/2018%20TYTH_Phuc.pdf)
+* A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf)
 
 ### Acoustic Sensing							
 * Acoustic Sensing and Communication Using Metasurface, NSDI	23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf)
@@ -229,6 +233,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SoundSifter: Mitigating Overhearing of Continuous Listening Devices, MobiSys 17 [[Paper]](https://www.cs.unc.edu/~nirjon/paper/soundsifter-mobisys2017.pdf)
 * BatMapper: Acoustic Sensing Based Indoor Floor Plan Construction Using Smartphones, MobiSys 17 [[Paper]](https://zhoubinwy.github.io/pdf/batmapper.pdf)(NO ML)
 * Strata: Fine-Grained Acoustic-based Device-Free Tracking, MobiSys 17 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobisys17_strata.pdf) (NO ML) (Also VR/AR)
+* BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131689)
 													
 ### Vision Sensing		
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf)
@@ -250,7 +255,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,	SenSys	19	[[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5649&context=sis_research)		
 * ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://www.osti.gov/servlets/purl/1811681)
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf)
-* Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3081333.3081347) (Honorable Mention)
 
 ### Air-Water Sensing
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
@@ -278,7 +282,15 @@ Majority of the included papers are published at top-tier venues in the areas of
 * EngageMon: Multi-Modal Engagement Sensing for Mobile Games,	UbiComp	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745)	(NO	ML)	
 * Indoor localization via multi-modal sensing on smartphones,	UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)	
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf)	
-				
+* Non-Intrusive Multi-Modal Estimation of Building Occupancy, SenSys 17 [[Paper]](http://www.phpathak.com/files/occupancy-sensys.pdf)
+
+		
+### Visible Light Sensing
+* SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, SenSys 17 [[Paper]](https://www-users.cse.umn.edu/~tianhe/Papers/SmartLight.pdf) (NO ML) (Best Paper)
+* CELLI: Indoor Positioning Using Polarized Sweeping Light Beams, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081352) (NO ML) (Visible Light Positioning)
+* Enabling High-Precision Visible Light Localization in Today’s Buildings. MobiSys 17 [[Paper]](https://cseweb.ucsd.edu//~shz338/images/MobiSys_17.pdf)(Visible Light Positioning)
+
+		
 ### Others
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
 * FabToys: plush toys with large arrays of fabric-based pressure sensors to enable fine-grained interaction detection, MobiSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/FabToy-MobiSys22.pdf)
@@ -302,13 +314,16 @@ Majority of the included papers are published at top-tier venues in the areas of
 * EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)
 * RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, mobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)
 * Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (FMCW radio)
-* CELLI: Indoor Positioning Using Polarized Sweeping Light Beams, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081352) (NO ML) (Visible Light Positioning)
-* Enabling High-Precision Visible Light Localization in Today’s Buildings. MobiSys 17 [[Paper]](https://cseweb.ucsd.edu//~shz338/images/MobiSys_17.pdf)(Visible Light Positioning)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (NO ML)
 * Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (NO ML)
 * Listening through a Vibration Motor, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/VibraPhone_mobisys16.pdf) (NO ML)
 * Platypus — Indoor Localization and Identification through Sensing Electric Potential Changes in Human Bodies, MobiSys 16 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/grosse2016platypus.pdf)
 * Expansion of Human–Phone Interface By Sensing Structure-Borne Sound Propagation, MobiSys 16 [[Paper]](https://yctung.github.io/files/publication/mobisys16-forcephone.pdf) (NO ML)
+* Nutrilyzer: A Mobile System for Characterizing Liquid Food with Photoacoustic Effect, SenSys 16 [[Paper]](https://pac.cs.cornell.edu/pubs/Sensys2016_Nutrilyzer.pdf)
+* Indoor Tracking Using Crowdsourced Maps, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460679) (NO ML)
+* Characterizing the Accuracy of a Self-Synchronized Reverse-GPS Wildlife Localization System, IPSN 16 [[Paper]]()
+
+
 
 									
 ## Computing							
@@ -321,7 +336,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Learning Compressed Embeddings for On-Device Inference, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf)
 * Accurate and Efficient 2-bit Quantized Neural Networks, MLSys	19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/168.pdf)	
 * Ternary Hybrid Neural-Tree Networks for Highly Constrained IoT Applications,	MLSys 19 [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/107.pdf)					
-* On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)			
+* On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)	
+* DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131675)
+* Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
+		
 #### Efficient Inference
 * MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
@@ -385,7 +403,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274836)
 * Multimodal deep learning for activity and context recognition, UbiComp 2018
 * Low-resource multi-task audio sensing for mobile and embedded devices via shared deep neural network representations, UbiComp 2017
-* DeepEye:ResourceEfficientLocalExecutionofMultiple DeepVisionModelsusingWearableCommodityHardware, MobiSys 2017
+* DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf) 
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 2016
 * DeepX: ASoftwareAcceleratorforLow-Power DeepLearningInferenceonMobileDevices
 * DeepEar: RobustSmartphoneAudioSensingin UnconstrainedAcousticEnvironmentsusingDeepLearning, UbiComp 2015 
@@ -479,7 +497,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
 							
 ### Others
-* DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf) (Temporary placed)
 
 	
 ## Networking and Communication							
@@ -529,6 +546,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * FlipTracer: Practical Parallel Decoding for Backscatter Communication, MobiCom 17 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2017.1.pdf)	
 * Making Sense of Mechanical Vibration Period with Sub-millisecond Accuracy Using Backscatter Signals, MobiCom 16 [[Paper]](https://www4.comp.polyu.edu.hk/~csyanglei/data/files/tagbeat-mobicom.pdf)
 * In-body backscatter communication and localization,	SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565)	(NO ML)	
+* LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (NO ML)
+* HitchHike: Practical Backscatter Using Commodity WiFi, SenSys 16 [[Paper]](https://pengyuzhang.github.io/papers/sensys16_back_comm.pdf) (NO ML)
+
 							
 ### LoRa							
 * Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems	,	NSDI	22	[[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf)	(NO	ML)	
@@ -566,7 +586,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 ### Visible Light Communication 
 * Harmony: An In-band Time Synchronisation System for Visible Light Communication, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568549) (NO ML)
 * The DarkLight Rises: Visible Light Communication in the Dark, MobiCom 16 [[Paper]](https://www.cs.dartmouth.edu/~xia/papers/mobicom16-darklight.pdf) (NO ML)
-* Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna, SenSys 22 [[Paper]](https://people.cs.umass.edu/~minhaocui/sensys22.pdf)
 * RadioInLight: Doubling the Data Rate of VLC Systems, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483271) (NO ML)
 * Lili: Liquor Quality Monitoring Based on Light Signals, MobiCom 21 [[Paper]](https://www.huangyongzhi.com.cn/data/Lili.pdf) (NO ML)
 * SMART: Screen-based Gesture Recognition on Commodity Mobile Devices, MobiCom 21 [[Paper]](https://huangqy7.github.io/Paper/mobicom21-SMART.pdf)
@@ -605,6 +624,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Deaf-aid: mobile IoT communication exploiting stealthy speaker-to-gyroscope channel, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020c.pdf) (NO ML)
 * Cross-Frequency Communication: Near-Field Identification of UHF RFIDs with WiFi!, MiboCom 18 [[Paper]](https://www4.comp.polyu.edu.hk/~csyanglei/data/files/tifi-mobicom18.pdf) (NO ML)
 * Chiron: Concurrent High Throughput Communication for IoT Devices, MobiSys 18 [[Paper]](https://cis.csuohio.edu/~chi/publication/li-2018-cch-3210240-3210346/li-2018-cch-3210240-3210346.pdf) (NO ML)
+* B2W2: N-Way Concurrent Communication for IoT Devices, SenSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2994551.2994561) (NO ML)
 
 
 ## Power
@@ -620,6 +640,13 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * CapBand: Battery-free Successive Capacitance Sensing Wristband for Hand Gesture Recognition, SenSys 18 [[Paper]](https://genesys-lab.org/papers/p54-Truong.pdf)
 * InK: Reactive Kernel for Tiny Batteryless Sensors, SenSys 18 [[Paper]](https://josiahhester.com/cv/files/inksensys2018.pdf)
 * Battery-Free Eye Tracker on Glasses, MobiCom 18 [[Paper]](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3975&context=facoa)
+* Exploiting Multi-Cell Battery for Mobile Devices: Design, Management, and Performance, SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131684) (NO ML)
+* Flicker: Rapid Prototyping for the Batteryless Internet-of-Things, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131674) (NO ML)
+* Timely Execution on Intermittently Powered Batteryless Sensors, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/abs/10.1145/3131672.3131673)
+* Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna, SenSys 22 [[Paper]](https://people.cs.umass.edu/~minhaocui/sensys22.pdf)
+
+
+
 
 
 ## Security and Privacy	
@@ -680,6 +707,12 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Regulating ARM TrustZone Devices in Restricted Spaces, MobiSys 17 [[Paper]](https://download.hrz.tu-darmstadt.de/media/FB20/Dekanat/Publikationen/TRUST/mobisys16_restricted-spaces.pdf) (NO ML)
 * Viola: Trustworthy Sensor Notifications for Enhanced Privacy on Mobile Systems, MobiSys 16 [[Paper]](https://www.ics.uci.edu/~ardalan/papers/Mirzamohammadi_MobiSys16.pdf) (NO ML)
 * I-Pic: A Platform for Privacy-Compliant Image Capture, MobiSys 16 [[Paper]](https://people.mpi-sws.org/~druschel/publications/ipic.pdf)
+* CamForensics: Understanding Visual Privacy Leaks in the Wild, SenSys 17 [[Paper]](https://jain-puneet.github.io/papers/camforensics_final.pdf)
+* Secure Sharing of Partially Homomorphic Encrypted IoT Data, SenSys 17 [[Paper]](http://www.vs.inf.ethz.ch/publ/papers/mshafagh_SenSys17_Pilatus.pdf) (NO ML)
+* Robust, low-cost, auditable random number generation for embedded system security, SenSys 16 [[Paper]](https://eprint.iacr.org/2016/884.pdf) (NO ML)
+
+
+
 
 ### Spoofing/Sniffing
 * Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures, MobiCom 16 [[Paper]](https://lenders.ch/publications/conferences/mobicom16.pdf) (NO ML)
@@ -706,6 +739,14 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SALVE: Server Authentication with Location VErification, MobiCom 16 [[Paper]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2016/mobicom16_yu.pdf) (NO ML)
 * Trust but Verify: Auditing the Secure Internet of Things, MobiSys 17 [[Paper]](https://people.csail.mit.edu/henrycg/files/academic/papers/mobisys17tlsrar.pdf) (NO ML)
 * Targeted Mimicry Attacks on Touch Input Based Implicit Authentication Schemes, MobiSys 16 [[Paper]](https://cs.uwaterloo.ca/~uhengart/publications/mobisys16.pdf)
+* Ditio: Trustworthy Auditing of Sensor Activities in Mobile & IoT Devices, SenSys 17 [[Paper]](https://www.ics.uci.edu/~ardalan/papers/Mirzamohammadi_SenSys17.pdf) (NO ML)
+* Battery-Free Identification Token for Touch Sensing Devices, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Battery%20Free%20Token_Phuc.pdf) (NO ML)
+* Empirical Validation of Commodity Spectrum Monitoring, SenSys 16 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/spectrum-sensys16.pdf) (NO ML)
+* Secret from Muscle: Enabling Secure Pairing with Electromyography, SenSys 16 [[Paper]](https://www.cs.virginia.edu/~bjc8c/class/cs6501-f17/yang16electromyography.pdf)
+* AoT: Authentication and Access Control for the Entire IoT Device Life-Cycle, SenSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2994551.2994555) (NO ML)
+
+
+
 
 
 ## AIoT Systems and their Applications	
@@ -742,6 +783,16 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images, MobiSys 17 [[Paper]](https://mi-zhang.github.io/papers/2017_MobiSys_MobileDeepPill.pdf)	
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,		SenSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693)
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf)
+* Glasses for the Third Eye: Improving the Quality of Clinical Data Analysis with Motion Sensor-based Data Filtering, SenSys 17 [[Paper]](http://nsl.cau.ac.kr/~jpaek/docs/medisense-sensys2017-published.pdf)
+* mCerebrum: A Mobile Sensing Software Platform for Development and Validation of Digital Biomarkers and Interventions, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131694)
+* Monitoring a Person's Heart Rate and Respiratory Rate on a Shared Bed Using Geophones, SenSys 17 [[Paper]](https://www.cs.virginia.edu/~bjc8c/class/cs6501-f18/papers/jia17geophones.pdf)
+* PhO2: Smartphone based Blood Oxygen Level Measurement Systems using Near-IR and RED Wave-guided Light, SenSys 17 [[Paper]](https://mobile.cs.gsu.edu/aashok/Papers/12_2017_SenSys.pdf)
+* Toothbrushing Monitoring using Wrist Watch, SenSys 16 [[Paper]](http://www.ece.sunysb.edu/~slin/Publications/sensys2016-final90.pdf)
+* Monoxalyze: Verifying Smoking Cessation with a Keychain-sized Carbon Monoxide Breathalyzer, SenSys 16 [[Paper]](https://web.eecs.umich.edu/~prabal/pubs/papers/adkins16monoxalyze.pdf) (NO ML)
+* Burnout: A Wearable System for Unobtrusive Skeletal Muscle Fatigue Estimation, IPSN 16 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper21.pdf)
+* HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7460676) (NO ML)
+
+
 		
 ### AIoT Systems for Video Streaming and Analytics 							
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
@@ -818,6 +869,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * When Virtual Reality Meets Internet of Things in the Gym: Enabling Immersive Interactive Machine Exercises, UbiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3214281)	
 * Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices, MobiCom 17 [[Paper]](https://www.cse.psu.edu/~gxc27/teach/597/Furion.pdf) (NO ML)
 * FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (NO ML)
+* Ultra-Low Power Gaze Tracking for Virtual Reality, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131682)
+
 
 ### AIoT Systems for Drones
 * Placement Optimization for UAV-Enabled Wireless Networks with Multi-Hop Backhauls in Urban Environments, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a054/962400a054.pdf)
