@@ -50,7 +50,6 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Under Water Communication](#under-water-communication)
   - [Power](#power)
   - [Security and Privacy](#security-and-privacy)
-    - [Security of AIoT](#security-of-aiot)
   - [AIoT Systems and their Applications](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (Checked by MZ)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Streaming and Analytics (Checked by MZ)](#aiot-systems-for-video-streaming-and-analytics)
