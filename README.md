@@ -342,13 +342,14 @@ Majority of the included papers are published at top-tier venues in the areas of
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)
 * DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131675)
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
+* Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16
 		
 #### Efficient Inference
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI	22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
 * NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
-* IOS: Inter-Operator Scheduler for CNN Acceleration,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
+* IOS: Inter-Operator Scheduler for CNN Acceleration, MLSys 21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
 * MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
-* Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
+* Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems, ASPLOS 19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
 
 #### Multi-Tenant Inference	
