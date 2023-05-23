@@ -38,8 +38,8 @@ Majority of the included papers are published at top-tier venues in the areas of
       	- [Inference Optimization and Acceleration (Checked by MZ)](#inference-optimization-and-acceleration)
       	- [Multi-Tenant Inference (Checked by MZ)](#multi-tenant-inference)
       	- [Cross-Processor Inference (Checked by MZ)](#cross-processor-inference)
-      	- [Adaptation (Checked by MZ)](#adaptation)
       	- [Privacy-Preserving Inference (Checked by MZ)](#privacy-preserving-inference)
+      	- [Adaptation (Checked by MZ)](#adaptation)
       	- [Benchmarks (Checked by MZ)](#inference-benchmarks)
     - [On-Device Training (Checked by MZ)](#on-device-training)
     	- [Training on a Single Device (Checked by MZ)](#training-on-a-single-device)
@@ -245,8 +245,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131689)
 * SCAN: Learning Speaker Identity From Noisy Sensor Data, IPSN 17 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/sensornets/papers/paper8.pdf)
 * MAVL: Multiresolution Analysis of Voice Localization, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf)
-
-													
+											
 ### Vision Sensing		
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf)
 * MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560537) (NO ML)
@@ -386,7 +385,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 * Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading, MobiSys 17 [[Paper]](https://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf)
 * DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Lane.IPSN2016-Camera.pdf)
-		
+
+#### Privacy-Preserving Inference
+* PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
+
 #### Adaptation
 * Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 2021	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
@@ -395,9 +397,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
-
-#### Privacy-Preserving Inference
-* PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
 		
 #### Benchmarks
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
