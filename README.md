@@ -32,14 +32,18 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Air-Water Sensing (Checked by MZ)](#air-water-sensing)
     - [Multi-Modal Sensing (Checked by MZ)](#multi-modal-sensing)
   - [Computing](#computing)
-    - [On-Device Inferences](#on-device-inferences)
-      	- [Scheduling](#scheduling)
-      	- [DNN Compressing](#dnn-compressing)
+    - [On-Device Inference](#on-device-inference)
+      	- [Model Compression (Checked by MZ)](#model-compression)
+      	- [Inference Optimization and Acceleration (Checked by MZ)](#inference-optimization-and-acceleration)
+      	- [Multi-Tenant Inference (Checked by MZ)](#multi-tenant-inference)
+      	- [Cross-Processor Inference (Checked by MZ)](#cross-processor-inference)
+      	- [Adaptation (Checked by MZ)](#adaptation)
+      	- [Benchmarks (Checked by MZ)](#inference-benchmarks)
     - [On-Device Training (Checked by MZ)](#on-device-training)
     	- [Training on a Single Device (Checked by MZ)](#training-on-a-single-device)
     	- [Distributed On-Device Training (Checked by MZ)](#distributed-on-device-training)
     	- [Federated Learning for AIoT (Checked by MZ)](#federated-learning-for-aiot)
-    	- [Benchmarks (Checked by MZ)](#benchmarks)
+    	- [Benchmarks (Checked by MZ)](#training-benchmarks)
     - [Offloading](#offloading)
     - [Automated Machine Learning](#automated-machine-learning)
       	- [NAS](#nas)
@@ -328,7 +332,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 						
 ## Computing							
 	
-### On-Device Inferences							
+### On-Device Inference							
 
 #### Model Compression
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
