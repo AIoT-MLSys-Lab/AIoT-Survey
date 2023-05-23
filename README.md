@@ -444,6 +444,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Towards Federated Learning at Scale: System Design, MLSys 19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)		
 
 #### Benchmarks
+* FedAIoT:
 * FedMultimodal: A Benchmark for Multimodal Federated Learning, KDD 23
 * FedAudio: A Federated Learning Benchmark for Audio Tasks, ICASSP 23 [[Paper]](https://arxiv.org/pdf/2210.15707.pdf)
 * FedNLP: 
