@@ -460,14 +460,14 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FedCV: 
 
 ### Edge-Cloud Offloading							
-* InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference,	MobiCom	22	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3495243.3517016](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf))	
+* InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517016)(https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf))	
 * Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI, MobiCom 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom22.pdf)
 * Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning,	OSDI	22	[[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)			
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
-* Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom 21 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3447993.3448628](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)	
+* Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom 21 [[Paper]](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)	
 * CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215)	
 * SPINN: synergistic progressive inference of neural networks over device and cloud, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419194)	
-* Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)			
+* Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)	
 * Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)			
 * FoggyCache: Cross-Device Approximate Computation Reuse, MobiCom 18 [[Paper]](https://www.cs.yale.edu/homes/guo-peizhen/files/foggycache-mobicom18.pdf)	
 * LEO: Scheduling Sensor Inference Algorithms across Heterogeneous Mobile Processors and Network Resources, MobiCom 16 [[Paper]](https://core.ac.uk/download/pdf/83939419.pdf)
