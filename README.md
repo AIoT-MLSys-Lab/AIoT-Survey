@@ -127,7 +127,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340)
 * Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
 
-
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
 * Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (NO ML)
@@ -256,6 +255,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://www.osti.gov/servlets/purl/1811681)
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf)
 
+### Visible Light Sensing
+* SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, SenSys 17 [[Paper]](https://www-users.cse.umn.edu/~tianhe/Papers/SmartLight.pdf) (NO ML) (Best Paper)
+* CELLI: Indoor Positioning Using Polarized Sweeping Light Beams, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081352) (NO ML) (Visible Light Positioning)
+* Enabling High-Precision Visible Light Localization in Today’s Buildings. MobiSys 17 [[Paper]](https://cseweb.ucsd.edu//~shz338/images/MobiSys_17.pdf)(Visible Light Positioning)
+
 ### Air-Water Sensing
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
 
@@ -283,14 +287,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Indoor localization via multi-modal sensing on smartphones,	UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)	
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf)	
 * Non-Intrusive Multi-Modal Estimation of Building Occupancy, SenSys 17 [[Paper]](http://www.phpathak.com/files/occupancy-sensys.pdf)
-
-		
-### Visible Light Sensing
-* SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, SenSys 17 [[Paper]](https://www-users.cse.umn.edu/~tianhe/Papers/SmartLight.pdf) (NO ML) (Best Paper)
-* CELLI: Indoor Positioning Using Polarized Sweeping Light Beams, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081352) (NO ML) (Visible Light Positioning)
-* Enabling High-Precision Visible Light Localization in Today’s Buildings. MobiSys 17 [[Paper]](https://cseweb.ucsd.edu//~shz338/images/MobiSys_17.pdf)(Visible Light Positioning)
-
-		
+	
 ### Others
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
 * FabToys: plush toys with large arrays of fabric-based pressure sensors to enable fine-grained interaction detection, MobiSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/FabToy-MobiSys22.pdf)
@@ -323,9 +320,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Indoor Tracking Using Crowdsourced Maps, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460679) (NO ML)
 * Characterizing the Accuracy of a Self-Synchronized Reverse-GPS Wildlife Localization System, IPSN 16 [[Paper]]()
 
-
-
-									
+								
 ## Computing							
 	
 ### On-Device Inferences							
