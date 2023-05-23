@@ -242,6 +242,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Strata: Fine-Grained Acoustic-based Device-Free Tracking, MobiSys 17 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobisys17_strata.pdf) (NO ML) (Also VR/AR)
 * BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131689)
 * SCAN: Learning Speaker Identity From Noisy Sensor Data, IPSN 17 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/sensornets/papers/paper8.pdf)
+* MAVL: Multiresolution Analysis of Voice Localization, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf)
+
 													
 ### Vision Sensing		
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf)
@@ -357,6 +359,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems, ASPLOS 19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
+* SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
+
 
 #### Multi-Tenant Inference	
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
@@ -377,7 +381,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Efficient Execution of Deep Neural Networks on Mobile Devices with NPU, IPSN 21 [[Paper]](http://mcn.cse.psu.edu/paper/tan-tianxiang/ipsn20-tan.pdf)		
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 * Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading, MobiSys 17 [[Paper]](https://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf)
-* DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Lane.IPSN2016-Camera.pdf) (TODO)
+* DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Lane.IPSN2016-Camera.pdf)
 		
 #### Adaptation
 * Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
@@ -410,6 +414,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458266) [[code]](https://github.com/learning1234embed/DeepFunctionalNetwork)		
 * SpotGarbage: smartphone app to detect garbage using deep learning, UbiComp 16 [[Paper]](https://dl.acm.org/doi/10.1145/2971648.2971731) [[code]](https://github.com/KudaP/SpotGarbage)
+* Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-ma.pdf)
+* Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations, UbiComp 17 [[Paper]](https://core.ac.uk/reader/227518690) (application?)
+
 
 
 ### On-Device Training	
@@ -426,6 +433,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 #### Distributed On-Device Training
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
+
 
 #### Federated Learning for AIoT	
 * GPT-FL: 
@@ -469,6 +477,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * LEO: Scheduling Sensor Inference Algorithms across Heterogeneous Mobile Processors and Network Resources, MobiCom 16 [[Paper]](https://core.ac.uk/download/pdf/83939419.pdf)
 * Enabling Cross-ISA Offloading for COTS Binaries, MobiSys 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3081333.3081337) (NO ML)
 * Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge, ASPLOS 17 [[Paper]](https://dl.acm.org/doi/10.1145/3037697.3037698)
+* Context-Aware Compilation of DNN Training Pipelines across Edge and Cloud, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494981) [[code]](https://github.com/dixiyao/Context-Aware-Compilation-of-DNN-Training-Pipelines-across-Edge-and-Cloud)
+
 												
 ### Model Deployment on the Edge
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
@@ -503,9 +513,13 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Compiling machine learning programs via high-level tracing,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/146.pdf)	
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI	18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
+* A Tensor Compiler for Unified Machine Learning Prediction Serving, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-nakandala.pdf)
+
 							
 ### Others
 * Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors, IPSN 17 [[Paper]](https://dl.acm.org/doi/10.1145/3055031.3055087)
+* Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-yu.pdf)
+
 
 	
 ## Networking and Communication							
@@ -633,6 +647,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Cross-Frequency Communication: Near-Field Identification of UHF RFIDs with WiFi!, MiboCom 18 [[Paper]](https://www4.comp.polyu.edu.hk/~csyanglei/data/files/tifi-mobicom18.pdf) (NO ML)
 * Chiron: Concurrent High Throughput Communication for IoT Devices, MobiSys 18 [[Paper]](https://cis.csuohio.edu/~chi/publication/li-2018-cch-3210240-3210346/li-2018-cch-3210240-3210346.pdf) (NO ML)
 * B2W2: N-Way Concurrent Communication for IoT Devices, SenSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2994551.2994561) (NO ML)
+* AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-qian-kun.pdf) (NO ML)
+
 
 
 ## Power
@@ -723,6 +739,15 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * PitchIn: Eavesdropping via Intelligible Speech Reconstruction using Non-Acoustic Sensor Fusion, IPSN 17 [[Paper]](https://mews.sv.cmu.edu/papers/ipsn-17.pdf)
 * Coresets for Differentially Private K-Means Clustering and Applications to Privacy in Mobile Sensor Networks, IPSN 17 [[Paper]](http://people.csail.mit.edu/dannyf/IPSN2017)
 * MinHash Hierarchy for Privacy Preserving Trajectory Sensing and Query, IPSN 17 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2020/02/ipsn17-minHashTrajectory.pdf) (NO ML)
+* DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern, UbiComp 18 [[Paper]](https://xumengwei.github.io/files/UbiComp-DeepType.pdf)
+* Yodel: strong metadata security for voice calls, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359648) (NO ML)
+* Honeycrisp: large-scale differentially private aggregation without a trusted core, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359660) (NO ML)
+* Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359639)
+* DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern, UbiComp 19 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/deeptype_ubicomp19.pdf)
+* Countering Acoustic Adversarial Attacks in Microphone-equipped Smart Home Devices, UbiComp 20 [[Paper]](https://mobile-systems.cl.cam.ac.uk/papers/imwut20-bhattacharya.pdf)
+* DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532)
+* Privid: Practical, Privacy-Preserving Video Analytics Queries, OSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-cangialosi.pdf)
+* Eavesdropping user credentials via GPU side channels on smartphones, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507757)
 
 
 ### Encryption
@@ -730,11 +755,12 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * PrOLoc: Resilient Localization with Private Observers Using Partial Homomorphic Encryption, IPSN 17 [[Paper]](https://ieeexplore.ieee.org/document/7944778) (NO ML)
 
 
-
 ### Spoofing/Sniffing
 * Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures, MobiCom 16 [[Paper]](https://lenders.ch/publications/conferences/mobicom16.pdf) (NO ML)
 * SPREE: A Spoofing Resistant GPS Receiver, MobiCom 16 [[Paper]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2016/spoof-detector.pdf) (NO ML)
 * Practical Bluetooth Traffic Sniffing: Systems and Privacy Implications, MobiSys 16 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/blueear16mobisys.pdf)
+* Keyboard Snooping from Mobile Phone Arrays with Mixed Convolutional and Recurrent Neural Networks, UbiComp 19 [[Paper]](https://s2.smu.edu/~eclarson/pubs/2019Keyboard.pdf)
+
 
 ### Authenticate
 * Secure and Authorized Client-to-Client Communication for LwM2M, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.03450.pdf) (NO ML)
@@ -763,7 +789,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * AoT: Authentication and Access Control for the Entire IoT Device Life-Cycle, SenSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2994551.2994555) (NO ML)
 * VibID: User Identification through Bio-Vibrometry, IPSN 16 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/courses/fall2015/papers/VibID_IPSN2016.pdf)
 * Walkie-Talkie: Motion-Assisted Automatic Key Generation for Secure On-Body Device Communication, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460726) (NO ML)
-
+* Performance Characterization of Deep Learning Models for Breathing-based Authentication on Resource-Constrained Devices, Ubicomp 19 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5258&context=sis_research)
 
 
 
@@ -838,6 +864,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Panoptes: Servicing Multiple Applications Simultaneously using Steerable Cameras, IPSN 17 [[Paper]](https://winlab.rutgers.edu/~shubhamj/papers/Shubham_Panoptes_IPSN2017.pdf)
 * CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-hwang.pdf)
 * LiteReconfig: Cost and Content Aware Reconfiguration of Video Object Detection Systems for Mobile GPUs, EuroSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577)
+* Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics, SigComm 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)
+* Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-feng-boyuan.pdf)
+* Video Analytics with Zero-streaming Cameras, ATC 21 [[Paper]](https://xumengwei.github.io/files/ATC-DIVA.pdf)
 
 ### AIoT Systems for Autonomous Driving					
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
@@ -896,6 +925,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Ultra-Low Power Gaze Tracking for Virtual Reality, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131682)
 * Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) (NO ML)
 * Firefly: Untethered Multi-user VR for Commodity Mobile Devices, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-liu-xing.pdf)
+* Transparent AR Processing Acceleration at the Edge, EuroSys 19(https://dl.acm.org/doi/pdf/10.1145/3301418.3313942)
+* Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446715)
 
 
 
@@ -918,6 +949,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Reactive Control of Autonomous Drones, MobiSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2906388.2906410) (NO ML) (Best Paper) 
 * Argus: Realistic Target Coverage by Drones, IPSN 17 [[Paper]](Argus: Realistic Target Coverage by Drones) (NO ML)
 * 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf)
+* Quantifying the Design-Space Tradeoffs in Autonomous Drones, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446721)
+
 
 
 ### AIoT Systems for Agriculture  
