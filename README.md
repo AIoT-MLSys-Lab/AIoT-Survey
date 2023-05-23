@@ -47,7 +47,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Offloading](#offloading)
     - [Automated Machine Learning](#automated-machine-learning)
       	- [NAS](#nas)
-    - [Compiler for ML Systems](#compiler-for-ml-systems)
+    - [Compiler](#compiler-for-ml-systems)
   - [Networking and Communication](#networking-and-communication)
     - [Backscatter](#backscatter-look-at-papers-from-shyam--university-of-washington)
     - [LoRa](#lora)
