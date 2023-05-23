@@ -511,11 +511,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI	18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
 * A Tensor Compiler for Unified Machine Learning Prediction Serving, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-nakandala.pdf)
-
-							
+					
 ### Others
 * Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors, IPSN 17 [[Paper]](https://dl.acm.org/doi/10.1145/3055031.3055087)
-* Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-yu.pdf)
 
 	
 ## Networking and Communication							
