@@ -39,13 +39,14 @@ Majority of the included papers are published at top-tier venues in the areas of
       	- [Multi-Tenant Inference (Checked by MZ)](#multi-tenant-inference)
       	- [Cross-Processor Inference (Checked by MZ)](#cross-processor-inference)
       	- [Adaptation (Checked by MZ)](#adaptation)
+      	- [Privacy-Preserving Inference (Checked by MZ)](#privacy-preserving-inference)
       	- [Benchmarks (Checked by MZ)](#inference-benchmarks)
     - [On-Device Training (Checked by MZ)](#on-device-training)
     	- [Training on a Single Device (Checked by MZ)](#training-on-a-single-device)
     	- [Training on Distributed Devices (Checked by MZ)](#training-on-distributed-devices)
     	- [Federated Learning for AIoT (Checked by MZ)](#federated-learning-for-aiot)
     	- [Benchmarks (Checked by MZ)](#training-benchmarks)
-    - [Edge-Cloud-Offloading](#edge-cloud-offloading)
+    - [Edge-Cloud-Offloading (Checked by MZ)](#edge-cloud-offloading)
     - [Automated Machine Learning for AIoT](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT](#compiler-for-aiot)
   - [Networking and Communication (Lead by Zhichao)](#networking-and-communication)
@@ -393,7 +394,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
-								
+
+#### Privacy-Preserving Inference
+* PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
+		
 #### Benchmarks
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
@@ -462,7 +466,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Edge-Cloud Offloading							
 * Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
 * Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI, MobiCom 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom22.pdf)		
-* PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
 * Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom 21 [[Paper]](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)	
 * CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215)	
 * SPINN: synergistic progressive inference of neural networks over device and cloud, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419194)	
