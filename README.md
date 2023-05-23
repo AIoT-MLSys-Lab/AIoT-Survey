@@ -345,12 +345,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 		
 #### Efficient Inference
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI	22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
-* MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
+* IOS: Inter-Operator Scheduler for CNN Acceleration,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
+* MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems,	ASPLOS	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
-* IOS: Inter-Operator Scheduler for CNN Acceleration,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
-* MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
 
 #### Multi-Tenant Inference	
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
@@ -361,6 +360,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938)			
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
+* MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
 
 #### Cross-Processor Inference
 * CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 22 [[Paper]](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)
