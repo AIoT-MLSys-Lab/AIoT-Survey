@@ -42,7 +42,7 @@ Majority of the included papers are published at top-tier venues in the areas of
       	- [Benchmarks (Checked by MZ)](#inference-benchmarks)
     - [On-Device Training (Checked by MZ)](#on-device-training)
     	- [Training on a Single Device (Checked by MZ)](#training-on-a-single-device)
-    	- [Distributed On-Device Training (Checked by MZ)](#distributed-on-device-training)
+    	- [Training on Distributed Devices (Checked by MZ)](#training-on-distributed-devices)
     	- [Federated Learning for AIoT (Checked by MZ)](#federated-learning-for-aiot)
     	- [Benchmarks (Checked by MZ)](#training-benchmarks)
     - [Offloading](#offloading)
@@ -431,10 +431,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices,	SenSys	20	[[Paper]](https://taogu.site/pub/paper/Paper_3_SenSys_2020.pdf)	
 * Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)			
 
-#### Distributed On-Device Training
+#### Training on Distributed Devices
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
-
 
 #### Federated Learning for AIoT	
 * GPT-FL: 
@@ -520,7 +519,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Others
 * Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors, IPSN 17 [[Paper]](https://dl.acm.org/doi/10.1145/3055031.3055087)
 * Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-yu.pdf)
-
 
 	
 ## Networking and Communication							
@@ -651,7 +649,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-qian-kun.pdf) (NO ML)
 
 
-
 ## Power
 * DeepAuditor: Distributed Online Intrusion Detection System for IoT devices via Power Side-channel Auditing, IPSN 22 [[Paper]](https://arxiv.org/pdf/2106.12753.pdf)
 * An Energy Supervisor Architecture for Energy-Harvesting Applications, IPSN 22 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/saoda22altair.pdf)
@@ -671,9 +668,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna, SenSys 22 [[Paper]](https://people.cs.umass.edu/~minhaocui/sensys22.pdf)
 * Accurate Power Quality Monitoring in Microgrids, IPSN 16 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn2016.pdf) (NO ML)
 * HarvOS: Efficient Code Instrumentation for Transiently-powered Embedded Sensing, IPSN 17 [[Paper]](https://mottola.faculty.polimi.it/papers/bhatti17intermittent.pdf) (NO ML)
-
-
-
 
 
 ## Security and Privacy	
