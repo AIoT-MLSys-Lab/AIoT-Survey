@@ -126,6 +126,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(NO ML)
 * Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340)
 * Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
+* WiWho: WiFi-Based Person Identification in Smart Spaces, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460727)
+
+
 
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
@@ -163,6 +166,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * LiquID: A Wireless Liquid IDentifier, MobiSys 18 [[Paper]](https://synrg.csl.illinois.edu/papers/liquid_mobisys2018.pdf) (NO ML)
 * SALMA: UWB-based Single-Anchor Localization System using Multipath Assistance, SenSys 18 [[Paper]](http://www.carloalbertoboano.com/documents/grosswindhager18salma.pdf)
 * SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization, SenSys 16 [[Paper]](https://patpannuto.com/pubs/kempke16surepoint.pdf) (NO ML)
+* Harmonium: Asymmetric, Bandstitched UWB for Fast, Accurate, and Robust Indoor Localization, IPSN 16 [[Paper]](https://patpannuto.com/pubs/kempke16harmonium.pdf) (NO ML)
+* Calibration-Free Network Localization using Non-Line-of-Sight Ultra-Wideband Measurements, IPSN 17 [[Paper]](https://web.eecs.umich.edu/~prabal/pubs/papers/di_franco17nlos.pdf)
 
 #### Bluetooth Sensing
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
@@ -233,6 +238,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * BatMapper: Acoustic Sensing Based Indoor Floor Plan Construction Using Smartphones, MobiSys 17 [[Paper]](https://zhoubinwy.github.io/pdf/batmapper.pdf)(NO ML)
 * Strata: Fine-Grained Acoustic-based Device-Free Tracking, MobiSys 17 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobisys17_strata.pdf) (NO ML) (Also VR/AR)
 * BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131689)
+* SCAN: Learning Speaker Identity From Noisy Sensor Data, IPSN 17 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/sensornets/papers/paper8.pdf)
 													
 ### Vision Sensing		
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf)
@@ -294,7 +300,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://alansonsample.com/publications/docs/2021%20-%20MobiCom%20-%20MagX-%20Wearable,%20Untethered%20Hands%20Tracking%20with%20Passive%20Magnets.pdf) (using magnetic)
 * LTE-based Pervasive Sensing Across Indoor and Outdoor, SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)	(NO ML)
 * Locating Everyday Objects using NFC Textiles, IPSN 21 [[Paper]](https://swarunkumar.com/papers/textilesense-ipsn2021.pdf)
-* LOCI: Privacy-aware, Device-free, Low-power Localization of Multiple Persons using IR Sensors, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9111059)
+* LOCI: Privacy-aware, Device-free, Low-power Localization of Multiple Persons using IR Sensors, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9111059)
 * From relative azimuth to absolute location: pushing the limit of PIR sensor based localization, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380878)
 * General-purpose deep tracking platform across protocols for the internet of things	,	MobiSys	20	[[Paper]](https://www4.comp.polyu.edu.hk/~csyanglei/data/files/iark-mobisys20.pdf)
 * MagHacker: Eavesdropping on Stylus Pen Writing via Magnetic Sensing from Commodity Mobile Devices, MobiSys 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys20.pdf)
@@ -318,7 +324,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Expansion of Human–Phone Interface By Sensing Structure-Borne Sound Propagation, MobiSys 16 [[Paper]](https://yctung.github.io/files/publication/mobisys16-forcephone.pdf) (NO ML)
 * Nutrilyzer: A Mobile System for Characterizing Liquid Food with Photoacoustic Effect, SenSys 16 [[Paper]](https://pac.cs.cornell.edu/pubs/Sensys2016_Nutrilyzer.pdf)
 * Indoor Tracking Using Crowdsourced Maps, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460679) (NO ML)
-* Characterizing the Accuracy of a Self-Synchronized Reverse-GPS Wildlife Localization System, IPSN 16 [[Paper]]()
+* Sensor-assisted Face Recognition System on Smart Glass via Multi-view Sparse Representation Classification, IPSN 16 [[Paper]](https://www.cse.unsw.edu.au/~wenh/xu_ipsn_20162.pdf)
+* SurfaceVibe: Vibration-Based Tap & Swipe Tracking on Ubiquitous Surfaces, IPSN 17 [[Paper]](https://www.andrew.cmu.edu/user/shijiapa/documentations/Pan_IPSN_2017.pdf) (NO ML)
+
 
 								
 ## Computing							
@@ -349,6 +357,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://air.tsinghua.edu.cn/pdf/nn-Meter-Towards-Accurate-Latency-Prediction-of-Deep-Learning-Model-Inference-on-Diverse-Edge-Devices.pdf) (Best Paper)		
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 * MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
+* DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Lane.IPSN2016-Camera.pdf) (TODO)
 
 #### Multi-Tenant Inference	
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
@@ -386,7 +395,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 #### Applications
 * UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)	
-* Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9110971) [[code]](https://github.com/lkh329/Supreme)
+* Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110971) [[code]](https://github.com/lkh329/Supreme)
 * MobiPose: real-time multi-person pose estimation on mobile devices,	SensSys20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)	
 * RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition,	SenSys	20 [[Paper]](https://arxiv.org/pdf/2111.04566.pdf)		
 * MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1908.07985.pdf)
@@ -457,6 +466,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FoggyCache: Cross-Device Approximate Computation Reuse, MobiCom 18 [[Paper]](https://www.cs.yale.edu/homes/guo-peizhen/files/foggycache-mobicom18.pdf)	
 * LEO: Scheduling Sensor Inference Algorithms across Heterogeneous Mobile Processors and Network Resources, MobiCom 16 [[Paper]](https://core.ac.uk/download/pdf/83939419.pdf)
 * Enabling Cross-ISA Offloading for COTS Binaries, MobiSys 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3081333.3081337) (NO ML)
+* Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge, ASPLOS 17 [[Paper]](https://dl.acm.org/doi/10.1145/3037697.3037698)
+
 													
 ### Model Deployment on the Edge
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
@@ -492,6 +503,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
 							
 ### Others
+* Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors, IPSN 17 [[Paper]](https://dl.acm.org/doi/10.1145/3055031.3055087)
 
 	
 ## Networking and Communication							
@@ -559,7 +571,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Sense Me on the Ride: Accurate Mobile Sensing over a LoRa Backscatter Channel, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485933) (NO ML)		
 * LAVA: fine-grained 3D indoor wireless coverage for small IoT devices	,	SIGCOMM	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472890)	(NO	ML)	
 * Exploring LoRa for Long-range Through-wall Sensing	,	IMWUT/UbiComp	20	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397326)	(NO	ML)	
-* SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9111031)
+* SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9111031)
 * LMAC: efficient carrier-sense multiple access for LoRa, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419200) (NO ML)
 * WiChronos: energy-efficient modulation for long-range, large-scale wireless networks, MobiCom 20 [[Paper]](https://uwconnect.ece.wisc.edu/wp-content/uploads/sites/1525/2021/10/WiChronos.pdf) (NO ML)
 * Combating interference for long range LoRa sensing, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430731) (NO ML)
@@ -638,6 +650,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Flicker: Rapid Prototyping for the Batteryless Internet-of-Things, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131674) (NO ML)
 * Timely Execution on Intermittently Powered Batteryless Sensors, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/abs/10.1145/3131672.3131673)
 * Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna, SenSys 22 [[Paper]](https://people.cs.umass.edu/~minhaocui/sensys22.pdf)
+* Accurate Power Quality Monitoring in Microgrids, IPSN 16 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn2016.pdf) (NO ML)
+* HarvOS: Efficient Code Instrumentation for Transiently-powered Embedded Sensing, IPSN 17 [[Paper]](https://mottola.faculty.polimi.it/papers/bhatti17intermittent.pdf) (NO ML)
 
 
 
@@ -704,7 +718,14 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * CamForensics: Understanding Visual Privacy Leaks in the Wild, SenSys 17 [[Paper]](https://jain-puneet.github.io/papers/camforensics_final.pdf)
 * Secure Sharing of Partially Homomorphic Encrypted IoT Data, SenSys 17 [[Paper]](http://www.vs.inf.ethz.ch/publ/papers/mshafagh_SenSys17_Pilatus.pdf) (NO ML)
 * Robust, low-cost, auditable random number generation for embedded system security, SenSys 16 [[Paper]](https://eprint.iacr.org/2016/884.pdf) (NO ML)
+* PitchIn: Eavesdropping via Intelligible Speech Reconstruction using Non-Acoustic Sensor Fusion, IPSN 17 [[Paper]](https://mews.sv.cmu.edu/papers/ipsn-17.pdf)
+* Coresets for Differentially Private K-Means Clustering and Applications to Privacy in Mobile Sensor Networks, IPSN 17 [[Paper]](http://people.csail.mit.edu/dannyf/IPSN2017)
+* MinHash Hierarchy for Privacy Preserving Trajectory Sensing and Query, IPSN 17 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2020/02/ipsn17-minHashTrajectory.pdf) (NO ML)
 
+
+### Encryption
+* Kryptein: A Compressive-Sensing-Based Encryption Scheme for the Internet of Things, IPSN 17 [[Paper]](https://ieeexplore.ieee.org/document/7944788) (NO ML)
+* PrOLoc: Resilient Localization with Private Observers Using Partial Homomorphic Encryption, IPSN 17 [[Paper]](https://ieeexplore.ieee.org/document/7944778) (NO ML)
 
 
 
@@ -738,6 +759,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Empirical Validation of Commodity Spectrum Monitoring, SenSys 16 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/spectrum-sensys16.pdf) (NO ML)
 * Secret from Muscle: Enabling Secure Pairing with Electromyography, SenSys 16 [[Paper]](https://www.cs.virginia.edu/~bjc8c/class/cs6501-f17/yang16electromyography.pdf)
 * AoT: Authentication and Access Control for the Entire IoT Device Life-Cycle, SenSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2994551.2994555) (NO ML)
+* VibID: User Identification through Bio-Vibrometry, IPSN 16 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/courses/fall2015/papers/VibID_IPSN2016.pdf)
+* Walkie-Talkie: Motion-Assisted Automatic Key Generation for Secure On-Body Device Communication, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460726) (NO ML)
+
+
 
 
 
@@ -784,7 +809,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Toothbrushing Monitoring using Wrist Watch, SenSys 16 [[Paper]](http://www.ece.sunysb.edu/~slin/Publications/sensys2016-final90.pdf)
 * Monoxalyze: Verifying Smoking Cessation with a Keychain-sized Carbon Monoxide Breathalyzer, SenSys 16 [[Paper]](https://web.eecs.umich.edu/~prabal/pubs/papers/adkins16monoxalyze.pdf) (NO ML)
 * Burnout: A Wearable System for Unobtrusive Skeletal Muscle Fatigue Estimation, IPSN 16 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper21.pdf)
-* HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7460676) (NO ML)
+* HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 
 
 		
@@ -808,6 +833,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345430)
 * Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241565)
 * RnB: Rate and Brightness Adaptation for Rate-Distortion-Energy Tradeoff in HTTP Adaptive Streaming over Mobile Devices, MobiCom 16 [[Paper]](https://mason.gmu.edu/~zyan4/papers/rnb_mobicom16.pdf)
+* VideoMec: A Metadata-Enhanced Crowdsourcing System for Mobile Videos, IPSN 17 [[Paper]](http://mcn.cse.psu.edu/paper/yibowu/ipsn17-yibo.pdf) (NO ML)
+* Panoptes: Servicing Multiple Applications Simultaneously using Steerable Cameras, IPSN 17 [[Paper]](https://winlab.rutgers.edu/~shubhamj/papers/Shubham_Panoptes_IPSN2017.pdf)
 
 ### AIoT Systems for Autonomous Driving					
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
@@ -884,6 +911,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Indoor Follow Me Drone, MobiSys 17 [[Paper]](https://iwct.sjtu.edu.cn/personal/xtian/paper/2017-mobisys-iBlink.pdf) (Honorable Mention)
 * Reactive Control of Autonomous Drones, MobiSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2906388.2906410) (NO ML) (Best Paper) 
 * Argus: Realistic Target Coverage by Drones, IPSN 17 [[Paper]](Argus: Realistic Target Coverage by Drones) (NO ML)
+* 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf)
+
 
 ### AIoT Systems for Agriculture  
 * DRLIC: Deep Reinforcement Learning for Irrigation Control, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a041/962400a041.pdf)
@@ -895,11 +924,15 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Soil Moisture Sensing with Commodity RFID Systems, MobiSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3386901.3388940)
 * Towards Low Cost Soil Sensing Using Wi-Fi, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345440) (NO ML) (Honorable Mention)
 * WISDOM: watering intelligently at scale with distributed optimization and modeling, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360023) (NO ML)
+* MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (NO ML)
+
 
 ### AIoT Systems for Biology
 * Airdropping Sensor Networks from Drones and Insects, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419981) (NO ML)
-* Estimating Heart Rate and Detecting Feeding Events of Fish Using an Implantable Biologger, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9110997)
+* Estimating Heart Rate and Detecting Feeding Events of Fish Using an Implantable Biologger, IPSN 20 [[Paper]](https://research.csiro.au/dss/wp-content/uploads/sites/100/2020/02/Estimating_Heart_Rate_and_Detecting_Feeding_Events_of_Fish_Using_an_Implantable_Biologger-1.pdf)
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf)
+* Characterizing the Accuracy of a Self-Synchronized Reverse-GPS Wildlife Localization System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460662) (Best Paper)
+
 
 ### Others
 * Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Business, MobiCom 22 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_22_1.pdf)
