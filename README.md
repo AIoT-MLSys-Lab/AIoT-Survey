@@ -269,7 +269,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Air-Water Sensing
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
 
-### Multi-modal Sensing		
+### Multi-Modal Sensing		
 * Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538918)		
 * Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensor, IPSN 22 [[Paper]](https://www.winlab.rutgers.edu/~hansiiii/papers/ViFi_Paper___IPSN_2022__Camera_Ready_.pdf)
 * VMA: Domain Variance- and Modality-Aware Model Transfer for Fine-Grained Occupant Activity Recognition, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a247/962400a247.pdf)
@@ -327,8 +327,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sensor-assisted Face Recognition System on Smart Glass via Multi-view Sparse Representation Classification, IPSN 16 [[Paper]](https://www.cse.unsw.edu.au/~wenh/xu_ipsn_20162.pdf)
 * SurfaceVibe: Vibration-Based Tap & Swipe Tracking on Ubiquitous Surfaces, IPSN 17 [[Paper]](https://www.andrew.cmu.edu/user/shijiapa/documentations/Pan_IPSN_2017.pdf) (NO ML)
 
-
-								
+						
 ## Computing							
 	
 ### On-Device Inferences							
@@ -449,6 +448,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Towards Federated Learning at Scale: System Design, MLSys 19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)		
 
 #### Benchmarks
+* FedMultimodal: A Benchmark for Multimodal Federated Learning, KDD 23
 * FedAudio: A Federated Learning Benchmark for Audio Tasks, ICASSP 23 [[Paper]](https://arxiv.org/pdf/2210.15707.pdf)
 
 ### Edge-Cloud Offloading							
