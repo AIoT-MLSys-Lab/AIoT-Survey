@@ -26,6 +26,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [mmWave Sensing (Checked by MZ)](#mmwave-sensing)
     	- [TeraHertz Sensing (Checked by MZ)](#teraHertz-sensing)
     	- [UWB Sensing](#uwb-sensing)
+    	- [Bluetooth Sensing](#bluetooth-sensing)
     - [Earables (Checked by MZ)](#erables)
     - [Acoustic Sensing (Checked by MZ)](#acoustic-sensing)
     - [Vision Sensing (Checked by MZ)](#vision-sensing)
