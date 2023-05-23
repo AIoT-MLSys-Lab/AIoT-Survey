@@ -403,7 +403,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
 
-#### Applications
+#### Others
 * UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)	
 * Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110971) [[code]](https://github.com/lkh329/Supreme)
 * MobiPose: real-time multi-person pose estimation on mobile devices,	SensSys20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726)	
