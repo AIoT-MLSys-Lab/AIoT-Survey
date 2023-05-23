@@ -344,10 +344,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
 * Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16
 		
-#### Inference Optimization
+#### Inference Optimization and Acceleration
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI	22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
 * NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
+* BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)	
 * IOS: Inter-Operator Scheduler for CNN Acceleration, MLSys 21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
 * MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems, ASPLOS 19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
@@ -358,7 +359,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)		
 * YONO: Modeling Multiple Heterogeneous Neural Networks on Microcontrollers, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.03794.pdf)
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision, MobiCom 21 [[Paper]](https://arxiv.org/pdf/2112.09852.pdf) (Best Community Paper Award Runner-Up)		
-* Fast and scalable in-memory deep multitask learning via neural weight virtualization,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)			
+* Fast and scalable in-memory deep multitask learning via neural weight virtualization,	MobiSys	20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)			
 * RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938)			
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
@@ -382,9 +383,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
-
-#### Hardware Accelerators							
-* BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)	
 								
 #### Benchmarks
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
