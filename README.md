@@ -487,9 +487,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://air.tsinghua.edu.cn/pdf/nn-Meter-Towards-Accurate-Latency-Prediction-of-Deep-Learning-Model-Inference-on-Diverse-Edge-Devices.pdf) (Best Paper)		
 * Searching for Winograd-aware Quantized Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/45c48cce2e2d7fbdea1afc51c7c6ad26-Paper.pdf)
 * SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
-* MCUNet: Tiny Deep Learning on IoT Devices	,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)		
+* MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)		
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
-* HM-NAS: Efficient Neural Architecture Search via Hierarchical Masking, ICCV 19 [[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/NeurArch/Yan_HM-NAS_Efficient_Neural_Architecture_Search_via_Hierarchical_Masking_ICCVW_2019_paper.html)
 														
 ### Compiler for AIoT							
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3495243.3517020](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf))	
