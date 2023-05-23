@@ -465,8 +465,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency	,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)			
 * Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision	,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)			
 * Neuro.ZERO: a zero-energy neural network accelerator for embedded sensing and inference systems, SenSys 19 [[Paper]](https://eisys.web.unc.edu/wp-content/uploads/sites/20971/2019/10/sensys19-final95.pdf)	
-* Caesar: cross-camera complex activity recognition, SenSys 19 [[Paper]](http://web.cs.ucla.edu/~ravi/CS239_W20/papers/caesar.pdf)	
-* Distributed Placement of Machine Learning Operators for IoT applications spanning Edge and Cloud Resources	,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/204.pdf)	
 * FoggyCache: Cross-Device Approximate Computation Reuse, MobiCom 18 [[Paper]](https://www.cs.yale.edu/homes/guo-peizhen/files/foggycache-mobicom18.pdf)	
 * LEO: Scheduling Sensor Inference Algorithms across Heterogeneous Mobile Processors and Network Resources, MobiCom 16 [[Paper]](https://core.ac.uk/download/pdf/83939419.pdf)
 * Enabling Cross-ISA Offloading for COTS Binaries, MobiSys 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3081333.3081337) (NO ML)
@@ -815,8 +813,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Burnout: A Wearable System for Unobtrusive Skeletal Muscle Fatigue Estimation, IPSN 16 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper21.pdf)
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 
-
-		
 ### AIoT Systems for Video Streaming and Analytics 							
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
 * AccMPEG: Optimizing Video Encoding for Video Analytics, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/98f13708210194c475687be6106a3b84-Paper.pdf)
@@ -835,6 +831,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Scaling Video Analytics on Constrained Edge Nodes, MLSys 19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf)		
 * Jigsaw: Robust Live 4K Video Streaming, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300127) (NO ML)
 * Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345430)
+* Caesar: cross-camera complex activity recognition, SenSys 19 [[Paper]](http://web.cs.ucla.edu/~ravi/CS239_W20/papers/caesar.pdf)	
 * Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241565)
 * RnB: Rate and Brightness Adaptation for Rate-Distortion-Energy Tradeoff in HTTP Adaptive Streaming over Mobile Devices, MobiCom 16 [[Paper]](https://mason.gmu.edu/~zyan4/papers/rnb_mobicom16.pdf)
 * VideoMec: A Metadata-Enhanced Crowdsourcing System for Mobile Videos, IPSN 17 [[Paper]](http://mcn.cse.psu.edu/paper/yibowu/ipsn17-yibo.pdf) (NO ML)
