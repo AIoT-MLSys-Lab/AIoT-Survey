@@ -47,7 +47,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [Federated Learning for AIoT (Checked by MZ)](#federated-learning-for-aiot)
     	- [Benchmarks (Checked by MZ)](#training-benchmarks)
     - [Edge-Cloud-Offloading (Checked by MZ)](#edge-cloud-offloading)
-    - [Model Deployment on the Edge](#model-deployment-on-the-edge)
+    - [Model Deployment on the Edge (Checked by MZ)](#model-deployment-on-the-edge)
     - [Automated Machine Learning for AIoT](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT](#compiler-for-aiot)
   - [Networking and Communication (Lead by Zhichao)](#networking-and-communication)
