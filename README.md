@@ -16,7 +16,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 https://sites.google.com/view/osu-aiot-seminar
 
 ## AIoT Papers by Topics
-Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys/IPSN), networks (NSDI/SIGCOMM), computer systems (OSDI/SOSP/EuroSys/ASPLOS/ATC), and AI systems (MLSys) from 2016 to now. 
+Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys/IPSN), networks (NSDI/SIGCOMM), computer systems (OSDI/SOSP/EuroSys/ASPLOS/ATC), and AI/ML systems (MLSys) from 2016 to now. We will keep updating this list to include newly published papers.
 
   - [Sensing](#sensing-mobicom-mobisys-sensys-nsdi)
     - [Motion Sensing (Checked by MZ)](#motion-sensing)
@@ -292,8 +292,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services, MobiSys 18 [[Paper]](https://arxiv.org/pdf/1909.13673.pdf)	(NO ML)	
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications, ASPLOS 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185)		
 * DeepCache: Principled Cache for Mobile Deep Vision, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1712.01670.pdf)
-* EngageMon: Multi-Modal Engagement Sensing for Mobile Games,	UbiComp	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745)	(NO	ML)	
-* Indoor localization via multi-modal sensing on smartphones,	UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)	
+* EngageMon: Multi-Modal Engagement Sensing for Mobile Games, UbiComp	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745)	(NO	ML)	
+* Indoor localization via multi-modal sensing on smartphones, UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)	
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf)	
 * Non-Intrusive Multi-Modal Estimation of Building Occupancy, SenSys 17 [[Paper]](http://www.phpathak.com/files/occupancy-sensys.pdf)
 	
