@@ -488,7 +488,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Ordering Chaos: Memory-Aware Scheduling of Irregularly Wired Neural Networks for Edge Devices, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9bf31c7ff062936a96d3c8bd1f8f2ff3-Paper.pdf)
 * Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks,	OSDI	20	[[Paper]]	(https://www.usenix.org/system/files/osdi20-ma.pdf)		
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)			
-* Optimizing DNN Computation with Relaxed Graph Substitutions,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/22.pdf)	
 * Janus: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs,	NSDI	19	[[Paper]](https://www.usenix.org/system/files/nsdi19-jeong.pdf)			
 * TASO: optimizing deep learning computation with automatic generation of graph substitutions,	SOSP	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3341301.3359630)			
 * Intel® nGraph™ An Intermediate Representation,  Compiler,  and Executor for Deep Learning,	MLSys	18	[[Paper]](https://mlsys.org/Conferences/doc/2018/132.pdf)			
