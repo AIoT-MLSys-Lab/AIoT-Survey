@@ -180,7 +180,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 #### Bluetooth Sensing
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
-* Intermittently-powered bluetooth that works, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538934)
 * BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458271)
 * BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection, IPSN 21 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/billah21blecansee.pdf)
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf)
@@ -645,6 +644,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Accurate Power Quality Monitoring in Microgrids, IPSN 16 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn2016.pdf) (NO ML)
 * HarvOS: Efficient Code Instrumentation for Transiently-powered Embedded Sensing, IPSN 17 [[Paper]](https://mottola.faculty.polimi.it/papers/bhatti17intermittent.pdf) (NO ML)
 * DIPS: Debug Intermittently-Powered Systems Like Any Embedded System, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568543)
+* Intermittently-powered bluetooth that works, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538934)
 
 
 ## Security and Privacy	
