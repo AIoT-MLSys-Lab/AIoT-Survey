@@ -139,6 +139,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340)
 * Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
 * WiWho: WiFi-Based Person Identification in Smart Spaces, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460727)
+* Verification: Accuracy Evaluation of WiFi Fine Time Measurements on an Open Platform, MobiCom 18 [[Paper]](https://www.andrew.cmu.edu/user/miahmed/papers/ftm_mobicom.pdf) (NO ML)
 
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
@@ -548,6 +549,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * In-body backscatter communication and localization,	SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565)	(NO ML)	
 * LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (NO ML)
 * HitchHike: Practical Backscatter Using Commodity WiFi, SenSys 16 [[Paper]](https://pengyuzhang.github.io/papers/sensys16_back_comm.pdf) (NO ML)
+* 3D Backscatter Localization for Fine-Grained Robotics, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-luo.pdf)
 						
 ### LoRa							
 * Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems	,	NSDI	22	[[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf)	(NO	ML)	
@@ -627,6 +629,12 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-qian-kun.pdf) (NO ML)
 * BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458271)
 
+### Wireless Sensor Network
+* System Architecture Directions for Post-SoC/32-bit Networked Sensors, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274839) (NO ML) (Best Paper Runner-up)
+* Performant TCP for Low-Power Wireless Networks, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-kumar.pdf) (LLNs) (NO ML)
+* Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-shi.pdf)
+* Joltik: Enabling Energy-Efficient “Future-Proof” Analytics on Low-Power Wide-Area Networks, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419204) (NO ML)
+
 
 ## Power
 * DeepAuditor: Distributed Online Intrusion Detection System for IoT devices via Power Side-channel Auditing, IPSN 22 [[Paper]](https://arxiv.org/pdf/2106.12753.pdf)
@@ -649,6 +657,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * HarvOS: Efficient Code Instrumentation for Transiently-powered Embedded Sensing, IPSN 17 [[Paper]](https://mottola.faculty.polimi.it/papers/bhatti17intermittent.pdf) (NO ML)
 * DIPS: Debug Intermittently-Powered Systems Like Any Embedded System, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568543)
 * Intermittently-powered bluetooth that works, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538934)
+* Time-sensitive Intermittent Computing Meets Legacy Software, ASPLOS 20 [[Paper]](https://josiahhester.com/cv/files/tics-asplos20.pdf)
 
 
 ## Security and Privacy	
@@ -724,6 +733,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532)
 * Privid: Practical, Privacy-Preserving Video Analytics Queries, OSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-cangialosi.pdf)
 * Eavesdropping user credentials via GPU side channels on smartphones, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507757)
+* Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-liu-zikun.pdf)
 
 
 ### Encryption
@@ -814,6 +824,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Monoxalyze: Verifying Smoking Cessation with a Keychain-sized Carbon Monoxide Breathalyzer, SenSys 16 [[Paper]](https://web.eecs.umich.edu/~prabal/pubs/papers/adkins16monoxalyze.pdf) (NO ML)
 * Burnout: A Wearable System for Unobtrusive Skeletal Muscle Fatigue Estimation, IPSN 16 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper21.pdf)
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
+* Experience: Cross-Technology Radio Respiratory Monitoring Performance Study, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241560) (NO ML)
+
 
 ### AIoT Systems for Video Streaming and Analytics 							
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
@@ -929,6 +941,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Argus: Realistic Target Coverage by Drones, IPSN 17 [[Paper]](Argus: Realistic Target Coverage by Drones) (NO ML)
 * 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf)
 * Quantifying the Design-Space Tradeoffs in Autonomous Drones, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446721)
+* TrackIO: Tracking First Responders Inside-Out, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-dhekne.pdf)
 
 
 
@@ -943,6 +956,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Towards Low Cost Soil Sensing Using Wi-Fi, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345440) (NO ML) (Honorable Mention)
 * WISDOM: watering intelligently at scale with distributed optimization and modeling, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360023) (NO ML)
 * MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (NO ML)
+* FarmBeats: An IoT Platform for Data-Driven Agriculture, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vasisht.pdf)
 
 
 ### AIoT Systems for Biology
