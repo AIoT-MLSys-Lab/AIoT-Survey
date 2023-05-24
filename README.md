@@ -276,6 +276,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf)
 * Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17
 * DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf) 
+* SpotGarbage: smartphone app to detect garbage using deep learning, UbiComp 16 [[Paper]](https://dl.acm.org/doi/10.1145/2971648.2971731) [[code]](https://github.com/KudaP/SpotGarbage)
 
 ### Visible Light Sensing
 * SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, SenSys 17 [[Paper]](https://www-users.cse.umn.edu/~tianhe/Papers/SmartLight.pdf) (NO ML) (Best Paper)
@@ -510,7 +511,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Approximate query service on autonomous IoT cameras,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458266) [[code]](https://github.com/learning1234embed/DeepFunctionalNetwork)		
-* SpotGarbage: smartphone app to detect garbage using deep learning, UbiComp 16 [[Paper]](https://dl.acm.org/doi/10.1145/2971648.2971731) [[code]](https://github.com/KudaP/SpotGarbage)
 
 	
 ## Networking and Communication							
