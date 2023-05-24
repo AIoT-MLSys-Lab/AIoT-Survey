@@ -342,6 +342,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sensor-assisted Face Recognition System on Smart Glass via Multi-view Sparse Representation Classification, IPSN 16 [[Paper]](https://www.cse.unsw.edu.au/~wenh/xu_ipsn_20162.pdf)
 * SurfaceVibe: Vibration-Based Tap & Swipe Tracking on Ubiquitous Surfaces, IPSN 17 [[Paper]](https://www.andrew.cmu.edu/user/shijiapa/documentations/Pan_IPSN_2017.pdf) (NO ML)
 * Listening through a Vibration Motor, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/VibraPhone_mobisys16.pdf) (NO ML)
+* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)	
+* Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110971) [[code]](https://github.com/lkh329/Supreme)
+* RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition,	SenSys	20 [[Paper]](https://arxiv.org/pdf/2111.04566.pdf)		
+* Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274836)
 
 						
 ## Computing							
@@ -491,12 +495,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 					
 ### Others
-* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942)	
-* Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110971) [[code]](https://github.com/lkh329/Supreme)
-* RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition,	SenSys	20 [[Paper]](https://arxiv.org/pdf/2111.04566.pdf)		
 * DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)
 * Using deep data augmentation training to address software and hardware heterogeneities in wearable and smartphone sensing devices, IPSN 2018 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)
-* Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274836)
 * Approximate query service on autonomous IoT cameras,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 	
