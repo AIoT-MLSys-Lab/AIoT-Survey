@@ -247,6 +247,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131689)
 * SCAN: Learning Speaker Identity From Noisy Sensor Data, IPSN 17 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/sensornets/papers/paper8.pdf)
 * Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations, UbiComp 17 [[Paper]](https://core.ac.uk/reader/227518690)
+* DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15
 * MAVL: Multiresolution Analysis of Voice Localization, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf)
 											
 ### Vision Sensing		
@@ -507,7 +508,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274836)
 * Multimodal deep learning for activity and context recognition, UbiComp 2018
 * Low-resource multi-task audio sensing for mobile and embedded devices via shared deep neural network representations, UbiComp 2017
-* DeepEar: RobustSmartphoneAudioSensingin UnconstrainedAcousticEnvironmentsusingDeepLearning, UbiComp 2015 
 * Approximate query service on autonomous IoT cameras,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458266) [[code]](https://github.com/learning1234embed/DeepFunctionalNetwork)		
