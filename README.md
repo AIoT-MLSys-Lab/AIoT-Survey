@@ -77,7 +77,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors, IPSN 17 [[Paper]](https://dl.acm.org/doi/10.1145/3055031.3055087)
 * Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (NO ML)
-* HeadScan: A Wearable System for Radio-based Sensing of Head and Mouth-related Activities, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Fang.IPSN2016-Camera.pdf)
 
 ### Wireless Sensing
 
@@ -136,6 +135,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Multipath Triangulation: Decimeter-level WiFi Localization and Orientation with a Single Unaided Receiver, MobiSys 18 [[Paper]](https://elahe.web.illinois.edu/Elahe%20Soltan_files/papers/MobiSys18_MonoLoco_CameraReady.pdf)
 * Widar2.0: Passive Human Tracking with a Single Wi-Fi Link, MobiSys 18 [[Paper]](https://www.cswu.me/papers/mobisys18_widar2.0_paper.pdf) (NO ML)
 * LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(NO ML)
+* HeadScan: A Wearable System for Radio-based Sensing of Head and Mouth-related Activities, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Fang.IPSN2016-Camera.pdf)
 * Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340)
 * Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
 * WiWho: WiFi-Based Person Identification in Smart Spaces, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460727)
