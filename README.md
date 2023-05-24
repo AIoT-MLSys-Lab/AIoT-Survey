@@ -180,7 +180,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 #### Bluetooth Sensing
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
-* BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458271)
 * BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection, IPSN 21 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/billah21blecansee.pdf)
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf)
 
@@ -622,6 +621,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Chiron: Concurrent High Throughput Communication for IoT Devices, MobiSys 18 [[Paper]](https://cis.csuohio.edu/~chi/publication/li-2018-cch-3210240-3210346/li-2018-cch-3210240-3210346.pdf) (NO ML)
 * B2W2: N-Way Concurrent Communication for IoT Devices, SenSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2994551.2994561) (NO ML)
 * AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-qian-kun.pdf) (NO ML)
+* BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458271)
 
 
 ## Power
