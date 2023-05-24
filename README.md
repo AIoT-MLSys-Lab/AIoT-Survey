@@ -77,6 +77,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors, IPSN 17 [[Paper]](https://dl.acm.org/doi/10.1145/3055031.3055087)
 * Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (NO ML)
+* HeadScan: A Wearable System for Radio-based Sensing of Head and Mouth-related Activities, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Fang.IPSN2016-Camera.pdf)
 
 ### Wireless Sensing
 
@@ -211,7 +212,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Individualizing Head Related Transfer Functions for Binaural Acoustic Applications, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.11138.pdf)
 * Experience: practical problems for acoustic sensing,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560527)(NO	ML)				
 * SPiDR: ultra-low-power acoustic spatial sensing for micro-robot navigation,	MobiSys	22	[[Paper]](https://www.cs.umd.edu/~nakul/assets/papers/spidr_mobisys2022_nakul.pdf)	(NO	ML) (Best Paper)
-* SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568534)
+* SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568534)
 * Room-scale Hand Gesture Recognition Using Smart Speakers, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dli/papers/SenSys2022_SpeakerGesture.pdf)
 * Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf)
 * SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568530)	
@@ -377,6 +378,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
+* DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
 
 #### Multi-Tenant Inference	
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
@@ -388,6 +390,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
 * MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
+* DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
+
 
 #### Cross-Processor Inference
 * CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 22 [[Paper]](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)
@@ -473,7 +477,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 										
 ### Model Deployment on the Edge
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
-* GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
+* GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 																				
 ### Automated Machine Learning for AIoT														
 * Towards the Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
@@ -840,6 +844,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics, SigComm 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)
 * Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-feng-boyuan.pdf)
 * Video Analytics with Zero-streaming Cameras, ATC 21 [[Paper]](https://xumengwei.github.io/files/ATC-DIVA.pdf)
+* Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention)
+
 
 ### AIoT Systems for Autonomous Driving					
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
