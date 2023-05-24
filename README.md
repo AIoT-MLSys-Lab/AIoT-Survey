@@ -483,7 +483,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Compiler for AIoT							
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf)	
 * The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)
-* DIPS: Debug Intermittently-Powered Systems Like Any Embedded System, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568543)
 * ROLLER: Fast and Efficient Tensor Compilation for Deep Learning,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/zhu)			
 * TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)			
 * FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System,	ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378508)			
@@ -659,6 +658,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna, SenSys 22 [[Paper]](https://people.cs.umass.edu/~minhaocui/sensys22.pdf)
 * Accurate Power Quality Monitoring in Microgrids, IPSN 16 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn2016.pdf) (NO ML)
 * HarvOS: Efficient Code Instrumentation for Transiently-powered Embedded Sensing, IPSN 17 [[Paper]](https://mottola.faculty.polimi.it/papers/bhatti17intermittent.pdf) (NO ML)
+* DIPS: Debug Intermittently-Powered Systems Like Any Embedded System, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568543)
 
 
 ## Security and Privacy	
