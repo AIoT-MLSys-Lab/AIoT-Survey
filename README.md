@@ -49,7 +49,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Edge-Cloud-Offloading (Checked by MZ)](#edge-cloud-offloading)
     - [Model Deployment on the Edge (Checked by MZ)](#model-deployment-on-the-edge)
     - [Automated Machine Learning for AIoT (Checked by MZ)](#automated-machine-learning-for-aiot)
-    - [Compiler for AIoT](#compiler-for-aiot)
+    - [Compiler for AIoT (Checked by MZ)](#compiler-for-aiot)
   - [Networking and Communication (Lead by Zhichao)](#networking-and-communication)
     - [Backscatter](#backscatter-look-at-papers-from-shyam--university-of-washington)
     - [LoRa](#lora)
