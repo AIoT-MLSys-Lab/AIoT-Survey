@@ -511,7 +511,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458266) [[code]](https://github.com/learning1234embed/DeepFunctionalNetwork)		
 * SpotGarbage: smartphone app to detect garbage using deep learning, UbiComp 16 [[Paper]](https://dl.acm.org/doi/10.1145/2971648.2971731) [[code]](https://github.com/KudaP/SpotGarbage)
-* Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-ma.pdf)
 
 	
 ## Networking and Communication							
