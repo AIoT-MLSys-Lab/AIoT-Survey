@@ -688,7 +688,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Taprint: Secure Text Input for Commodity Smart Wristbands, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300124)
 * Canceling Inaudible Voice Commands Against Voice Control Systems, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345429)
 * SpecEye: Towards Pervasive and Privacy-Preserving Screen Exposure Detection in Daily Life, MobiSys 19 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2019a.pdf)
-* * CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping, MobiSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/CardioCam.pdf)
+* CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping, MobiSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/CardioCam.pdf)
 * H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration, IPSN 19 [[Paper]](https://arxiv.org/pdf/1904.00750.pdf)
 * Moving target defense for embedded deep visual sensing against adversarial examples, SenSys 19 [[Paper]](https://personal.ntu.edu.sg/tanrui/pub/deepMTD.pdf) 
 * Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear, MobiSys 18 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys18.pdf) (NO ML)
