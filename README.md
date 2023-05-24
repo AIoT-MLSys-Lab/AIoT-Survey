@@ -48,7 +48,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [Benchmarks (Checked by MZ)](#training-benchmarks)
     - [Edge-Cloud-Offloading (Checked by MZ)](#edge-cloud-offloading)
     - [Model Deployment on the Edge (Checked by MZ)](#model-deployment-on-the-edge)
-    - [Automated Machine Learning for AIoT](#automated-machine-learning-for-aiot)
+    - [Automated Machine Learning for AIoT (Checked by MZ)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT](#compiler-for-aiot)
   - [Networking and Communication (Lead by Zhichao)](#networking-and-communication)
     - [Backscatter](#backscatter-look-at-papers-from-shyam--university-of-washington)
@@ -483,8 +483,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
 																				
 ### Automated Machine Learning for AIoT														
-* Towards The Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
-* MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
+* Towards the Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
+* MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers, MLSys 21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
 * nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://air.tsinghua.edu.cn/pdf/nn-Meter-Towards-Accurate-Latency-Prediction-of-Deep-Learning-Model-Inference-on-Diverse-Edge-Devices.pdf) (Best Paper)		
 * Searching for Winograd-aware Quantized Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/45c48cce2e2d7fbdea1afc51c7c6ad26-Paper.pdf)
 * SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
