@@ -271,6 +271,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,	SenSys	19	[[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5649&context=sis_research)		
 * ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://www.osti.gov/servlets/purl/1811681)
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf)
+* DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf) 
 
 ### Visible Light Sensing
 * SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, SenSys 17 [[Paper]](https://www-users.cse.umn.edu/~tianhe/Papers/SmartLight.pdf) (NO ML) (Best Paper)
@@ -505,7 +506,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274836)
 * Multimodal deep learning for activity and context recognition, UbiComp 2018
 * Low-resource multi-task audio sensing for mobile and embedded devices via shared deep neural network representations, UbiComp 2017
-* DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf) 
 * DeepEar: RobustSmartphoneAudioSensingin UnconstrainedAcousticEnvironmentsusingDeepLearning, UbiComp 2015 
 * Approximate query service on autonomous IoT cameras,	MobiSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
