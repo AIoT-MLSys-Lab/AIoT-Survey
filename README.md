@@ -682,7 +682,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 ### Cellular
 * QuickC: Practical sub-millisecond transport for small cells, MobiCom 16 [[Paper]](https://web.stanford.edu/~skatti/pubs/mobicom16-quickc.pdf) (NO ML)
 * LTE in Unlicensed Spectrum: Are We There Yet?, MobiCom 16 [[Paper]](http://www.cs.albany.edu/~mariya/courses/csi445660F16/papers/p135-chai.pdf) (NO ML)
-* MobileInsight: Extracting and Analyzing Cellular Network Information on Smartphones, MobiCom 16 [[Paper]](https://www.cs.purdue.edu/homes/chunyi/pubs/mobicom16-li.pdf) (NO ML)
 * Experience: Automating Diagnosis of Cellular Radio Access Network Problems, MobiCom 17 [[Paper]](https://www.anand-iyer.com/papers/ran-mobicom2017.pdf)
 * Mitigating the Latency-Accuracy Trade-off in Mobile Data Analytics Systems, MobiCom 18 [[Paper]](https://www.anand-iyer.com/papers/cellscope-mobicom2018.pdf) 
 * A reliable distributed cellular core network for hyper-scale public clouds, MobiCom 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/02/ECHO-TR.pdf) (NO ML)
@@ -894,19 +893,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 
 
-## Mobile phone
-(Ahn: put some too phone related, not iot - usually app)
-
-* uLink: Enabling User-Defined Deep Linking to App Content, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/uLink-mobisys16.pdf) (NO ML)
-* TaskFolder: Dynamic and Fine-Grained Workload Consolidation for Mobile Devices, MobiSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2906388.2906397) (NO ML)
-
-### Security
-* Privacy Capsules: Preventing information leaks by mobile apps, MobiSys 16 [[Paper]](https://people.mpi-sws.org/~druschel/publications/pc.pdf) (NO ML)
-* CASE: Comprehensive Application Security Enforcement on COTS Mobile Devices, MobiSys 16 [[Paper]](https://www.longlu.org/publication/zhu-16/zhu-16.pdf) (NO ML)
-* CEIVE: Combating Caller ID Spoofing on 4G Mobile Phones Via Callee-Only Inference and Verification, MobiCom 18 [[Paper]](https://www.cs.purdue.edu/homes/chunyi/pubs/mobicom18-deng.pdf)
-* ReCon: Revealing and Controlling PII Leaks in Mobile Network Traffic, MobiSys 16 [[Paper]](https://martina.lindorfer.in/files/papers/recon_mobisys16.pdf) 
-
-
 
 ## AIoT Systems and their Applications	
 							
@@ -1113,6 +1099,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Software-Defined Cooking using a Microwave Oven, MobiCom 19 [[Paper]](https://swarunkumar.com/papers/sdc-mobicom2019.pdf) (NO ML)
 * LUID-XP: Flexible User Interface Distribution for Cross-Platform Experience, MobiCom 21 [[Paper]](https://steveyko.github.io/assets/pdf/fluid-xp-mobicom21.pdf)
 * Mobility Modeling and Prediction in Bike-Sharing Systems, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf) (NO ML)
+* TinyLink: A Holistic System for Rapid Development of IoT Applications, MobiCom 17 [[Paper]](https://engineering.virginia.edu/sites/default/files/common/departments/electrical-and-computer-engineering/computer-engineering/files/TinyLink.pdf) (NO ML)
 
 
 
