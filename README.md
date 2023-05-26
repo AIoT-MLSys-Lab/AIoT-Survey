@@ -893,6 +893,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Proximity-Proof: Secure and Usable Mobile Two-Factor Authentication, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241574) (NO ML)
 * Body-Guided Communications: A Low-power, Highly-Confined Primitive to Track and Secure Every Touch, MobiCom 18 [[Paper]](https://www.andrew.cmu.edu/user/miahmed/papers/bodyGuided_mobicom.pdf) (NO ML)
 * Taprint: Secure Text Input for Commodity Smart Wristbands, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300124)
+* Trust but Verify: Auditing the Secure Internet of Things, MobiSys 17 [[Paper]](https://people.csail.mit.edu/henrycg/files/academic/papers/mobisys17tlsrar.pdf) (NO ML)
 
 
 
