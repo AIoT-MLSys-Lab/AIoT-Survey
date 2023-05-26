@@ -136,7 +136,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Multipath Triangulation: Decimeter-level WiFi Localization and Orientation with a Single Unaided Receiver, MobiSys 18 [[Paper]](https://elahe.web.illinois.edu/Elahe%20Soltan_files/papers/MobiSys18_MonoLoco_CameraReady.pdf)
 * Widar2.0: Passive Human Tracking with a Single Wi-Fi Link, MobiSys 18 [[Paper]](https://www.cswu.me/papers/mobisys18_widar2.0_paper.pdf) (NO ML)
 * LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(NO ML)
-* BodyScan: Enabling Radio-based Sensing on Wearable Devices for Contactless Activity and Vital Sign Monitoring, MobiSys 17
+* BodyScan: Enabling Radio-based Sensing on Wearable Devices for Contactless Activity and Vital Sign Monitoring, MobiSys 16 [[Paper]](https://mi-zhang.github.io/papers/2016_MobiSys_BodyScan.pdf)
 * HeadScan: A Wearable System for Radio-based Sensing of Head and Mouth-related Activities, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Fang.IPSN2016-Camera.pdf)
 * Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340)
 * Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
@@ -642,6 +642,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * POLI: Long-Range Visible Light Communications Using Polarized Light Intensity Modulation, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081353) (NO ML)
 * ChromaCode: A Fully Imperceptible Screen-Camera Communication System, MobiCom 18 [[Paper]](https://cswu.me/papers/mobicom18_chromacode_paper.pdf) (NO ML)
 * A Principled Design for Passive Light Communication, MobiCom 21 [[Paper]](https://www.st.ewi.tudelft.nl/marco/files/chromalux_Mobicom21.pdf)
+* Card-stunt as a Service: Empowering a Massively Packed Crowd for Instant Collective Expressiveness, MobiSys 17 [[Paper]](https://nclab.kaist.ac.kr/uploads/2017/08/mobisys2017_cardstunt.pdf) (NO ML)
 						
 ### mmWave Communication
 * Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241579) (NO ML)
@@ -676,6 +677,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Zero-Wire: A Deterministic and Low-Latency Wireless Bus Through Symbol-Synchronous Transmission of Optical Signals, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430897) (NO ML) (Best Paper)
 * SociTrack: infrastructure-free interaction tracking through mobile sensor networks, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419190) (NO ML)
 * Idea: A System for Efficient Failure Management in Smart IoT Environments, MobiSys 16 [[Paper]](https://pages.cs.wisc.edu/~sdsen/papers/2016idea.pdf) (NO ML)
+* Mobile Plus: Multi-device Mobile Platform for Cross-device Functionality Sharing, MobiSys 17 [[Paper]](http://cps.kaist.ac.kr/papers/mobisys17-mobileplus.pdf) (NO ML)
+
 
 
 
@@ -937,6 +940,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Burnout: A Wearable System for Unobtrusive Skeletal Muscle Fatigue Estimation, IPSN 16 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper21.pdf)
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 * Experience: Cross-Technology Radio Respiratory Monitoring Performance Study, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241560) (NO ML)
+* iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://iwct.sjtu.edu.cn/personal/xtian/paper/2017-mobisys-iBlink.pdf) (NO ML)
+
 
 
 ### AIoT Systems for Video Streaming and Analytics 							
