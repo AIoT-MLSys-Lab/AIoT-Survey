@@ -121,7 +121,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Counting a stationary crowd using off-the-shelf wifi, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468012) (NO ML)
 * OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi, SenSys 21 [[Paper]](https://ruixiao24.github.io/files/rui_onefi.pdf)
 * Deep learning based wireless localization for indoor navigation, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380894)
-* SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)
 * Towards 3D human pose construction using wifi, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~lusu/papers/MobiCom2020.pdf)
 * Wi-Fi See It All: Generative Adversarial Network-augmented Versatile Wi-Fi Imaging, SenSys 20 [[Paper]](https://cse.msu.edu/~caozc/papers/sensys20-chen.pdf)
 * Tracking from One Side -- Multi-Person Passive Tracking with WiFi Magnitude Measurements, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310399)
@@ -715,6 +714,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * FSA: Fronthaul Slicing Architecture for 5G using dataplane programmable switches, MobiCom 21 [[Paper]](https://www.comp.nus.edu.sg/~chanmc/papers-by-year/2021-FSA.pdf) (NO ML)
 * Nervion: A Cloud Native RAN Emulator for Scalable and Flexible Mobile Core Evaluation, MobiCom 21 [[Paper]](https://www.pure.ed.ac.uk/ws/portalfiles/portal/224348439/Nervion_LARREA_DOA13082021_AFV.pdf)
 * PERCEIVE: Deep Learning-based Cellular Uplink Prediction Using Real-time Scheduling Patterns, MobiSys 20 [[Paper]](https://mail.netstech.org/wp-content/uploads/2021/07/perceive-mobisys-2020.pdf)
+* Global Mobile Network Aggregators: Taxonomy, Roaming Performance and Optimization, MobiSys 22 [[Paper]](https://www.aqualab.cs.northwestern.edu/wp-content/uploads/2022/05/SAlcala-Marin-Mobisys22.pdf) (NO ML)
 
 
 ### Others
@@ -752,6 +752,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * WhiteHaul: An Efficient Spectrum Aggregation System for Low-Cost and High Capacity Backhaul over White Spaces, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388950) (NO ML)
 * MPBond: Efficient Network-level Collaboration Among Personal Mobile Devices, MobiSys 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mpbond_mobisys20.pdf) (NO ML)
 * TransFi: Emulating Custom Wireless Physical Layer from Commodity WiFi, MobiSys 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys22.pdf) (NO ML)
+* SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)
+* The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf)(NO ML) (Best Community Paper Award)
+* Network architecture, Internet of Things, Interoperability., MobiCom 22 [[Paper]](https://desword.github.io/paper/mobisys22-tinynet.pdf) (NO ML)
+
 
 
 
@@ -881,6 +885,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Defending against Sybil Devices in Crowdsourced Mapping Services, MobiSys 16 [[Paper]](https://people.cs.vt.edu/~gangwang/waze_dat16.pdf) (NO ML)
 * Blink and Flicker: Detecting Wireless Spy Cameras Via Stimulating and Probing, MobiSys 18 [[Paper]](http://ceca.pku.edu.cn/docs/20180808121558901898.pdf) (NO ML)
 * Understanding Fileless Attacks on Linux-based IoT Devices with HoneyCloud, MobiSys 19 [[Paper]](https://users.cs.northwestern.edu/~ychen/Papers/iot_mobisys19.pdf) (NO ML)
+* Battery-Enabled Anti-Theft Vehicle Immobilizer, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3539772) (NO ML)
+* MagEar: Eavesdropping via Audio Recovery using Magnetic Side Channel, MobiCom 22 [[Paper]](https://www.huangyongzhi.com.cn/data/MagEar.pdf)
 
 
 
@@ -930,6 +936,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Taprint: Secure Text Input for Commodity Smart Wristbands, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300124)
 * Trust but Verify: Auditing the Secure Internet of Things, MobiSys 17 [[Paper]](https://people.csail.mit.edu/henrycg/files/academic/papers/mobisys17tlsrar.pdf) (NO ML)
 * Augmented Reality-based Mimicry Attacks on Behaviour-Based Smartphone Authentication, MobiSys 18 [[Paper]](https://cs.uwaterloo.ca/~uhengart/publications/mobisys18.pdf) (NO ML)
+* MagSnoop: Listening to Sounds Induced by Magnetic Field Fluctuations to Infer Mobile Payment Tokens, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538937)
 
 
 
@@ -1107,6 +1114,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf)
 * Quantifying the Design-Space Tradeoffs in Autonomous Drones, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446721)
 * TrackIO: Tracking First Responders Inside-Out, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-dhekne.pdf)
+* Reverse Engineering and Retrofitting Robotic Aerial Vehicle Control Firmware using DisPatch, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538938) (NO ML)
 
 
 
