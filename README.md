@@ -502,6 +502,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Enabling Cross-ISA Offloading for COTS Binaries, MobiSys 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3081333.3081337) (NO ML)
 * Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge, ASPLOS 17 [[Paper]](https://dl.acm.org/doi/10.1145/3037697.3037698)
 * Context-Aware Compilation of DNN Training Pipelines across Edge and Cloud, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494981) [[code]](https://github.com/dixiyao/Context-Aware-Compilation-of-DNN-Training-Pipelines-across-Edge-and-Cloud)
+* Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping, MobiSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10167133) (NO ML) (Also AR)
 										
 ### Model Deployment on the Edge
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
@@ -581,6 +582,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * X-Tandem: Towards Multi-hop Backscatter Communication with Commodity WiFi, MobiCom 18 [[Paper]](https://www2.cs.sfu.ca/~jcliu/Papers/MobiCom-18-X-Tandem.pdf) (NO ML)
 * ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces, MobiCom 20 [[Paper]](https://wcsng.ucsd.edu/files/scattermimo.pdf)
 * Towards Flexible Wireless Charging for Medical Implants Using Distributed Antenna System, MobiCom 20 [[Paper]](https://arxiv.org/pdf/2001.07644.pdf) (NO ML)
+* Gateway over the Air: Towards Pervasive Internet Connectivity for Commodity IoT, MobiSys 20 [[Paper]](https://yung-web.github.io/home/Publication/Conference/Gateway_over_the_Air-Towards_Pervasive_Internet_Connectivity_for_Commodity_IoT.pdf) (NO ML)
+* DigiScatter: efficiently prototyping large-scale OFDMA backscatter networks, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388914) (NO ML)
+
 						
 ### LoRa							
 * Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems	,	NSDI	22	[[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf)	(NO	ML)	
@@ -611,6 +615,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * HyLink: Towards High Throughput LPWANs with LoRa Compatible Communication, SenSys 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/HyLink-SenSys22.pdf)
 * Nephalai: Towards LPWAN C-RAN with Physical Layer Compression, MobiCom 20 [[Paper]](https://arxiv.org/pdf/2008.02599.pdf) (NO ML)
 * Combating link dynamics for reliable lora connection in urban settings, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483250) (NO ML)
+* Combating Packet Collisions Using Non-Stationary Signal Scaling in LPWANs, MobiSys 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBISYS2020_NSCALE.pdf) (NO ML)
+* A Cloud-Optimized Link Layer for Low-Power Wide-Area Networks, MobSys 20 [[Paper]](https://users.ece.cmu.edu/~agr/resources/publications/mobisys_20_opr.pdf) (NO ML)
 
 
 
@@ -703,6 +709,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * DMM: Fast Map Matching for Cellular Data, MobiCom 20 [[Paper]](https://sites.ucmerced.edu/files/wdu/files/20mobicom-dmm.pdf)
 * FSA: Fronthaul Slicing Architecture for 5G using dataplane programmable switches, MobiCom 21 [[Paper]](https://www.comp.nus.edu.sg/~chanmc/papers-by-year/2021-FSA.pdf) (NO ML)
 * Nervion: A Cloud Native RAN Emulator for Scalable and Flexible Mobile Core Evaluation, MobiCom 21 [[Paper]](https://www.pure.ed.ac.uk/ws/portalfiles/portal/224348439/Nervion_LARREA_DOA13082021_AFV.pdf)
+* PERCEIVE: Deep Learning-based Cellular Uplink Prediction Using Real-time Scheduling Patterns, MobiSys 20 [[Paper]](https://mail.netstech.org/wp-content/uploads/2021/07/perceive-mobisys-2020.pdf)
 
 
 ### Others
@@ -738,6 +745,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions, MobiSys 19 [[Paper]](https://research.ece.cmu.edu/lions/Papers/CASTLE_MobiSys.pdf)
 * An In-depth Study of Commercial MVNO: Measurement and Optimization, MobiSys 19 [[Paper]](https://www.cs.binghamton.edu/~yaoliu/publications/mobisys19-mvno.pdf)
 * WhiteHaul: An Efficient Spectrum Aggregation System for Low-Cost and High Capacity Backhaul over White Spaces, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388950) (NO ML)
+* MPBond: Efficient Network-level Collaboration Among Personal Mobile Devices, MobiSys 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mpbond_mobisys20.pdf) (NO ML)
 
 
 
@@ -960,6 +968,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Experience: Cross-Technology Radio Respiratory Monitoring Performance Study, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241560) (NO ML)
 * iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://iwct.sjtu.edu.cn/personal/xtian/paper/2017-mobisys-iBlink.pdf) (NO ML)
 * pH Watch - Leveraging Pulse Oximeters in Existing Wearables for Reusable, Real-time Monitoring of pH in Sweat, MobiSys 19 [[Paper]](https://anantabalaji.github.io/projects/pH_watch/pH_watch.pdf) (NO ML)
+* RehabPhone: A Sotware-Defined Tool using 3D Printing and Smartphones for Personalized Home-based Rehabilitation, MobiSys 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2020a.pdf) (NO ML)
 
 
 
@@ -1129,6 +1138,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * TinyLink: A Holistic System for Rapid Development of IoT Applications, MobiCom 17 [[Paper]](https://engineering.virginia.edu/sites/default/files/common/departments/electrical-and-computer-engineering/computer-engineering/files/TinyLink.pdf) (NO ML)
 * BuSCOPE : Fusing Individual & Aggregated Mobility Behavior for “Live” Smart City Services, MobiSys 19 [[Paper]](https://www.andrew.cmu.edu/user/lakoglu/pubs/19-mobisys-buscope.pdf) (NO ML)
 * InternalBlue – Bluetooth Binary Patching and Experimentation Framework, MobiSys 19 [[Paper]](https://arxiv.org/pdf/1905.00631.pdf) (NO ML)
+* Vulcan: Lessons on Reliability of Wearables through State-Aware Fuzzing, MobiSys 20 [[Paper]](https://engineering.purdue.edu/dcsl/publications/papers/2020/vulcan_mobisys20_cameraready.pdf) (NO ML)
 
 
 
