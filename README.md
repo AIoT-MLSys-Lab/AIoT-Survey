@@ -144,6 +144,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Multi-User Activity Recognition Using WiFi, MobiSys 18 [[Paper]](https://arxiv.org/pdf/2106.00865.pdf) (NO ML)
 * Toward Reliable Localization by Unequal AoA Tracking, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326103) (NO ML)
 * Accurate Ubiquitous Localization with Off-the-Shelf IEEE 802.11ac Devices, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468850) (NO ML)
+* WiFi-Enabled Smart Human Dynamics Monitoring, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131692)
 
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
@@ -292,6 +293,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Enabling High-Precision Visible Light Localization in Today’s Buildings. MobiSys 17 [[Paper]](https://cseweb.ucsd.edu//~shz338/images/MobiSys_17.pdf)(Visible Light Positioning)
 * Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (NO ML)
 * Lili: Liquor Quality Monitoring Based on Light Signals, MobiCom 21 [[Paper]](https://www.huangyongzhi.com.cn/data/Lili.pdf)
+* LuBan: Low-Cost and In-Situ Droplet Micro-Sensing for Inkjet 3D Printing Quality Assurance, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131686)
+
 
 ### Air-Water Sensing
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
@@ -374,6 +377,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * BikeGPS: Accurate Localization of Shared Bikes in Street Canyons via Low-Level GPS Cooperation, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210316) (NO ML)
 * Is your smoke detector working properly?: robust fault tolerance approaches for smoke detectors, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466869) (NO ML)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
+* Tackling the Redundancy and Sparsity in Crowd Sensing Applications, SenSys 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/SenSys2016.pdf) (NO ML)
+
+
 
 
 
@@ -586,6 +592,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Towards Flexible Wireless Charging for Medical Implants Using Distributed Antenna System, MobiCom 20 [[Paper]](https://arxiv.org/pdf/2001.07644.pdf) (NO ML)
 * Gateway over the Air: Towards Pervasive Internet Connectivity for Commodity IoT, MobiSys 20 [[Paper]](https://yung-web.github.io/home/Publication/Conference/Gateway_over_the_Air-Towards_Pervasive_Internet_Connectivity_for_Commodity_IoT.pdf) (NO ML)
 * DigiScatter: efficiently prototyping large-scale OFDMA backscatter networks, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388914) (NO ML)
+* LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (NO ML)
 
 						
 ### LoRa							
@@ -618,6 +625,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Combating link dynamics for reliable lora connection in urban settings, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483250) (NO ML)
 * Combating Packet Collisions Using Non-Stationary Signal Scaling in LPWANs, MobiSys 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBISYS2020_NSCALE.pdf) (NO ML)
 * A Cloud-Optimized Link Layer for Low-Power Wide-Area Networks, MobSys 20 [[Paper]](https://users.ece.cmu.edu/~agr/resources/publications/mobisys_20_opr.pdf) (NO ML)
+* Enabling Reliable, Asynchronous, and Bidirectional Communication in Sensor Networks over White Spaces, SenSys 17 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/02/sensys17.pdf) (NO ML)
 
 
 
@@ -682,6 +690,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * One Tag, Two Codes: Identifying Optical Barcodes with NFC, MobiCom 21 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/coilcode-mobicom21.pdf)
 * FLEW: Fully Emulated WiFi, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-cho.pdf) (NO ML)
 * Explicit Channel Coordination via Cross-technology Communication, MobiSys 18 [[Paper]](https://par.nsf.gov/servlets/purl/10076616) (NO ML)
+* BlueBee: a 10,000x Faster Cross-Technology Communication via PHY Emulation, SenSys 17 [[Paper]](https://cs.gmu.edu/~song/paper/SenSys17_Wenchao.pdf) (NO ML)
+
+
 
 ### Sensor Network
 * System Architecture Directions for Post-SoC/32-bit Networked Sensors, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274839) (NO ML) (Best Paper Runner-up)
@@ -694,6 +705,13 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SociTrack: infrastructure-free interaction tracking through mobile sensor networks, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419190) (NO ML)
 * Idea: A System for Efficient Failure Management in Smart IoT Environments, MobiSys 16 [[Paper]](https://pages.cs.wisc.edu/~sdsen/papers/2016idea.pdf) (NO ML)
 * Mobile Plus: Multi-device Mobile Platform for Cross-device Functionality Sharing, MobiSys 17 [[Paper]](http://cps.kaist.ac.kr/papers/mobisys17-mobileplus.pdf) (NO ML)
+* SNOW: Sensor Network over White Spaces, SenSys 16 [[Paper]](https://www.cse.wustl.edu/~lu/papers/sensys16.pdf) (NO ML)
+* Data Prediction + Synchronous Transmissions = Ultra-low Power Wireless Sensor Networks, SenSys 16 [[Paper]](https://disi.unitn.it/~picco/papers/sensys16.pdf) (NO ML)
+* Effectively Capturing Attention Using the Capture Effect, SenSys 16 [[Paper]](https://tik-db.ee.ethz.ch/file/b468db98c89b23c868db49b3e72817d0/paper-sp.pdf) (NO ML)
+* Staffetta: Smart Duty-Cycling for Opportunistic Data Collection, SenSys 16 [[Paper]](https://www.st.ewi.tudelft.nl/marco/files/staffetta_Sensys16.pdf) (NO ML)
+* Network-wide Consensus Utilizing the Capture Effect in Low-power Wireless Networks, SenSys 17 [[Paper]](http://www.diva-portal.org/smash/get/diva2:1170407/FULLTEXT01.pdf)
+
+
 
 
 
@@ -755,6 +773,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)
 * The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf)(NO ML) (Best Community Paper Award)
 * Network architecture, Internet of Things, Interoperability., MobiCom 22 [[Paper]](https://desword.github.io/paper/mobisys22-tinynet.pdf) (NO ML)
+* Indoor Localization with Aircraft Signals, SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131698) (NO ML)
+* BLEach: Exploiting the Full Potential of IPv6 over BLE in Constrained Embedded IoT Devices, SenSys 17 [[Paper]](https://nes-lab.org/wordpress/wp-content/uploads/2019/11/spoerk17bleach.pdf) (NO ML)
+
 
 
 
@@ -793,6 +814,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Capttery: Scalable Battery-like Room-level Wireless Power, MobiSys 19 [[Paper]](http://dword1511.info/me/papers/MobiSys19_Capttery_paper.pdf) (NO ML)
 * Graphics-aware Power Governing for Mobile Devices, MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326075) (NO ML)
 * How much battery does dark mode save?: an accurate OLED display power profiler for modern smartphones, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467682) (NO ML)
+* 
 
 
 
@@ -857,7 +879,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Viola: Trustworthy Sensor Notifications for Enhanced Privacy on Mobile Systems, MobiSys 16 [[Paper]](https://www.ics.uci.edu/~ardalan/papers/Mirzamohammadi_MobiSys16.pdf) (NO ML)
 * I-Pic: A Platform for Privacy-Compliant Image Capture, MobiSys 16 [[Paper]](https://people.mpi-sws.org/~druschel/publications/ipic.pdf)
 * CamForensics: Understanding Visual Privacy Leaks in the Wild, SenSys 17 [[Paper]](https://jain-puneet.github.io/papers/camforensics_final.pdf)
-* Secure Sharing of Partially Homomorphic Encrypted IoT Data, SenSys 17 [[Paper]](http://www.vs.inf.ethz.ch/publ/papers/mshafagh_SenSys17_Pilatus.pdf) (NO ML)
 * Robust, low-cost, auditable random number generation for embedded system security, SenSys 16 [[Paper]](https://eprint.iacr.org/2016/884.pdf) (NO ML)
 * PitchIn: Eavesdropping via Intelligible Speech Reconstruction using Non-Acoustic Sensor Fusion, IPSN 17 [[Paper]](https://mews.sv.cmu.edu/papers/ipsn-17.pdf)
 * Coresets for Differentially Private K-Means Clustering and Applications to Privacy in Mobile Sensor Networks, IPSN 17 [[Paper]](http://people.csail.mit.edu/dannyf/IPSN2017)
@@ -887,6 +908,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Understanding Fileless Attacks on Linux-based IoT Devices with HoneyCloud, MobiSys 19 [[Paper]](https://users.cs.northwestern.edu/~ychen/Papers/iot_mobisys19.pdf) (NO ML)
 * Battery-Enabled Anti-Theft Vehicle Immobilizer, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3539772) (NO ML)
 * MagEar: Eavesdropping via Audio Recovery using Magnetic Side Channel, MobiCom 22 [[Paper]](https://www.huangyongzhi.com.cn/data/MagEar.pdf)
+* From Physical to Cyber: Escalating Protection for Personalized Auto Insurance, SenSys 16 [[Paper]](https://arxiv.org/pdf/1609.02234.pdf) 
 
 
 
@@ -894,6 +916,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 ### Encryption
 * Kryptein: A Compressive-Sensing-Based Encryption Scheme for the Internet of Things, IPSN 17 [[Paper]](https://ieeexplore.ieee.org/document/7944788) (NO ML)
 * PrOLoc: Resilient Localization with Private Observers Using Partial Homomorphic Encryption, IPSN 17 [[Paper]](https://ieeexplore.ieee.org/document/7944778) (NO ML)
+* Secure Sharing of Partially Homomorphic Encrypted IoT Data, SenSys 17 [[Paper]](http://www.vs.inf.ethz.ch/publ/papers/mshafagh_SenSys17_Pilatus.pdf) (NO ML)
 
 
 ### Spoofing/Sniffing
@@ -987,6 +1010,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://iwct.sjtu.edu.cn/personal/xtian/paper/2017-mobisys-iBlink.pdf) (NO ML)
 * pH Watch - Leveraging Pulse Oximeters in Existing Wearables for Reusable, Real-time Monitoring of pH in Sweat, MobiSys 19 [[Paper]](https://anantabalaji.github.io/projects/pH_watch/pH_watch.pdf) (NO ML)
 * RehabPhone: A Sotware-Defined Tool using 3D Printing and Smartphones for Personalized Home-based Rehabilitation, MobiSys 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2020a.pdf) (NO ML)
+
 
 
 
@@ -1159,6 +1183,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * InternalBlue – Bluetooth Binary Patching and Experimentation Framework, MobiSys 19 [[Paper]](https://arxiv.org/pdf/1905.00631.pdf) (NO ML)
 * Vulcan: Lessons on Reliability of Wearables through State-Aware Fuzzing, MobiSys 20 [[Paper]](https://engineering.purdue.edu/dcsl/publications/papers/2020/vulcan_mobisys20_cameraready.pdf) (NO ML)
 * Throughput-Fairness Tradeoffs in Mobility Platforms, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467881)
+* Amulet: An Energy-Efficient, Multi-Application Wearable Platform, SenSys 16 [[Paper]](https://cseweb.ucsd.edu/~schulman/class/cse291_f18/docs/hester_amulet.pdf) (NO ML)
+* Application-Layer Clock Synchronization for Wearables Using Skin Electric Potentials Induced by Powerline Radiation, SenSys 17 [[Paper]](https://arxiv.org/pdf/1709.08296.pdf) (NO ML)
 
 
 
