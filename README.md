@@ -245,7 +245,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * BreathListener: Fine-grained Breathing Monitoring in Driving Environments Utilizing Acoustic Signals, MobiSys 19 [[Paper]](https://www.cs.sjtu.edu.cn/~linghe.kong/2019/XuMOBISYS2019BreathListener.pdf)
 * Sonoloc: Scalable positioning of commodity mobile devices, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210324)
 * AIM: Acoustic Imaging on a Mobile, MobiSys 18 [[Paper]](https://www.cs.utexas.edu/~meiwang/uploads/8/9/9/1/89919297/aim.pdf) (Best Paper)	
-* UbiTap: Leveraging Acoustic Dispersion for Ubiquitous Touch Interface on Solid Surfaces, SenSys 18 [[Paper]](http://cps.kaist.ac.kr/papers/18SenSys-UbiTap.pdf)
+* UbiTap: Leveraging Acoustic Dispersion for Ubiquitous Touch Interface on Solid Surfaces, SenSys 18 [[Paper]](http://cps.kaist.ac.kr/papers/18SenSys-UbiTap.pdf) (Best paper runner-up awards)
 * Device-Free Gesture Tracking Using Acoustic Signals, MobiCom 16 [[Paper]](https://cs.nju.edu.cn/ww/papers/mobicom16_ultrasound.pdf) (NO ML)
 * CAT: High-Precision Acoustic Motion Tracking, MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973755) (NO ML)
 * DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom 16 [[Paper]](https://wands.sg/team/pengfei/papers/MobiCom16-DopEnc.pdf) (NO ML)
@@ -378,6 +378,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Is your smoke detector working properly?: robust fault tolerance approaches for smoke detectors, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466869) (NO ML)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 * Tackling the Redundancy and Sparsity in Crowd Sensing Applications, SenSys 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/SenSys2016.pdf) (NO ML)
+* Fabric as a Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles, SenSys 18 [[Paper]](https://welab.umass.edu/SenSys18-Tribo.pdf) (NO ML)
 
 
 
@@ -536,6 +537,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)			
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 * Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
+* CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
+
 					
 	
 ## Networking and Communication							
@@ -593,6 +596,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Gateway over the Air: Towards Pervasive Internet Connectivity for Commodity IoT, MobiSys 20 [[Paper]](https://yung-web.github.io/home/Publication/Conference/Gateway_over_the_Air-Towards_Pervasive_Internet_Connectivity_for_Commodity_IoT.pdf) (NO ML)
 * DigiScatter: efficiently prototyping large-scale OFDMA backscatter networks, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388914) (NO ML)
 * LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (NO ML)
+* Passive-ZigBee: Enabling ZigBee Communication in IoT Networks with 1000X+ Less Power Consumption, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274846) (Best paper runner-up awards)
 
 						
 ### LoRa							
@@ -775,6 +779,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Network architecture, Internet of Things, Interoperability., MobiCom 22 [[Paper]](https://desword.github.io/paper/mobisys22-tinynet.pdf) (NO ML)
 * Indoor Localization with Aircraft Signals, SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131698) (NO ML)
 * BLEach: Exploiting the Full Potential of IPv6 over BLE in Constrained Embedded IoT Devices, SenSys 17 [[Paper]](https://nes-lab.org/wordpress/wp-content/uploads/2019/11/spoerk17bleach.pdf) (NO ML)
+* Mixer: Efficient Many-to-All Broadcast in Dynamic Wireless Mesh Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274849) (NO ML)
 
 
 
@@ -794,7 +799,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * ePerceptive - Energy Reactive Embedded Intelligence for Batteryless Sensors, SenSys 20 [[Paper]](https://ubicomplab.cs.washington.edu/pdfs/ePerceptive.pdf)
 * Shepherd: A Portable Testbed for the Batteryless IoT, SenSys 19 [[Paper]](https://wwwpub.zih.tu-dresden.de/~mzimmerl/pubs/geissdoerfer19shepherd.pdf) (NO ML)
 * SkinnyPower: enabling batteryless wearable sensors via intra-body power transfer, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360034) (NO ML)
-* CapBand: Battery-free Successive Capacitance Sensing Wristband for Hand Gesture Recognition, SenSys 18 [[Paper]](https://genesys-lab.org/papers/p54-Truong.pdf)
+* CapBand: Battery-free Successive Capacitance Sensing Wristband for Hand Gesture Recognition, SenSys 18 [[Paper]](https://genesys-lab.org/papers/p54-Truong.pdf)(Best paper runner-up awards)
 * InK: Reactive Kernel for Tiny Batteryless Sensors, SenSys 18 [[Paper]](https://josiahhester.com/cv/files/inksensys2018.pdf)
 * Battery-Free Eye Tracker on Glasses, MobiCom 18 [[Paper]](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3975&context=facoa)
 * Exploiting Multi-Cell Battery for Mobile Devices: Design, Management, and Performance, SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131684) (NO ML)
@@ -868,7 +873,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Detecting Wireless Spy Cameras Via Stimulating and Probing, MobiSys 18 [[Paper]](http://ceca.pku.edu.cn/docs/20180808121558901898.pdf)
 * ShieldScatter: Improving IoT Security with Backscatter Assistance, SenSys 18 [[Paper]](https://arxiv.org/pdf/1810.07058.pdf)
 * Hidebehind: Enjoy Voice Input with Voiceprint Unclonability and Anonymity, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274855)
-* E-Eye: Hidden Electronics Recognition through mmWave Nonlinear Effects, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274833) (NO ML)
+* E-Eye: Hidden Electronics Recognition through mmWave Nonlinear Effects, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274833) (NO ML) (Best paper runner-up awards)
 * NICScatter: Backscatter as a Covert Channel in Mobile Devices, MobiCom 17 [[Paper]](https://www.yangzhice.com/docforweb/NICScatter/NICScatter_MobiCom.pdf) (NO ML)
 * Automating Visual Privacy Protection Using a Smart LED, MobiCom 17 [[Paper]](http://xyzhang.ucsd.edu/papers/SZhu_CZhang_MobiCom17_LiShield.pdf) (NO ML)
 * BackDoor: Making Microphones Hear Inaudible Sounds, MobiSys 17 [[Paper]](https://synrg.csl.illinois.edu/papers/backdoor_mobisys17.pdf) (NO ML) (Best Paper)
@@ -1185,6 +1190,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Throughput-Fairness Tradeoffs in Mobility Platforms, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467881)
 * Amulet: An Energy-Efficient, Multi-Application Wearable Platform, SenSys 16 [[Paper]](https://cseweb.ucsd.edu/~schulman/class/cse291_f18/docs/hester_amulet.pdf) (NO ML)
 * Application-Layer Clock Synchronization for Wearables Using Skin Electric Potentials Induced by Powerline Radiation, SenSys 17 [[Paper]](https://arxiv.org/pdf/1709.08296.pdf) (NO ML)
+* Fall-curve: A novel primitive for IoT Fault Detection and Isolation, SenSys 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Camera_Ready__FaultTolerance_SenSys18.pdf)
 
 
 
