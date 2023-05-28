@@ -144,6 +144,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Verification: Accuracy Evaluation of WiFi Fine Time Measurements on an Open Platform, MobiCom 18 [[Paper]](https://www.andrew.cmu.edu/user/miahmed/papers/ftm_mobicom.pdf) (NO ML)
 * Multi-User Activity Recognition Using WiFi, MobiSys 18 [[Paper]](https://arxiv.org/pdf/2106.00865.pdf) (NO ML)
 * Toward Reliable Localization by Unequal AoA Tracking, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326103) (NO ML)
+* Accurate Ubiquitous Localization with Off-the-Shelf IEEE 802.11ac Devices, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468850) (NO ML)
 
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
@@ -372,6 +373,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Expansion of Human–Phone Interface By Sensing Structure-Borne Sound Propagation, MobiSys 16 [[Paper]](https://yctung.github.io/files/publication/mobisys16-forcephone.pdf) (NO ML)
 * Gnome: A Practical Approach to NLOS Mitigation for GPS Positioning in Smartphones, MobiSys 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/mobisys18-gnome.pdf) (NO ML)
 * BikeGPS: Accurate Localization of Shared Bikes in Street Canyons via Low-Level GPS Cooperation, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210316) (NO ML)
+* Is your smoke detector working properly?: robust fault tolerance approaches for smoke detectors, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466869) (NO ML)
+* SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
+
 
 
 						
@@ -537,7 +541,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Magnetoelectric backscatter communication for millimeter-sized wireless biomedical implants, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560541) (NO ML) (Best Paper Award)
 * RF-Transformer: A Unified Backscatter Radio Hardware Abstraction, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2209.15195.pdf)(NO ML)
 * OmniScatter: extreme sensitivity mmWave backscattering using commodity FMCW radar,	MobiSys	22	[[Paper]](http://mason.gmu.edu/~ychae2/Omniscatter.pdf)	(NO	ML) (Best Paper)
-* Content-agnostic backscatter from thin air,		MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3538930)	(NO	ML)	
 * Judo: addressing the energy asymmetry of wireless embedded systems through tunnel diode based wireless transmitters, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538923) (NO ML)
 * Content-agnostic backscatter from thin air, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538930) (NO ML)
 * Enabling software-defined PHY for backscatter networks, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538927) (NO ML)
@@ -665,10 +668,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Pose Information Assisted 60 GHz Networks: Towards Seamless Coverage and Mobility Support, MobiCom 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3117811.3117832) (NO ML)
 * WiFi-Assisted 60 GHz Wireless Networks, MobiCom 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3117811.3117817) (NO ML)
 * Adaptive Codebook Optimization for Beam Training on Off-the-Shelf IEEE 802.11ad Devices, MobiCom 18 [[Paper]](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/614/Adaptive_Codebook_Optimization_Beam_Training_Off-the-Shelf_IEEE%20802.11ad_Devices_2018_EN.pdf?sequence=1&isAllowed=y)
-* MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300135) (NO ML)
 * MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion, MobiCom 22 [[Paper]](http://xyzhang.ucsd.edu/papers/Kun.Qian_MobiCom22_MilliMirror.pdf) (NO ML)
 * Millimeter-Wave Full Duplex Radios, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380879)
 * X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays, MobiCom 20 [[Paper]](http://xyzhang.ucsd.edu/papers/SWang_MobiCom20_X-Array.pdf) (NO ML)
+* MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs, MobiCom 19 [[Paper]](MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs) (NO ML)
+* A real-time experimentation platform for sub-6 GHz and millimeter-wave MIMO systems, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3466868) [[code]](https://github.com/rafaruizortiz/MIMORPH)
 
 ### Cross-Technology Communication
 * Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241547) (NO ML)
@@ -747,6 +751,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * An In-depth Study of Commercial MVNO: Measurement and Optimization, MobiSys 19 [[Paper]](https://www.cs.binghamton.edu/~yaoliu/publications/mobisys19-mvno.pdf)
 * WhiteHaul: An Efficient Spectrum Aggregation System for Low-Cost and High Capacity Backhaul over White Spaces, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388950) (NO ML)
 * MPBond: Efficient Network-level Collaboration Among Personal Mobile Devices, MobiSys 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mpbond_mobisys20.pdf) (NO ML)
+* TransFi: Emulating Custom Wireless Physical Layer from Commodity WiFi, MobiSys 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys22.pdf) (NO ML)
+
+
 
 
 
@@ -781,6 +788,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Experience: developing a usable battery drain testing and diagnostic tool for the mobile industry, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483269) (NO ML)
 * Capttery: Scalable Battery-like Room-level Wireless Power, MobiSys 19 [[Paper]](http://dword1511.info/me/papers/MobiSys19_Capttery_paper.pdf) (NO ML)
 * Graphics-aware Power Governing for Mobile Devices, MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326075) (NO ML)
+* How much battery does dark mode save?: an accurate OLED display power profiler for modern smartphones, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467682) (NO ML)
+
 
 
 
@@ -866,6 +875,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * A Nationwide Census on WiFi Security Threats: Prevalence, Riskiness, and the Economics, MobiCom 21 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/wifisec_mobicom21.pdf)
 * AdaptOver: Adaptive Overshadowing Attacks in Cellular Networks, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2106.05039.pdf)
 * Uncovering Insecure Designs of Cellular Emergency Services (911), MobiCom 21 [[Paper]](https://www.cse.msu.edu/~ghtu/published-papers/Hu-MobiCom22.pdf)
+* Discovering Emergency Call Pitfalls for Cellular Networks with Formal Methods, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466625) (NO ML)
 * StreamingTag: A Scalable Piracy Tracking Solution for Mobile Streaming Services, MobiCom 22 [[Paper]](https://people.gix.tsinghua.edu.cn/dangfan/publication/mobicom22-streaming-tag/mobicom22-streaming-tag.pdf) (NO ML)
 * Protego: securing wireless communication via programmable metasurface, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560547) (NO ML)
 * Defending against Sybil Devices in Crowdsourced Mapping Services, MobiSys 16 [[Paper]](https://people.cs.vt.edu/~gangwang/waze_dat16.pdf) (NO ML)
@@ -1140,6 +1150,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * BuSCOPE : Fusing Individual & Aggregated Mobility Behavior for “Live” Smart City Services, MobiSys 19 [[Paper]](https://www.andrew.cmu.edu/user/lakoglu/pubs/19-mobisys-buscope.pdf) (NO ML)
 * InternalBlue – Bluetooth Binary Patching and Experimentation Framework, MobiSys 19 [[Paper]](https://arxiv.org/pdf/1905.00631.pdf) (NO ML)
 * Vulcan: Lessons on Reliability of Wearables through State-Aware Fuzzing, MobiSys 20 [[Paper]](https://engineering.purdue.edu/dcsl/publications/papers/2020/vulcan_mobisys20_cameraready.pdf) (NO ML)
+* Throughput-Fairness Tradeoffs in Mobility Platforms, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467881)
 
 
 
