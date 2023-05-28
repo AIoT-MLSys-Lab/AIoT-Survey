@@ -734,6 +734,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Beetle: Flexible Communication for Bluetooth Low Energy, MobiSys 16 [[Paper]](http://iot.stanford.edu/pubs/beetle-mobisys16.pdf) (NO ML)
 * enClosure: Group Communication via Encounter Closures, MobiSys 19 [[Paper]](https://people.mpi-sws.org/~druschel/publications/enclosure.pdf) (NO ML)
 * CloseTalker: Secure, Short-Range Ad Hoc Wireless Communication, MobiSys 19 [[Paper]](https://www.cs.dartmouth.edu/~dfk/research/pierson-closetalker/pierson-closetalker.pdf) (NO ML)
+* SparSDR: Sparsity-proportional Backhaul and Compute for SDRs, MobiSys 19 [[Paper]](http://people.csail.mit.edu/moein/papers/sparsdr-mobisys19.pdf) (NO ML)
+* CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions, MobiSys 19 [[Paper]](https://research.ece.cmu.edu/lions/Papers/CASTLE_MobiSys.pdf)
+* An In-depth Study of Commercial MVNO: Measurement and Optimization, MobiSys 19 [[Paper]](https://www.cs.binghamton.edu/~yaoliu/publications/mobisys19-mvno.pdf)
+* WhiteHaul: An Efficient Spectrum Aggregation System for Low-Cost and High Capacity Backhaul over White Spaces, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388950) (NO ML)
 
 
 
@@ -766,6 +770,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Leakage-Aware Lifetime Estimation of Battery-Free Sensor Nodes Powered by Supercapacitors, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568108)
 * Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity, MobiCom 20 [[Paper]](https://www.mit.edu/~fadel/papers/umedic-paper.pdf) (NO ML) (also backscatter)
 * Experience: developing a usable battery drain testing and diagnostic tool for the mobile industry, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483269) (NO ML)
+* Capttery: Scalable Battery-like Room-level Wireless Power, MobiSys 19 [[Paper]](http://dword1511.info/me/papers/MobiSys19_Capttery_paper.pdf) (NO ML)
+* Graphics-aware Power Governing for Mobile Devices, MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326075) (NO ML)
 
 
 
@@ -855,6 +861,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Protego: securing wireless communication via programmable metasurface, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560547) (NO ML)
 * Defending against Sybil Devices in Crowdsourced Mapping Services, MobiSys 16 [[Paper]](https://people.cs.vt.edu/~gangwang/waze_dat16.pdf) (NO ML)
 * Blink and Flicker: Detecting Wireless Spy Cameras Via Stimulating and Probing, MobiSys 18 [[Paper]](http://ceca.pku.edu.cn/docs/20180808121558901898.pdf) (NO ML)
+* Understanding Fileless Attacks on Linux-based IoT Devices with HoneyCloud, MobiSys 19 [[Paper]](https://users.cs.northwestern.edu/~ychen/Papers/iot_mobisys19.pdf) (NO ML)
 
 
 
@@ -1055,6 +1062,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446715)
 * My Being to Your Place, Your Being to My Place: Co-present Robotic Avatars Create Illusion of Living Together, MobiSys 18 [[Paper]](https://nclab.kaist.ac.kr/files/papers/Conference/mobisys18-final240.pdf)
 * GLEAM: An Illumination Estimation Framework for Real-time Photorealistic Augmented Reality on Mobile Devices, MobiSys 19 [[Paper]](https://meteor.ame.asu.edu/publications/mobisys19prakash-gleam.pdf) 
+* Aura: Inside-out Electromagnetic Controller Tracking MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326090)
 
 
 
@@ -1119,6 +1127,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * LUID-XP: Flexible User Interface Distribution for Cross-Platform Experience, MobiCom 21 [[Paper]](https://steveyko.github.io/assets/pdf/fluid-xp-mobicom21.pdf)
 * Mobility Modeling and Prediction in Bike-Sharing Systems, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf) (NO ML)
 * TinyLink: A Holistic System for Rapid Development of IoT Applications, MobiCom 17 [[Paper]](https://engineering.virginia.edu/sites/default/files/common/departments/electrical-and-computer-engineering/computer-engineering/files/TinyLink.pdf) (NO ML)
+* BuSCOPE : Fusing Individual & Aggregated Mobility Behavior for “Live” Smart City Services, MobiSys 19 [[Paper]](https://www.andrew.cmu.edu/user/lakoglu/pubs/19-mobisys-buscope.pdf) (NO ML)
+* InternalBlue – Bluetooth Binary Patching and Experimentation Framework, MobiSys 19 [[Paper]](https://arxiv.org/pdf/1905.00631.pdf) (NO ML)
 
 
 
