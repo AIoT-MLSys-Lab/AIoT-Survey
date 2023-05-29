@@ -662,6 +662,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Link Quality Modeling for LoRa Networks in Orchards, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586969) (NO ML)
 * DeepLoRa: Learning accurate path loss model for long distance links in LPWAN, INFOCOM 21 [[Paper]](https://ieeexplore.ieee.org/document/9488784)
 * FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586963)
+* Empowering Low-Power Wide Area Networks in Urban Settings, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098845) (NO ML)
 
 
 
@@ -842,6 +843,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * AiFi: AI-Enabled WiFi Interference Cancellation with Commodity PHY-Layer Information, SenSys 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/sensys22.pdf)
 * Network On or Off? Instant Global Binary Decisions over UWB with Flick, IPSN 23 [[Paper]](http://disi.unitn.it/~picco/papers/ipsn23.pdf) (NO ML)
 * Everything has its Bad Side and Good Side: Turning Processors to Low Overhead Radios Using Side-Channels, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586959) (NO ML)
+* Drone Relays for Battery-Free Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098847) (NO ML) (RFID sensor?)
+* Wi-Fi Goes to Town: Rapid Picocell Switching for Wireless Transit Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098846) (NO ML)
 
 
 
@@ -1112,6 +1115,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Video Analytics with Zero-streaming Cameras, ATC 21 [[Paper]](https://xumengwei.github.io/files/ATC-DIVA.pdf)
 * Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention)
 * Flexible High-resolution Object Detection on Edge Devices with Tunable Latency, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
+* Disk|Crypt|Net: rethinking the stack for high-performance video streaming, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098844) (NO ML)
+* Neural Adaptive Video Streaming with Pensieve, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098843)
+
 
 
 ### AIoT Systems for Autonomous Driving					
