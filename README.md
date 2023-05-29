@@ -343,7 +343,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MagHacker: Eavesdropping on Stylus Pen Writing via Magnetic Sensing from Commodity Mobile Devices, MobiSys 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys20.pdf)
 * MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107)
 
-
+### GNSS
+* Extracting 3D Maps from Crowdsourced GNSS Skyview Data, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3345456) (NO ML)
+* SnapperGPS: Algorithms for Energy-Efficient Low-Cost Location Estimation Using GNSS Signal Snapshots, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485931) (NO ML)
+* Gnome: A Practical Approach to NLOS Mitigation for GPS Positioning in Smartphones, MobiSys 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/mobisys18-gnome.pdf) (NO ML)
+* BikeGPS: Accurate Localization of Shared Bikes in Street Canyons via Low-Level GPS Cooperation, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210316) (NO ML)
 	
 ### Others
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
@@ -378,20 +382,16 @@ Majority of the included papers are published at top-tier venues in the areas of
 * LiveLabs: Building in-situ mobile sensing and behavioural experimentation testbeds , MobiSys 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4306&context=sis_research) (NO ML)\
 * Simultaneous Power-Based Localization of Transmitters for Crowdsourced Spectrum Monitoring, MobiCom 17 [[Paper]](https://ansr.cs.utah.edu/assets/MobiCom17.pdf) (NO ML)
 * Simultaneous Localization and Mapping with Power Network Electromagnetic Field, MobiCom 18 [[Paper]](https://www.cs.ox.ac.uk/files/10769/%5BMobiCom2018%5Demr_slam.pdf) (NO ML)
-* Extracting 3D Maps from Crowdsourced GNSS Skyview Data, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3345456) (NO ML)
 * TransLoc: Transparent Indoor Localization with Uncertain Human Participation for Instant Delivery, MobiCom 20 [[Paper]](https://www.yyang.site/assets/pub/transloc.pdf)
 * Vi-Liquid: Unknown Liquid Identification with Your Smartphone Vibration, MobiCom 21 [[Paper]](https://www.huangyongzhi.com.cn/data/Vi-Liquid.pdf) (NO ML)
 * Robust Indoor Localization with ADS-B, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483257) (NO ML)
 * Network-Side Digital Contact Tracing on a Large University Campus, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2201.10641.pdf) (NO ML)
 * LiqRay: Non-invasive and Fine-grained Liquid Recognition System, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560540) (NO ML)
 * Expansion of Human–Phone Interface By Sensing Structure-Borne Sound Propagation, MobiSys 16 [[Paper]](https://yctung.github.io/files/publication/mobisys16-forcephone.pdf) (NO ML)
-* Gnome: A Practical Approach to NLOS Mitigation for GPS Positioning in Smartphones, MobiSys 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/mobisys18-gnome.pdf) (NO ML)
-* BikeGPS: Accurate Localization of Shared Bikes in Street Canyons via Low-Level GPS Cooperation, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210316) (NO ML)
 * Is your smoke detector working properly?: robust fault tolerance approaches for smoke detectors, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466869) (NO ML)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 * Tackling the Redundancy and Sparsity in Crowd Sensing Applications, SenSys 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/SenSys2016.pdf) (NO ML)
 * Fabric as a Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles, SenSys 18 [[Paper]](https://welab.umass.edu/SenSys18-Tribo.pdf) (NO ML)
-* SnapperGPS: Algorithms for Energy-Efficient Low-Cost Location Estimation Using GNSS Signal Snapshots, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485931) (NO ML)
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)
 
 
