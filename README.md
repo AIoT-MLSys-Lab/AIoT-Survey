@@ -68,7 +68,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ## Sensing
 
 ### Motion Sensing
-* LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937)
+* LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (Best paper runner-up) 
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)			
 * SenseHAR: a robust virtual activity sensor for smartphones and wearables,	SenSys	19	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032)			
 * Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391)
@@ -78,6 +78,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (NO ML)
 * SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.01766.pdf)
+* Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548)
 
 ### Wireless Sensing
 
@@ -108,6 +109,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569)
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 * RFID based real-time recognition of ongoing gesture with adversarial learning, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360045)
+* RFusion: Robotic Grasping via RF-Visual Sensing and Learning, SenSys 21 [[Paper]](https://www.mit.edu/~fadel/papers/RFusion-paper.pdf)
 
 #### Wi-Fi Sensing
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO ML)
@@ -224,7 +226,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568534)
 * Room-scale Hand Gesture Recognition Using Smart Speakers, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dli/papers/SenSys2022_SpeakerGesture.pdf)
 * Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf)
-* SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568530)	
+* SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568530)	
 * SpeechQoE: A Novel Personalized QoE Assessment Model for Voice Services via Speech Sensing, SenSys 22 [[Paper]](https://ranger.uta.edu/~mingli/publications/SpeechQoE.pdf)
 * Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/Telesonar-SenSys22.pdf) (NO ML)		
 * Enabling Contact-free Acoustic Sensing under Device Motion,	UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3550329)(NO	ML)	
@@ -290,11 +292,12 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Visible Light Sensing
 * SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, SenSys 17 [[Paper]](https://www-users.cse.umn.edu/~tianhe/Papers/SmartLight.pdf) (NO ML) (Best Paper)
-* CELLI: Indoor Positioning Using Polarized Sweeping Light Beams, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081352) (NO ML) (Visible Light Positioning)
-* Enabling High-Precision Visible Light Localization in Today’s Buildings. MobiSys 17 [[Paper]](https://cseweb.ucsd.edu//~shz338/images/MobiSys_17.pdf)(Visible Light Positioning)
+* CELLI: Indoor Positioning Using Polarized Sweeping Light Beams, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081352) (NO ML) 
+* Enabling High-Precision Visible Light Localization in Today’s Buildings. MobiSys 17 [[Paper]](https://cseweb.ucsd.edu//~shz338/images/MobiSys_17.pdf)
 * Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (NO ML)
 * Lili: Liquor Quality Monitoring Based on Light Signals, MobiCom 21 [[Paper]](https://www.huangyongzhi.com.cn/data/Lili.pdf)
 * LuBan: Low-Cost and In-Situ Droplet Micro-Sensing for Inkjet 3D Printing Quality Assurance, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131686)
+* Noninvasive Glucose Monitoring Using Polarized Light, SenSys 20 [[Paper]](https://www.cs.columbia.edu/~xia/publication/sensys20-glucose/sensys20-glucose.pdf)
 
 
 ### Air-Water Sensing
@@ -380,6 +383,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 * Tackling the Redundancy and Sparsity in Crowd Sensing Applications, SenSys 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/SenSys2016.pdf) (NO ML)
 * Fabric as a Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles, SenSys 18 [[Paper]](https://welab.umass.edu/SenSys18-Tribo.pdf) (NO ML)
+* SnapperGPS: Algorithms for Energy-Efficient Low-Cost Location Estimation Using GNSS Signal Snapshots, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485931) (NO ML)
+* Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)
+
 
 
 
@@ -514,6 +520,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge, ASPLOS 17 [[Paper]](https://dl.acm.org/doi/10.1145/3037697.3037698)
 * Context-Aware Compilation of DNN Training Pipelines across Edge and Cloud, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494981) [[code]](https://github.com/dixiyao/Context-Aware-Compilation-of-DNN-Training-Pipelines-across-Edge-and-Cloud)
 * Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping, MobiSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10167133) (NO ML) (Also AR)
+* Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL, SenSys 22 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/11/sensys22-hyperion.pdf) (NO ML)
 										
 ### Model Deployment on the Edge
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
@@ -598,6 +605,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * DigiScatter: efficiently prototyping large-scale OFDMA backscatter networks, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388914) (NO ML)
 * LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (NO ML)
 * Passive-ZigBee: Enabling ZigBee Communication in IoT Networks with 1000X+ Less Power Consumption, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274846) (Best paper runner-up awards)
+* ALFRED: Virtual Memory for Intermittent Computing, SenSys 2s [[Paper]](https://arxiv.org/pdf/2110.07542.pdf) (NO ML)
+* Morphy: Software Defined Charge Storage for the IoT, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485947) (NO ML)
+* MultiScatter: Multistatic Backscatter Networking for Battery-Free Sensors, SenSys 21 [[Paper]](https://par.nsf.gov/servlets/purl/10303864) (NO ML)
 
 						
 ### LoRa							
@@ -668,6 +678,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * ChromaCode: A Fully Imperceptible Screen-Camera Communication System, MobiCom 18 [[Paper]](https://cswu.me/papers/mobicom18_chromacode_paper.pdf) (NO ML)
 * A Principled Design for Passive Light Communication, MobiCom 21 [[Paper]](https://www.st.ewi.tudelft.nl/marco/files/chromalux_Mobicom21.pdf)
 * Card-stunt as a Service: Empowering a Massively Packed Crowd for Instant Collective Expressiveness, MobiSys 17 [[Paper]](https://nclab.kaist.ac.kr/uploads/2017/08/mobisys2017_cardstunt.pdf) (NO ML)
+* Breaking the Limitations of Visible Light Communication Through Its Side Channel, SenSys 20 [[Paper]](https://pure.tudelft.nl/ws/files/85899111/Sensys20_breaking.pdf) (NO ML)
 						
 ### mmWave Communication
 * Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241579) (NO ML)
@@ -701,6 +712,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Explicit Channel Coordination via Cross-technology Communication, MobiSys 18 [[Paper]](https://par.nsf.gov/servlets/purl/10076616) (NO ML)
 * BlueBee: a 10,000x Faster Cross-Technology Communication via PHY Emulation, SenSys 17 [[Paper]](https://cs.gmu.edu/~song/paper/SenSys17_Wenchao.pdf) (NO ML)
 * LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints, SenSys 19 [[Paper]](https://liux4189.github.io/files/LTE2B_Sensys_CameraReady.pdf) (NO ML)
+* X-MIMO: Cross-Technology Multi-User MIMO, SenSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10303948) (NO ML)
 
 
 
@@ -786,6 +798,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Indoor Localization with Aircraft Signals, SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131698) (NO ML)
 * BLEach: Exploiting the Full Potential of IPv6 over BLE in Constrained Embedded IoT Devices, SenSys 17 [[Paper]](https://nes-lab.org/wordpress/wp-content/uploads/2019/11/spoerk17bleach.pdf) (NO ML)
 * Mixer: Efficient Many-to-All Broadcast in Dynamic Wireless Mesh Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274849) (NO ML)
+* BatComm: Enabling Inaudible Acoustic Communication with High-throughput for Mobile Devices, SenSys 20 [[Paper]](https://web.eecs.utk.edu/~jliu/publications/bai2020batcomm.pdf) (NO ML)
+* One Flood to Route Them All:Ultra-fast Convergecast of Concurrent Flows over UWB, SenSys 20 [[Paper]](http://disi.unitn.it/~picco/papers/sensys20_weaver.pdf) (NO ML)
+* COCOON - A Conductive Substrate-based Coupled Oscillator Network for Wireless Communication, SenSys 21 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys21-COCOON.pdf) (NO ML)
+* Towards Ultra-low Power OFDMA Downlink Demodulation, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568509) (NO ML)
+* AiFi: AI-Enabled WiFi Interference Cancellation with Commodity PHY-Layer Information, SenSys 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/sensys22.pdf)
 
 
 
@@ -921,6 +938,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Battery-Enabled Anti-Theft Vehicle Immobilizer, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3539772) (NO ML)
 * MagEar: Eavesdropping via Audio Recovery using Magnetic Side Channel, MobiCom 22 [[Paper]](https://www.huangyongzhi.com.cn/data/MagEar.pdf)
 * From Physical to Cyber: Escalating Protection for Personalized Auto Insurance, SenSys 16 [[Paper]](https://arxiv.org/pdf/1609.02234.pdf) 
+* Detecting Replay Attacks against Industrial Robots, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430775)
+* TrustICT: An Efficient Trusted Interaction Interface between Isolated Execution Domains on ARM Multi-core Processors, SenSys 20 [[Paper]](https://csis.gmu.edu/ksun/publications/sensys20-trustict.pdf) (NO ML)
+* Reverse Engineering Physical Semantics of PLC Program Variables Using Control Invariants, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568521) (NO ML)
 
 
 
@@ -1090,6 +1110,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * MVP: magnetic vehicular positioning system for GNSS-denied environments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483264)
 * uGPS: Design and Field-Tested Seamless GNSS Infrastructure in Metro City, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560520) (NO ML)
 * ALT: Towards Automating Driver License Testing using Smartphones, SenSys 19 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/ALT-SenSys2019.pdf)
+* Pointillism: Accurate 3D Bounding Box Estimation with Multi-Radars, SenSys 20 [[Paper]](https://wcsng.ucsd.edu/files/Pointillism_paper.pdf) [[code]](https://github.com/Kshitizbansal/pointillism-multi-radar-data)
 
 
 ### AIoT Systems for AR/VR/MR
