@@ -77,7 +77,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors, IPSN 17 [[Paper]](https://dl.acm.org/doi/10.1145/3055031.3055087)
 * Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (NO ML)
-* SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.01766.pdf)
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548)
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968)
 
@@ -393,6 +392,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Tackling the Redundancy and Sparsity in Crowd Sensing Applications, SenSys 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/SenSys2016.pdf) (NO ML)
 * Fabric as a Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles, SenSys 18 [[Paper]](https://welab.umass.edu/SenSys18-Tribo.pdf) (NO ML)
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)
+* SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.01766.pdf)
 
 
 
