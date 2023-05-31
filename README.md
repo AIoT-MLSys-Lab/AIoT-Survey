@@ -113,6 +113,12 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 * RFID based real-time recognition of ongoing gesture with adversarial learning, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360045)
 * RFusion: Robotic Grasping via RF-Visual Sensing and Learning, SenSys 21 [[Paper]](https://www.mit.edu/~fadel/papers/RFusion-paper.pdf)
+* Pushing the Range Limits of Commercial Passive RFIDs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-wang-jingxian.pdf)
+* Eingerprint: Robust Energy-related Fingerprinting for Passive RFID Tags, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf) (NO ML)
+* Food and Liquid Sensing in Practical Environments using RFIDs, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ha.pdf)
+
+
+
 
 #### Wi-Fi Sensing
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO ML)
@@ -152,6 +158,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Accurate Ubiquitous Localization with Off-the-Shelf IEEE 802.11ac Devices, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468850) (NO ML)
 * WiFi-Enabled Smart Human Dynamics Monitoring, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131692)
 * RF-based Inertial Measurement, SIGCOMM 19 [[Paper]](https://cswu.me/papers/sigcomm19_rim_paper.pdf) (NO ML)
+* Decimeter-Level Localization with a Single WiFi Access Point, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf) (NO ML)
+* LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf) (NO ML)
+* LocAP: Autonomous Millimeter Accurate Mapping of WiFi Infrastructure, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ayyalasomayajula.pdf) (NO ML)
+* WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-gupta.pdf)
+
 
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
@@ -201,6 +212,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection, IPSN 21 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/billah21blecansee.pdf)
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf)
 * Nationwide Deployment and Operation of a Virtual Arrival Detection System in the Wild, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472911.pdf) (NO ML)
+* From Conception to Retirement: a Lifetime Story of a 3-Year-Old Wireless Beacon System in the Wild, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-ding.pdf) (NO ML)
 
 ### Earables
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314)
@@ -245,7 +257,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments, IPSN 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3412382.3458267)
 * Microphone Array Backscatter: An Application-Driven Design for Lightweight Spatial Sound Recording over the Air, MobiCom 21 [[Paper]](https://www2.cs.sfu.ca/~jcliu/Papers/Microphone21.pdf) (NO ML)
 * Owlet: enabling spatial information in ubiquitous acoustic devices,	MobiSys	21	[[Paper]](https://www.cs.umd.edu/~nirupam/images/2_publication/papers/Owlet_MobiSys21_nirupam.pdf)
-* MAVL: Multiresolution Analysis of Voice Localization,	NSDI	21	[[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf)	(NO	ML)	
 * Voice Localization Using Nearby Wall Reflections, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/voloc_mobicom20.pdf)
 * AcuTe: acoustic thermometer empowered by a single smartphone, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430714#:~:text=AcuTe%20empowers%20a%20single%20smartphone,between%20temperature%20and%20sound%20speed.)
 * Symphony: Localizing Multiple Acoustic Sources with a Single Microphone Array, SenSys 20 [[Paper]](https://arxiv.org/pdf/2209.15325.pdf) (NO ML)
@@ -341,6 +352,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Non-Intrusive Multi-Modal Estimation of Building Occupancy, SenSys 17 [[Paper]](http://www.phpathak.com/files/occupancy-sensys.pdf)
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://arxiv.org/pdf/2303.12798.pdf)
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960)
+* Bringing IoT to Sports Analytics, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-gowda.pdf) (NO ML)
 
 ### Magentic Sensing
 * Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf)
@@ -438,6 +450,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
+* BLAS-on-flash: An Efficient Alternative for Large Scale ML Training and Inference?, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-subramanya.pdf)
+
 
 #### Multi-Tenant Inference	
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
@@ -464,6 +478,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading, MobiSys 17 [[Paper]](https://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf)
 * DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Lane.IPSN2016-Camera.pdf)
 * PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
+* APUNet: Revitalizing GPU as Packet Processing Accelerator, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-go.pdf)
 
 #### Privacy-Preserving Inference
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
@@ -476,7 +491,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)	
-* LiteFlow: Towards High-performance Adaptive Neural Networks for Kernel Datapath, SIGCOMM 22 [[Paper]](https://hongzhangblaze.github.io/assets/pdf/liteflow.pdf)		
+* LiteFlow: Towards High-performance Adaptive Neural Networks for Kernel Datapath, SIGCOMM 22 [[Paper]](https://hongzhangblaze.github.io/assets/pdf/liteflow.pdf)
+* Sol: Fast Distributed Computation Over Slow Networks, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-lai.pdf)		
 		
 #### Benchmarks
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
@@ -498,6 +514,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
 * Multi-Resource Interleaving for Deep Learning Training, SIGCOMM 22 [[Paper]](https://xinjin.github.io/files/SIGCOMM22_Muri.pdf)
+* TuX2: Distributed Graph Computation for Machine Learning, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-xiao.pdf)
+* Scaling Distributed Machine Learning with In-Network Aggregation, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-sapio.pdf)
 
 #### Federated Learning for AIoT	
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
@@ -566,6 +584,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 * Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
+* JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-jeong.pdf)
+
+
 
 					
 	
@@ -637,6 +658,16 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Turboboosting Visible Light Backscatter Communication, SIGCOMM 20 [[Paper]](https://ceca.pku.edu.cn/docs/20200826153441008514.pdf) (NO ML)
 * mmTag: A Millimeter Wave Backscatter Network, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472917.pdf) (NO ML)
 * Higher-order modulation for acoustic backscatter communication in metals, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544261) (NO ML)
+* Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-kellogg.pdf) (NO ML) (Best Paper)
+* FM Backscatter: Enabling Connected Cities and Smart Fabrics, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wang-anran.pdf) (NO ML)
+* NetScatter: Enabling Large-Scale Backscatter Networks, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-hessar.pdf) (NO ML)
+* Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-katanbaf.pdf) (NO ML)
+* Verification and Redesign of OFDM Backscatter, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-liu-xin.pdf) (NO ML)
+* SyncScatter: Enabling WiFi like synchronization and range for WiFi backscatter Communication, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-dunna.pdf) (NO ML)
+
+
+
+
 
 
 
@@ -679,6 +710,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * DeepLoRa: Learning accurate path loss model for long distance links in LPWAN, INFOCOM 21 [[Paper]](https://ieeexplore.ieee.org/document/9488784)
 * FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586963)
 * Empowering Low-Power Wide Area Networks in Urban Settings, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098845) (NO ML)
+* Frequency Configuration for Low-Power Wide-Area Networks in a Heartbeat, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-gadre.pdf) (NO ML)
 
 
 
@@ -739,6 +771,14 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Fast Millimeter Wave Beam Alignment, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230581) (NO ML)
 * A Millimeter Wave Network for Billions of Things, SIGCOMM 19 [[Paper]](http://web.cs.ucla.edu/~omid/Papers/Sigcomm19.pdf) (NO ML)
 * Two beams are better than one: Towards Reliable and High Throughput mmWave Links, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472924.pdf) (NO ML)
+* BeamSpy: Enabling Robust 60 GHz Links Under Blockage, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-sur.pdf) (NO ML)
+* Facilitating Robust 60 GHz Network Deployment by Sensing Ambient Reflectors, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wei-teng.pdf) (NO ML)
+* Many-to-Many Beam Alignment in Millimeter Wave Networks, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-jog.pdf) (NO ML)
+* Practical Null Steering in Millimeter Wave Networks, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-madani.pdf) (NO ML)
+
+
+
+
 
 
 
@@ -814,6 +854,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Understanding 5G Performance for Real-world Services: a Content Provider’s Perspective, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544219) (NO ML)
 * Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544237) (NO ML)
 * Vivisecting Mobility Management in 5G Cellular Networks, SIGCOMM 22 [[Paper]](https://zhan6841.github.io/files/vivisectingmobility-sigcomm22.pdf) (NO ML)
+* iCellular: Device-Customized Cellular Network Access on Commodity Smartphones, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-li-yuanjie.pdf) (NO ML)
+* Device-Based LTE Latency Reduction at the Application Layer, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-tan.pdf)
+
 
 
 
@@ -825,11 +868,15 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO ML)
 * Real-time Distributed MIMO Systems, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934905) (NO ML)
 * Chorus: Truly Distributed Distributed-MIMO, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230578) (NO ML)
+* FlexCore: Massively Parallel and Flexible Processing for Large MIMO Access Points, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-husmann.pdf) (NO ML)
 
 ### SDR
 * SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)
 * SparSDR: Sparsity-proportional Backhaul and Compute for SDRs, MobiSys 19 [[Paper]](http://people.csail.mit.edu/moein/papers/sparsdr-mobisys19.pdf) (NO ML)
 * The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf)(NO ML) (Best Community Paper Award)
+* TinySDR: Low-Power SDR Platform for Over-the-Air Programmable IoT Testbeds, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/hessar) (NO ML)
+
+
 
 
 ### Others
@@ -881,6 +928,12 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230554)
 * Network Planning with Deep Reinforcement Learning, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472902.pdf)
 * A Case for Stateless Mobile Core Network Functions in Space, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544233) (NO ML)
+* Ripple II: Faster Communication through Physical Vibration, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-roy.pdf) (NO ML)
+* Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf) (NO ML)
+* RFocus: Beamforming Using Thousands of Passive Antennas, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-arun.pdf)
+* Pushing the Physical Limits of IoT Devices with Programmable Metasurfaces, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-chen.pdf)
+
+
 
 
 
@@ -918,6 +971,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Intermittent Asynchronous Peripheral Operations, SenSys 19 [[Paper]](https://www.neslab.it/wp-content/uploads/2019/09/branco19intermittent.pdf)
 * Experience: ARISTOTLE: wAke-up ReceIver-based, STar tOpology baTteryLEss sensor network, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586961) (NO ML)
 * Interpreting Deep Learning-Based Networking Systems, SIGCOMM 20 [[Paper]](https://arxiv.org/pdf/1910.03835.pdf)
+* Bootstrapping Battery-free Wireless Networks: Efficient Neighbor Discovery and Synchronization in the Face of Intermittency, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-geissdoerfer.pdf) (NO ML)
 
 
 
@@ -1017,6 +1071,13 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Reverse Engineering Physical Semantics of PLC Program Variables Using Control Invariants, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568521) (NO ML)
 * RF-protect: privacy against device-free human tracking, SIGCOMM 22 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/RFProtect_SIGCOMM22.pdf)
 * Practical GAN-based Synthetic IP Header Trace Generation using NetShare, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544251)
+* PhyCloak: Obfuscating Sensing from Communication Signals, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-qiao.pdf) (NO ML) (Best Student Paper)
+* Prio: Private, Robust, and Scalable Computation of Aggregate Statistics, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-corrigan-gibbs.pdf)
+* Inaudible Voice Commands: The Long-Range Attack and Defense, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-roy.pdf)
+* Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf) (NO ML)
+* EarFisher: Detecting Wireless Eavesdroppers by Stimulating and Sensing Memory EMR, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-shen.pdf)
+
+
 
 
 
@@ -1026,6 +1087,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Kryptein: A Compressive-Sensing-Based Encryption Scheme for the Internet of Things, IPSN 17 [[Paper]](https://ieeexplore.ieee.org/document/7944788) (NO ML)
 * PrOLoc: Resilient Localization with Private Observers Using Partial Homomorphic Encryption, IPSN 17 [[Paper]](https://ieeexplore.ieee.org/document/7944778) (NO ML)
 * Secure Sharing of Partially Homomorphic Encrypted IoT Data, SenSys 17 [[Paper]](http://www.vs.inf.ethz.ch/publ/papers/mshafagh_SenSys17_Pilatus.pdf) (NO ML)
+* Opaque: An Oblivious and Encrypted Distributed Analytics Platform, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zheng.pdf)
+* TimeCrypt: Encrypted Data Stream Processing at Scale with Cryptographic Access Control, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-burkhalter.pdf)
 
 
 ### Spoofing/Sniffing
@@ -1171,6 +1234,14 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * LiveNet: a low-latency video transport network for large-scale live streaming, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544236) (NO ML)
 * NeuroScaler: neural video enhancement at scale, SIGCOMM 22 [[Paper]](https://jaykim305.github.io/assets/pdf/neuroscaler-sigcomm22.pdf)
 * Neural Adaptive Content-aware Internet Video Delivery, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-yeo.pdf)
+* CFA: A Practical Prediction System for Video QoE Optimization, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-jiang-junchen.pdf)
+* Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf) (NO ML)
+* Live Video Analytics at Scale with Approximation and Delay-Tolerance, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zhang.pdf)
+* ViewMap: Sharing Private In-Vehicle Dashcam Videos, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kim-minho.pdf) (NO ML)
+* Salsify: Low-Latency Network Video Through Tighter Integration Between a Video Codec and a Transport Protocol, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-fouladi.pdf) (NO ML)
+* Learning in situ: a randomized experiment in video streaming, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-yan.pdf)
+* SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-zhang.pdf)
+
 
 
 
@@ -1213,6 +1284,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * ALT: Towards Automating Driver License Testing using Smartphones, SenSys 19 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/ALT-SenSys2019.pdf)
 * Pointillism: Accurate 3D Bounding Box Estimation with Multi-Radars, SenSys 20 [[Paper]](https://wcsng.ucsd.edu/files/Pointillism_paper.pdf) [[code]](https://github.com/Kshitizbansal/pointillism-multi-radar-data)
 * RoS: Passive Smart Surface for Roadside-to-Vehicle Communication, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472896.pdf) (NO ML)
+* CarMap: Fast 3D Feature Map Updates for Automobiles, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ahmad.pdf)
+
+
 
 
 ### AIoT Systems for AR/VR/MR
@@ -1251,6 +1325,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * GLEAM: An Illumination Estimation Framework for Real-time Photorealistic Augmented Reality on Mobile Devices, MobiSys 19 [[Paper]](https://meteor.ame.asu.edu/publications/mobisys19prakash-gleam.pdf) 
 * Aura: Inside-out Electromagnetic Controller Tracking MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326090)
 * Cyclops: an FSO-based wireless link for VR headsets, SIGCOMM 22 [[Paper]](http://www.contrib.andrew.cmu.edu/~malleshd/papers/sigcomm-2022-paper.pdf) (NO ML)
+* Enabling High-Quality Untethered Virtual Reality, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-abari.pdf) (NO ML)
 
 
 
