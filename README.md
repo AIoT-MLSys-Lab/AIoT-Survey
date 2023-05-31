@@ -79,6 +79,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (NO ML)
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548)
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968)
+* RF-based 3D skeletons, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230579)
+
 
 
 ### Wireless Sensing
@@ -149,6 +151,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Toward Reliable Localization by Unequal AoA Tracking, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326103) (NO ML)
 * Accurate Ubiquitous Localization with Off-the-Shelf IEEE 802.11ac Devices, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468850) (NO ML)
 * WiFi-Enabled Smart Human Dynamics Monitoring, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131692)
+* RF-based Inertial Measurement, SIGCOMM 19 [[Paper]](https://cswu.me/papers/sigcomm19_rim_paper.pdf) (NO ML)
 
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
@@ -197,6 +200,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
 * BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection, IPSN 21 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/billah21blecansee.pdf)
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf)
+* Nationwide Deployment and Operation of a Virtual Arrival Detection System in the Wild, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472911.pdf) (NO ML)
 
 ### Earables
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314)
@@ -216,6 +220,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * TYTH-Typing On Your Teeth: Tongue-Teeth Localization for Human-Computer Interface, MobiSys 18 [[Paper]](http://mnslab.org/tamvu/paper/2018%20TYTH_Phuc.pdf)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf)
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (NO ML)
+* MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (NO ML)
+
 
 ### Acoustic Sensing							
 * Acoustic Sensing and Communication Using Metasurface, NSDI	23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf)
@@ -469,7 +475,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision, SEC 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
-* Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
+* Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)	
+* LiteFlow: Towards High-performance Adaptive Neural Networks for Kernel Datapath, SIGCOMM 22 [[Paper]](https://hongzhangblaze.github.io/assets/pdf/liteflow.pdf)		
 		
 #### Benchmarks
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
@@ -488,8 +495,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)			
 
 #### Training on Distributed Devices
-* Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)			
+* Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
+* Multi-Resource Interleaving for Deep Learning Training, SIGCOMM 22 [[Paper]](https://xinjin.github.io/files/SIGCOMM22_Muri.pdf)
 
 #### Federated Learning for AIoT	
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
@@ -624,6 +632,12 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Braidio: An Integrated Active-Passive Radio for Mobile Devices with Asymmetric Energy Budgets, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934902) (NO ML)
 * Enabling Practical Backscatter Communication for On-body Sensors, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934901) (NO ML)
 * Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934894) (NO ML)
+* WiTAG: Seamless WiFi Backscatter Communication, SIGCOMM 20 [[Paper]](https://cs.uwaterloo.ca/~brecht/papers/witag-sigcomm-2020.pdf) (NO ML)
+* Leveraging Ambient LTE Traffic for Ubiquitous Passive Communication, SIGCOMM 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405861) (NO ML)
+* Turboboosting Visible Light Backscatter Communication, SIGCOMM 20 [[Paper]](https://ceca.pku.edu.cn/docs/20200826153441008514.pdf) (NO ML)
+* mmTag: A Millimeter Wave Backscatter Network, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472917.pdf) (NO ML)
+* Higher-order modulation for acoustic backscatter communication in metals, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544261) (NO ML)
+
 
 
 						
@@ -648,6 +662,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Automated Estimation of Link Quality for LoRa: A Remote Sensing Approach, IPSN 19 [[Paper]](https://pure.tudelft.nl/ws/files/55547022/IPSN2019.pdf)
 * WIDESEE: Towards Wide-Area Contactless Wireless Sensing	,	SenSys	19	[[Paper]](https://zwang4.github.io/publications/sensys19.pdf)	(NO	ML)	
 * FTrack: parallel decoding for LoRa transmissions, SenSys 19 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/FTrack_Sensys19.pdf)
+* PLoRa: A Passive Long-Range Data Network from Ambient LoRa Transmissions, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230567) (NO ML)
+* Concurrent Interference Cancellation : Decoding Multi-Packet Collisions in LoRa, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472931.pdf) (NO ML)
 
 
 ### LPWAN
@@ -669,8 +685,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 							
 ### Under Water Communication							
 * U-star: an underwater navigation system based on passive 3D optical identification tags	,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517019)			
-* Underwater Messaging Using Mobile Devices	,	SIGCOMM	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544258)[[Code]](https://github.com/uw-x/watercomms)	(NO	ML)
-* Ultra-Wideband Underwater Backscatter via Piezoelectric Metamaterials	,	SIGCOMM	22	[[Paper]](https://www.mit.edu/~fadel/papers/U2B-paper.pdf)	(NO	ML)	
+* Underwater Messaging Using Mobile Devices, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544258)[[Code]](https://github.com/uw-x/watercomms) (NO ML)
+* Ultra-Wideband Underwater Backscatter via Piezoelectric Metamaterials, SIGCOMM 20	[[Paper]](https://www.mit.edu/~fadel/papers/U2B-paper.pdf) (NO ML)	
 * Shrimp: a robust underwater visible light communication system,		MobiCom	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448616)	(NO	ML)	
 * AmphiLight: Direct Air-Water Communication with Laser Light	,	NSDI	20	[[Paper]](https://www.usenix.org/conference/nsdi20/presentation/carver)			
 * Underwater backscatter networking	,	SIGCOMM	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3341302.3342091)	(NO	ML)	
@@ -720,6 +736,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * A real-time experimentation platform for sub-6 GHz and millimeter-wave MIMO systems, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3466868) [[code]](https://github.com/rafaruizortiz/MIMORPH)
 * KinPhy: a kinetic in-band channel for millimetre-wave networks, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360039) (NO ML)
 * mmRipple: Communicating with mmWave Radars through Smartphone Vibration, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586956) (NO ML)
+* Fast Millimeter Wave Beam Alignment, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230581) (NO ML)
+* A Millimeter Wave Network for Billions of Things, SIGCOMM 19 [[Paper]](http://web.cs.ucla.edu/~omid/Papers/Sigcomm19.pdf) (NO ML)
+* Two beams are better than one: Towards Reliable and High Throughput mmWave Links, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472924.pdf) (NO ML)
 
 
 
@@ -737,6 +756,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints, SenSys 19 [[Paper]](https://liux4189.github.io/files/LTE2B_Sensys_CameraReady.pdf) (NO ML)
 * X-MIMO: Cross-Technology Multi-User MIMO, SenSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10303948) (NO ML)
 * WibZig: Reliable and Commodity-device Compatible PHY-CTC via Chip Emulation in Phase, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587046) (NO ML)
+* BlueFi: Bluetooth over WiFi, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472920.pdf) (NO ML)
 
 
 
@@ -782,7 +802,18 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Global Mobile Network Aggregators: Taxonomy, Roaming Performance and Optimization, MobiSys 22 [[Paper]](https://www.aqualab.cs.northwestern.edu/wp-content/uploads/2022/05/SAlcala-Marin-Mobisys22.pdf) (NO ML)
 * Eliminating Channel Feedback in Next-Generation Cellular Networks, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/10.1145/2934872.2934895) (NO ML)
 * A High Performance Packet Core for Next Generation Cellular Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098848) (NO ML)
-
+* Bridging the Data Charging Gap in the Cellular Edge, SIGCOMM 19 [[Paper]](http://www.yuanjiel.com/publication/sigcomm19-camera-ready.pdf) (NO ML)
+* Beyond 5G: Reliable Extreme Mobility Management, SIGCOMM 20 [[Paper]](http://web.cs.ucla.edu/~qianruli/files/sigcomm20-rem.pdf) (NO ML)
+* Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption, SIGCOMM 20 [[Paper]](http://xyzhang.ucsd.edu/papers/DXu_SIGCOMM20_5Gmeasure.pdf) (NO ML)
+* A Low Latency and Consistent Cellular Control Plane, SIGCOMM 20 [[Paper]](https://web.lums.edu.pk/~zafar/sigcomm2020.pdf) (NO ML)
+* Auric: Using Data-driven Recommendation to Automatically Generate Cellular Configuration, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472906.pdf)
+* Democratizing Cellular Access with CellBricks, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3473336.pdf) (NO ML)
+* A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472923.pdf)[[code]](https://github.com/SIGCOMM21-5G/artifact)
+* A Nationwide Study on Cellular Reliability: Measurement, Analysis, and Enhancements, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472908.pdf) (NO ML)
+* L25GC: A Low Latency 5G Core Network based on High-Performance NFV Platforms, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544267) (NO ML)
+* Understanding 5G Performance for Real-world Services: a Content Provider’s Perspective, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544219) (NO ML)
+* Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544237) (NO ML)
+* Vivisecting Mobility Management in 5G Cellular Networks, SIGCOMM 22 [[Paper]](https://zhan6841.github.io/files/vivisectingmobility-sigcomm22.pdf) (NO ML)
 
 
 
@@ -793,6 +824,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Octopus: a practical and versatile wideband MIMO sensing platform, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483267)
 * TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO ML)
 * Real-time Distributed MIMO Systems, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934905) (NO ML)
+* Chorus: Truly Distributed Distributed-MIMO, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230578) (NO ML)
 
 ### SDR
 * SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)
@@ -845,6 +877,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Everything has its Bad Side and Good Side: Turning Processors to Low Overhead Radios Using Side-Channels, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586959) (NO ML)
 * Drone Relays for Battery-Free Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098847) (NO ML) (RFID sensor?)
 * Wi-Fi Goes to Town: Rapid Picocell Switching for Wireless Transit Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098846) (NO ML)
+* Polymorphic radios: A new design paradigm for ultra-low power communication, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230571)
+* AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230554)
+* Network Planning with Deep Reinforcement Learning, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472902.pdf)
+* A Case for Stateless Mobile Core Network Functions in Space, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544233) (NO ML)
 
 
 
@@ -881,6 +917,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SkinnySensor: Enabling Battery-Less Wearable Sensors Via Intrabody Power Transfer, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360034) (NO ML)
 * Intermittent Asynchronous Peripheral Operations, SenSys 19 [[Paper]](https://www.neslab.it/wp-content/uploads/2019/09/branco19intermittent.pdf)
 * Experience: ARISTOTLE: wAke-up ReceIver-based, STar tOpology baTteryLEss sensor network, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586961) (NO ML)
+* Interpreting Deep Learning-Based Networking Systems, SIGCOMM 20 [[Paper]](https://arxiv.org/pdf/1910.03835.pdf)
 
 
 
@@ -978,6 +1015,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Detecting Replay Attacks against Industrial Robots, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430775)
 * TrustICT: An Efficient Trusted Interaction Interface between Isolated Execution Domains on ARM Multi-core Processors, SenSys 20 [[Paper]](https://csis.gmu.edu/ksun/publications/sensys20-trustict.pdf) (NO ML)
 * Reverse Engineering Physical Semantics of PLC Program Variables Using Control Invariants, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568521) (NO ML)
+* RF-protect: privacy against device-free human tracking, SIGCOMM 22 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/RFProtect_SIGCOMM22.pdf)
+* Practical GAN-based Synthetic IP Header Trace Generation using NetShare, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544251)
+
 
 
 
@@ -1080,6 +1120,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * pH Watch - Leveraging Pulse Oximeters in Existing Wearables for Reusable, Real-time Monitoring of pH in Sweat, MobiSys 19 [[Paper]](https://anantabalaji.github.io/projects/pH_watch/pH_watch.pdf) (NO ML)
 * RehabPhone: A Sotware-Defined Tool using 3D Printing and Smartphones for Personalized Home-based Rehabilitation, MobiSys 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2020a.pdf) (NO ML)
 * ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586962)
+* Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
+
 
 
 
@@ -1117,6 +1159,24 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Flexible High-resolution Object Detection on Edge Devices with Tunable Latency, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
 * Disk|Crypt|Net: rethinking the stack for high-performance video streaming, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098844) (NO ML)
 * Neural Adaptive Video Streaming with Pensieve, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098843)
+* Chameleon: scalable adaptation of video analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230574)
+* Oboe: Auto-tuning Video ABR Algorithms to Network Conditions, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230558) (NO ML)
+* Pano: optimizing 360° video streaming with a better understanding of quality perception, SIGCOMM 19 [[Paper]](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf)
+* Vantage: optimizing video upload for time-shifted viewing of social live streams, SIGCOMM 19 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3341302.3342064) (NO ML)
+* End-to-end transport for video QoE fairness, SIGCOMM 19 [[Paper]](https://dlnext.acm.org/doi/abs/10.1145/3341302.3342077) (NO ML)
+* Server-Driven Video Streaming for Deep Learning Inference, SIGCOMM 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887)
+* Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning, SIGCOMM 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3387514.3405856.pdf)
+* XLINK: QoE-Driven Multi-Path QUIC Transport in Large-scale Video Services, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472893.pdf) (NO ML)
+* GSO-Simulcast: Global Stream Orchestration in Simulcast Video Conferencing Systems, SIGCOMM 22 [[Paper]](https://yfmascgy.github.io/papers/gso-simulcast.pdf) (NO ML)
+* LiveNet: a low-latency video transport network for large-scale live streaming, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544236) (NO ML)
+* NeuroScaler: neural video enhancement at scale, SIGCOMM 22 [[Paper]](https://jaykim305.github.io/assets/pdf/neuroscaler-sigcomm22.pdf)
+* Neural Adaptive Content-aware Internet Video Delivery, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-yeo.pdf)
+
+
+
+
+
+
 
 
 
@@ -1152,6 +1212,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * uGPS: Design and Field-Tested Seamless GNSS Infrastructure in Metro City, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560520) (NO ML)
 * ALT: Towards Automating Driver License Testing using Smartphones, SenSys 19 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/ALT-SenSys2019.pdf)
 * Pointillism: Accurate 3D Bounding Box Estimation with Multi-Radars, SenSys 20 [[Paper]](https://wcsng.ucsd.edu/files/Pointillism_paper.pdf) [[code]](https://github.com/Kshitizbansal/pointillism-multi-radar-data)
+* RoS: Passive Smart Surface for Roadside-to-Vehicle Communication, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472896.pdf) (NO ML)
 
 
 ### AIoT Systems for AR/VR/MR
@@ -1189,7 +1250,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * My Being to Your Place, Your Being to My Place: Co-present Robotic Avatars Create Illusion of Living Together, MobiSys 18 [[Paper]](https://nclab.kaist.ac.kr/files/papers/Conference/mobisys18-final240.pdf)
 * GLEAM: An Illumination Estimation Framework for Real-time Photorealistic Augmented Reality on Mobile Devices, MobiSys 19 [[Paper]](https://meteor.ame.asu.edu/publications/mobisys19prakash-gleam.pdf) 
 * Aura: Inside-out Electromagnetic Controller Tracking MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326090)
-* ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes, IPSN 23 [[Paper]]()
+* Cyclops: an FSO-based wireless link for VR headsets, SIGCOMM 22 [[Paper]](http://www.contrib.andrew.cmu.edu/~malleshd/papers/sigcomm-2022-paper.pdf) (NO ML)
+
 
 
 
@@ -1263,6 +1325,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Amulet: An Energy-Efficient, Multi-Application Wearable Platform, SenSys 16 [[Paper]](https://cseweb.ucsd.edu/~schulman/class/cse291_f18/docs/hester_amulet.pdf) (NO ML)
 * Application-Layer Clock Synchronization for Wearables Using Skin Electric Potentials Induced by Powerline Radiation, SenSys 17 [[Paper]](https://arxiv.org/pdf/1709.08296.pdf) (NO ML)
 * Fall-curve: A novel primitive for IoT Fault Detection and Isolation, SenSys 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Camera_Ready__FaultTolerance_SenSys18.pdf)
+* SPRIGHT: Extracting the Server from Serverless Computing! High-performance eBPF-based Event-driven, Shared-memory Processing, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544259) (NO ML)
 
 
 
