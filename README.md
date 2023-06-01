@@ -635,8 +635,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FedAIoT:
 * FedMultimodal: A Benchmark for Multimodal Federated Learning, KDD 23
 * FedAudio: A Federated Learning Benchmark for Audio Tasks, ICASSP 23 [[Paper]](https://arxiv.org/pdf/2210.15707.pdf)
-* FedNLP: 
-* FedCV: 
+* FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks, NACCL 22 [[Paper]](https://arxiv.org/pdf/2104.08815.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fednlp) 
+* FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks, Arxiv [[Paper]](https://arxiv.org/pdf/2111.11066.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fedcv)
+
+ 
 
 ### Edge-Cloud Offloading							
 * Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
