@@ -574,41 +574,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 #### Training on Distributed Devices
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
-* Multi-Resource Interleaving for Deep Learning Training, SIGCOMM 22 [[Paper]](https://xinjin.github.io/files/SIGCOMM22_Muri.pdf)
-* TuX2: Distributed Graph Computation for Machine Learning, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-xiao.pdf)
-* Scaling Distributed Machine Learning with In-Network Aggregation, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-sapio.pdf)
-* ARK: GPU-driven Code Execution for Distributed Deep Learning, NSDI 23 [[Paper]]()
-* Ekko: A Large-Scale Deep Learning Recommender System with Low-Latency Model Update, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-sima.pdf)
-* A generic communication scheduler for distributed DNN training acceleration, SOSP 19 [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf)
-* Gradient Compression Supercharged High-Performance Data Parallel DNN Training, SOSP 21 [[Paper]](https://www.ruichuan.org/papers/hipress-sosp21.pdf)
-* Hop: Heterogeneity-aware Decentralized Training, ASPLOS 19 [[Paper]](https://arxiv.org/pdf/1902.01064.pdf)
-* Heterogeneity-Aware Asynchronous Decentralized Training, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1909.08029.pdf)
-* In-Network Aggregation with Transport Transparency for Distributed Training, ASPLOS 23 [[Paper]](https://sands.kaust.edu.sa/papers/netreduce.asplos23.pdf)
-
-
-##### Clsuter/Dataceter (Working)
-* RecShard: Statistical Feature-Based Memory Optimization for Industry-Scale Neural Recommendation, ASPLOS 22 [[Paper]](https://arxiv.org/pdf/2201.10095.pdf)
-* Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters, ATC 17 [[Paper]](https://www.usenix.org/system/files/conference/atc17/atc17-zhang.pdf)
-* Zico: Efficient GPU Memory Sharing for Concurrent DNN Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-lim.pdf)
-* Privacy Budget Scheduling, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-luo.pdf)
-* Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-mohan.pdf)
-* Retiarii: A Deep Learning Exploratory-Training Framework, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-zhang_quanlu.pdf)
-* AntMan: Dynamic Scaling on GPU Clusters for Deep Learning, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-xiao.pdf)
-* HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-zhao_hanyu.pdf)
-* Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)
-* Gandiva: Introspective Cluster Scheduling for Deep Learning, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
-* BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-hwang.pdf)
-* P3: Distributed Deep Graph Learning at Scale, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-gandhi.pdf)
-* KungFu: Making Training in Distributed Machine Learning Adaptive, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-mai.pdf) (Also Adaptation)
-
-###### Pipeline Parallelism (Working)
-* PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-bai.pdf)
-* PipeDream: generalized pipeline parallelism for DNN training, SOSP 19 [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
-* NASPipe: High Performance and Reproducible Pipeline Parallel Supernet Training via Causal Synchronous Parallelism, ASPLOS 22 [[Paper]](https://i.cs.hku.hk/~heming/papers/asplos22-naspipe.pdf)
-* HetPipe: Enabling Large DNN Training on (Whimpy) Heterogeneous GPU Clusters through Integration of Pipelined Model Parallelism and Data Parallelism, ATC 20 [[Paper]](https://www.usenix.org/conference/atc20/presentation/park)
-* Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-eliad.pdf)
-* Varuna: Scalable, Low-cost Training of Massive Deep Learning Models, EuroSys 22 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519584)
-
 
 
 #### Federated Learning for AIoT	
