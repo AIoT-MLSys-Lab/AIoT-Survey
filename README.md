@@ -461,6 +461,13 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization, ASPLOS 19 [[Paper]](http://www.eecs.harvard.edu/~htk/publication/2019-asplos-kung-mcdanel-zhang.pdf)
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/10.1145/3297858.3304038)
 * Capuchin: Tensor-based GPU Memory Management for Deep Learning, ASPLOS 20 [[Paper]](http://alchem.usc.edu/portal/static/download/capuchin.pdf)
+* A Hierarchical Neural Model of Data Prefetching, ASPLOS 21 [[Paper]](https://www.cs.utexas.edu/~lin/papers/asplos21.pdf)
+* GRACE: A Scalable Graph-Based Approach to Accelerating Recommendation Model Inference, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582029)
+* DrGPUM: Guiding Memory Optimization for GPU-Accelerated Applications, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3582016.3582044)
+* Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
+* DefT: Boosting Scalability of Deformable Convolution Operations on GPUs, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3582016.3582017)
+
+
 
 
 #### HW Accelerator
@@ -473,8 +480,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Boosted Race Trees for Low Energy Classification, ASPLOS 19 [[Paper]](https://sites.cs.ucsb.edu/~sherwood/pubs/ASPLOS-19-racetree.pdf)
 * NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1911.06859.pdf)
 * FlexAmata: A Universal and Efficient Adaption of Applications to Spatial Automata Processing Accelerators, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378459)
-
-
+* Statistical Robustness of Markov Chain Monte Carlo Accelerators, ASPLOS 21 [[Paper]](https://users.cs.duke.edu/~alvy/papers/robustness_asplos21.pdf)
+* A Compiler Infrastructure for Accelerator Generators, ASPLOS 21 [[Paper]](https://www.cs.cornell.edu/~asampson/media/papers/calyx-asplos2021.pdf) (NO ML)
+* Accelerating Sparse Data Orchestration via Dynamic Reflexive Tiling, ASPLOS 23 [[Paper]](https://dspace.mit.edu/bitstream/handle/1721.1/150364/3582016.3582064.pdf?sequence=1&isAllowed=y)
 
 
 
@@ -509,6 +517,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 #### Privacy-Preserving Inference
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
 * Shredder: Learning Noise Distributions to Protect Inference Privacy, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1905.11814.pdf)
+* Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX, MobiCom 19 [[Paper]](https://soar.group/pubs/Occlumency.MobiCom19.pdf)
+* Defensive Approximation: Securing CNNs using Approximate Computing, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2006.07700.pdf)
+* Characterizing and Optimizing End-to-End Systems for Private Inference, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2207.07177.pdf)
 
 #### Adaptation
 * Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
@@ -552,9 +563,21 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Gradient Compression Supercharged High-Performance Data Parallel DNN Training, SOSP 21 [[Paper]](https://www.ruichuan.org/papers/hipress-sosp21.pdf)
 * Hop: Heterogeneity-aware Decentralized Training, ASPLOS 19 [[Paper]](https://arxiv.org/pdf/1902.01064.pdf)
 * Heterogeneity-Aware Asynchronous Decentralized Training, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1909.08029.pdf)
+* In-Network Aggregation with Transport Transparency for Distributed Training, ASPLOS 23 [[Paper]](https://sands.kaust.edu.sa/papers/netreduce.asplos23.pdf)
 
 
-#### Clsuter/Dataceter
+#### Clsuter/Dataceter (Working)
+-training
+* RecShard: Statistical Feature-Based Memory Optimization for Industry-Scale Neural Recommendation, ASPLOS 22 [[Paper]](https://arxiv.org/pdf/2201.10095.pdf)
+
+
+##### Pipeline Parallelism
+* PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-bai.pdf)
+* PipeDream: generalized pipeline parallelism for DNN training, SOSP 19 [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
+* NASPipe: High Performance and Reproducible Pipeline Parallel Supernet Training via Causal Synchronous Parallelism, ASPLOS 22 [[Paper]](https://i.cs.hku.hk/~heming/papers/asplos22-naspipe.pdf)
+
+
+-inference
 * Privacy Budget Scheduling, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-luo.pdf)
 * Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-mohan.pdf)
 * Retiarii: A Deep Learning Exploratory-Training Framework, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-zhang_quanlu.pdf)
@@ -563,9 +586,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)
 * Gandiva: Introspective Cluster Scheduling for Deep Learning, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
 
-##### Pipeline
-* PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-bai.pdf)
-* PipeDream: generalized pipeline parallelism for DNN training, SOSP 19 [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
+
+
+
 
 
 
@@ -625,6 +648,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586970)
+* Space-Efficient TREC for Enabling Deep Learning on Microcontrollers, ASPLOS 23 [[Paper]](https://research.csc.ncsu.edu/picture/publications/papers/asplos23a_mcu.pdf)
 * Serving DNNs like Clockwork: Performance Predictability from the Bottom Up, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-gujarati.pdf)
 * Parity models: erasure-coded resilience for prediction serving systems, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359654)
 																				
@@ -637,6 +661,12 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)		
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
 * Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler, ASPLOS 18 [[Paper]](https://arxiv.org/pdf/1801.00746.pdf)
+* Mind Mappings: Enabling Efficient Algorithm-Accelerator Mapping Space Search, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2103.01489.pdf)
+* Neural Architecture Search as Program Transformation Exploration, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2102.06599.pdf)
+* Analytical Characterization and Design Space Exploration for Optimization of CNNs, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2101.09808.pdf)
+* Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
+* Homunculus: Auto-Generating Efficient Data-Plane ML Pipelines for Datacenter Networks, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2206.05592.pdf)\
+
 														
 ### Compiler for AIoT							
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf)	
@@ -658,6 +688,12 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Astra: Exploiting Predictability to Optimize Deep Learning, ASPLOS 19 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/astra-asplos19.pdf)
 * FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASPLOS 20 [[Paper]](https://ceca.pku.edu.cn/docs/20200915213803856105.pdf)
 * Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1809.04070.pdf)
+* Breaking the Computation and Communication Abstraction Barrier in Distributed Machine Learning Workloads, ASPLOS 22 [[Paper]](https://people.cs.umass.edu/~aabhinav/Publications/Breaking-the-Computation-and-Communication-Abstraction-Barrier-in-Distributed-Machine-Learning-Workloads-ASPLOS22.pdf)
+* AStitch: Enabling a New Multi-dimensional Optimization Space for Memory-Intensive ML Training and Inference on Modern SIMT Architectures, ASPLOS 22 [[Paper]](https://pacman.cs.tsinghua.edu.cn/~zjd/publication/asplos-22-zhenzheng/asplos-22-zhenzheng.pdf)
+* SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2207.04606.pdf)
+* Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582061)
+* Graphene: An IR for Optimized Tensor Computations on GPUs, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3582016.3582018)
+
 
 ### Others
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf)
@@ -1119,7 +1155,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Alexa, Stop Spying on Me!: Speech Privacy Protection Against Voice Assistants, SenSys 20 [[Paper]](http://xyzhang.ucsd.edu/papers/KSun_SenSys20_MicShield.pdf)
 * SLoRa: Towards Secure LoRa Communications with Fine-grained Physical Layer Features, SenSys 20 [[Paper]](https://soar.group/pubs/SLoRa.SenSys20.pdf)
 * Spying with Your Robot Vacuum Cleaner: Eavesdropping via LIDAR Sensors, SenSys 20 [[Paper]](https://www.cs.umd.edu/~nirupam/images/2_publication/papers/LidarPhone_SenSys20_nirupam.pdf)
-* Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX, MobiCom 19 [[Paper]](https://soar.group/pubs/Occlumency.MobiCom19.pdf)
 * Taprint: Secure Text Input for Commodity Smart Wristbands, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300124)
 * Canceling Inaudible Voice Commands Against Voice Control Systems, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345429)
 * SpecEye: Towards Pervasive and Privacy-Preserving Screen Exposure Detection in Daily Life, MobiSys 19 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2019a.pdf)
@@ -1187,6 +1222,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Addra: Metadata-private voice communication over fully untrusted infrastructure, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-ahmad.pdf) (NO ML)
 * DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints, ASPLOS 20 [[Paper]](https://seal.ece.ucsb.edu/sites/default/files/publications/clean_project_asplos_cr_xing_3.pdf)
 * Game of Threads: Enabling Asynchronous Poisoning Attacks, ASPLOS 20 [[Paper]](https://rp8.web.engr.illinois.edu/papers/apa-asplos2020.pdf)
+* Protecting Adaptive Sampling from Information Leakage on Low-Power Sensors, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507775)
 
 
 
@@ -1364,6 +1400,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf)
 * SVE: Distributed Video Processing at Facebook Scale, SOSP 17 [[Paper]](https://www.cs.princeton.edu/~wlloyd/papers/sve-sosp17.pdf) (NO ML)
 * Nexus: a GPU cluster engine for accelerating DNN-based video analysis, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359658)
+* Warehouse-Scale Video Acceleration: Co-design and Deployment in the Wild, ASPLOS 21 [[Paper]](https://gwern.net/doc/cs/hardware/2021-ranganathan.pdf) (NO ML)
 
 
 
@@ -1525,6 +1562,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Application-Layer Clock Synchronization for Wearables Using Skin Electric Potentials Induced by Powerline Radiation, SenSys 17 [[Paper]](https://arxiv.org/pdf/1709.08296.pdf) (NO ML)
 * Fall-curve: A novel primitive for IoT Fault Detection and Isolation, SenSys 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Camera_Ready__FaultTolerance_SenSys18.pdf)
 * SPRIGHT: Extracting the Server from Serverless Computing! High-performance eBPF-based Event-driven, Shared-memory Processing, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544259) (NO ML)
+* LEGO: Empowering Chip-Level Functionality Plug-and-Play for Next-Generation IoT Devices, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582050) (NO ML)
+
 
 
 
