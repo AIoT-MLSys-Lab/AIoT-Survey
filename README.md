@@ -69,7 +69,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Motion Sensing
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (Best paper runner-up) 
-* Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)			
+* Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors,	MobiSys	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326109)
 * SenseHAR: a robust virtual activity sensor for smartphones and wearables,	SenSys	19	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032)			
 * Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391)
 * Closing the Gaps in Inertial Motion Tracking, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/muse-mobicom18.pdf)
@@ -437,6 +437,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131675)
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
 * Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16
+* Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)
 		
 #### Inference Optimization and Acceleration
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference,	MobiCom	22	[[Paper]](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf)	
@@ -466,6 +467,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DrGPUM: Guiding Memory Optimization for GPU-Accelerated Applications, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3582016.3582044)
 * Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
 * DefT: Boosting Scalability of Deformable Convolution Operations on GPUs, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3582016.3582017)
+* Cavs: An Efficient Runtime System for Dynamic Neural Networks, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-xu-shizhen.pdf)
+* DeepCPU: Serving RNN-based Deep Learning Models 10x Faster, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
+* Optimizing CNN Model Inference on CPUs, ATC 19 [[Paper]](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf)
+* PetS: A Unified Framework for Parameter-Efficient Transformers Serving, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf)
 
 
 
@@ -499,6 +504,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
 * DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
 * POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
+* NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-bateni.pdf)
 
 
 #### Cross-Processor Inference
@@ -513,6 +519,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Lane.IPSN2016-Camera.pdf)
 * PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
 * APUNet: Revitalizing GPU as Packet Processing Accelerator, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-go.pdf)
+* ZeRO-Offload: Democratizing Billion-Scale Model Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-ren-jie.pdf)
 
 #### Privacy-Preserving Inference
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
@@ -528,11 +535,12 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision, SEC 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
-* Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)	
 * LiteFlow: Towards High-performance Adaptive Neural Networks for Kernel Datapath, SIGCOMM 22 [[Paper]](https://hongzhangblaze.github.io/assets/pdf/liteflow.pdf)
 * Sol: Fast Distributed Computation Over Slow Networks, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-lai.pdf)	
 * GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs, OSDI 21 [[paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
 * Ray: A Distributed Framework for Emerging AI Applications, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-moritz.pdf)	
+* ALERT: Accurate Learning for Energy and Timeliness, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-wan.pdf)
+* INFaaS: Automated Model-less Inference Serving, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-romero.pdf)
 		
 #### Benchmarks
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
@@ -550,6 +558,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices,	SenSys	20	[[Paper]](https://taogu.site/pub/paper/Paper_3_SenSys_2020.pdf)	
 * Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)		
 * Marius: Learning Massive Graph Embeddings on a Single Machine, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-mohoney.pdf)	
+* MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks, EuroSys 23 [[Paper]](https://arxiv.org/pdf/2202.02365.pdf)
 
 #### Training on Distributed Devices
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
@@ -569,12 +578,19 @@ Majority of the included papers are published at top-tier venues in the areas of
 #### Clsuter/Dataceter (Working)
 -training
 * RecShard: Statistical Feature-Based Memory Optimization for Industry-Scale Neural Recommendation, ASPLOS 22 [[Paper]](https://arxiv.org/pdf/2201.10095.pdf)
+* Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters, ATC 17 [[Paper]](https://www.usenix.org/system/files/conference/atc17/atc17-zhang.pdf)
+* Zico: Efficient GPU Memory Sharing for Concurrent DNN Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-lim.pdf)
 
 
 ##### Pipeline Parallelism
 * PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-bai.pdf)
 * PipeDream: generalized pipeline parallelism for DNN training, SOSP 19 [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
 * NASPipe: High Performance and Reproducible Pipeline Parallel Supernet Training via Causal Synchronous Parallelism, ASPLOS 22 [[Paper]](https://i.cs.hku.hk/~heming/papers/asplos22-naspipe.pdf)
+* HetPipe: Enabling Large DNN Training on (Whimpy) Heterogeneous GPU Clusters through Integration of Pipelined Model Parallelism and Data Parallelism, ATC 20 [[Paper]](https://www.usenix.org/conference/atc20/presentation/park)
+* Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-eliad.pdf)
+* Varuna: Scalable, Low-cost Training of Massive Deep Learning Models, EuroSys 22 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519584)
+
+
 
 
 -inference
@@ -618,6 +634,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Billion-scale federated learning on mobile clients: a submodel design with tunable privacy, MobiCom 20	[[Paper]](https://www.cs.sjtu.edu.cn/~fwu/res/Paper/NWTHJLWC20MobiCom.pdf)	
 * Towards Federated Learning at Scale: System Design, MLSys 19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)		
 * FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-junxue.pdf)
+* REFL: Resource-Efficient Federated Learning, EuroSys 23 [[Paper]](https://arxiv.org/pdf/2111.01108.pdf)
 
 #### Benchmarks
 * FedAIoT:
@@ -665,7 +682,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Neural Architecture Search as Program Transformation Exploration, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2102.06599.pdf)
 * Analytical Characterization and Design Space Exploration for Optimization of CNNs, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2101.09808.pdf)
 * Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
-* Homunculus: Auto-Generating Efficient Data-Plane ML Pipelines for Datacenter Networks, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2206.05592.pdf)\
+* Homunculus: Auto-Generating Efficient Data-Plane ML Pipelines for Datacenter Networks, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2206.05592.pdf)
+* Model Governance: Reducing the Anarchy of Production ML, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-sridhar.pdf)
 
 														
 ### Compiler for AIoT							
@@ -701,6 +719,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-yao.pdf)
 * DeepXplore: Automated Whitebox Testing of Deep Learning Systems, SOSP 17 [[Paper]](https://arxiv.org/pdf/1705.06640.pdf)
 * AutoTM: Automatic Tensor Movement in Heterogeneous Memory Systems using Integer Linear Programming, ASPLOS 20 [[Paper]](https://arch.cs.ucdavis.edu/assets/papers/asplos20-autotm.pdf)
+* Daydream: Accurately Estimating the Efficacy of Optimizations for DNN Training, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-zhu-hongyu.pdf)
+* Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-lee.pdf)
 
 					
 	
@@ -1064,6 +1084,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Pushing the Physical Limits of IoT Devices with Programmable Metasurfaces, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-chen.pdf)
 * In-Network Velocity Control of Industrial Robot Arms, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-laki.pdf) (NO ML) (programmable data plane)
 * DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-sentosa.pdf) (NO ML)
+* Retwork: Exploring Reader Network with COTS RFID Systems, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-liu-jia_0.pdf) (NO ML)
 
 
 
@@ -1112,7 +1133,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * 3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers, ASPLSO 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3093336.3037752)
 * A Reconfigurable Energy Storage Architecture for Energy-harvesting Devices, ASPLOS 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173162.3173210) (NO ML) (Best Paper)
 * Exploiting Dynamic Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications, ASPLOS 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173162.3173188) (NO ML)
-* Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Computation, ASPLOS 20 [[Paper]](http://static1.1.sqspcdn.com/static/f/543048/28298008/1589332628693/TotalRecall_ASPLOS_20.pdf?token=GUkHuGChPYlmVxkfevC9PmHxUSk%3D)
+* Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Comphttps://dl.acm.org/doi/pdf/10.1145/3552326.3587435utation, ASPLOS 20 [[Paper]](http://static1.1.sqspcdn.com/static/f/543048/28298008/1589332628693/TotalRecall_ASPLOS_20.pdf?token=GUkHuGChPYlmVxkfevC9PmHxUSk%3D)
+* Efficient and Safe I/O Operations for Intermittent Systems, EuroSys 23 [[Paper]]()
 
 
 
@@ -1223,6 +1245,9 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints, ASPLOS 20 [[Paper]](https://seal.ece.ucsb.edu/sites/default/files/publications/clean_project_asplos_cr_xing_3.pdf)
 * Game of Threads: Enabling Asynchronous Poisoning Attacks, ASPLOS 20 [[Paper]](https://rp8.web.engr.illinois.edu/papers/apa-asplos2020.pdf)
 * Protecting Adaptive Sampling from Information Leakage on Low-Power Sensors, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507775)
+* Soteria: Automated IoT Safety and Security Analysis, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) (NO ML)
+
+
 
 
 
@@ -1401,6 +1426,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SVE: Distributed Video Processing at Facebook Scale, SOSP 17 [[Paper]](https://www.cs.princeton.edu/~wlloyd/papers/sve-sosp17.pdf) (NO ML)
 * Nexus: a GPU cluster engine for accelerating DNN-based video analysis, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359658)
 * Warehouse-Scale Video Acceleration: Co-design and Deployment in the Wild, ASPLOS 21 [[Paper]](https://gwern.net/doc/cs/hardware/2021-ranganathan.pdf) (NO ML)
+* Popularity Prediction of Facebook Videos for Higher Quality Streaming, ATC 17 [[Paper]](https://www.usenix.org/system/files/conference/atc17/atc17-tang.pdf)
+* VideoChef: Efficient Approximation for Streaming Video Processing Pipelines, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-xu-ran.pdf)
+* Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-meng.pdf)
+* LiteReconfig: Cost and Content Aware Reconfiguration of Video Object Detection Systems for Mobile GPUs, EuroSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577)
 
 
 
@@ -1563,6 +1592,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Fall-curve: A novel primitive for IoT Fault Detection and Isolation, SenSys 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Camera_Ready__FaultTolerance_SenSys18.pdf)
 * SPRIGHT: Extracting the Server from Serverless Computing! High-performance eBPF-based Event-driven, Shared-memory Processing, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544259) (NO ML)
 * LEGO: Empowering Chip-Level Functionality Plug-and-Play for Next-Generation IoT Devices, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582050) (NO ML)
+* Beam: Ending Monolithic Applications for Connected Devices, ATC 16 [[Paper]](https://www.usenix.org/system/files/conference/atc16/atc16_paper-shen.pdf) (NO ML)
+* DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-chae.pdf) (NO ML)
+* EdgEWisE: A Better Stream Processing Engine for the Edge, ATC 19 [[Paper]](https://www.usenix.org/system/files/atc19-fu.pdf)
+* DART: A Scalable and Adaptive Edge Stream Processing Engine, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-liu.pdf)
 
 
 
