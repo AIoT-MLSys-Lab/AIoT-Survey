@@ -453,6 +453,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
 * BLAS-on-flash: An Efficient Alternative for Large Scale ML Training and Inference?, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-subramanya.pdf)
+* PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-wang-haojie.pdf)
+* TASO: optimizing deep learning computation with automatic generation of graph substitutions, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359630)
 
 
 #### Multi-Tenant Inference	
@@ -494,7 +496,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)	
 * LiteFlow: Towards High-performance Adaptive Neural Networks for Kernel Datapath, SIGCOMM 22 [[Paper]](https://hongzhangblaze.github.io/assets/pdf/liteflow.pdf)
-* Sol: Fast Distributed Computation Over Slow Networks, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-lai.pdf)		
+* Sol: Fast Distributed Computation Over Slow Networks, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-lai.pdf)	
+* GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs, OSDI 21 [[paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
+* Ray: A Distributed Framework for Emerging AI Applications, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-moritz.pdf)	
 		
 #### Benchmarks
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
@@ -510,7 +514,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Memory-Efficient Domain Incremental Learning for Internet of Things,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)	
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices,	SenSys	20	[[Paper]](https://taogu.site/pub/paper/Paper_3_SenSys_2020.pdf)	
-* Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)			
+* Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)		
+* Marius: Learning Massive Graph Embeddings on a Single Machine, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-mohoney.pdf)	
 
 #### Training on Distributed Devices
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
@@ -518,8 +523,34 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Multi-Resource Interleaving for Deep Learning Training, SIGCOMM 22 [[Paper]](https://xinjin.github.io/files/SIGCOMM22_Muri.pdf)
 * TuX2: Distributed Graph Computation for Machine Learning, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-xiao.pdf)
 * Scaling Distributed Machine Learning with In-Network Aggregation, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-sapio.pdf)
+* ARK: GPU-driven Code Execution for Distributed Deep Learning, NSDI 23 [[Paper]]()
+* Ekko: A Large-Scale Deep Learning Recommender System with Low-Latency Model Update, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-sima.pdf)
+* A generic communication scheduler for distributed DNN training acceleration, SOSP 19 [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf)
+* Gradient Compression Supercharged High-Performance Data Parallel DNN Training, SOSP 21 [[Paper]](https://www.ruichuan.org/papers/hipress-sosp21.pdf)
+
+
+#### Clsuter/Dataceter
+* Privacy Budget Scheduling, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-luo.pdf)
+* Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-mohan.pdf)
+* Retiarii: A Deep Learning Exploratory-Training Framework, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-zhang_quanlu.pdf)
+* AntMan: Dynamic Scaling on GPU Clusters for Deep Learning, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-xiao.pdf)
+* HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-zhao_hanyu.pdf)
+* Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf)
+* Gandiva: Introspective Cluster Scheduling for Deep Learning, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
+
+##### Pipeline
+* PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-bai.pdf)
+* PipeDream: generalized pipeline parallelism for DNN training, SOSP 19 [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
+
+
+
+
+
+##### GNN 
 * BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-hwang.pdf)
-* ARK: GPU-driven Code Execution for Distributed Deep Learning
+* P3: Distributed Deep Graph Learning at Scale, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-gandhi.pdf)
+* KungFu: Making Training in Distributed Machine Learning Adaptive, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-mai.pdf) (Also Adaptation)
+
 
 #### Federated Learning for AIoT	
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
@@ -569,6 +600,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586970)
+* Serving DNNs like Clockwork: Performance Predictability from the Bottom Up, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-gujarati.pdf)
+* Parity models: erasure-coded resilience for prediction serving systems, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359654)
 																				
 ### Automated Machine Learning for AIoT														
 * Towards the Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
@@ -591,10 +624,16 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
 * JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-jeong.pdf)
+* Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-yildiz.pdf)
+* A Tensor Compiler for Unified Machine Learning Prediction Serving, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-nakandala.pdf)
+* PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-lee.pdf)
+* TensorFlow: A System for Large-Scale Machine Learning, OSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 
 ### Others
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf)
 * Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-you.pdf)
+* DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-yao.pdf)
+* DeepXplore: Automated Whitebox Testing of Deep Learning Systems, SOSP 17 [[Paper]](https://arxiv.org/pdf/1705.06640.pdf)
 
 					
 	
@@ -999,6 +1038,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Interpreting Deep Learning-Based Networking Systems, SIGCOMM 20 [[Paper]](https://arxiv.org/pdf/1910.03835.pdf)
 * Bootstrapping Battery-free Wireless Networks: Efficient Neighbor Discovery and Synchronization in the Face of Intermittency, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-geissdoerfer.pdf) (NO ML)
 * Learning to Communicate Effectively Between Battery-free Devices, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-geissdoerfer.pdf)
+* Adaptive Dynamic Checkpointing for Safe Efficient Intermittent Computing, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-maeng.pdf)
+* Intermittent Computation without Hardware Support or Programmer Intervention, OSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/osdi16/osdi16-van-der-woude.pdf)
 
 
 
@@ -1106,6 +1147,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-liu-zikun.pdf)
 * LOCA: A Location-Oblivious Cellular Architecture, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-luo.pdf) (NO ML)
 * CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-tan.pdf) (NO ML)
+* Addra: Metadata-private voice communication over fully untrusted infrastructure, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-ahmad.pdf) (NO ML)
 
 
 
@@ -1281,6 +1323,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Tambur: Efficient loss recovery for videoconferencing via streaming codes, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-rudow.pdf)
 * Boggart: Towards General-Purpose Acceleration of Retrospective Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-agarwal-neil.pdf)
 * RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf)
+* SVE: Distributed Video Processing at Facebook Scale, SOSP 17 [[Paper]](https://www.cs.princeton.edu/~wlloyd/papers/sve-sosp17.pdf) (NO ML)
+* Nexus: a GPU cluster engine for accelerating DNN-based video analysis, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359658)
 
 
 
