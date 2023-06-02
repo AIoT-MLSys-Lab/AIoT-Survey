@@ -89,10 +89,14 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Thermotag: item-level temperature sensing with a passive RFID tag, MobiSys 21 [[Paper]](https://cs.nju.edu.cn/liujia/papers/mobisys21-themotag.pdf)
 * RFGo: A Seamless Self-checkout System for Apparel Stores Using RFID, MobiCom 20 [[Paper]](https://genesys-lab.org/papers/RFGo-Mobicom.pdf)
 * Exploring commodity RFID for contactless sub-millimeter vibration sensing, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430771) (NO ML)
+* Eingerprint: Robust Energy-related Fingerprinting for Passive RFID Tags, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf) (NO ML)
+* Food and Liquid Sensing in Practical Environments using RFIDs, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ha.pdf)
 * Sensing Finger Input Using An RFID Transmission Line, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430712) (NO ML)
 * RTSense: RFID based Temperature Sensing, SenSys 20 [[Paper]](https://www.swadhinpradhan.com/papers/rtsense.pdf) (NO ML)
 * 3D-OmniTrack: 3D Tracking with COTS RFID Systems, IPSN 19 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2019.4.pdf) (NO ML)
 * Are RFID Sensing Systems Ready for the Real World?, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326084)
+* RFID based real-time recognition of ongoing gesture with adversarial learning, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360045)
+* Pushing the Range Limits of Commercial Passive RFIDs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-wang-jingxian.pdf)
 * Detecting Misplaced RFID Tags on Static Shelved Items, MobiSys 19 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2019/luo-mobisys19.pdf)
 * FaHo: deep learning enhanced holographic localization for RFID tags, SenSys 19 [[Paper]](https://dapowan.github.io/files/FaHo.pdf)	
 * Tagtag: material sensing with commodity RFID, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360027)
@@ -108,15 +112,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * The Design and Implementation of a Mobile RFID Tag Sorting Robot, MobiSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1493115/1/mobitagbot_for_rps.pdf) (NO ML)
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569)
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
-* RFID based real-time recognition of ongoing gesture with adversarial learning, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360045)
-* RFusion: Robotic Grasping via RF-Visual Sensing and Learning, SenSys 21 [[Paper]](https://www.mit.edu/~fadel/papers/RFusion-paper.pdf)
-* Pushing the Range Limits of Commercial Passive RFIDs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-wang-jingxian.pdf)
-* Eingerprint: Robust Energy-related Fingerprinting for Passive RFID Tags, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf) (NO ML)
-* Food and Liquid Sensing in Practical Environments using RFIDs, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ha.pdf)
-* Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968)
-
-
-
 
 #### Wi-Fi Sensing
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO ML)
@@ -286,6 +281,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf)
 											
 ### Vision Sensing		
+* Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968)
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf)
 * MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560537) (NO ML)
 * DoCam: Depth Sensing with an Optical Image Stabilization Supported RGB Camera, MobiCom 22 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/assets/publications/mobicom22_pan.pdf)
@@ -347,6 +343,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking,	MobiCom	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483263)			
 * RFID and camera fusion for recognition of human-object interactions, MobiCom	21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483244)			
 * Low-latency speculative inference on distributed multi-modal data streams,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467884)
+* RFusion: Robotic Grasping via RF-Visual Sensing and Learning, SenSys 21 [[Paper]](https://www.mit.edu/~fadel/papers/RFusion-paper.pdf)
 * ITrackU: tracking a pen-like instrument via UWB-IMU fusion, MobiSys 21 [[Paper]](https://faculty.cc.gatech.edu/~dhekne/itracku_mobisys2021.pdf) (NO ML)		
 * UltraSE: single-channel speech enhancement using ultrasound, MobiCom 21 [[Paper]](http://xyzhang.ucsd.edu/papers/Ke.Sun_MobiCom21_UltraSE.pdf)	
 * Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485945)
