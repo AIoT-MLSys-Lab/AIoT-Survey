@@ -30,6 +30,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Earables (Checked by MZ)](#erables)
     - [Acoustic Sensing (Checked by MZ)](#acoustic-sensing)
     - [Vision Sensing (Checked by MZ)](#vision-sensing)
+    - [Magentic Sensing] (#magnetic-sensing)
     - [Air-Water Sensing (Checked by MZ)](#air-water-sensing)
     - [Multi-Modal Sensing (Checked by MZ)](#multi-modal-sensing)
   - [Computing (Led by MZ)](#computing)
@@ -325,6 +326,12 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (NO ML)
 * LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](http://xyzhang.ucsd.edu/papers/CZhang_MobiCom16_LiTell.pdf) (NO ML)
 
+### Magentic Sensing
+* Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf)
+* MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://alansonsample.com/publications/docs/2021%20-%20MobiCom%20-%20MagX-%20Wearable,%20Untethered%20Hands%20Tracking%20with%20Passive%20Magnets.pdf) (using magnetic)
+* MagHacker: Eavesdropping on Stylus Pen Writing via Magnetic Sensing from Commodity Mobile Devices, MobiSys 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys20.pdf)
+* MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107)
+
 ### Air-Water Sensing
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773)
 
@@ -356,11 +363,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960)
 * Bringing IoT to Sports Analytics, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-gowda.pdf) (NO ML)
 
-### Magentic Sensing
-* Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf)
-* MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://alansonsample.com/publications/docs/2021%20-%20MobiCom%20-%20MagX-%20Wearable,%20Untethered%20Hands%20Tracking%20with%20Passive%20Magnets.pdf) (using magnetic)
-* MagHacker: Eavesdropping on Stylus Pen Writing via Magnetic Sensing from Commodity Mobile Devices, MobiSys 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys20.pdf)
-* MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107)
 
 ### GNSS
 * Extracting 3D Maps from Crowdsourced GNSS Skyview Data, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3345456) (NO ML)
