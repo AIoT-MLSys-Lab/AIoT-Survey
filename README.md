@@ -1,14 +1,14 @@
 # AIoT (Artificial Intelligence of Things): Survey, Seminars, Papers, Benchmarks, and Open-Source Resources.  
 
 ### ToDo (06/02/2023) 
-* Put each paper under one of the three categories: No ML (use digital signal processing techniques), ML (use conventional ML techniques, such as SVM), DL (use modern DL techniques).
+* Assign each paper to one of the three categories: No ML (use digital signal processing techniques), ML (use conventional ML techniques, such as SVM), DL (use modern DL techniques).
 * Add the link of the open source codes (e.g., github repo) if the paper has one.
 * If the paper involves publicly available datasets, add the link of the dataset.
 * [Paper] [Code] [Dataset]
 
 ### ToDo (05/09/2023) 
-* Keep adding papers into the list.
-* Put each papers under the correct category. Create new categories if the papers do not fit the current ones.
+* Add papers into the list.
+* Put each paper under the correct category. Create new categories if the papers do not fit the current ones.
 
 ## What is AIoT?
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
