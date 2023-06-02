@@ -1042,6 +1042,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 
 ## Power
+
+### Energy Harvesting
+
+### Intermittent Computing
+
 * An Energy Supervisor Architecture for Energy-Harvesting Applications, IPSN 22 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/saoda22altair.pdf)
 * DeepAuditor: Distributed Online Intrusion Detection System for IoT devices via Power Side-channel Auditing, IPSN 22 [[Paper]](https://arxiv.org/pdf/2106.12753.pdf)
 * RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) 
