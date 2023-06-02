@@ -73,7 +73,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SenseHAR: a robust virtual activity sensor for smartphones and wearables,	SenSys	19	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032)			
 * Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391)
 * Closing the Gaps in Inertial Motion Tracking, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/muse-mobicom18.pdf)
-* Multimodal deep learning for activity and context recognition, UbiComp 2018 [[Paper]]()
+* Multimodal deep learning for activity and context recognition, UbiComp 2018 [[Paper]](https://homepages.inf.ed.ac.uk/mmarina/papers/ubicomp18.pdf)
 * Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors, IPSN 17 [[Paper]](https://dl.acm.org/doi/10.1145/3055031.3055087)
 * Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (NO ML)
