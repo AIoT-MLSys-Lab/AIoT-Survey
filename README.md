@@ -999,8 +999,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Deaf-aid: mobile IoT communication exploiting stealthy speaker-to-gyroscope channel, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020c.pdf) (NO ML)
 * Chiron: Concurrent High Throughput Communication for IoT Devices, MobiSys 18 [[Paper]](https://cis.csuohio.edu/~chi/publication/li-2018-cch-3210240-3210346/li-2018-cch-3210240-3210346.pdf) (NO ML)
 * B2W2: N-Way Concurrent Communication for IoT Devices, SenSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2994551.2994561) (NO ML)
-
-
 * Messages Behind the Sound: Real-Time Hidden Acoustic Signal Capture with Smartphones, MobiCom 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/MobiCom2016.pdf) (NO ML)
 * Near-Ultrasound Communication for TV's 2nd Screen Services,  MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973774) (NO ML)
 * Proteus: a network service control platform for service evolution in a mobile software defined infrastructure, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973757) (NO ML)
@@ -1040,7 +1038,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Retwork: Exploring Reader Network with COTS RFID Systems, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-liu-jia_0.pdf) (NO ML)
 * Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110971) [[code]](https://github.com/lkh329/Supreme)
 * RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-xinyi.pdf) (NO ML)
-
 
 
 ## Power
@@ -1088,9 +1085,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Exploiting Dynamic Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications, ASPLOS 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173162.3173188) (NO ML)
 * Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Comphttps://dl.acm.org/doi/pdf/10.1145/3552326.3587435utation, ASPLOS 20 [[Paper]](http://static1.1.sqspcdn.com/static/f/543048/28298008/1589332628693/TotalRecall_ASPLOS_20.pdf?token=GUkHuGChPYlmVxkfevC9PmHxUSk%3D)
 * Efficient and Safe I/O Operations for Intermittent Systems, EuroSys 23 [[Paper]]()
-
-
-
 
 
 ## Security and Privacy	
@@ -1191,14 +1185,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Protecting Adaptive Sampling from Information Leakage on Low-Power Sensors, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507775)
 * Soteria: Automated IoT Safety and Security Analysis, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) (NO ML)
 
-
-
 ### Key
 * Pairing IoT Devices with Spatial Keys, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a159/962400a159.pdf) (NO ML)
 * i^2Key: A Cross-sensor Symmetric Key Generation System using Inertial Measurements and Inaudible Sound, IPSN 21 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a171/962400a171.pdf) (NO ML)
 * H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration, IPSN 19 [[Paper]](https://arxiv.org/pdf/1904.00750.pdf)
-
-
 
 ### Encryption
 * Encrypted cloud photo storage using Google photos, MobiSys 21 [[Paper]](https://www.cs.columbia.edu/~nieh/pubs/mobisys2021_esp.pdf) (NO ML)
@@ -1209,13 +1199,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * TimeCrypt: Encrypted Data Stream Processing at Scale with Cryptographic Access Control, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-burkhalter.pdf)
 * Client-optimized algorithms and acceleration for encrypted compute offloading	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)	
 
-
 ### Spoofing/Sniffing
 * Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures, MobiCom 16 [[Paper]](https://lenders.ch/publications/conferences/mobicom16.pdf) (NO ML)
 * SPREE: A Spoofing Resistant GPS Receiver, MobiCom 16 [[Paper]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2016/spoof-detector.pdf) (NO ML)
 * Practical Bluetooth Traffic Sniffing: Systems and Privacy Implications, MobiSys 16 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/blueear16mobisys.pdf)
 * Keyboard Snooping from Mobile Phone Arrays with Mixed Convolutional and Recurrent Neural Networks, UbiComp 19 [[Paper]](https://s2.smu.edu/~eclarson/pubs/2019Keyboard.pdf)
-
 
 ### Authenticate
 * Secure and Authorized Client-to-Client Communication for LwM2M, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.03450.pdf) (NO ML)
@@ -1251,8 +1239,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Trust but Verify: Auditing the Secure Internet of Things, MobiSys 17 [[Paper]](https://people.csail.mit.edu/henrycg/files/academic/papers/mobisys17tlsrar.pdf) (NO ML)
 * Augmented Reality-based Mimicry Attacks on Behaviour-Based Smartphone Authentication, MobiSys 18 [[Paper]](https://cs.uwaterloo.ca/~uhengart/publications/mobisys18.pdf) (NO ML)
 * MagSnoop: Listening to Sounds Induced by Magnetic Field Fluctuations to Infer Mobile Payment Tokens, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538937)
-
-
 
 
 ## AIoT Systems and their Applications	
