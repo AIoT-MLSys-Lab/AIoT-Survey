@@ -479,6 +479,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeepCPU: Serving RNN-based Deep Learning Models 10x Faster, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
 * Optimizing CNN Model Inference on CPUs, ATC 19 [[Paper]](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf)
 * PetS: A Unified Framework for Parameter-Efficient Transformers Serving, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf)
+* Tahoe: Tree Structure-Aware High Performance Inference Engine for Decision Tree Ensemble on GPU, EuroSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447786.3456251)
 
 
 
@@ -1528,6 +1529,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-chae.pdf) (NO ML)
 * EdgEWisE: A Better Stream Processing Engine for the Edge, ATC 19 [[Paper]](https://www.usenix.org/system/files/atc19-fu.pdf)
 * DART: A Scalable and Adaptive Edge Stream Processing Engine, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-liu.pdf)
+* Home, SafeHome: Smart Home Reliability with Visibility and Atomicity, EuroSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447786.3456261) (NO ML)
 
 
 
