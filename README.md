@@ -3,12 +3,13 @@
 ### ToDo (06/02/2023) 
 * For each topic, pick the papers that are AI (including conventional ML and modern DL).
 * Add the link of the open source codes (e.g., github repo) if the paper has one.
-* Add datasets, benchmarks used by the papers.
+* If the paper involves publicly available datasets, add the link of the dataset.
 * [Paper] [Code] [Dataset]
+* Put each paper under one of the three categories: No ML (no ML based methods used), ML (use conventional ML techniques, such as SVM), DL (use modern DL techniques)
 
 ### ToDo (05/09/2023) 
 * Keep adding papers into the list.
-* Put the papers under their correct categories. Create new categories if the papers do not fit the current ones.
+* Put each papers under the correct category. Create new categories if the papers do not fit the current ones.
 
 ## What is AIoT?
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
