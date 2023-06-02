@@ -30,6 +30,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Earables (DONE)](#erables)
     - [Acoustic Sensing (DONE)](#acoustic-sensing)
     - [Vision Sensing (DONE)](#vision-sensing)
+    - [Light Sensing (DONE)](#light-sensing)
     - [Magentic Sensing (DONE)](#magnetic-sensing)
     - [Air-Water Sensing (DONE)](#air-water-sensing)
     - [Multi-Modal Sensing (DONE)](#multi-modal-sensing)
@@ -158,7 +159,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * RF-based 3D skeletons, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230579)
 * RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition,	SenSys	20 [[Paper]](https://arxiv.org/pdf/2111.04566.pdf)		
 
-
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
 * Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (NO ML)
@@ -179,8 +179,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852)
 * mmVib: micrometer-level vibration measurement with mmwave radar, MobiCom 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf)
 * Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "Phase Carriers", IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586965) (NO ML)
-
-
 
 #### TeraHertz Sensing
 * Quasi-Optical 3D localization using Asymmetric Signatures above 100 GHz, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517022) (NO ML)
