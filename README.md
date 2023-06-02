@@ -1,5 +1,8 @@
 # AIoT (Artificial Intelligence of Things): Survey, Seminars, Papers, Benchmarks, and Open-Source Resources.  
 
+### ToDo (06/02/2023) 
+* For each topic, pick the papers that are AI (including conventional ML and modern DL).
+
 ### ToDo (05/09/2023) 
 * Keep adding papers into the list.
 * Put the papers under their correct categories. Create new categories if the papers do not fit the current ones.
