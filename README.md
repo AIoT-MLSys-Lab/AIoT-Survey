@@ -68,6 +68,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ## Sensing
 
 ### Motion Sensing
+* Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548)
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (Best paper runner-up) 
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors, MobiSys 19 [[Paper]](https://yangliu-cs.github.io/YangLiu-CS/paper/2019-MobiSys-ArmTroi.pdf)
 * SenseHAR: a robust virtual activity sensor for smartphones and wearables,	SenSys	19	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032)			
@@ -77,13 +78,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors, IPSN 17 [[Paper]](https://dl.acm.org/doi/10.1145/3055031.3055087)
 * Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (NO ML)
-* Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548)
-* Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968)
-* RF-based 3D skeletons, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230579)
-* RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition,	SenSys	20 [[Paper]](https://arxiv.org/pdf/2111.04566.pdf)		
-
-
-
 
 ### Wireless Sensing
 
@@ -118,6 +112,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Pushing the Range Limits of Commercial Passive RFIDs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-wang-jingxian.pdf)
 * Eingerprint: Robust Energy-related Fingerprinting for Passive RFID Tags, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf) (NO ML)
 * Food and Liquid Sensing in Practical Environments using RFIDs, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ha.pdf)
+* Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968)
 
 
 
@@ -164,6 +159,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf) (NO ML)
 * LocAP: Autonomous Millimeter Accurate Mapping of WiFi Infrastructure, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ayyalasomayajula.pdf) (NO ML)
 * WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-gupta.pdf)
+* RF-based 3D skeletons, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230579)
+* RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition,	SenSys	20 [[Paper]](https://arxiv.org/pdf/2111.04566.pdf)		
 
 
 #### mmWave Sensing
