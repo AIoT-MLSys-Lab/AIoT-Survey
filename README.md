@@ -4,6 +4,7 @@
 * For each topic, pick the papers that are AI (including conventional ML and modern DL).
 * Add the link of the open source codes (e.g., github repo) if the paper has one.
 * Add datasets, benchmarks used by the papers.
+* [Paper] [Code] [Dataset]
 
 ### ToDo (05/09/2023) 
 * Keep adding papers into the list.
