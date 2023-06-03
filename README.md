@@ -5,6 +5,7 @@
 * Add the link of the open source codes (e.g., github repo) if the paper has one.
 * If the paper involves publicly available datasets, add the link of the dataset.
 * [Paper] [Code] [Dataset]
+* An example: https://anrg.usc.edu/SensorNetBib.html
 
 ### ToDo (05/09/2023) 
 * Add papers into the list.
