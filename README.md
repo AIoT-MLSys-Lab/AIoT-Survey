@@ -229,7 +229,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ERICA: Enabling Real-time Mistake Detection & Corrective Feedback for Free-Weights Exercises, SenSys 20 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6897&context=sis_research) (ML)
 * eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User's Ear, MobiCom 19 [[Paper]](https://par.nsf.gov/servlets/purl/10303241) (Best Paper) (NO ML)
 * TYTH-Typing On Your Teeth: Tongue-Teeth Localization for Human-Computer Interface, MobiSys 18 [[Paper]](http://mnslab.org/tamvu/paper/2018%20TYTH_Phuc.pdf) (ML)
-* MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (NO ML)
+* MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (ML)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML)
 
 ### Acoustic Sensing							
