@@ -215,7 +215,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Earables
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314) (DL)
-* FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones, IPSN 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn22.pdf) (DL) [[Dataset]](https://developers.google.com/mediapipe) [[Dataset]](https://github.com/muxspace/facial_expressions)
+* FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones, IPSN 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn22.pdf) [[Dataset]](https://developers.google.com/mediapipe) [[Dataset]](https://github.com/muxspace/facial_expressions) (DL)
 * ClearBuds: wireless binaural earbuds for learning-based speech enhancement, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538933) (DL)
 * EarGate: Gait-based User Identification with In-ear Microphones, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483240) (DL)
 * BioFace-3D: Continuous 3D Facial Reconstruction Through Lightweight Single-ear Biosensors, MobiCom 21 [[Paper]](http://wsslab.org/vpnguyen/papers/bioface_2021.pdf) (DL)
