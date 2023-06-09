@@ -1129,7 +1129,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * CardioCam: Leveraging Camera on Mobile Devices to Verify Users While Their Heart is Pumping, MobiSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/CardioCam.pdf)
 * Moving target defense for embedded deep visual sensing against adversarial examples, SenSys 19 [[Paper]](https://personal.ntu.edu.sg/tanrui/pub/deepMTD.pdf) 
 * Brain Password: A Secure and Truly Cancelable Brain Biometrics for Smart Headwear, MobiSys 18 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys18.pdf) (NO ML)
-* Detecting Wireless Spy Cameras Via Stimulating and Probing, MobiSys 18 [[Paper]](http://ceca.pku.edu.cn/docs/20180808121558901898.pdf)
 * ShieldScatter: Improving IoT Security with Backscatter Assistance, SenSys 18 [[Paper]](https://arxiv.org/pdf/1810.07058.pdf)
 * Hidebehind: Enjoy Voice Input with Voiceprint Unclonability and Anonymity, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274855)
 * E-Eye: Hidden Electronics Recognition through mmWave Nonlinear Effects, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274833) (NO ML) (Best paper runner-up awards)
