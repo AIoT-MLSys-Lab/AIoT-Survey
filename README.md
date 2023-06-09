@@ -2,11 +2,16 @@
 
 ### ToDo (06/02/2023) 
 * Assign each paper to one of the three categories: No ML (use digital signal processing techniques), ML (use conventional ML techniques, such as SVM), DL (use modern DL techniques).
+* Add numbers of papers for each category. An example: https://anrg.usc.edu/SensorNetBib.html
 * Add the link of the open source codes (e.g., github repo) if the paper has one.
 * If the paper involves publicly available datasets, add the link of the dataset.
-* [Paper] [Code] [Dataset]
-* An example: https://anrg.usc.edu/SensorNetBib.html
-* Hyunho: 12 topics: 3 Sensing, 3 Computing, 2 Netowrking, 2 Security, 2 Applications.
+* Use the following labels: [Paper] [Code] [Dataset]
+* Assignment:
+	* Hyunho: 12 topics: 3 Sensing, 3 Computing, 2 Netowrking, 2 Security, 2 Applications.
+	* Siam:
+	* Samiul:
+	* Marcus:
+	* Zhichao:
 
 ### ToDo (05/09/2023) 
 * Add papers into the list.
