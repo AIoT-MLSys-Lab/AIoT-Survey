@@ -6,6 +6,7 @@
 * If the paper involves publicly available datasets, add the link of the dataset.
 * [Paper] [Code] [Dataset]
 * An example: https://anrg.usc.edu/SensorNetBib.html
+* Hyunho: 12 topics: 3 Sensing, 3 Computing, 2 Netowrking, 2 Security, 2 Applications.
 
 ### ToDo (05/09/2023) 
 * Add papers into the list.
