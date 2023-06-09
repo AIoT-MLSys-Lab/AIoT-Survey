@@ -290,7 +290,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom 16 [[Paper]](https://wands.sg/team/pengfei/papers/MobiCom16-DopEnc.pdf) (NO ML)
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf)
 											
-### Vision Sensing		
+### Vision Sensing (25: 7/2/16)
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf) (DL)
 * MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560537) (NO ML)
