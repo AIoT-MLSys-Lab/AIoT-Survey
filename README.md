@@ -1327,7 +1327,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics, SigComm 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)
 * Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-feng-boyuan.pdf)
 * Video Analytics with Zero-streaming Cameras, ATC 21 [[Paper]](https://xumengwei.github.io/files/ATC-DIVA.pdf)
-* Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention)
 * Flexible High-resolution Object Detection on Edge Devices with Tunable Latency, MobiCom 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
 * Disk|Crypt|Net: rethinking the stack for high-performance video streaming, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098844) (NO ML)
 * Neural Adaptive Video Streaming with Pensieve, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098843)
