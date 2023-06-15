@@ -17,7 +17,7 @@
 ### ToDo (05/09/2023) 
 * Add papers into the list.
 * Put each paper under the correct category. Create new categories if the papers do not fit the current ones.
-
+ 
 ## What is AIoT?
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
 
