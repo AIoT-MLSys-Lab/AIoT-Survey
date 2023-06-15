@@ -1,5 +1,7 @@
 # AIoT (Artificial Intelligence of Things): Survey, Seminars, Papers, Benchmarks, and Open-Source Resources.  
 
+### This is the backup version made on 06/15/2023
+
 ### ToDo (06/02/2023) 
 * Assign each paper to one of the three categories: No ML (use digital signal processing techniques), ML (use conventional ML techniques, such as SVM), DL (use modern DL techniques).
 * Add numbers of papers for each category. An example: https://anrg.usc.edu/SensorNetBib.html
