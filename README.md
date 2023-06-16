@@ -366,7 +366,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Indoor localization via multi-modal sensing on smartphones, UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668)	
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf)	
 
-
 ### GNSS
 * Extracting 3D Maps from Crowdsourced GNSS Skyview Data, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3345456) (NO ML)
 * SnapperGPS: Algorithms for Energy-Efficient Low-Cost Location Estimation Using GNSS Signal Snapshots, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485931) (NO ML)
@@ -375,9 +374,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 * Indoor Localization with Aircraft Signals, SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131698) (NO ML)
-
-
-
 	
 ### Others
 * FabToys: plush toys with large arrays of fabric-based pressure sensors to enable fine-grained interaction detection, MobiSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/FabToy-MobiSys22.pdf)
@@ -419,14 +415,12 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)
 * SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.01766.pdf)
 * Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
-
-
 					
 ## Computing							
 	
 ### On-Device Inference							
 
-#### Model Compression
+#### Model Compression (Total: X)
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://arxiv.org/abs/2201.11651)
 * PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning, ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378534)			
 * Memory-Driven Mixed Low Precision Quantization for Enabling Deep Network Inference on Microcontrollers, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9b8619251a19057cff70779273e95aa6-Paper.pdf)
@@ -440,7 +434,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
 * Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16 [[Paper]](https://arxiv.org/abs/1510.00149)
 		
-#### Inference Optimization and Acceleration
+#### Inference Optimization and Acceleration (Total: X)
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference,	MobiCom	22	[[Paper]](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf)	
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI	22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
@@ -474,10 +468,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * PetS: A Unified Framework for Parameter-Efficient Transformers Serving, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf)
 * Tahoe: Tree Structure-Aware High Performance Inference Engine for Decision Tree Ensemble on GPU, EuroSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447786.3456251)
 
-
-
-
-#### HW Accelerator
+#### HW Accelerator (Total: X)
 * Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators, ASPLOS 19 [[Paper]](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf)
 * FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture, ASPLOS 19 [[Paper]](https://arxiv.org/pdf/1901.09904.pdf)
 * PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference, ASPLOS 19 [[Paper]](https://arxiv.org/pdf/1901.10351.pdf)
@@ -491,10 +482,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * A Compiler Infrastructure for Accelerator Generators, ASPLOS 21 [[Paper]](https://www.cs.cornell.edu/~asampson/media/papers/calyx-asplos2021.pdf) (NO ML)
 * Accelerating Sparse Data Orchestration via Dynamic Reflexive Tiling, ASPLOS 23 [[Paper]](https://dspace.mit.edu/bitstream/handle/1721.1/150364/3582016.3582064.pdf?sequence=1&isAllowed=y)
 
-
-
-
-#### Multi-Tenant Inference	
+#### Multi-Tenant Inference (Total: X)	
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)		
 * YONO: Modeling Multiple Heterogeneous Neural Networks on Microcontrollers, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.03794.pdf)
@@ -508,8 +496,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
 * NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-bateni.pdf)
 
-
-#### Cross-Processor Inference
+#### Cross-Processor Inference (Total: X)
 * CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 22 [[Paper]](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)
 * Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
 * BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
@@ -523,7 +510,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * APUNet: Revitalizing GPU as Packet Processing Accelerator, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-go.pdf)
 * ZeRO-Offload: Democratizing Billion-Scale Model Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-ren-jie.pdf)
 
-#### Privacy-Preserving Inference
+#### Privacy-Preserving Inference (Total: X)
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
 * Shredder: Learning Noise Distributions to Protect Inference Privacy, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1905.11814.pdf)
 * Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX, MobiCom 19 [[Paper]](https://soar.group/pubs/Occlumency.MobiCom19.pdf)
@@ -531,7 +518,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Characterizing and Optimizing End-to-End Systems for Private Inference, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2207.07177.pdf)
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)	
 
-#### Adaptation
+#### Adaptation (Total: X)
 * Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 21	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
 * ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles, SenSys 20 [[Paper]](https://arxiv.org/pdf/2010.10754.pdf)
@@ -545,13 +532,13 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ALERT: Accurate Learning for Energy and Timeliness, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-wan.pdf)
 * INFaaS: Automated Model-less Inference Serving, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-romero.pdf)
 		
-#### Benchmarks
+#### Benchmarks (Total: 2)
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
 
 ### On-Device Training	
 
-#### Training on a Single Device
+#### Training on a Single Device (Total: X)
 * On-Device Training Under 256KB Memory, NeurIPS 22
 * Mandheling: mixed-precision on-device DNN training with DSP offloading,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
 * Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)
@@ -565,13 +552,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks, EuroSys 23 [[Paper]](https://arxiv.org/pdf/2202.02365.pdf)
 * DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern, UbiComp 19 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/deeptype_ubicomp19.pdf)
 
-
-#### Training on Distributed Devices
+#### Training on Distributed Devices (Total: 2)
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
 
-
-#### Federated Learning for AIoT	
+#### Federated Learning for AIoT (Total: 18)	
 * FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-junxue.pdf)
 * REFL: Resource-Efficient Federated Learning, EuroSys 23 [[Paper]](https://arxiv.org/pdf/2111.01108.pdf)
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
@@ -591,16 +576,14 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Billion-scale federated learning on mobile clients: a submodel design with tunable privacy, MobiCom 20	[[Paper]](https://www.cs.sjtu.edu.cn/~fwu/res/Paper/NWTHJLWC20MobiCom.pdf)	
 * Towards Federated Learning at Scale: System Design, MLSys 19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)		
 
-#### Benchmarks
-* FedAIoT:  Federated Learning Benchmark for Artificial Intelligence of Things
+#### Benchmarks (Total: 5)
+* FedAIoT: Federated Learning Benchmark for Artificial Intelligence of Things
 * FedMultimodal: A Benchmark for Multimodal Federated Learning, KDD 23
 * FedAudio: A Federated Learning Benchmark for Audio Tasks, ICASSP 23 [[Paper]](https://arxiv.org/pdf/2210.15707.pdf)
 * FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks, NACCL 22 [[Paper]](https://arxiv.org/pdf/2104.08815.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fednlp) 
 * FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks, Arxiv [[Paper]](https://arxiv.org/pdf/2111.11066.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fedcv)
 
- 
-
-### Edge-Cloud Offloading							
+### Edge-Cloud Offloading (Total: X)							
 * Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
 * Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI, MobiCom 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom22.pdf)		
 * Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom 21 [[Paper]](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)	
@@ -618,7 +601,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks, IPSN 23 [[Paper]](https://neawhen.github.io/neiwen.github.io/assets/pdf/coedge_ipsn23.pdf)
 * SwarmMap: Scaling Up Real-time Collaborative Visual SLAM at the Edge, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-xu_jingao.pdf) (NO ML)
 										
-### Model Deployment on the Edge
+### Model Deployment on the Edge (Total: X)
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586970)
@@ -626,7 +609,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Serving DNNs like Clockwork: Performance Predictability from the Bottom Up, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-gujarati.pdf)
 * Parity models: erasure-coded resilience for prediction serving systems, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359654)
 																				
-### Automated Machine Learning for AIoT														
+### Automated Machine Learning for AIoT (Total: X)														
 * Towards the Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers, MLSys 21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
 * nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices, MobiSys 21 [[Paper]](https://air.tsinghua.edu.cn/pdf/nn-Meter-Towards-Accurate-Latency-Prediction-of-Deep-Learning-Model-Inference-on-Diverse-Edge-Devices.pdf) (Best Paper)		
@@ -641,9 +624,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
 * Homunculus: Auto-Generating Efficient Data-Plane ML Pipelines for Datacenter Networks, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2206.05592.pdf)
 * Model Governance: Reducing the Anarchy of Production ML, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-sridhar.pdf)
-
 														
-### Compiler for AIoT							
+### Compiler for AIoT (Total: X)							
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf)	
 * The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)
 * ROLLER: Fast and Efficient Tensor Compilation for Deep Learning,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/zhu)			
@@ -668,7 +650,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2207.04606.pdf)
 * Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582061)
 * Graphene: An IR for Optimized Tensor Computations on GPUs, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3582016.3582018)
-
 
 ### Others
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf)
