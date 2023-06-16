@@ -575,6 +575,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 
 #### Federated Learning for AIoT	
+* FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-junxue.pdf)
+* REFL: Resource-Efficient Federated Learning, EuroSys 23 [[Paper]](https://arxiv.org/pdf/2111.01108.pdf)
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
 * BalanceFL: Addressing Class Imbalance in Long-tail Federated Learning, IPSN 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BalanceFL-IPSN22.pdf) [[code]](https://github.com/sxontheway/BalanceFL)
 * Papaya: Practical, Private, and Scalable Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
@@ -591,8 +593,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition, SenSys 21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)				
 * Billion-scale federated learning on mobile clients: a submodel design with tunable privacy, MobiCom 20	[[Paper]](https://www.cs.sjtu.edu.cn/~fwu/res/Paper/NWTHJLWC20MobiCom.pdf)	
 * Towards Federated Learning at Scale: System Design, MLSys 19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/193.pdf)		
-* FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-junxue.pdf)
-* REFL: Resource-Efficient Federated Learning, EuroSys 23 [[Paper]](https://arxiv.org/pdf/2111.01108.pdf)
 
 #### Benchmarks
 * FedAIoT:
