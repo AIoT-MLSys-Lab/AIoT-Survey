@@ -525,12 +525,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision, SEC 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
-* LiteFlow: Towards High-performance Adaptive Neural Networks for Kernel Datapath, SIGCOMM 22 [[Paper]](https://hongzhangblaze.github.io/assets/pdf/liteflow.pdf)
-* Sol: Fast Distributed Computation Over Slow Networks, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-lai.pdf)	
-* GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs, OSDI 21 [[paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
-* Ray: A Distributed Framework for Emerging AI Applications, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-moritz.pdf)	
-* ALERT: Accurate Learning for Energy and Timeliness, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-wan.pdf)
-* INFaaS: Automated Model-less Inference Serving, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-romero.pdf)
 		
 #### Benchmarks (Total: 2)
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
@@ -655,6 +649,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * AutoTM: Automatic Tensor Movement in Heterogeneous Memory Systems using Integer Linear Programming, ASPLOS 20 [[Paper]](https://arch.cs.ucdavis.edu/assets/papers/asplos20-autotm.pdf)
 * Daydream: Accurately Estimating the Efficacy of Optimizations for DNN Training, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-zhu-hongyu.pdf)
 * Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-lee.pdf)
+* Ray: A Distributed Framework for Emerging AI Applications, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-moritz.pdf)	
+* INFaaS: Automated Model-less Inference Serving, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-romero.pdf)
 
 					
 	
