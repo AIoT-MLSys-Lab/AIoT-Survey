@@ -449,12 +449,12 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)	
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
-* BLAS-on-flash: An Efficient Alternative for Large Scale ML Training and Inference?, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-subramanya.pdf)
+* DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
+
 * PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-wang-haojie.pdf)
 * TASO: optimizing deep learning computation with automatic generation of graph substitutions, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359630)
 * Optimizing CNNs on Multicores for Scalability, Performance and Goodput, ASPLOS 17 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/spg-cnn-asplos17.pdf)
 * MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects, ASPLOS 18 [[Paper]](https://anands09.github.io/papers/maeri_asplos2018.pdf)
-* VIBNN: Hardware Acceleration of Bayesian Neural Networks, ASPLOS 18 [[Paper]](https://arxiv.org/pdf/1802.00822.pdf)
 * Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization, ASPLOS 19 [[Paper]](http://www.eecs.harvard.edu/~htk/publication/2019-asplos-kung-mcdanel-zhang.pdf)
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/10.1145/3297858.3304038)
 * Capuchin: Tensor-based GPU Memory Management for Deep Learning, ASPLOS 20 [[Paper]](http://alchem.usc.edu/portal/static/download/capuchin.pdf)
@@ -468,7 +468,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Optimizing CNN Model Inference on CPUs, ATC 19 [[Paper]](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf)
 * PetS: A Unified Framework for Parameter-Efficient Transformers Serving, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf)
 * Tahoe: Tree Structure-Aware High Performance Inference Engine for Decision Tree Ensemble on GPU, EuroSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447786.3456251)
-* DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
 
 #### HW Accelerator (Total: X)
 * Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators, ASPLOS 19 [[Paper]](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf)
@@ -483,6 +482,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Statistical Robustness of Markov Chain Monte Carlo Accelerators, ASPLOS 21 [[Paper]](https://users.cs.duke.edu/~alvy/papers/robustness_asplos21.pdf)
 * A Compiler Infrastructure for Accelerator Generators, ASPLOS 21 [[Paper]](https://www.cs.cornell.edu/~asampson/media/papers/calyx-asplos2021.pdf) (NO ML)
 * Accelerating Sparse Data Orchestration via Dynamic Reflexive Tiling, ASPLOS 23 [[Paper]](https://dspace.mit.edu/bitstream/handle/1721.1/150364/3582016.3582064.pdf?sequence=1&isAllowed=y)
+* VIBNN: Hardware Acceleration of Bayesian Neural Networks, ASPLOS 18 [[Paper]](https://arxiv.org/pdf/1802.00822.pdf)
 
 #### Multi-Tenant Inference (Total: 11)	
 * POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
