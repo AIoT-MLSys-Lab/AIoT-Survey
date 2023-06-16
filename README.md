@@ -496,7 +496,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
 * MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
 
-#### Cross-Processor Inference (Total: X)
+#### Cross-Processor Inference (Total: 10)
+* PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
 * CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 22 [[Paper]](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)
 * Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
 * BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
@@ -506,9 +507,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 * Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading, MobiSys 17 [[Paper]](https://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf)
 * DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Lane.IPSN2016-Camera.pdf)
-* PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
-* APUNet: Revitalizing GPU as Packet Processing Accelerator, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-go.pdf)
-* ZeRO-Offload: Democratizing Billion-Scale Model Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-ren-jie.pdf)
 
 #### Privacy-Preserving Inference (Total: X)
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
