@@ -451,11 +451,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
 * DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
 
-* PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-wang-haojie.pdf)
-* Optimizing CNNs on Multicores for Scalability, Performance and Goodput, ASPLOS 17 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/spg-cnn-asplos17.pdf)
-* MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects, ASPLOS 18 [[Paper]](https://anands09.github.io/papers/maeri_asplos2018.pdf)
-* Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization, ASPLOS 19 [[Paper]](http://www.eecs.harvard.edu/~htk/publication/2019-asplos-kung-mcdanel-zhang.pdf)
-* Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/10.1145/3297858.3304038)
+
 * Capuchin: Tensor-based GPU Memory Management for Deep Learning, ASPLOS 20 [[Paper]](http://alchem.usc.edu/portal/static/download/capuchin.pdf)
 * A Hierarchical Neural Model of Data Prefetching, ASPLOS 21 [[Paper]](https://www.cs.utexas.edu/~lin/papers/asplos21.pdf)
 * GRACE: A Scalable Graph-Based Approach to Accelerating Recommendation Model Inference, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582029)
@@ -478,6 +474,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * A Compiler Infrastructure for Accelerator Generators, ASPLOS 21 [[Paper]](https://www.cs.cornell.edu/~asampson/media/papers/calyx-asplos2021.pdf) (NO ML)
 * Accelerating Sparse Data Orchestration via Dynamic Reflexive Tiling, ASPLOS 23 [[Paper]](https://dspace.mit.edu/bitstream/handle/1721.1/150364/3582016.3582064.pdf?sequence=1&isAllowed=y)
 * VIBNN: Hardware Acceleration of Bayesian Neural Networks, ASPLOS 18 [[Paper]](https://arxiv.org/pdf/1802.00822.pdf)
+* MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects, ASPLOS 18 [[Paper]](https://anands09.github.io/papers/maeri_asplos2018.pdf)
+* Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization, ASPLOS 19 [[Paper]](http://www.eecs.harvard.edu/~htk/publication/2019-asplos-kung-mcdanel-zhang.pdf)
 
 #### Multi-Tenant Inference (Total: 11)	
 * POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
@@ -525,7 +523,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### On-Device Training (Total: 34)
 
-#### Training on a Single Device (Total: 9)
+#### Training on a Single Device (Total: 10)
 * On-Device Training Under 256KB Memory, NeurIPS 22 [[Paper]](https://arxiv.org/abs/2206.15472)
 * Mandheling: mixed-precision on-device DNN training with DSP offloading,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
 * Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)
@@ -535,6 +533,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices,	SenSys	20	[[Paper]](https://taogu.site/pub/paper/Paper_3_SenSys_2020.pdf)	
 * Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)		
+* Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/10.1145/3297858.3304038)
 
 #### Training on Distributed Devices (Total: 2)
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
