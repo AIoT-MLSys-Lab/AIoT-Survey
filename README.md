@@ -58,7 +58,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [On-Device Training (DONE)](#on-device-training)
     	- [Training on a Single Device (DONE)](#training-on-a-single-device)
     	- [Training on Distributed Devices (DONE)](#training-on-distributed-devices)
-    	- [Federated Learning for AIoT (Samiul)](#federated-learning-for-aiot)
+    	- [Cross-Device Federated Learning (Samiul)](#federated-learning-for-aiot)
     	- [Benchmarks (Samiul)](#training-benchmarks)
     - [Offloading (DONE)](#offloading)
     - [Model Deployment on the Edge (Checked by MZ)](#model-deployment-on-the-edge)
@@ -545,7 +545,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
 
-#### Federated Learning for AIoT (Total: 18)	
+#### Cross-Device Federated Learning (Total: 18)	
 * FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-junxue.pdf)
 * REFL: Resource-Efficient Federated Learning, EuroSys 23 [[Paper]](https://arxiv.org/pdf/2111.01108.pdf)
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
