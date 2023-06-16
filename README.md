@@ -431,7 +431,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### On-Device Inference							
 
 #### Model Compression
-* Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf)
+* Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://arxiv.org/abs/2201.11651)
 * PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning, ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378534)			
 * Memory-Driven Mixed Low Precision Quantization for Enabling Deep Network Inference on Microcontrollers, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9b8619251a19057cff70779273e95aa6-Paper.pdf)
 * Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)							
@@ -442,8 +442,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)
 * DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131675)
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
-* Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16
-* Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)
+* Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16 [[Paper]](https://arxiv.org/abs/1510.00149)
 		
 #### Inference Optimization and Acceleration
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference,	MobiCom	22	[[Paper]](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf)	
@@ -559,6 +558,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 #### Training on a Single Device
 * On-Device Training Under 256KB Memory, NeurIPS 22
 * Mandheling: mixed-precision on-device DNN training with DSP offloading,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
+* Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)
 * Memory-efficient DNN Training on Mobile Device, MobiSys 22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3539765)		
 * Melon: breaking the memory wall for resource-efficient on-device machine learning, MobiSys 22 [[Paper]](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)
 * Memory-Efficient Domain Incremental Learning for Internet of Things,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)	
