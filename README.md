@@ -538,8 +538,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### On-Device Training	
 
-#### Training on a Single Device (Total: X)
-* On-Device Training Under 256KB Memory, NeurIPS 22
+#### Training on a Single Device (Total: 9)
+* On-Device Training Under 256KB Memory, NeurIPS 22 [[Paper]](https://arxiv.org/abs/2206.15472)
 * Mandheling: mixed-precision on-device DNN training with DSP offloading,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
 * Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)
 * Memory-efficient DNN Training on Mobile Device, MobiSys 22	[[Paper]](https://dl.acm.org/doi/10.1145/3498361.3539765)		
@@ -548,9 +548,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices,	SenSys	20	[[Paper]](https://taogu.site/pub/paper/Paper_3_SenSys_2020.pdf)	
 * Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)		
-* Marius: Learning Massive Graph Embeddings on a Single Machine, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-mohoney.pdf)	
-* MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks, EuroSys 23 [[Paper]](https://arxiv.org/pdf/2202.02365.pdf)
-* DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern, UbiComp 19 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/deeptype_ubicomp19.pdf)
 
 #### Training on Distributed Devices (Total: 2)
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
