@@ -596,7 +596,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Serving DNNs like Clockwork: Performance Predictability from the Bottom Up, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-gujarati.pdf)
 * Parity models: erasure-coded resilience for prediction serving systems, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359654)
 																				
-### Automated Machine Learning for AIoT (Total: X)														
+### Automated Machine Learning for AIoT (Total: 10)														
 * Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
 * Towards the Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
 * MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers, MLSys 21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract.html)			
@@ -607,9 +607,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
 * MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)		
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
-* Analytical Characterization and Design Space Exploration for Optimization of CNNs, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2101.09808.pdf)
-* Homunculus: Auto-Generating Efficient Data-Plane ML Pipelines for Datacenter Networks, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2206.05592.pdf)
-* Model Governance: Reducing the Anarchy of Production ML, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-sridhar.pdf)
 														
 ### Compiler for AIoT (Total: X)							
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf)	
@@ -622,6 +619,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler, ASPLOS 18 [[Paper]](https://arxiv.org/pdf/1801.00746.pdf)
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 * Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
+* Analytical Characterization and Design Space Exploration for Optimization of CNNs, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2101.09808.pdf)
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
 * JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-jeong.pdf)
 * Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-yildiz.pdf)
