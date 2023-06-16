@@ -462,6 +462,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * GRACE: A Scalable Graph-Based Approach to Accelerating Recommendation Model Inference, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582029)
 * DrGPUM: Guiding Memory Optimization for GPU-Accelerated Applications, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3582016.3582044)
 * Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
+* Using Deep Data Augmentation Training to Address Software and Hardware Heterogeneities in Wearable and Smartphone Sensing Devices, IPSN 18 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)		
 
 
 #### HW Accelerator (Total: X)
