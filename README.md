@@ -123,6 +123,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 
 #### Wi-Fi Sensing
+* SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf)
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979)	(NO ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
 * Experience: pushing indoor localization from laboratory to the wild, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (Best Community Contribution Runner-ups) (NO ML)
@@ -637,7 +638,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Graphene: An IR for Optimized Tensor Computations on GPUs, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3582016.3582018)
 
 ### Others
-* SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf)
 * Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-you.pdf)
 * DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-yao.pdf)
 * DeepXplore: Automated Whitebox Testing of Deep Learning Systems, SOSP 17 [[Paper]](https://arxiv.org/pdf/1705.06640.pdf)
