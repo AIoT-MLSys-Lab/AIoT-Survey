@@ -638,11 +638,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Graphene: An IR for Optimized Tensor Computations on GPUs, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3582016.3582018)
 
 ### Others
-* DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-yao.pdf)
-* DeepXplore: Automated Whitebox Testing of Deep Learning Systems, SOSP 17 [[Paper]](https://arxiv.org/pdf/1705.06640.pdf)
-* AutoTM: Automatic Tensor Movement in Heterogeneous Memory Systems using Integer Linear Programming, ASPLOS 20 [[Paper]](https://arch.cs.ucdavis.edu/assets/papers/asplos20-autotm.pdf)
-* Daydream: Accurately Estimating the Efficacy of Optimizations for DNN Training, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-zhu-hongyu.pdf)
-* Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-lee.pdf)
 * INFaaS: Automated Model-less Inference Serving, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-romero.pdf)
 * Defensive Approximation: Securing CNNs using Approximate Computing, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2006.07700.pdf)
 
