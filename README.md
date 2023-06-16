@@ -1038,59 +1038,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110971) [[code]](https://github.com/lkh329/Supreme)
 * RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-xinyi.pdf) (NO ML)
 
-
-## Power
-
-### Energy Harvesting
-
-### Intermittent Computing
-
-* An Energy Supervisor Architecture for Energy-Harvesting Applications, IPSN 22 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/saoda22altair.pdf)
-* DeepAuditor: Distributed Online Intrusion Detection System for IoT devices via Power Side-channel Auditing, IPSN 22 [[Paper]](https://arxiv.org/pdf/2106.12753.pdf)
-* RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) 
-* Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568561)
-* Understanding power consumption of NB-IoT in the wild: tool and large-scale measurement, MobiCom 20 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/nbiot20mobicom.pdf) (NO ML)
-* Ember: energy management of batteryless event detection sensors with deep reinforcement learning,	SenSys	20	[[Paper]](https://assets.amazon.science/60/cf/c743fa3b4078825ff4ec05120fe7/ember-energy-management-of-batteryless-event-detection-sensors-with-deep-reinforcement-learning.pdf)	
-* ePerceptive - Energy Reactive Embedded Intelligence for Batteryless Sensors, SenSys 20 [[Paper]](https://ubicomplab.cs.washington.edu/pdfs/ePerceptive.pdf)
-* Shepherd: A Portable Testbed for the Batteryless IoT, SenSys 19 [[Paper]](https://wwwpub.zih.tu-dresden.de/~mzimmerl/pubs/geissdoerfer19shepherd.pdf) (NO ML)
-* SkinnyPower: enabling batteryless wearable sensors via intra-body power transfer, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360034) (NO ML)
-* CapBand: Battery-free Successive Capacitance Sensing Wristband for Hand Gesture Recognition, SenSys 18 [[Paper]](https://genesys-lab.org/papers/p54-Truong.pdf)(Best paper runner-up awards)
-* InK: Reactive Kernel for Tiny Batteryless Sensors, SenSys 18 [[Paper]](https://josiahhester.com/cv/files/inksensys2018.pdf)
-* Battery-Free Eye Tracker on Glasses, MobiCom 18 [[Paper]](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3975&context=facoa)
-* Exploiting Multi-Cell Battery for Mobile Devices: Design, Management, and Performance, SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131684) (NO ML)
-* Flicker: Rapid Prototyping for the Batteryless Internet-of-Things, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131674) (NO ML)
-* Timely Execution on Intermittently Powered Batteryless Sensors, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/abs/10.1145/3131672.3131673)
-* Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna, SenSys 22 [[Paper]](https://people.cs.umass.edu/~minhaocui/sensys22.pdf) (Best Paper)
-* Accurate Power Quality Monitoring in Microgrids, IPSN 16 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn2016.pdf) (NO ML)
-* HarvOS: Efficient Code Instrumentation for Transiently-powered Embedded Sensing, IPSN 17 [[Paper]](https://mottola.faculty.polimi.it/papers/bhatti17intermittent.pdf) (NO ML)
-* DIPS: Debug Intermittently-Powered Systems Like Any Embedded System, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568543)
-* Intermittently-powered bluetooth that works, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538934)
-* Time-sensitive Intermittent Computing Meets Legacy Software, ASPLOS 20 [[Paper]](https://josiahhester.com/cv/files/tics-asplos20.pdf)
-* Reliable Timekeeping for Intermittent Computing, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378464)
-* Battery-less Zero-maintenance Embedded Sensing at the Mithræum of Circus Maximus, SenSys 20 [[Paper]](https://web.lums.edu.pk/~alizai/pubs/2020-empire-sensys.pdf) (NO ML)
-* Leakage-Aware Lifetime Estimation of Battery-Free Sensor Nodes Powered by Supercapacitors, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568108)
-* Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity, MobiCom 20 [[Paper]](https://www.mit.edu/~fadel/papers/umedic-paper.pdf) (NO ML) (also backscatter)
-* Experience: developing a usable battery drain testing and diagnostic tool for the mobile industry, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483269) (NO ML)
-* Capttery: Scalable Battery-like Room-level Wireless Power, MobiSys 19 [[Paper]](http://dword1511.info/me/papers/MobiSys19_Capttery_paper.pdf) (NO ML)
-* Graphics-aware Power Governing for Mobile Devices, MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326075) (NO ML)
-* How much battery does dark mode save?: an accurate OLED display power profiler for modern smartphones, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467682) (NO ML)
-* SkinnySensor: Enabling Battery-Less Wearable Sensors Via Intrabody Power Transfer, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360034) (NO ML)
-* Intermittent Asynchronous Peripheral Operations, SenSys 19 [[Paper]](https://www.neslab.it/wp-content/uploads/2019/09/branco19intermittent.pdf)
-* Experience: ARISTOTLE: wAke-up ReceIver-based, STar tOpology baTteryLEss sensor network, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586961) (NO ML)
-* Interpreting Deep Learning-Based Networking Systems, SIGCOMM 20 [[Paper]](https://arxiv.org/pdf/1910.03835.pdf)
-* Bootstrapping Battery-free Wireless Networks: Efficient Neighbor Discovery and Synchronization in the Face of Intermittency, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-geissdoerfer.pdf) (NO ML)
-* Learning to Communicate Effectively Between Battery-free Devices, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-geissdoerfer.pdf)
-* Adaptive Dynamic Checkpointing for Safe Efficient Intermittent Computing, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-maeng.pdf)
-* Intermittent Computation without Hardware Support or Programmer Intervention, OSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/osdi16/osdi16-van-der-woude.pdf)
-* Sidewinder: An Energy Efficient and Developer Friendly Heterogeneous Architecture for Continuous Mobile Sensing, ASPLOS 16 [[Paper]](https://www.eecg.utoronto.ca/~ashvin/publications/sidewinder.pdf) (NO ML)
-* Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors, ASPLOS 17 [[Paper]](https://passat.crhc.illinois.edu/asplos_17_cam.pdf) (NO ML)
-* 3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers, ASPLSO 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3093336.3037752)
-* A Reconfigurable Energy Storage Architecture for Energy-harvesting Devices, ASPLOS 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173162.3173210) (NO ML) (Best Paper)
-* Exploiting Dynamic Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications, ASPLOS 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173162.3173188) (NO ML)
-* Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Comphttps://dl.acm.org/doi/pdf/10.1145/3552326.3587435utation, ASPLOS 20 [[Paper]](http://static1.1.sqspcdn.com/static/f/543048/28298008/1589332628693/TotalRecall_ASPLOS_20.pdf?token=GUkHuGChPYlmVxkfevC9PmHxUSk%3D)
-* Efficient and Safe I/O Operations for Intermittent Systems, EuroSys 23 [[Paper]]()
-
-
 ## Security and Privacy	
 
 * Furtively Connecting IoT Devices with Acoustic Noise, IPSN 22 [[Paper]](https://ieeexplore.ieee.org/document/9826085/keywords#keywords) (NOML)
@@ -1532,6 +1479,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * EdgEWisE: A Better Stream Processing Engine for the Edge, ATC 19 [[Paper]](https://www.usenix.org/system/files/atc19-fu.pdf)
 * DART: A Scalable and Adaptive Edge Stream Processing Engine, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-liu.pdf)
 * Home, SafeHome: Smart Home Reliability with Visibility and Atomicity, EuroSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447786.3456261) (NO ML)
+* Understanding power consumption of NB-IoT in the wild: tool and large-scale measurement, MobiCom 20 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/nbiot20mobicom.pdf) (NO ML)
+* CapBand: Battery-free Successive Capacitance Sensing Wristband for Hand Gesture Recognition, SenSys 18 [[Paper]](https://genesys-lab.org/papers/p54-Truong.pdf)(Best paper runner-up awards)
+* Battery-Free Eye Tracker on Glasses, MobiCom 18 [[Paper]](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3975&context=facoa)
+* Interpreting Deep Learning-Based Networking Systems, SIGCOMM 20 [[Paper]](https://arxiv.org/pdf/1910.03835.pdf)
+* Sidewinder: An Energy Efficient and Developer Friendly Heterogeneous Architecture for Continuous Mobile Sensing, ASPLOS 16 [[Paper]](https://www.eecg.utoronto.ca/~ashvin/publications/sidewinder.pdf) (NO ML)
 
 
 
