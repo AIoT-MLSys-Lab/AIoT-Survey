@@ -452,7 +452,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
 
 * PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-wang-haojie.pdf)
-* TASO: optimizing deep learning computation with automatic generation of graph substitutions, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359630)
 * Optimizing CNNs on Multicores for Scalability, Performance and Goodput, ASPLOS 17 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/spg-cnn-asplos17.pdf)
 * MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects, ASPLOS 18 [[Paper]](https://anands09.github.io/papers/maeri_asplos2018.pdf)
 * Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization, ASPLOS 19 [[Paper]](http://www.eecs.harvard.edu/~htk/publication/2019-asplos-kung-mcdanel-zhang.pdf)
