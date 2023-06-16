@@ -60,7 +60,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [Training on Distributed Devices (Checked by MZ)](#training-on-distributed-devices)
     	- [Federated Learning for AIoT (Samiul)](#federated-learning-for-aiot)
     	- [Benchmarks (Samiul)](#training-benchmarks)
-    - [Edge-Cloud-Offloading (Checked by MZ)](#edge-cloud-offloading)
+    - [Offloading (DONE)](#offloading)
     - [Model Deployment on the Edge (Checked by MZ)](#model-deployment-on-the-edge)
     - [Automated Machine Learning for AIoT (Checked by MZ)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT (Checked by MZ)](#compiler-for-aiot)
@@ -583,7 +583,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks, NACCL 22 [[Paper]](https://arxiv.org/pdf/2104.08815.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fednlp) 
 * FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks, Arxiv [[Paper]](https://arxiv.org/pdf/2111.11066.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fedcv)
 
-### Edge-Cloud Offloading (Total: 15)							
+### Offloading (Total: 15)							
 * CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks, IPSN 23 [[Paper]](https://neawhen.github.io/neiwen.github.io/assets/pdf/coedge_ipsn23.pdf)
 * SwarmMap: Scaling Up Real-time Collaborative Visual SLAM at the Edge, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-xu_jingao.pdf) (NO ML)
 * Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
