@@ -462,12 +462,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * GRACE: A Scalable Graph-Based Approach to Accelerating Recommendation Model Inference, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582029)
 * DrGPUM: Guiding Memory Optimization for GPU-Accelerated Applications, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3582016.3582044)
 * Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
-* DefT: Boosting Scalability of Deformable Convolution Operations on GPUs, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3582016.3582017)
-* Cavs: An Efficient Runtime System for Dynamic Neural Networks, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-xu-shizhen.pdf)
-* DeepCPU: Serving RNN-based Deep Learning Models 10x Faster, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
-* Optimizing CNN Model Inference on CPUs, ATC 19 [[Paper]](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf)
-* PetS: A Unified Framework for Parameter-Efficient Transformers Serving, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf)
-* Tahoe: Tree Structure-Aware High Performance Inference Engine for Decision Tree Ensemble on GPU, EuroSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447786.3456251)
+
 
 #### HW Accelerator (Total: X)
 * Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators, ASPLOS 19 [[Paper]](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf)
