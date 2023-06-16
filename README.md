@@ -48,7 +48,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Multi-Modal Sensing (Hyunho)](#multi-modal-sensing)
   - [Computing (Led by MZ)](#computing)
     - [On-Device Inference](#on-device-inference)
-      	- [Model Compression (Checked by MZ)](#model-compression)
+      	- [Model Compression (DONE)](#model-compression)
       	- [Inference Optimization and Acceleration (Checked by MZ)](#inference-optimization-and-acceleration)
       	- [Multi-Tenant Inference (Checked by MZ)](#multi-tenant-inference)
       	- [Cross-Processor Inference (Checked by MZ)](#cross-processor-inference)
