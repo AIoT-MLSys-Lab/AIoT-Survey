@@ -637,11 +637,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582061)
 * Graphene: An IR for Optimized Tensor Computations on GPUs, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3582016.3582018)
 
-### Others
-* INFaaS: Automated Model-less Inference Serving, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-romero.pdf)
-* Defensive Approximation: Securing CNNs using Approximate Computing, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2006.07700.pdf)
-
-					
 	
 ## Networking and Communication							
 
@@ -1092,6 +1087,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Game of Threads: Enabling Asynchronous Poisoning Attacks, ASPLOS 20 [[Paper]](https://rp8.web.engr.illinois.edu/papers/apa-asplos2020.pdf)
 * Protecting Adaptive Sampling from Information Leakage on Low-Power Sensors, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507775)
 * Soteria: Automated IoT Safety and Security Analysis, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) (NO ML)
+* Defensive Approximation: Securing CNNs using Approximate Computing, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2006.07700.pdf)
 
 ### Key
 * Pairing IoT Devices with Spatial Keys, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a159/962400a159.pdf) (NO ML)
