@@ -508,13 +508,12 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading, MobiSys 17 [[Paper]](https://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf)
 * DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Lane.IPSN2016-Camera.pdf)
 
-#### Privacy-Preserving Inference (Total: X)
+#### Privacy-Preserving Inference (Total: 5)
+* Characterizing and Optimizing End-to-End Systems for Private Inference, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2207.07177.pdf)
+* SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)	
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
 * Shredder: Learning Noise Distributions to Protect Inference Privacy, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1905.11814.pdf)
 * Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX, MobiCom 19 [[Paper]](https://soar.group/pubs/Occlumency.MobiCom19.pdf)
-* Defensive Approximation: Securing CNNs using Approximate Computing, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2006.07700.pdf)
-* Characterizing and Optimizing End-to-End Systems for Private Inference, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2207.07177.pdf)
-* SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)	
 
 #### Adaptation (Total: 6)
 * Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
@@ -649,6 +648,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-lee.pdf)
 * Ray: A Distributed Framework for Emerging AI Applications, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-moritz.pdf)	
 * INFaaS: Automated Model-less Inference Serving, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-romero.pdf)
+* Defensive Approximation: Securing CNNs using Approximate Computing, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2006.07700.pdf)
 
 					
 	
