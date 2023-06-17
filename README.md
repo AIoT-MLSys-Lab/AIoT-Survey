@@ -563,8 +563,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586970)
 * Space-Efficient TREC for Enabling Deep Learning on Microcontrollers, ASPLOS 23 [[Paper]](https://research.csc.ncsu.edu/picture/publications/papers/asplos23a_mcu.pdf)
-* Serving DNNs like Clockwork: Performance Predictability from the Bottom Up, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-gujarati.pdf)
-* Parity models: erasure-coded resilience for prediction serving systems, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359654)
 																				
 ### Automated Machine Learning for AIoT (Total: 10)														
 * Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
