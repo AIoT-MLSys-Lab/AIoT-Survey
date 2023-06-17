@@ -456,7 +456,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Capuchin: Tensor-based GPU Memory Management for Deep Learning, ASPLOS 20 [[Paper]](http://alchem.usc.edu/portal/static/download/capuchin.pdf)
 * A Hierarchical Neural Model of Data Prefetching, ASPLOS 21 [[Paper]](https://www.cs.utexas.edu/~lin/papers/asplos21.pdf)
 * GRACE: A Scalable Graph-Based Approach to Accelerating Recommendation Model Inference, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582029)
-* DrGPUM: Guiding Memory Optimization for GPU-Accelerated Applications, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3582016.3582044)
 * Using Deep Data Augmentation Training to Address Software and Hardware Heterogeneities in Wearable and Smartphone Sensing Devices, IPSN 18 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)		
 
 
