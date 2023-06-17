@@ -49,7 +49,7 @@ Majority of the included papers are published at top-tier venues in the areas of
   - [Computing (Led by MZ)](#computing)
     - [On-Device Inference](#on-device-inference)
       	- [Model Compression (DONE)](#model-compression)
-      	- [Inference Optimization and Acceleration (DONE)](#inference-optimization-and-acceleration)
+      	- [Inference Optimization (DONE)](#inference-optimization)
       	- [Multi-Tenant Inference (DONE)](#multi-tenant-inference)
       	- [Cross-Processor Inference (DONE)](#cross-processor-inference)
       	- [Privacy-Preserving Inference (DONE)](#privacy-preserving-inference)
@@ -58,7 +58,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [On-Device Training (DONE)](#on-device-training)
     	- [Training on a Single Device (DONE)](#training-on-a-single-device)
     	- [Training on Distributed Devices (DONE)](#training-on-distributed-devices)
-    	- [Cross-Device Federated Learning (Samiul)](#federated-learning-for-aiot)
+    	- [Cross-Device Federated Learning (Samiul)](#cross-device-federated-learning)
     	- [Benchmarks (Samiul)](#training-benchmarks)
     - [Offloading (DONE)](#offloading)
     - [Model Deployment on the Edge (Checked by MZ)](#model-deployment-on-the-edge)
@@ -419,7 +419,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 					
 ## Computing							
 	
-### On-Device Inference							
+### On-Device Inference	(Total: 61)						
 
 #### Model Compression (Total: 12)
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://arxiv.org/abs/2201.11651)
@@ -435,7 +435,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
 * Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16 [[Paper]](https://arxiv.org/abs/1510.00149)
 		
-#### Inference Optimization and Acceleration (Total: 15)
+#### Inference Optimization (Total: 15)
 * Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference, MobiCom 22 [[Paper]](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf)	
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
@@ -451,23 +451,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
 * DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
-
-#### HW Accelerator (Total: X)
-* Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators, ASPLOS 19 [[Paper]](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf)
-* FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture, ASPLOS 19 [[Paper]](https://arxiv.org/pdf/1901.09904.pdf)
-* PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference, ASPLOS 19 [[Paper]](https://arxiv.org/pdf/1901.10351.pdf)
-* AcMC 2 : Accelerating Markov Chain Monte Carlo Algorithms for Probabilistic Models, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3297858.3304019)
-* FA3C: FPGA-Accelerated Deep Reinforcement Learning, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/10.1145/3297858.3304058)
-* Bit-Tactical: A Software/Hardware Approach to Exploiting Value and Bit Sparsity in Neural Networks, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/10.1145/3297858.3304041)
-* Boosted Race Trees for Low Energy Classification, ASPLOS 19 [[Paper]](https://sites.cs.ucsb.edu/~sherwood/pubs/ASPLOS-19-racetree.pdf)
-* NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1911.06859.pdf)
-* FlexAmata: A Universal and Efficient Adaption of Applications to Spatial Automata Processing Accelerators, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378459)
-* Statistical Robustness of Markov Chain Monte Carlo Accelerators, ASPLOS 21 [[Paper]](https://users.cs.duke.edu/~alvy/papers/robustness_asplos21.pdf)
-* A Compiler Infrastructure for Accelerator Generators, ASPLOS 21 [[Paper]](https://www.cs.cornell.edu/~asampson/media/papers/calyx-asplos2021.pdf) (NO ML)
-* Accelerating Sparse Data Orchestration via Dynamic Reflexive Tiling, ASPLOS 23 [[Paper]](https://dspace.mit.edu/bitstream/handle/1721.1/150364/3582016.3582064.pdf?sequence=1&isAllowed=y)
-* VIBNN: Hardware Acceleration of Bayesian Neural Networks, ASPLOS 18 [[Paper]](https://arxiv.org/pdf/1802.00822.pdf)
-* MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects, ASPLOS 18 [[Paper]](https://anands09.github.io/papers/maeri_asplos2018.pdf)
-* Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization, ASPLOS 19 [[Paper]](http://www.eecs.harvard.edu/~htk/publication/2019-asplos-kung-mcdanel-zhang.pdf)
 
 #### Multi-Tenant Inference (Total: 11)	
 * POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
