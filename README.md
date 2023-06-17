@@ -49,7 +49,7 @@ Majority of the included papers are published at top-tier venues in the areas of
   - [Computing (Led by MZ)](#computing)
     - [On-Device Inference](#on-device-inference)
       	- [Model Compression (DONE)](#model-compression)
-      	- [Inference Optimization and Acceleration (Checked by MZ)](#inference-optimization-and-acceleration)
+      	- [Inference Optimization and Acceleration (DONE)](#inference-optimization-and-acceleration)
       	- [Multi-Tenant Inference (DONE)](#multi-tenant-inference)
       	- [Cross-Processor Inference (DONE)](#cross-processor-inference)
       	- [Privacy-Preserving Inference (DONE)](#privacy-preserving-inference)
@@ -435,7 +435,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
 * Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16 [[Paper]](https://arxiv.org/abs/1510.00149)
 		
-#### Inference Optimization and Acceleration (Total: X)
+#### Inference Optimization and Acceleration (Total: 15)
 * Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference, MobiCom 22 [[Paper]](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf)	
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
@@ -451,13 +451,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
 * DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
-
-
-* Capuchin: Tensor-based GPU Memory Management for Deep Learning, ASPLOS 20 [[Paper]](http://alchem.usc.edu/portal/static/download/capuchin.pdf)
-* A Hierarchical Neural Model of Data Prefetching, ASPLOS 21 [[Paper]](https://www.cs.utexas.edu/~lin/papers/asplos21.pdf)
-* GRACE: A Scalable Graph-Based Approach to Accelerating Recommendation Model Inference, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582029)
-* Using Deep Data Augmentation Training to Address Software and Hardware Heterogeneities in Wearable and Smartphone Sensing Devices, IPSN 18 [[Paper]](https://akhilmathurs.github.io/papers/mathur_ipsn18.pdf)		
-
 
 #### HW Accelerator (Total: X)
 * Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators, ASPLOS 19 [[Paper]](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf)
