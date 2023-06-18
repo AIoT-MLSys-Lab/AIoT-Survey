@@ -589,11 +589,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 * Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
-* JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-jeong.pdf)
+
+
 * Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-yildiz.pdf)
 * A Tensor Compiler for Unified Machine Learning Prediction Serving, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-nakandala.pdf)
 * PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-lee.pdf)
-* TensorFlow: A System for Large-Scale Machine Learning, OSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 * Typed Architectures: Architectural Support for Lightweight Scripting, ASPLOS 17 [[Paper]](https://channoh.github.io/pubs/asplos17-typed.pdf) (NO ML)
 * Astra: Exploiting Predictability to Optimize Deep Learning, ASPLOS 19 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/astra-asplos19.pdf)
 * FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASPLOS 20 [[Paper]](https://ceca.pku.edu.cn/docs/20200915213803856105.pdf)
