@@ -576,8 +576,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)		
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
 														
-### Compiler for AIoT (Total: X)							
+### Compiler for AIoT (Total: 18)							
 * Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582061)
+* Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf)	
 * The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)
 * ROLLER: Fast and Efficient Tensor Compilation for Deep Learning,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/zhu)			
@@ -592,11 +593,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)			
 * Astra: Exploiting Predictability to Optimize Deep Learning, ASPLOS 19 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/astra-asplos19.pdf)
 * Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler, ASPLOS 18 [[Paper]](https://arxiv.org/pdf/1801.00746.pdf)
-* TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
-* Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
-* Typed Architectures: Architectural Support for Lightweight Scripting, ASPLOS 17 [[Paper]](https://channoh.github.io/pubs/asplos17-typed.pdf) (NO ML)
-  
+* TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
+
 	
 ## Networking and Communication							
 
