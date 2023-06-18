@@ -287,8 +287,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom 16 [[Paper]](https://wands.sg/team/pengfei/papers/MobiCom16-DopEnc.pdf) (NO ML)
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf)
 											
-### Vision Sensing (Total: 25 | No ML(7) | ML(2) | DL(16))
+### Vision Sensing (Total: 26 | No ML(7) | ML(2) | DL(17))
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
+* MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586970)
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf) (DL)
 * MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560537) (NO ML)
 * DoCam: Depth Sensing with an Optical Image Stabilization Supported RGB Camera, MobiCom 22 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/assets/publications/mobicom22_pan.pdf) (NO ML)
@@ -562,7 +563,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Model Deployment on the Edge (Total: X)
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
-* MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586970)
 																				
 ### Automated Machine Learning for AIoT (Total: 10)														
 * Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
