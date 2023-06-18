@@ -418,7 +418,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.01766.pdf)
 * Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
 					
-## Computing							
+## Computing (Total: 140)							
 	
 ### On-Device Inference	(Total: 61)						
 
