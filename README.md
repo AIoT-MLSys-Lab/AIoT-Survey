@@ -577,9 +577,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
 														
 ### Compiler for AIoT (Total: X)							
+* Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582061)
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf)	
 * The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)
 * ROLLER: Fast and Efficient Tensor Compilation for Deep Learning,	OSDI	22	[[Paper]](https://www.usenix.org/conference/osdi22/presentation/zhu)			
+* AStitch: Enabling a New Multi-dimensional Optimization Space for Memory-Intensive ML Training and Inference on Modern SIMT Architectures, ASPLOS 22 [[Paper]](https://pacman.cs.tsinghua.edu.cn/~zjd/publication/asplos-22-zhenzheng/asplos-22-zhenzheng.pdf)
 * TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)
 * Analytical Characterization and Design Space Exploration for Optimization of CNNs, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2101.09808.pdf)		
 * Ordering Chaos: Memory-Aware Scheduling of Irregularly Wired Neural Networks for Edge Devices, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9bf31c7ff062936a96d3c8bd1f8f2ff3-Paper.pdf)
@@ -594,14 +596,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
 * Typed Architectures: Architectural Support for Lightweight Scripting, ASPLOS 17 [[Paper]](https://channoh.github.io/pubs/asplos17-typed.pdf) (NO ML)
-
-
-* Breaking the Computation and Communication Abstraction Barrier in Distributed Machine Learning Workloads, ASPLOS 22 [[Paper]](https://people.cs.umass.edu/~aabhinav/Publications/Breaking-the-Computation-and-Communication-Abstraction-Barrier-in-Distributed-Machine-Learning-Workloads-ASPLOS22.pdf)
-* AStitch: Enabling a New Multi-dimensional Optimization Space for Memory-Intensive ML Training and Inference on Modern SIMT Architectures, ASPLOS 22 [[Paper]](https://pacman.cs.tsinghua.edu.cn/~zjd/publication/asplos-22-zhenzheng/asplos-22-zhenzheng.pdf)
-* SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2207.04606.pdf)
-* Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582061)
-* Graphene: An IR for Optimized Tensor Computations on GPUs, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3582016.3582018)
-
+  
 	
 ## Networking and Communication							
 
