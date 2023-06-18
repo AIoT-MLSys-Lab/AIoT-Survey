@@ -437,6 +437,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 		
 #### Inference Optimization (Total: 15)
 * Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
+* Space-Efficient TREC for Enabling Deep Learning on Microcontrollers, ASPLOS 23 [[Paper]](https://research.csc.ncsu.edu/picture/publications/papers/asplos23a_mcu.pdf)
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference, MobiCom 22 [[Paper]](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf)	
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI	22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
@@ -562,7 +563,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
 * GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 * MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586970)
-* Space-Efficient TREC for Enabling Deep Learning on Microcontrollers, ASPLOS 23 [[Paper]](https://research.csc.ncsu.edu/picture/publications/papers/asplos23a_mcu.pdf)
 																				
 ### Automated Machine Learning for AIoT (Total: 10)														
 * Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
@@ -583,21 +583,19 @@ Majority of the included papers are published at top-tier venues in the areas of
 * TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems,	MLSys	21	[[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)
 * Analytical Characterization and Design Space Exploration for Optimization of CNNs, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2101.09808.pdf)		
 * Ordering Chaos: Memory-Aware Scheduling of Irregularly Wired Neural Networks for Edge Devices, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9bf31c7ff062936a96d3c8bd1f8f2ff3-Paper.pdf)
+* A Tensor Compiler for Unified Machine Learning Prediction Serving, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-nakandala.pdf)
+* Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1809.04070.pdf)
 * Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks,	OSDI 20	[[Paper]](https://www.usenix.org/system/files/osdi20-ma.pdf)		
+* FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASPLOS 20 [[Paper]](https://ceca.pku.edu.cn/docs/20200915213803856105.pdf)
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)			
+* Astra: Exploiting Predictability to Optimize Deep Learning, ASPLOS 19 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/astra-asplos19.pdf)
 * Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler, ASPLOS 18 [[Paper]](https://arxiv.org/pdf/1801.00746.pdf)
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 * Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
-
-
-* Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-yildiz.pdf)
-* A Tensor Compiler for Unified Machine Learning Prediction Serving, OSDI 20 [[Paper]](https://www.usenix.org/system/files/osdi20-nakandala.pdf)
-* PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-lee.pdf)
 * Typed Architectures: Architectural Support for Lightweight Scripting, ASPLOS 17 [[Paper]](https://channoh.github.io/pubs/asplos17-typed.pdf) (NO ML)
-* Astra: Exploiting Predictability to Optimize Deep Learning, ASPLOS 19 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/astra-asplos19.pdf)
-* FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASPLOS 20 [[Paper]](https://ceca.pku.edu.cn/docs/20200915213803856105.pdf)
-* Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1809.04070.pdf)
+
+
 * Breaking the Computation and Communication Abstraction Barrier in Distributed Machine Learning Workloads, ASPLOS 22 [[Paper]](https://people.cs.umass.edu/~aabhinav/Publications/Breaking-the-Computation-and-Communication-Abstraction-Barrier-in-Distributed-Machine-Learning-Workloads-ASPLOS22.pdf)
 * AStitch: Enabling a New Multi-dimensional Optimization Space for Memory-Intensive ML Training and Inference on Modern SIMT Architectures, ASPLOS 22 [[Paper]](https://pacman.cs.tsinghua.edu.cn/~zjd/publication/asplos-22-zhenzheng/asplos-22-zhenzheng.pdf)
 * SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2207.04606.pdf)
