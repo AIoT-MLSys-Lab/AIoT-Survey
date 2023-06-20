@@ -7,9 +7,10 @@
 * If the paper involves publicly available datasets, add the link of the dataset.
 * Use the following labels: [Paper] [Code] [Dataset]
 * Assignment:
-	* Hyunho: 12 topics: 3 Sensing, 3 Computing, 2 Netowrking, 2 Security, 2 Applications.
+	* Hyunho:
 	* Siam:
 	* Samiul:
+ 	* Xin:	
 	* Marcus:
 	* Zhichao:
 	* MZ: Introduction, Conclusion
@@ -48,7 +49,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Multi-Modal Sensing (TBD)](#multi-modal-sensing)
   - [Computing (DONE)](#computing)
     - [On-Device Inference (DONE)](#on-device-inference)
-      	- [Model Compression (DONE)](#model-compression)
+      	- [Model Compression (Xin)](#model-compression)
       	- [Inference Optimization (DONE)](#inference-optimization)
       	- [Multi-Tenant Inference (DONE)](#multi-tenant-inference)
       	- [Cross-Processor Inference (DONE)](#cross-processor-inference)
