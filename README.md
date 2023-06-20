@@ -1351,14 +1351,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Airdropping Sensor Networks from Drones and Insects, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419981) (NO ML)
 * Estimating Heart Rate and Detecting Feeding Events of Fish Using an Implantable Biologger, IPSN 20 [[Paper]](https://research.csiro.au/dss/wp-content/uploads/sites/100/2020/02/Estimating_Heart_Rate_and_Detecting_Feeding_Events_of_Fish_Using_an_Implantable_Biologger-1.pdf)
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf)
-
-### AIoT Systems for Smart Home
-
-### Others
-* Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Business, MobiCom 22 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_22_1.pdf)
-* Event-triggered Natural Hazard Monitoring with Convolutional Neural Networks on the Edge, IPSN 19 [[Paper]](https://arxiv.org/pdf/1810.09409.pdf)
-* Hivemind: social control-and-use of IoT towards democratization of public spaces, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466626) (NO ML)
-* Animal-Borne Anti-Poaching System, MobiSys 19 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326080) (NO ML)
+  
 
 ## Others
 * Empowering smart buildings with self-sensing concrete for structural health monitoring, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270) (NO ML)
@@ -1388,6 +1381,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Battery-Free Eye Tracker on Glasses, MobiCom 18 [[Paper]](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3975&context=facoa)
 * Interpreting Deep Learning-Based Networking Systems, SIGCOMM 20 [[Paper]](https://arxiv.org/pdf/1910.03835.pdf)
 * Sidewinder: An Energy Efficient and Developer Friendly Heterogeneous Architecture for Continuous Mobile Sensing, ASPLOS 16 [[Paper]](https://www.eecg.utoronto.ca/~ashvin/publications/sidewinder.pdf) (NO ML)
+* Experience: Adopting Indoor Outdoor Detection in On-demand Food Delivery Business, MobiCom 22 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_22_1.pdf)
+* Event-triggered Natural Hazard Monitoring with Convolutional Neural Networks on the Edge, IPSN 19 [[Paper]](https://arxiv.org/pdf/1810.09409.pdf)
+* Hivemind: social control-and-use of IoT towards democratization of public spaces, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466626) (NO ML)
+* Animal-Borne Anti-Poaching System, MobiSys 19 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326080) (NO ML)
 
 
 
