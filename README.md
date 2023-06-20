@@ -65,7 +65,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Offloading (15)](#offloading)
     - [Model Deployment on the Edge (2)](#model-deployment-on-the-edge)
     - [Automated Machine Learning for AIoT (10) (Shen)](#automated-machine-learning-for-aiot)
-    - [Compiler for AIoT (18) (DONE)](#compiler-for-aiot)
+    - [Compiler for AIoT (18)](#compiler-for-aiot)
   - [Networking and Communication (Led by Zhichao)](#networking-and-communication)
   - [Security and Privacy (Led by Zhichao)](#security-and-privacy)
   - [AIoT Systems and their Applications (Led by MZ)](#aiot-systems-and-their-applications)
