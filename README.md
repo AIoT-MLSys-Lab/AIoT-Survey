@@ -169,6 +169,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-gupta.pdf)
 * RF-based 3D skeletons, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230579)
 * RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition,	SenSys	20 [[Paper]](https://arxiv.org/pdf/2111.04566.pdf)		
+* 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf)
 
 #### mmWave Sensing
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
@@ -1309,33 +1310,28 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Aura: Inside-out Electromagnetic Controller Tracking MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326090)
 * Cyclops: an FSO-based wireless link for VR headsets, SIGCOMM 22 [[Paper]](http://www.contrib.andrew.cmu.edu/~malleshd/papers/sigcomm-2022-paper.pdf) (NO ML)
 * Enabling High-Quality Untethered Virtual Reality, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-abari.pdf) (NO ML)
+* Freedom: Fast Recovery Enhanced VR Delivery Over Mobile Networks, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326087)
 
-
-
-
-
-### AIoT Systems for Drones
+### AIoT Systems for Drones (Total: 19)
 * Placement Optimization for UAV-Enabled Wireless Networks with Multi-Hop Backhauls in Urban Environments, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a054/962400a054.pdf)
 * Wi-Drone: Wi-Fi-based 6-DoF Tracking for Indoor Drone Flight Control, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538936)
+* Reverse Engineering and Retrofitting Robotic Aerial Vehicle Control Firmware using DisPatch, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538938) (NO ML)
 * AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking, SenSys 22 [[Paper]](https://mottola.faculty.polimi.it/papers/sun22aim.pdf)
 * MicNest: Long-Range Instant Acoustic Localization of Drones in Precise Landing, SenSys 22 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2022.MicNest.pdf) (Best Paper Runner-up Award)
+* Quantifying the Design-Space Tradeoffs in Autonomous Drones, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446721)
 * Visage: Enabling Timely Analytics for Drone Imagery, MobiCom 21 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/Visage_Mobicom_2021.pdf)
 * Bleep: motor-enabled audio side-channel for constrained UAVs, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419183)
 * C-14: Assured Timestamps for Drone Videos, MobiCom 20 [[Paper]](https://people.cs.umass.edu/~elm/papers/mobicom20-final809.pdf)
 * BeeCluster: Drone Orchestration via Predictive Optimization, MobiSys 20 [[Paper]](http://people.csail.mit.edu/songtao/BeeCluster.pdf)
-* DroneScale: Drone Load Estimation Via Remote Passive RF Sensing, SenSys 20 [[Paper]](http://mnslab.org/tamvu/paper/2020%20DroneScale_Phuc.pdf)
-* Freedom: Fast Recovery Enhanced VR Delivery Over Mobile Networks, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326087)
+* DroneScale: Drone Load Estimation via Remote Passive RF Sensing, SenSys 20 [[Paper]](http://mnslab.org/tamvu/paper/2020%20DroneScale_Phuc.pdf)
 * FlyZone: A Testbed for Experimenting with Aerial Drone Application, MobiSys 19 [[Paper]](https://mottola.faculty.polimi.it/papers/afanasov19flyzone.pdf)
+* TrackIO: Tracking First Responders Inside-Out, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-dhekne.pdf)
 * SkyCore: Moving Core to the Edge for Untethered and Reliable UAV-based LTE Networks, MobiCom 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3434161?sid=SCITRUS) (Best Paper Award)
 * Tracking Drone Orientation with Multiple GPS Receivers, MobiCom 16 [[Paper]](https://synrg.csl.illinois.edu/papers/drone-attitude-camera.pdf) (NO ML)
-* Matthan: Drone Presence Detection by Identifying Physical Signatures in the Drone’s RF Communication, MLSys 17 [[Paper]](http://mnslab.org/tamvu/paper/2017_Mobisys_Drone.pdf) (NO ML)
+* Matthan: Drone Presence Detection by Identifying Physical Signatures in the Drone’s RF Communication, MobiSys 17 [[Paper]](http://mnslab.org/tamvu/paper/2017_Mobisys_Drone.pdf) (NO ML)
 * Indoor Follow Me Drone, MobiSys 17 [[Paper]](https://iwct.sjtu.edu.cn/personal/xtian/paper/2017-mobisys-iBlink.pdf) (Honorable Mention)
+* Argus: Realistic Target Coverage by Drones, IPSN 17 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3055031.3055078) (NO ML)
 * Reactive Control of Autonomous Drones, MobiSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2906388.2906410) (NO ML) (Best Paper) 
-* Argus: Realistic Target Coverage by Drones, IPSN 17 [[Paper]](Argus: Realistic Target Coverage by Drones) (NO ML)
-* 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf)
-* Quantifying the Design-Space Tradeoffs in Autonomous Drones, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446721)
-* TrackIO: Tracking First Responders Inside-Out, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-dhekne.pdf)
-* Reverse Engineering and Retrofitting Robotic Aerial Vehicle Control Firmware using DisPatch, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538938) (NO ML)
 
 ### AIoT Systems for Agriculture  (Total: 9)
 * DRLIC: Deep Reinforcement Learning for Irrigation Control, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a041/962400a041.pdf)
