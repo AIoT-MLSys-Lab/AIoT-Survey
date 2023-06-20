@@ -75,7 +75,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [AIoT Systems for AR/VR/MR (Siam)](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (Checked by MZ)](#aiot-systems-for-drones)
     - [AIoT Systems for Agriculture (Checked by MZ)](#aiot-systems-for-agriculture)
-    - [AIoT Systems for Biology (Checked by MZ)](#aiot-systems-for-biology)
+    - [AIoT Systems for Biology (DONE)](#aiot-systems-for-biology)
     	
 ## Sensing
 
@@ -1352,14 +1352,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (NO ML)
 * FarmBeats: An IoT Platform for Data-Driven Agriculture, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vasisht.pdf)
 
-
 ### AIoT Systems for Biology
 * mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking,	MobiCom	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483263)			
 * Airdropping Sensor Networks from Drones and Insects, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419981) (NO ML)
 * Estimating Heart Rate and Detecting Feeding Events of Fish Using an Implantable Biologger, IPSN 20 [[Paper]](https://research.csiro.au/dss/wp-content/uploads/sites/100/2020/02/Estimating_Heart_Rate_and_Detecting_Feeding_Events_of_Fish_Using_an_Implantable_Biologger-1.pdf)
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf)
-* Characterizing the Accuracy of a Self-Synchronized Reverse-GPS Wildlife Localization System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460662) (Best Paper)
-
 
 ### AIoT Systems for Smart Home
 
