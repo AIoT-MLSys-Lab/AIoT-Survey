@@ -1349,8 +1349,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Soil Moisture Sensing with Commodity RFID Systems, MobiSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3386901.3388940)
 * Towards Low Cost Soil Sensing Using Wi-Fi, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345440) (NO ML) (Honorable Mention)
 * WISDOM: watering intelligently at scale with distributed optimization and modeling, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360023) (NO ML)
-* MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (NO ML)
 * FarmBeats: An IoT Platform for Data-Driven Agriculture, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vasisht.pdf)
+* MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (NO ML)
 
 ### AIoT Systems for Biology
 * mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking,	MobiCom	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483263)			
