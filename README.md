@@ -40,7 +40,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [UWB Sensing](#uwb-sensing)
     	- [Bluetooth Sensing (Checked by MZ)](#bluetooth-sensing)
     - [Earables (Hyunho)](#earables)
-    - [Acoustic Sensing (DONE)](#acoustic-sensing)
+    - [Acoustic Sensing (Samiul)](#acoustic-sensing)
     - [Vision Sensing (Hyunho)](#vision-sensing)
     - [Light Sensing (Hyunho)](#light-sensing)
     - [Magentic Sensing (Hyunho)](#magnetic-sensing)
