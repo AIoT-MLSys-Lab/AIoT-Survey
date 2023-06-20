@@ -1354,11 +1354,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 
 ### AIoT Systems for Biology
+* mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking,	MobiCom	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483263)			
 * Airdropping Sensor Networks from Drones and Insects, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419981) (NO ML)
 * Estimating Heart Rate and Detecting Feeding Events of Fish Using an Implantable Biologger, IPSN 20 [[Paper]](https://research.csiro.au/dss/wp-content/uploads/sites/100/2020/02/Estimating_Heart_Rate_and_Detecting_Feeding_Events_of_Fish_Using_an_Implantable_Biologger-1.pdf)
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf)
 * Characterizing the Accuracy of a Self-Synchronized Reverse-GPS Wildlife Localization System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460662) (Best Paper)
-* mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking,	MobiCom	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483263)			
 
 
 ### AIoT Systems for Smart Home
@@ -1368,7 +1368,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Event-triggered Natural Hazard Monitoring with Convolutional Neural Networks on the Edge, IPSN 19 [[Paper]](https://arxiv.org/pdf/1810.09409.pdf)
 * Hivemind: social control-and-use of IoT towards democratization of public spaces, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466626) (NO ML)
 * Animal-Borne Anti-Poaching System, MobiSys 19 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326080) (NO ML)
-
 
 ## Others
 * Empowering smart buildings with self-sensing concrete for structural health monitoring, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270) (NO ML)
