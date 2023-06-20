@@ -62,7 +62,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [Benchmarks (Samiul)](#training-benchmarks)
     - [Offloading (DONE)](#offloading)
     - [Model Deployment on the Edge (DONE)](#model-deployment-on-the-edge)
-    - [Automated Machine Learning for AIoT (DONE)](#automated-machine-learning-for-aiot)
+    - [Automated Machine Learning for AIoT (Shen Yan)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT (DONE)](#compiler-for-aiot)
   - [Networking and Communication (Led by Zhichao)](#networking-and-communication)
   - [Security and Privacy (Led by Zhichao)](#security-and-privacy)
