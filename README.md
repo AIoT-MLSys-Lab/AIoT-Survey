@@ -73,7 +73,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [AIoT Systems for Video Streaming and Analytics (Siam)](#aiot-systems-for-video-streaming-and-analytics)
     - [AIoT Systems for Autonomous Driving](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (Siam)](#aiot-systems-for-ar/vr/mr)
-    - [AIoT Systems for Drones (Checked by MZ)](#aiot-systems-for-drones)
+    - [AIoT Systems for Drones (DONE)](#aiot-systems-for-drones)
     - [AIoT Systems for Agriculture (DONE)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (DONE)](#aiot-systems-for-biology)
     	
