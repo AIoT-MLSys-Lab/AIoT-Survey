@@ -70,7 +70,7 @@ Majority of the included papers are published at top-tier venues in the areas of
   - [Security and Privacy (Led by Zhichao)](#security-and-privacy)
   - [AIoT Systems and their Applications ()](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing ()](#aiot-systems-for-healthcare-and-wellbeing)
-    - [AIoT Systems for Video Streaming and Analytics ()](#aiot-systems-for-video-streaming-and-analytics)
+    - [AIoT Systems for Video Streaming and Analytics (62)](#aiot-systems-for-video-streaming-and-analytics)
     - [AIoT Systems for Autonomous Driving ()](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (35)](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (19)](#aiot-systems-for-drones)
@@ -1120,7 +1120,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586962)
 * Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
 
-### AIoT Systems for Video Streaming and Analytics (Total: 35) 							
+### AIoT Systems for Video Streaming and Analytics (Total: 62) 							
 * Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-zhuqi.pdf) (NO ML)
 * Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-padmanabhan.pdf) [[code]](https://github.com/artpad6/gemel_nsdi23)
 * Enabling High Quality Real-Time Communications with Adaptive Frame-Rate, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-meng.pdf) (NO ML)
