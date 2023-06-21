@@ -69,7 +69,7 @@ Majority of the included papers are published at top-tier venues in the areas of
   - [Networking and Communication (Led by Zhichao)](#networking-and-communication)
   - [Security and Privacy (Led by Zhichao)](#security-and-privacy)
   - [AIoT Systems and their Applications ()](#aiot-systems-and-their-applications)
-    - [AIoT Systems for Healthcare and Wellbeing ()](#aiot-systems-for-healthcare-and-wellbeing)
+    - [AIoT Systems for Healthcare and Wellbeing (38)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Streaming and Analytics (62)](#aiot-systems-for-video-streaming-and-analytics)
     - [AIoT Systems for Autonomous Driving ()](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (35)](#aiot-systems-for-ar/vr/mr)
