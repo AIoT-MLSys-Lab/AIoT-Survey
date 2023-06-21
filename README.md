@@ -1077,6 +1077,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 ## AIoT Systems and their Applications	
 							
 ### AIoT Systems for Healthcare and Wellbeing	
+* ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586962)
 * A Low-Cost In-situ System for Continuous Multi-Person Fever Screening, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a015/962400a015.pdf)
 * Network-side digital contact tracing on a large university campus, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2201.10641.pdf) (NO ML)
 * PROS: an Efficient Pattern-Driven Compressive Sensing Framework for Low-Power Biopotential-based Wearables with On-chip Intelligence, MobiCom 22 [[Paper]](https://theyoungkwon.github.io/papers/articles/pham_pros_mobicom22.pdf)
@@ -1093,32 +1094,31 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://www.ece.sunysb.edu/~slin/Publications/MOBICOM2020.pdf)
 * Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO	ML)	
 * SpiroSonic: monitoring human lung function via acoustic sensing on commodity smartphones, MobiCom 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom20.pdf)
+* RehabPhone: A Sotware-Defined Tool using 3D Printing and Smartphones for Personalized Home-based Rehabilitation, MobiSys 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2020a.pdf) (NO ML)
 * Contactless seismocardiography via deep learning radars, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419982)
 * Painometry: Wearable and Objective Quantification System for Acute Postoperative Pain, MobiSys 20 [[Paper]](http://mnslab.org/tamvu/paper/2020%20Painometry_Hoang.pdf)
 * RFWash: A Weakly Supervised Tracking of Hand Hygiene Technique, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430733)
 * Contactless Infant Monitoring using White Noise,		MobiCom	19	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/whitenoise.pdf)	(NO	ML)	
+* pH Watch - Leveraging Pulse Oximeters in Existing Wearables for Reusable, Real-time Monitoring of pH in Sweat, MobiSys 19 [[Paper]](https://anantabalaji.github.io/projects/pH_watch/pH_watch.pdf) (NO ML)
 * Experience: Design, Development and Evaluation of a Wearable Device for mHealth Applications, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345432) (NO ML)
 * HealthSense: Software-defined Mobile-based Clinical Trials, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345433) (Best Paper)
 * PDVocal: Towards Privacy-preserving Parkinson's Disease Detection using Non-speech Body Sounds, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300125)
 * SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300117)
 * VitaMon: measuring heart rate variability using smartphone front camera, SenSys 19 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5936&context=sis_research)
+* Experience: Cross-Technology Radio Respiratory Monitoring Performance Study, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241560) (NO ML)
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images, MobiSys 17 [[Paper]](https://mi-zhang.github.io/papers/2017_MobiSys_MobileDeepPill.pdf)	
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,		SenSys	17	[[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693)
-* BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf)
 * Glasses for the Third Eye: Improving the Quality of Clinical Data Analysis with Motion Sensor-based Data Filtering, SenSys 17 [[Paper]](http://nsl.cau.ac.kr/~jpaek/docs/medisense-sensys2017-published.pdf)
 * mCerebrum: A Mobile Sensing Software Platform for Development and Validation of Digital Biomarkers and Interventions, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131694)
+* iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://iwct.sjtu.edu.cn/personal/xtian/paper/2017-mobisys-iBlink.pdf) (NO ML)
 * Monitoring a Person's Heart Rate and Respiratory Rate on a Shared Bed Using Geophones, SenSys 17 [[Paper]](https://www.cs.virginia.edu/~bjc8c/class/cs6501-f18/papers/jia17geophones.pdf)
 * PhO2: Smartphone based Blood Oxygen Level Measurement Systems using Near-IR and RED Wave-guided Light, SenSys 17 [[Paper]](https://mobile.cs.gsu.edu/aashok/Papers/12_2017_SenSys.pdf)
-* Toothbrushing Monitoring using Wrist Watch, SenSys 16 [[Paper]](http://www.ece.sunysb.edu/~slin/Publications/sensys2016-final90.pdf)
 * Monoxalyze: Verifying Smoking Cessation with a Keychain-sized Carbon Monoxide Breathalyzer, SenSys 16 [[Paper]](https://web.eecs.umich.edu/~prabal/pubs/papers/adkins16monoxalyze.pdf) (NO ML)
 * Burnout: A Wearable System for Unobtrusive Skeletal Muscle Fatigue Estimation, IPSN 16 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper21.pdf)
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
-* Experience: Cross-Technology Radio Respiratory Monitoring Performance Study, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241560) (NO ML)
-* iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://iwct.sjtu.edu.cn/personal/xtian/paper/2017-mobisys-iBlink.pdf) (NO ML)
-* pH Watch - Leveraging Pulse Oximeters in Existing Wearables for Reusable, Real-time Monitoring of pH in Sweat, MobiSys 19 [[Paper]](https://anantabalaji.github.io/projects/pH_watch/pH_watch.pdf) (NO ML)
-* RehabPhone: A Sotware-Defined Tool using 3D Printing and Smartphones for Personalized Home-based Rehabilitation, MobiSys 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2020a.pdf) (NO ML)
-* ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586962)
-* Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
+* BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf)
+
+
 
 ### AIoT Systems for Video Streaming and Analytics (Total: 62) 							
 * Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-zhuqi.pdf) (NO ML)
@@ -1335,6 +1335,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SmartLens: Sensing Eye Activities Using Zero-power Contact Lens, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532) (NO	ML)	
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
+* Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
 
 
 
