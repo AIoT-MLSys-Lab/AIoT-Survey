@@ -1341,7 +1341,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Animal-Borne Anti-Poaching System, MobiSys 19 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326080) (NO ML)
 * My Being to Your Place, Your Being to My Place: Co-present Robotic Avatars Create Illusion of Living Together, MobiSys 18 [[Paper]](https://nclab.kaist.ac.kr/files/papers/Conference/mobisys18-final240.pdf)
 * Eclipse: An End-to-End Platform for Low-Cost, Hyperlocal Environmental Sensing in Cities, IPSN 22 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/ACM_2022-IPSN_FINAL_Eclipse.pdf)
-* SmartLens: Sensing Eye Activities Using Zero-power Contact Lens,		MobiCom	22	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532)	(NO	ML)	
+* SmartLens: Sensing Eye Activities Using Zero-power Contact Lens, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532) (NO	ML)	
 
 
 
