@@ -241,7 +241,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (ML)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML)
 
-### Acoustic Sensing							
+### Acoustic Sensing (Total: xx | No ML(x) | ML(x) | DL(11))					
 * VeCare: Statistical Acoustic Sensing for Automotive In-Cabin Monitoring, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yi.pdf) (NO ML)
 * Acoustic Sensing and Communication Using Metasurface, NSDI	23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf) (ML)
 * Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586954) (NO ML)
