@@ -248,7 +248,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Sign,	UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3517253) (NO ML)	
 * MOM: Microphone based 3D Orientation Measurement, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a120/962400a120.pdf) (NO ML)
 * MiLTOn: Sensing Product Integrity without Opening the Box using Non-Invasive Acoustic Vibrometry, IPSN 22 [[Paper]](https://swarunkumar.com/papers/milton-ipsn2022.pdf)
-* AvA: An Adaptive Audio Filtering Architecture for Enhancing Mobile, Embedded, and Cyber-Physical Systems, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a106/962400a106.pdf (ML)
+* AvA: An Adaptive Audio Filtering Architecture for Enhancing Mobile, Embedded, and Cyber-Physical Systems, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a106/962400a106.pdf) (ML)
 * Experience: practical problems for acoustic sensing,	MobiCom	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560527)(NO ML)				
 * SPiDR: ultra-low-power acoustic spatial sensing for micro-robot navigation,	MobiSys	22	[[Paper]](https://www.cs.umd.edu/~nakul/assets/papers/spidr_mobisys2022_nakul.pdf) (NO ML) (Best Paper)
 * SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568534) (DL)
