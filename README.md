@@ -367,15 +367,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Non-Intrusive Multi-Modal Estimation of Building Occupancy, SenSys 17 [[Paper]](http://www.phpathak.com/files/occupancy-sensys.pdf) (ML)
 * Indoor localization via multi-modal sensing on smartphones, UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668) (ML)
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf) (ML)
-
-### GNSS
-* Extracting 3D Maps from Crowdsourced GNSS Skyview Data, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3345456) (NO ML)
-* SnapperGPS: Algorithms for Energy-Efficient Low-Cost Location Estimation Using GNSS Signal Snapshots, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485931) (NO ML)
-* Gnome: A Practical Approach to NLOS Mitigation for GPS Positioning in Smartphones, MobiSys 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/mobisys18-gnome.pdf) (NO ML)
-* BikeGPS: Accurate Localization of Shared Bikes in Street Canyons via Low-Level GPS Cooperation, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210316) (NO ML)
-* SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
-* SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
-* Indoor Localization with Aircraft Signals, SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131698) (NO ML)
 	
 ### Others
 * FabToys: plush toys with large arrays of fabric-based pressure sensors to enable fine-grained interaction detection, MobiSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/FabToy-MobiSys22.pdf)
@@ -1342,6 +1333,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * My Being to Your Place, Your Being to My Place: Co-present Robotic Avatars Create Illusion of Living Together, MobiSys 18 [[Paper]](https://nclab.kaist.ac.kr/files/papers/Conference/mobisys18-final240.pdf)
 * Eclipse: An End-to-End Platform for Low-Cost, Hyperlocal Environmental Sensing in Cities, IPSN 22 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/ACM_2022-IPSN_FINAL_Eclipse.pdf)
 * SmartLens: Sensing Eye Activities Using Zero-power Contact Lens, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532) (NO	ML)	
+* SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
+* SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 
 
 
