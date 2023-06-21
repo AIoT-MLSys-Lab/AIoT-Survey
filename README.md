@@ -1153,10 +1153,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586962)
 * Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
 
-
-
-
-
 ### AIoT Systems for Video Streaming and Analytics 							
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,		MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam)	
 * AccMPEG: Optimizing Video Encoding for Video Analytics, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/98f13708210194c475687be6106a3b84-Paper.pdf)
@@ -1224,15 +1220,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * VideoChef: Efficient Approximation for Streaming Video Processing Pipelines, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-xu-ran.pdf)
 * Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-meng.pdf)
 * LiteReconfig: Cost and Content Aware Reconfiguration of Video Object Detection Systems for Mobile GPUs, EuroSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577)
-
-
-
-
-
-
-
-
-
 
 ### AIoT Systems for Autonomous Driving					
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups)
