@@ -32,7 +32,7 @@ https://sites.google.com/view/osu-aiot-seminar
 ## AIoT Paper List Organized by Topics
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
-  - [Sensing (Led by MZ)](#sensing)
+  - [Sensing ()](#sensing)
     - [Motion Sensing (10) (Siam)](#motion-sensing)
     - [Wireless Sensing](#wireless-sensing)
     	- [RFID Sensing (DONE)](#rfid-sensing)
@@ -68,11 +68,11 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Compiler for AIoT (18)](#compiler-for-aiot)
   - [Networking and Communication (Led by Zhichao)](#networking-and-communication)
   - [Security and Privacy (Led by Zhichao)](#security-and-privacy)
-  - [AIoT Systems and their Applications (Led by MZ)](#aiot-systems-and-their-applications)
-    - [AIoT Systems for Healthcare and Wellbeing (Siam)](#aiot-systems-for-healthcare-and-wellbeing)
-    - [AIoT Systems for Video Streaming and Analytics (Siam)](#aiot-systems-for-video-streaming-and-analytics)
-    - [AIoT Systems for Autonomous Driving](#aiot-systems-for-autonomous-driving)
-    - [AIoT Systems for AR/VR/MR (35) (Siam)](#aiot-systems-for-ar/vr/mr)
+  - [AIoT Systems and their Applications ()](#aiot-systems-and-their-applications)
+    - [AIoT Systems for Healthcare and Wellbeing ()](#aiot-systems-for-healthcare-and-wellbeing)
+    - [AIoT Systems for Video Streaming and Analytics ()](#aiot-systems-for-video-streaming-and-analytics)
+    - [AIoT Systems for Autonomous Driving ()](#aiot-systems-for-autonomous-driving)
+    - [AIoT Systems for AR/VR/MR (35)](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (19)](#aiot-systems-for-drones)
     - [AIoT Systems for Agriculture (9)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (6)](#aiot-systems-for-biology)
