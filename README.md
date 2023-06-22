@@ -70,8 +70,8 @@ Majority of the included papers are published at top-tier venues in the areas of
   - [Security and Privacy (Led by Zhichao)](#security-and-privacy)
   - [AIoT Systems and their Applications (X)](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (38)](#aiot-systems-for-healthcare-and-wellbeing)
-    - [AIoT Systems for Video Streaming (X)](#aiot-systems-for-video-streaming)
-    - [AIoT Systems for Video Analytics (X)](#aiot-systems-for-video-analytics)
+    - [AIoT Systems for Video Streaming (39)](#aiot-systems-for-video-streaming)
+    - [AIoT Systems for Video Analytics (22)](#aiot-systems-for-video-analytics)
     - [AIoT Systems for Autonomous Driving (X)](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (35)](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (19)](#aiot-systems-for-drones)
@@ -1119,7 +1119,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf)
 
-### AIoT Systems for Video Streaming (Total: xx | No ML(x) | ML(x) | DL(x))
+### AIoT Systems for Video Streaming (Total: 39 | No ML(16) | ML(7) | DL(16))
 * Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-zhuqi.pdf) (NO ML)
 * Enabling High Quality Real-Time Communications with Adaptive Frame-Rate, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-meng.pdf) (NO ML)
 * Tambur: Efficient loss recovery for videoconferencing via streaming codes, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-rudow.pdf) (DL)
@@ -1161,10 +1161,10 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * CFA: A Practical Prediction System for Video QoE Optimization, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-jiang-junchen.pdf) (ML)
 
 
-### AIoT Systems for Video Analytics (Total: xx | No ML(x) | ML(x) | DL(x))							
+### AIoT Systems for Video Analytics (Total: 22 | No ML(3) | ML(0) | DL(19))							
 * Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-padmanabhan.pdf) [[code]](https://github.com/artpad6/gemel_nsdi23) (DL)
 * Boggart: Towards General-Purpose Acceleration of Retrospective Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-agarwal-neil.pdf) (DL)
-* RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf)
+* RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf) (DL)
 * Privid: Practical, Privacy-Preserving Video Analytics Queries, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-cangialosi.pdf) (DL)
 * Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-bhardwaj.pdf) (DL)
 * CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-hwang.pdf) (DL)
