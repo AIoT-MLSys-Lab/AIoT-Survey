@@ -1193,7 +1193,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * EMP: Edge-assisted Multi-vehicle Perception, MobiCom 21 [[Paper]](https://xiaoshawnzhu.github.io/emp-mobicom21.pdf)
 * Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving, SenSys 22 [[Paper]](https://www.acsu.buffalo.edu/~yzhu39/Yi_Zhu_homepage_files/papers/SenSys22.pdf)
 * Large-Scale Vehicle Trajectory Reconstruction with Camera Sensing Network, MobiCom 21 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_21_1.pdf)
-* Electric Vehicle Battery Energy Information is Enough to Track You, IPSN 20 [[Paper]](https://engineering.virginia.edu/sites/default/files/common/departments/computer-science/files/Shen-Electric%20Vehicle%20Battery%20Energy%20Information%20is%20Enough%20to%20Track%20You_IPSN2020.pdf)
 * Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419208)
 * Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach, MobiCom 20 [[Paper]](https://soar.group/pubs/RetroI2V.MobiCom20.pdf) (NO ML)
 * Wi-Go: Accurate and Scalable Vehicle Positioning using WiFi Fine Timing Measurement, MobiSys 20 [[Paper]](https://www.andrew.cmu.edu/user/miahmed/papers/wi-go_mobisys.pdf) (NO ML)
