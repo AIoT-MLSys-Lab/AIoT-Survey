@@ -68,7 +68,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Automated Machine Learning for AIoT (10) (Shen)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT (18)](#compiler-for-aiot)
   - [Networking and Communication (Led by Zhichao)](#networking-and-communication)
-  - [Security and Privacy (Led by Zhichao)](#security-and-privacy)
+  - [Security and Privacy (Will be removed)](#security-and-privacy)
   - [AIoT Systems and their Applications (X)](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (38)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Streaming (39)](#aiot-systems-for-video-streaming)
