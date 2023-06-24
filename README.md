@@ -1221,7 +1221,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * CarMap: Fast 3D Feature Map Updates for Automobiles, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ahmad.pdf)
 * The Architectural Implications of Autonomous Driving: Constraints and Acceleration, ASPLOS 18 [[Paper]](https://people.computing.clemson.edu/~jmarty/projects/lowLatencyNetworking/papers/EmergingApplicationSystems/AutonomousVehicles/AutonomousCarConstraints.pdf)
 
-### AIoT Systems for AR/VR/MR (Total: xx | No ML(x) | ML(x) | DL(x))
+### AIoT Systems for AR/VR/MR (Total: 35 | No ML(19) | ML(4) | DL(12))
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception, NSDI	23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki) (NO ML)
 * Cyclops: an FSO-based wireless link for VR headsets, SIGCOMM 22 [[Paper]](http://www.contrib.andrew.cmu.edu/~malleshd/papers/sigcomm-2022-paper.pdf) (NO ML)
 * Multi-User Augmented Reality with Infrastructure-free Collaborative Localization, IPSN 22 [[Paper]](https://arxiv.org/pdf/2111.00174.pdf) (NO ML)
