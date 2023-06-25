@@ -1024,25 +1024,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Defensive Approximation: Securing CNNs using Approximate Computing, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2006.07700.pdf)
 * Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving, SenSys 22 [[Paper]](https://www.acsu.buffalo.edu/~yzhu39/Yi_Zhu_homepage_files/papers/SenSys22.pdf)
 
-### Key
-* Pairing IoT Devices with Spatial Keys, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a159/962400a159.pdf) (NO ML)
-* i^2Key: A Cross-sensor Symmetric Key Generation System using Inertial Measurements and Inaudible Sound, IPSN 21 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a171/962400a171.pdf) (NO ML)
-* H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration, IPSN 19 [[Paper]](https://arxiv.org/pdf/1904.00750.pdf)
-
-### Encryption
-* Encrypted cloud photo storage using Google photos, MobiSys 21 [[Paper]](https://www.cs.columbia.edu/~nieh/pubs/mobisys2021_esp.pdf) (NO ML)
-* Kryptein: A Compressive-Sensing-Based Encryption Scheme for the Internet of Things, IPSN 17 [[Paper]](https://ieeexplore.ieee.org/document/7944788) (NO ML)
-* PrOLoc: Resilient Localization with Private Observers Using Partial Homomorphic Encryption, IPSN 17 [[Paper]](https://ieeexplore.ieee.org/document/7944778) (NO ML)
-* Secure Sharing of Partially Homomorphic Encrypted IoT Data, SenSys 17 [[Paper]](http://www.vs.inf.ethz.ch/publ/papers/mshafagh_SenSys17_Pilatus.pdf) (NO ML)
-* Opaque: An Oblivious and Encrypted Distributed Analytics Platform, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zheng.pdf)
-* TimeCrypt: Encrypted Data Stream Processing at Scale with Cryptographic Access Control, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-burkhalter.pdf)
-* Client-optimized algorithms and acceleration for encrypted compute offloading	,	ASPLOS	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)	
-
-### Spoofing/Sniffing
-* Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures, MobiCom 16 [[Paper]](https://lenders.ch/publications/conferences/mobicom16.pdf) (NO ML)
-* SPREE: A Spoofing Resistant GPS Receiver, MobiCom 16 [[Paper]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2016/spoof-detector.pdf) (NO ML)
-* Practical Bluetooth Traffic Sniffing: Systems and Privacy Implications, MobiSys 16 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/blueear16mobisys.pdf)
-* Keyboard Snooping from Mobile Phone Arrays with Mixed Convolutional and Recurrent Neural Networks, UbiComp 19 [[Paper]](https://s2.smu.edu/~eclarson/pubs/2019Keyboard.pdf)
 
 ### Authenticate
 * Secure and Authorized Client-to-Client Communication for LwM2M, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.03450.pdf) (NO ML)
