@@ -73,7 +73,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [AIoT Systems for Healthcare and Wellbeing (38)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Streaming (39)](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22)](#aiot-systems-for-video-analytics)
-    - [AIoT Systems for Autonomous Driving (X)](#aiot-systems-for-autonomous-driving)
+    - [AIoT Systems for Autonomous Driving (31)](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (35)](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (19)](#aiot-systems-for-drones)
     - [AIoT Systems for Agriculture (9)](#aiot-systems-for-agriculture)
@@ -1136,7 +1136,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * ViewMap: Sharing Private In-Vehicle Dashcam Videos, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kim-minho.pdf) (NO ML)
 * Live Video Analytics at Scale with Approximation and Delay-Tolerance, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zhang.pdf) (DL)
 
-### AIoT Systems for Autonomous Driving	(Total: xx | No ML(x) | ML(x) | DL(x))				
+### AIoT Systems for Autonomous Driving (Total: 31 | No ML(16) | ML(3) | DL(12))			
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups) (DL)
 * Mosaic: leveraging diverse reflector geometries for omnidirectional around-corner automotive radar, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538944) (NO ML)
 * AutoCast: scalable infrastructure-less cooperative perception for distributed collaborative driving, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538925) (NO ML)
