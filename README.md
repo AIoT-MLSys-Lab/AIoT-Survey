@@ -1009,11 +1009,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-tan.pdf) (NO ML)
 * Addra: Metadata-private voice communication over fully untrusted infrastructure, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-ahmad.pdf) (NO ML)
 * DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints, ASPLOS 20 [[Paper]](https://seal.ece.ucsb.edu/sites/default/files/publications/clean_project_asplos_cr_xing_3.pdf)
-* Game of Threads: Enabling Asynchronous Poisoning Attacks, ASPLOS 20 [[Paper]](https://rp8.web.engr.illinois.edu/papers/apa-asplos2020.pdf)
-* Protecting Adaptive Sampling from Information Leakage on Low-Power Sensors, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507775)
-* Soteria: Automated IoT Safety and Security Analysis, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) (NO ML)
-* Defensive Approximation: Securing CNNs using Approximate Computing, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2006.07700.pdf)
-* Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving, SenSys 22 [[Paper]](https://www.acsu.buffalo.edu/~yzhu39/Yi_Zhu_homepage_files/papers/SenSys22.pdf)
+
 
 
 ### Authenticate
@@ -1290,7 +1286,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 * Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
 * MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://www.ece.sunysb.edu/~slin/Publications/MOBICOM2020.pdf)
-* Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO	ML)	
+* Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO ML)	
 
 
 
