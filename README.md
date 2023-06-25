@@ -1258,7 +1258,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Ultra-Low Power Gaze Tracking for Virtual Reality, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131682) (ML)
 * FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (NO ML)
 
-### AIoT Systems for Drones (Total: xx | No ML(x) | ML(x) | DL(x))
+### AIoT Systems for Drones (Total: 19 | No ML(16) | ML(1) | DL(2))
 * Placement Optimization for UAV-Enabled Wireless Networks with Multi-Hop Backhauls in Urban Environments, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a054/962400a054.pdf) (NO ML)
 * Wi-Drone: Wi-Fi-based 6-DoF Tracking for Indoor Drone Flight Control, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538936) (NO ML)
 * Reverse Engineering and Retrofitting Robotic Aerial Vehicle Control Firmware using DisPatch, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538938) (NO ML)
