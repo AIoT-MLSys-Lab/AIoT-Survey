@@ -95,7 +95,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Wireless Sensing
 
-#### RFID Sensing
+#### RFID Sensing (Total: xx | No ML(x) | ML(x) | DL(x))
 * RF-DNA: Large-Scale Physical-layer Identifications of RFIDs via Dual Natural Attributes, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517028)
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
 * A Passive Eye-in-Hand “Camera” for Minature Robots, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568505)
@@ -173,7 +173,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition,	SenSys	20 [[Paper]](https://arxiv.org/pdf/2111.04566.pdf)		
 * 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf)
 
-#### mmWave Sensing
+#### mmWave Sensing (Total: xx | No ML(x) | ML(x) | DL(x))
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
 * Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (NO ML)
 * mmEve: Eavesdropping on Smartphone's Earpiece via COTS mmWave Device, MobiCom 22 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2022.pdf)
@@ -194,7 +194,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * mmVib: micrometer-level vibration measurement with mmwave radar, MobiCom 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf)
 * Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "Phase Carriers", IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586965) (NO ML)
 
-#### TeraHertz Sensing
+#### TeraHertz Sensing (Total: xx | No ML(x) | ML(x) | DL(x))
 * Quasi-Optical 3D localization using Asymmetric Signatures above 100 GHz, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517022) (NO ML)
 * LeakyTrack: Non-Coherent Single-Antenna Nodal and Environmental Mobility Tracking with a Leaky-Wave Antenna, SenSys 20 [[Paper]](https://www.brown.edu/research/labs/mittleman/sites/brown.edu.research.labs.mittleman/files/uploads/SenSys_2020.pdf) (NO ML)
 
@@ -214,7 +214,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Harmonium: Asymmetric, Bandstitched UWB for Fast, Accurate, and Robust Indoor Localization, IPSN 16 [[Paper]](https://patpannuto.com/pubs/kempke16harmonium.pdf) (NO ML)
 * Calibration-Free Network Localization using Non-Line-of-Sight Ultra-Wideband Measurements, IPSN 17 [[Paper]](https://web.eecs.umich.edu/~prabal/pubs/papers/di_franco17nlos.pdf)
 
-#### Bluetooth Sensing
+#### Bluetooth Sensing (Total: xx | No ML(x) | ML(x) | DL(x))
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution)
 * BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection, IPSN 21 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/billah21blecansee.pdf)
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf)
