@@ -172,25 +172,23 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 
 
-#### mmWave Sensing (Total: xx | No ML(x) | ML(x) | DL(x))
-* SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf)
-* Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (NO ML)
-* mmEve: Eavesdropping on Smartphone's Earpiece via COTS mmWave Device, MobiCom 22 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2022.pdf)
+#### mmWave Sensing (Total: 17 | No ML(6) | ML(3) | DL(8))
+* SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf) (DL)
 * Augmenting mmWave localization accuracy through sub-6 GHz on off-the-shelf devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538920) (NO ML)
-* m3Track: mmWave-based Multi-User 3D Posture Tracking, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538926)
-* M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects	,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568545)	
-* Synthesized Millimeter-Waves for Human Motion Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568542)
-* Dancing Waltz with Ghosts: Measuring Sub-𝑚𝑚-Level 2D Rotor Orbit with a Single mmWave Radar, IPSN 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/GWaltz_IPSN2021.pdf)
-* mmMesh: towards 3D real-time dynamic human mesh construction using millimeter-wave, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467679)
+* m3Track: mmWave-based Multi-User 3D Posture Tracking, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538926) (DL)
+* M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568545) (DL)
+* Synthesized Millimeter-Waves for Human Motion Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568542) (DL)
+* Dancing Waltz with Ghosts: Measuring Sub-𝑚𝑚-Level 2D Rotor Orbit with a Single mmWave Radar, IPSN 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/GWaltz_IPSN2021.pdf) (ML)
+* mmMesh: towards 3D real-time dynamic human mesh construction using millimeter-wave, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467679) (DL)
 * Millimetro: mmWave Retro-Reflective Tags for Accurate, Long Range Localization, MobiCom21 [[Paper]](https://swarunkumar.com/papers/millimetro-mobicom2021.pdf) (NO ML)
-* ThermoWave: A New Paradigm of Wireless Passive Temperature Monitoring via mmWave Sensing, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020b.pdf) (NO ML)
-* See through smoke: robust indoor mapping with low-cost mmWave radar,	MobiSys	20 [[Paper]](https://arxiv.org/pdf/1911.00398.pdf)
-* Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf)	
-* WaveEar: Exploring a mmWave-based Noise-resistant Speech Sensing for Voice-User Interface, MobiSys 19 [[Paper]](https://www.acsu.buffalo.edu/~huiningl/papers/waveear2019.pdf)	
-* FerroTag: a paper-based mmWave-scannable tagging infrastructure, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360019) (Best Paper)
+* ThermoWave: A New Paradigm of Wireless Passive Temperature Monitoring via mmWave Sensing, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020b.pdf) (DL)
+* See through smoke: robust indoor mapping with low-cost mmWave radar,	MobiSys	20 [[Paper]](https://arxiv.org/pdf/1911.00398.pdf) (DL)
+* Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf) (ML)
+* WaveEar: Exploring a mmWave-based Noise-resistant Speech Sensing for Voice-User Interface, MobiSys 19 [[Paper]](https://www.acsu.buffalo.edu/~huiningl/papers/waveear2019.pdf) (DL)
+* FerroTag: a paper-based mmWave-scannable tagging infrastructure, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360019) (Best Paper) (ML)
 * LiSteer: mmWave Beam Acquisition and Steering by Tracking Indicator LEDs on Wireless APs, MobiCom 18 [[Paper]](https://dl.acm.org/doi/10.1145/3241539.3241542) (NO ML)
-* Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852)
-* mmVib: micrometer-level vibration measurement with mmwave radar, MobiCom 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf)
+* Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852) (NO ML)
+* mmVib: micrometer-level vibration measurement with mmwave radar, MobiCom 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf) (NO ML)
 * Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "Phase Carriers", IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586965) (NO ML)
 
 #### TeraHertz Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
@@ -992,6 +990,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Addra: Metadata-private voice communication over fully untrusted infrastructure, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-ahmad.pdf) (NO ML)
 * DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints, ASPLOS 20 [[Paper]](https://seal.ece.ucsb.edu/sites/default/files/publications/clean_project_asplos_cr_xing_3.pdf)
 * Eingerprint: Robust Energy-related Fingerprinting for Passive RFID Tags, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf) (NO ML)
+* mmEve: Eavesdropping on Smartphone's Earpiece via COTS mmWave Device, MobiCom 22 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2022.pdf) (DL)
+
 
 ### Authenticate
 * FaceRevelio: a face liveness detection system for smartphones with a single front camera, MobiCom 20 [[Paper]](https://habiba-farrukh.github.io/files/FaceRevelio.pdf) (DL)
@@ -1008,6 +1008,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Taprint: Secure Text Input for Commodity Smart Wristbands, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300124)
 * Trust but Verify: Auditing the Secure Internet of Things, MobiSys 17 [[Paper]](https://people.csail.mit.edu/henrycg/files/academic/papers/mobisys17tlsrar.pdf) (NO ML)
 * MagSnoop: Listening to Sounds Induced by Magnetic Field Fluctuations to Infer Mobile Payment Tokens, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538937)
+* Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (ML)
 
 
 ## AIoT Systems and their Applications	
