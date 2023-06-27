@@ -34,7 +34,7 @@ https://sites.google.com/view/osu-aiot-seminar
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
   - [Sensing (250)](#sensing)
-    - [Motion Sensing (10) (Siam)](#motion-sensing)
+    - [Motion Sensing (10/7) (Siam)](#motion-sensing)
     - [Wireless Sensing (107)](#wireless-sensing)
     	- [RFID Sensing (26)](#rfid-sensing)
     	- [Wi-Fi Sensing (45)](#wi-fi-sensing)
