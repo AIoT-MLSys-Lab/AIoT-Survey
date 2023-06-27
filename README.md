@@ -920,7 +920,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 ## Security and Privacy	
 
 * Furtively Connecting IoT Devices with Acoustic Noise, IPSN 22 [[Paper]](https://ieeexplore.ieee.org/document/9826085/keywords#keywords) (NOML)
- * Enabling Secure Touch-to-Access Device Pairing based on Human Body’s Electrical Response, MobiCom 22 [[Paper]](https://taogu.site/pub/paper/Device_Pairing.pdf)
+* Enabling Secure Touch-to-Access Device Pairing based on Human Body’s Electrical Response, MobiCom 22 [[Paper]](https://taogu.site/pub/paper/Device_Pairing.pdf)
 * Non-Cooperative Wi-Fi Localization & its Privacy Implications, MobiCom 22 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/WiPeep_Mobicom2022.pdf) (NO ML)
 * Vronicle: verifiable provenance for videos from mobile devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538943)
 * TEO: ephemeral ownership for IoT devices to provide granular data control, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3539774)
@@ -929,7 +929,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508)	
 * Notification Privacy Protection via Unobtrusive Gripping Hand Verification Using Media Sounds, MobiCom 21 [[Paper]](https://csc.lsu.edu/~chenwang/source_files/mobicom2021notificaiton.pdf)
 * Face-Mic: Inferring Live Speech and Speaker Identity via Subtle Facial Dynamics Captured by AR/VR Motion Sensors, MobiCom 21 [[Paper]](https://www.winlab.rutgers.edu/~yychen/papers/FaceMic.pdf)
-* FastZIP: faster and more secure zero-interaction pairing	,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467883)	(NO	ML)
 * LensCap: split-process framework for fine-grained visual privacy control for augmented reality apps, MobiSys 21 [[Paper]](https://meteor.ame.asu.edu/publications/LensCap_mobisys21.pdf)	
 * Rushmore: securely displaying static and animated images using TrustZone, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467887) (NO ML)
 * Sniffing Visible Light Communication Through Walls,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419187)	(NO ML) ( Honourable Mention Award)	
@@ -968,10 +967,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Keep Others from Peeking at Your Mobile Device Screen!, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300119) (NO ML)
 * mQRCode: Secure QR Code Using Nonlinearity of Spatial Frequency in Light, MobiCom 19 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobicom19_pan.pdf) (NO ML)
 * PECAM: Privacy-Enhanced Video Streaming and Analytics via Securely-Reversible Transformation, MobiCom 21 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/mobicom21-final80.pdf)
-* A Nationwide Census on WiFi Security Threats: Prevalence, Riskiness, and the Economics, MobiCom 21 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/wifisec_mobicom21.pdf)
-* AdaptOver: Adaptive Overshadowing Attacks in Cellular Networks, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2106.05039.pdf)
-* Uncovering Insecure Designs of Cellular Emergency Services (911), MobiCom 21 [[Paper]](https://www.cse.msu.edu/~ghtu/published-papers/Hu-MobiCom22.pdf)
-* Discovering Emergency Call Pitfalls for Cellular Networks with Formal Methods, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466625) (NO ML)
 * StreamingTag: A Scalable Piracy Tracking Solution for Mobile Streaming Services, MobiCom 22 [[Paper]](https://people.gix.tsinghua.edu.cn/dangfan/publication/mobicom22-streaming-tag/mobicom22-streaming-tag.pdf) (NO ML)
 * Protego: securing wireless communication via programmable metasurface, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560547) (NO ML)
 * Defending against Sybil Devices in Crowdsourced Mapping Services, MobiSys 16 [[Paper]](https://people.cs.vt.edu/~gangwang/waze_dat16.pdf) (NO ML)
@@ -987,7 +982,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Practical GAN-based Synthetic IP Header Trace Generation using NetShare, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544251)
 * PhyCloak: Obfuscating Sensing from Communication Signals, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-qiao.pdf) (NO ML) (Best Student Paper)
 * Prio: Private, Robust, and Scalable Computation of Aggregate Statistics, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-corrigan-gibbs.pdf)
-* Inaudible Voice Commands: The Long-Range Attack and Defense, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-roy.pdf)
 * Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf) (NO ML)
 * EarFisher: Detecting Wireless Eavesdroppers by Stimulating and Sensing Memory EMR, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-shen.pdf)
 * Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-liu-zikun.pdf)
@@ -996,8 +990,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Addra: Metadata-private voice communication over fully untrusted infrastructure, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-ahmad.pdf) (NO ML)
 * DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints, ASPLOS 20 [[Paper]](https://seal.ece.ucsb.edu/sites/default/files/publications/clean_project_asplos_cr_xing_3.pdf)
 * Eingerprint: Robust Energy-related Fingerprinting for Passive RFID Tags, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf) (NO ML)
-
-
 
 ### Authenticate
 * FaceRevelio: a face liveness detection system for smartphones with a single front camera, MobiCom 20 [[Paper]](https://habiba-farrukh.github.io/files/FaceRevelio.pdf) (DL)
