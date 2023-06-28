@@ -95,7 +95,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Wireless Sensing
 
-#### RFID Sensing (Total: 26 | No ML(20) | ML(1) | DL(6))
+#### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(6))
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
 * A Passive Eye-in-Hand “Camera” for Minature Robots, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568505) (NO ML)
 * Thermotag: item-level temperature sensing with a passive RFID tag, MobiSys 21 [[Paper]](https://cs.nju.edu.cn/liujia/papers/mobisys21-themotag.pdf) (NO ML)
@@ -105,6 +105,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sensing Finger Input Using An RFID Transmission Line, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430712) (NO ML)
 * RTSense: RFID based Temperature Sensing, SenSys 20 [[Paper]](https://www.swadhinpradhan.com/papers/rtsense.pdf) (NO ML)
 * 3D-OmniTrack: 3D Tracking with COTS RFID Systems, IPSN 19 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2019.4.pdf) (NO ML)
+* 3D Backscatter Localization for Fine-Grained Robotics, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-luo.pdf) (ML)
 * Are RFID Sensing Systems Ready for the Real World?, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326084) (NO ML)
 * RFID based real-time recognition of ongoing gesture with adversarial learning, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360045) (DL)
 * Detecting Misplaced RFID Tags on Static Shelved Items, MobiSys 19 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2019/luo-mobisys19.pdf) (ML)
@@ -656,7 +657,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * In-body backscatter communication and localization,	SIGCOMM	18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3230543.3230565)	(NO ML)	
 * LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (NO ML)
 * HitchHike: Practical Backscatter Using Commodity WiFi, SenSys 16 [[Paper]](https://pengyuzhang.github.io/papers/sensys16_back_comm.pdf) (NO ML)
-* 3D Backscatter Localization for Fine-Grained Robotics, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-luo.pdf)
 * X-Tandem: Towards Multi-hop Backscatter Communication with Commodity WiFi, MobiCom 18 [[Paper]](https://www2.cs.sfu.ca/~jcliu/Papers/MobiCom-18-X-Tandem.pdf) (NO ML)
 * ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces, MobiCom 20 [[Paper]](https://wcsng.ucsd.edu/files/scattermimo.pdf)
 * Towards Flexible Wireless Charging for Medical Implants Using Distributed Antenna System, MobiCom 20 [[Paper]](https://arxiv.org/pdf/2001.07644.pdf) (NO ML)
