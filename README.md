@@ -1046,7 +1046,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 ### Energy Harvesting
 
 ### Intermittent Computing
-
+* MixMax: Leveraging Heterogeneous Batteries to Alleviate Low Battery Experience for Mobile Users, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596843) (NO ML)
 * An Energy Supervisor Architecture for Energy-Harvesting Applications, IPSN 22 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/saoda22altair.pdf)
 * DeepAuditor: Distributed Online Intrusion Detection System for IoT devices via Power Side-channel Auditing, IPSN 22 [[Paper]](https://arxiv.org/pdf/2106.12753.pdf)
 * RetroIoT: Retrofitting Internet of Things Deployments by Hiding Data in Battery Readings, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560536) (NO ML) 
@@ -1094,7 +1094,11 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 
 ## Security and Privacy	
-
+* BystandAR: Protecting Bystander Visual Data in Augmented Reality Systems, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596830) (DL)
+* EchoAttack: Practical Inaudible Attacks To Smart Earbuds, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596837) (ML)
+* BioCase: Privacy Protection via Acoustic Sensing of Finger Touches on Smartphone Case Mini-Structures, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596841) (ML)
+* LeopardSeal: Detecting Call Interception via Audio Rogue Base Stations, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596846) (ML)
+* Minimizing a Smartphone’s TCB for Security-Critical Programs with Exclusively-Used, Physically-Isolated, Statically-Partitioned Hardware, MobiSys 23 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596864) (NO ML)
 * Furtively Connecting IoT Devices with Acoustic Noise, IPSN 22 [[Paper]](https://ieeexplore.ieee.org/document/9826085/keywords#keywords) (NOML)
  * Enabling Secure Touch-to-Access Device Pairing based on Human Body’s Electrical Response, MobiCom 22 [[Paper]](https://taogu.site/pub/paper/Device_Pairing.pdf)
 * Non-Cooperative Wi-Fi Localization & its Privacy Implications, MobiCom 22 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/WiPeep_Mobicom2022.pdf) (NO ML)
