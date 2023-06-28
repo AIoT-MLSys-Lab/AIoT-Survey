@@ -44,7 +44,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [Bluetooth Sensing (5)](#bluetooth-sensing)
     - [Earables (19) (Hyunho)](#earables)
     - [Acoustic Sensing (46) (Hyunho)](#acoustic-sensing)
-    - [Vision Sensing (26) (Hyunho)](#vision-sensing)
+    - [Vision Sensing (25) (Hyunho)](#vision-sensing)
     - [Light Sensing (13)](#light-sensing)
     - [Magentic Sensing (4)](#magnetic-sensing)
     - [Air-Water Sensing (1)](#air-water-sensing)
@@ -286,8 +286,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom 16 [[Paper]](https://wands.sg/team/pengfei/papers/MobiCom16-DopEnc.pdf) (NO ML)
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf) (DL)
 																
-### Vision Sensing (Total: 26 | No ML(7) | ML(2) | DL(17))
-* NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras,	MobiCom	23	[[Paper]](https://arxiv.org/abs/2207.12496)[[Code]](https://github.com/vb000/NeuriCam) (DL) 
+### Vision Sensing (Total: 25 | No ML(7) | ML(2) | DL(16))
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
 * MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586970) (DL)
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf) (DL)
