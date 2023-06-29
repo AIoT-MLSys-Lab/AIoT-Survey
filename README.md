@@ -613,7 +613,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Timespan-based Backscatter Using a Single COTS Receiver, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596858) (NO ML)
 * Leggiero: Analog WiFi Backscatter with Payload Transparency, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596835) (NO ML)
 * Enabling Native WiFi Connectivity for Ambient Backscatter, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596868) (NO ML)
-* LocRa: Enable Practical Long-Range Backsca￿er Localization for Low-Cost Tags, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596863) (NO ML)
+* LocRa: Enable Practical Long-Range Backscatter Localization for Low-Cost Tags, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596863) (NO ML)
 * Wind dispersal of battery-free wireless devices, Nature 2022	[[Paper]](https://www.nature.com/articles/s41586-021-04363-9)	(NO	ML)	
 * Eliminating Design Effort: A Reconfigurable Sensing Framework For Chipless, Backscatter Tags, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a298/962400a298.pdf)
 * Magnetoelectric backscatter communication for millimeter-sized wireless biomedical implants, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560541) (NO ML) (Best Paper Award)
@@ -691,7 +691,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 							
 ### LoRa		
 * Combating link dynamics for reliable lora connection in urban settings, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483250) (NO ML)
-* De-spreading over the air: long-range CTC for diverse receivers with LoRa, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560524) (NO ML)
 * BSMA: scalable LoRa networks using full duplex gateways, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560544) (NO ML)
 * LLDPC: A Low-Density Parity-Check Coding Scheme for LoRa Networks, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568547) 
 * MaLoRaGW: Multi-User MIMO Transmission for LoRa, SenSys 22 [[Paperp]](https://www.cse.msu.edu/~hzeng/papers/Hossein22_Sensys_MaLoRaGW.pdf) (NO ML)
@@ -792,6 +791,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SIGNiPHY: Reconciling random access with directional reception for efficient mmWave WLANs, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596860) (NO ML)
 
 ### Cross-Technology Communication
+* De-spreading over the air: long-range CTC for diverse receivers with LoRa, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560524) (NO ML)
 * Achieving Receiver-Side Cross-Technology Communication with Cross-Decoding, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241547) (NO ML)
 * Exploiting WiFi Guard Band for Safeguarded ZigBee, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274835)
 * WEBee: Physical-Layer Cross-Technology Communication via Emulation, MobiCom 16 [[Paper]](https://www-users.cse.umn.edu/~tianhe/Papers/WEBee.pdf) (NO ML) (Best Paper Awards)
