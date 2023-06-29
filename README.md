@@ -1267,7 +1267,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Empowering smart buildings with self-sensing concrete for structural health monitoring, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544270) (NO ML)
 * zTT: learning-based DVFS with zero thermal throttling for mobile devices, MobiSys 21 [[Paper]](https://netstech.org/wp-content/uploads/2021/07/zTT_MobiSys21.pdf) (Best Paper)
 * TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380890)
-* Characterizing Smartwatch Usage in the Wild, MobiSys 17 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/smartwatch_mobisys17.pdf) (NO ML)
 * Software-Defined Cooking using a Microwave Oven, MobiCom 19 [[Paper]](https://swarunkumar.com/papers/sdc-mobicom2019.pdf) (NO ML)
 * LUID-XP: Flexible User Interface Distribution for Cross-Platform Experience, MobiCom 21 [[Paper]](https://steveyko.github.io/assets/pdf/fluid-xp-mobicom21.pdf)
 * Mobility Modeling and Prediction in Bike-Sharing Systems, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf) (NO ML)
