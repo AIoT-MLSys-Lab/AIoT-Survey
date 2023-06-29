@@ -294,8 +294,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom 16 [[Paper]](https://wands.sg/team/pengfei/papers/MobiCom16-DopEnc.pdf) (NO ML)
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf) (DL)
 																
-### Vision Sensing (Total: 26 | No ML(7) | ML(2) | DL(17))
+### Vision Sensing (Total: 27 | No ML(7) | ML(2) | DL(18))
 * Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulation, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596840) (DL)
+* * RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips, MobiSys 23 [[Paper]](https://tianxing.me/paper/zhang-mobisys23.pdf) (DL)
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
 * MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586970) (DL)
 * Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-Enabled IoT Edge Device, IPSN 22 [[Paper]](https://taogu.site/pub/paper/IPSN2022.pdf) (DL)
@@ -377,7 +378,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Others
 * Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (NO ML)
 * BioScatter: Low-Power Sweat Sensing with Backscatter, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596834) (NO ML)
-* RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips, MobiSys 23 [[Paper]](https://tianxing.me/paper/zhang-mobisys23.pdf) (DL)
 * FabToys: plush toys with large arrays of fabric-based pressure sensors to enable fine-grained interaction detection, MobiSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/FabToy-MobiSys22.pdf)
 * LTE-based Pervasive Sensing Across Indoor and Outdoor, SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)	(NO ML)
 * Locating Everyday Objects using NFC Textiles, IPSN 21 [[Paper]](https://swarunkumar.com/papers/textilesense-ipsn2021.pdf)
