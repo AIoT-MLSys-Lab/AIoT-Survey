@@ -79,7 +79,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [AIoT Systems for Agriculture (9)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (6)](#aiot-systems-for-biology)
     	
-## Sensing
+## Sensing (Total: 264)
 
 ### Motion Sensing (Total: 10 | No ML(2) | ML(1) | DL(6))
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548) (DL)
@@ -93,7 +93,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf) (DL)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (No ML) 
 
-### Wireless Sensing
+### Wireless Sensing (Total: 112)
 
 #### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
