@@ -49,7 +49,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Magentic Sensing (4/1)](#magnetic-sensing)
     - [Air-Water Sensing (1/0)](#air-water-sensing)
     - [Multi-Modal Sensing (27/19) (Hyunho)](#multi-modal-sensing)
-  - [Computing (140)](#computing)
+  - [Computing (152)](#computing)
     - [On-Device Inference (68)](#on-device-inference)
       	- [Model Compression (12) (Xin)](#model-compression)
       	- [Inference Optimization (19)](#inference-optimization)
@@ -65,7 +65,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [Benchmarks (5) (Samiul)](#training-benchmarks)
     - [Offloading (15)](#offloading)
     - [Model Deployment on the Edge (2)](#model-deployment-on-the-edge)
-    - [Automated Machine Learning for AIoT (10) (Shen)](#automated-machine-learning-for-aiot)
+    - [Automated Machine Learning for AIoT (11) (Shen)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT (18)](#compiler-for-aiot)
   - [Networking and Communication (Led by Zhichao)](#networking-and-communication)
   - [Security and Privacy (Will be removed)](#security-and-privacy)
@@ -416,7 +416,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.01766.pdf)
 * Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
 					
-## Computing (Total: 140)							
+## Computing (Total: 152)							
 	
 ### On-Device Inference	(Total: 68)						
 
