@@ -34,10 +34,10 @@ https://sites.google.com/view/osu-aiot-seminar
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
   - [Sensing (250)](#sensing)
-    - [Motion Sensing (10/7) (Siam)](#motion-sensing)
+    - [Motion Sensing (10/6) (Siam)](#motion-sensing)
     - [Wireless Sensing (107)](#wireless-sensing)
-    	- [RFID Sensing (26)](#rfid-sensing)
-    	- [Wi-Fi Sensing (45)](#wi-fi-sensing)
+    	- [RFID Sensing (27/5)](#rfid-sensing)
+    	- [Wi-Fi Sensing (45/15)](#wi-fi-sensing)
     	- [mmWave Sensing (17)](#mmwave-sensing)
     	- [TeraHertz Sensing (2)](#teraHertz-sensing)
     	- [UWB Sensing (12)](#uwb-sensing)
@@ -81,7 +81,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	
 ## Sensing
 
-### Motion Sensing (Total: 10 | No ML(2) | ML(1) | DL(7))
+### Motion Sensing (Total: 10 | No ML(2) | ML(1) | DL(6))
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548) (DL)
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (Best paper runner-up) (DL) 
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors, MobiSys 19 [[Paper]](https://yangliu-cs.github.io/YangLiu-CS/paper/2019-MobiSys-ArmTroi.pdf) (DL)
@@ -95,7 +95,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Wireless Sensing
 
-#### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(6))
+#### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
 * A Passive Eye-in-Hand “Camera” for Minature Robots, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568505) (NO ML)
 * Thermotag: item-level temperature sensing with a passive RFID tag, MobiSys 21 [[Paper]](https://cs.nju.edu.cn/liujia/papers/mobisys21-themotag.pdf) (NO ML)
