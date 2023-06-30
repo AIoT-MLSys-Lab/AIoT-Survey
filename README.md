@@ -69,7 +69,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Compiler for AIoT (18)](#compiler-for-aiot)
   - [Networking and Communication (Led by Zhichao)](#networking-and-communication)
   - [Security and Privacy (Will be removed)](#security-and-privacy)
-  - [AIoT Systems and their Applications (199)](#aiot-systems-and-their-applications)
+  - [AIoT Systems and their Applications (204)](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (38)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Streaming (39)](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22)](#aiot-systems-for-video-analytics)
@@ -1036,7 +1036,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (ML)
 
 
-## AIoT Systems and their Applications	
+## AIoT Systems and their Applications (Total: 204)
 							
 ### AIoT Systems for Healthcare and Wellbeing (Total: 42 | No ML(16) | ML(6) | DL(20))
 * EMSAssist: An End-to-End Mobile Voice Assistant at the Edge for Emergency Medical Services, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596853) (DL)
@@ -1082,7 +1082,7 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf) (ML)
 
-### AIoT Systems for Video Streaming (Total: 39 | No ML(16) | ML(7) | DL(16))
+### AIoT Systems for Video Streaming (Total: 40 | No ML(16) | ML(7) | DL(17))
 * OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851) (DL)
 * Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-zhuqi.pdf) (NO ML)
 * Enabling High Quality Real-Time Communications with Adaptive Frame-Rate, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-meng.pdf) (NO ML)
