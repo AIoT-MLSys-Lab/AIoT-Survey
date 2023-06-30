@@ -1083,8 +1083,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf) (ML)
 
 ### AIoT Systems for Video Streaming (Total: 39 | No ML(16) | ML(7) | DL(16))
-* No More Companion Apps Hacking but One Dongle: Hub-Based Blackbox Fuzzing of IoT Firmware, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596857)
-* "Is this my president speaking?" Tamper-proofing Speech in Live Recordings, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596862) (DL)
 * OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851) (DL)
 * Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-zhuqi.pdf) (NO ML)
 * Enabling High Quality Real-Time Communications with Adaptive Frame-Rate, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-meng.pdf) (NO ML)
