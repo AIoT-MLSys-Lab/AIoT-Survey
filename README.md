@@ -33,7 +33,7 @@ https://sites.google.com/view/osu-aiot-seminar
 ## AIoT Paper List Organized by Topics
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
-  - [Sensing (264/101)](#sensing)
+  - [Sensing (265/102)](#sensing)
     - [Motion Sensing (10/6) (Siam)](#motion-sensing)
     - [Wireless Sensing (112/35)](#wireless-sensing)
     	- [RFID Sensing (27/5)](#rfid-sensing)
@@ -46,7 +46,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Acoustic Sensing (49/14) (Hyunho)](#acoustic-sensing)
     - [Vision Sensing (28/18) (Hyunho)](#vision-sensing)
     - [Light Sensing (13/1)](#light-sensing)
-    - [Magentic Sensing (4/1)](#magnetic-sensing)
+    - [Magentic Sensing (5/2)](#magnetic-sensing)
     - [Air-Water Sensing (1/0)](#air-water-sensing)
     - [Multi-Modal Sensing (27/20) (Hyunho)](#multi-modal-sensing)
   - [Computing (152)](#computing)
@@ -341,6 +341,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Magentic Sensing (Total: 4 | No ML(0) | ML(3) | DL(1))
 * Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf) (ML)
 * MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://alansonsample.com/publications/docs/2021%20-%20MobiCom%20-%20MagX-%20Wearable,%20Untethered%20Hands%20Tracking%20with%20Passive%20Magnets.pdf) (ML)
+* MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://www.ece.sunysb.edu/~slin/Publications/MOBICOM2020.pdf) (DL)
 * MagHacker: Eavesdropping on Stylus Pen Writing via Magnetic Sensing from Commodity Mobile Devices, MobiSys 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys20.pdf) (DL)
 * MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107) (ML)
 
@@ -1296,7 +1297,6 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 * Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
-* MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://www.ece.sunysb.edu/~slin/Publications/MOBICOM2020.pdf)
 * Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO ML)	
 
 
