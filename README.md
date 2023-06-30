@@ -1094,6 +1094,8 @@ Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Pape
 
 
 ## Security and Privacy	
+* No More Companion Apps Hacking but One Dongle: Hub-Based Blackbox Fuzzing of IoT Firmware, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596857)
+* "Is this my president speaking?" Tamper-proofing Speech in Live Recordings, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596862) (DL)
 * BystandAR: Protecting Bystander Visual Data in Augmented Reality Systems, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596830) (DL)
 * EchoAttack: Practical Inaudible Attacks To Smart Earbuds, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596837) (ML)
 * BioCase: Privacy Protection via Acoustic Sensing of Finger Touches on Smartphone Case Mini-Structures, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596841) (ML)
