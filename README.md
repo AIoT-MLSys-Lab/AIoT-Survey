@@ -7,7 +7,7 @@
 * If the paper involves publicly available datasets, add the link of the dataset.
 * Use the following labels: [Paper] [Code] [Dataset]
 * Assignment:
-	* Hyunho:
+	* Hyunho: 
 	* Siam:
 	* Samiul:
  	* Xin:	
