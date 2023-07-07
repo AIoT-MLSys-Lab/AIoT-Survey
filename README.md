@@ -94,7 +94,7 @@ Majority of the included papers are published at top-tier venues in the areas of
       - [CTC ()](#ctc)
       - [... ()]() -->
     - [Hybrid ()](#hybrid)
-    - [Other ()](#other) 
+    - [NA ()](#na) 
   - [Security and Privacy (Will be removed)](#security-and-privacy)
   - [AIoT Systems and their Applications (204/84) (Led by Siam)](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (42/20)](#aiot-systems-for-healthcare-and-wellbeing)
@@ -987,7 +987,7 @@ Total/No-ML/Traditional ML/DL
 #### CTC
  - Gateway over the Air: Towards Pervasive Internet Connectivity for Commodity IoT, MobiSys 20 [[Paper]](https://yung-web.github.io/home/Publication/Conference/Gateway_over_the_Air-Towards_Pervasive_Internet_Connectivity_for_Commodity_IoT.pdf) (NO ML)
  -  Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934894) (NO ML)
-#### Other
+#### Other Batteryless Works
 - Pushing the Physical Limits of IoT Devices with Programmable Metasurfaces, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-chen.pdf)(NO ML)
 - LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (NO ML)
  - Judo: addressing the energy asymmetry of wireless embedded systems through tunnel diode based wireless transmitters, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538923) (NO ML)
@@ -1017,7 +1017,7 @@ Total/No-ML/Traditional ML/DL
 
 -  DeepGANTT: A Scalable Deep Learning Scheduler for Backscatter Networks, IPSN 23 [[Paper]](https://arxiv.org/pdf/2112.12985.pdf)(DL)
 
-### Other
+### NA
 * <span style="color:red"> In-Network Velocity Control of Industrial Robot Arms, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-laki.pdf) (NO ML) (programmable data plane)</span>
 * Idea: A System for Efficient Failure Management in Smart IoT Environments, MobiSys 16 [[Paper]](https://pages.cs.wisc.edu/~sdsen/papers/2016idea.pdf) (NO ML)
 * Mobile Plus: Multi-device Mobile Platform for Cross-device Functionality Sharing, MobiSys 17 [[Paper]](http://cps.kaist.ac.kr/papers/mobisys17-mobileplus.pdf) (NO ML)
