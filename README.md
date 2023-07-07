@@ -68,6 +68,31 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Automated Machine Learning for AIoT (11) (Shen)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT (18)](#compiler-for-aiot)
   - [Networking and Communication (Led by Li)](#networking-and-communication)
+    - [Battery ()](#battery)
+      - [Cellular ()](#cellular)
+      - [WiFi ()](#wifi)
+      - [Acoustic ()](#acoustic)
+      - [Visible Light ()](#visible-Light)
+      - [Millimeter-Wave ()](#millimeter-Wave)
+      - [LoRa/LoRaWAN ()](#lora-lorawan)
+      - [LPWAN ()](#lpwan)
+      - [SDR ()](#sdr)
+      - [CTC ()](#ctc)
+      - [... ()]
+    - [Batteryless ()](#batteryless)
+      - [Cellular ()](#cellular)
+      - [WiFi ()](#wifi)
+      - [RFID ()](#rfid)
+      - [Acoustic ()](#acoustic)
+      - [Visible Light ()](#visible-Light)
+      - [Millimeter-Wave ()](#millimeter-Wave)
+      - [LoRa/LoRaWAN ()](#lora-lorawan)
+      - [Bluetooth ()](#bluetooth)
+      - [SDR ()](#sdr)
+      - [CTC ()](#ctc)
+      - [... ()]
+    - [Hybrid ()](#hybrid)
+    - [Other ()](#other) 
   - [Security and Privacy (Will be removed)](#security-and-privacy)
   - [AIoT Systems and their Applications (204/84) (Led by Siam)](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (42/20)](#aiot-systems-for-healthcare-and-wellbeing)
@@ -990,7 +1015,7 @@ Total/No-ML/Traditional ML/DL
 
 -  DeepGANTT: A Scalable Deep Learning Scheduler for Backscatter Networks, IPSN 23 [[Paper]](https://arxiv.org/pdf/2112.12985.pdf)(DL)
 
-### NA
+### Other
 * <span style="color:red"> In-Network Velocity Control of Industrial Robot Arms, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-laki.pdf) (NO ML) (programmable data plane)</span>
 * Idea: A System for Efficient Failure Management in Smart IoT Environments, MobiSys 16 [[Paper]](https://pages.cs.wisc.edu/~sdsen/papers/2016idea.pdf) (NO ML)
 * Mobile Plus: Multi-device Mobile Platform for Cross-device Functionality Sharing, MobiSys 17 [[Paper]](http://cps.kaist.ac.kr/papers/mobisys17-mobileplus.pdf) (NO ML)
