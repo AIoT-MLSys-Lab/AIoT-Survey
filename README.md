@@ -9,11 +9,11 @@
 * Assignment:
 	* Hyunho:
 	* Siam:
+   	* Li Liu:
 	* Samiul:
  	* Xin:	
 	* Marcus:
 	* Shen:
- 	* Li Liu:
 	* Zhichao:
 	* MZ: Introduction, Conclusion
 
