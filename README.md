@@ -69,6 +69,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Compiler for AIoT (18)](#compiler-for-aiot)
   - [Networking and Communication (Led by Li)](#networking-and-communication)
     - [Battery ()](#battery)
+    <!---
       - [Cellular ()](#cellular)
       - [WiFi ()](#wifi)
       - [Acoustic ()](#acoustic)
@@ -78,8 +79,9 @@ Majority of the included papers are published at top-tier venues in the areas of
       - [LPWAN ()](#lpwan)
       - [SDR ()](#sdr)
       - [CTC ()](#ctc)
-      - [... ()]()
+      - [... ()]() -->
     - [Batteryless ()](#batteryless)
+    <!---
       - [Cellular ()](#cellular)
       - [WiFi ()](#wifi)
       - [RFID ()](#rfid)
@@ -90,7 +92,7 @@ Majority of the included papers are published at top-tier venues in the areas of
       - [Bluetooth ()](#bluetooth)
       - [SDR ()](#sdr)
       - [CTC ()](#ctc)
-      - [... ()]()
+      - [... ()]() -->
     - [Hybrid ()](#hybrid)
     - [Other ()](#other) 
   - [Security and Privacy (Will be removed)](#security-and-privacy)
