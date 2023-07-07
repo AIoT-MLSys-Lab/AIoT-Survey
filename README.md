@@ -78,7 +78,7 @@ Majority of the included papers are published at top-tier venues in the areas of
       - [LPWAN ()](#lpwan)
       - [SDR ()](#sdr)
       - [CTC ()](#ctc)
-      - [... ()]
+      - [... ()]()
     - [Batteryless ()](#batteryless)
       - [Cellular ()](#cellular)
       - [WiFi ()](#wifi)
@@ -90,7 +90,7 @@ Majority of the included papers are published at top-tier venues in the areas of
       - [Bluetooth ()](#bluetooth)
       - [SDR ()](#sdr)
       - [CTC ()](#ctc)
-      - [... ()]
+      - [... ()]()
     - [Hybrid ()](#hybrid)
     - [Other ()](#other) 
   - [Security and Privacy (Will be removed)](#security-and-privacy)
