@@ -151,7 +151,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 ```diff
-* BARNET: Activity Recognition using Passive Backscattering Tag-to-Tag Network, MobiSys 18 [[Paper]](http://www.wings.cs.sunysb.edu/pdfs/2018-Jihoon-mobisys.pdf)(Traditional ML)
+- BARNET: Activity Recognition using Passive Backscattering Tag-to-Tag Network, MobiSys 18 [[Paper]](http://www.wings.cs.sunysb.edu/pdfs/2018-Jihoon-mobisys.pdf)(Traditional ML)
 ```
 
 #### Wi-Fi Sensing (Total: 45 | No ML(23) | ML(7) | DL(15))
@@ -241,8 +241,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Calibration-Free Network Localization using Non-Line-of-Sight Ultra-Wideband Measurements, IPSN 17 [[Paper]](https://web.eecs.umich.edu/~prabal/pubs/papers/di_franco17nlos.pdf) (ML)
 * SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization, SenSys 16 [[Paper]](https://patpannuto.com/pubs/kempke16surepoint.pdf) (NO ML)
 * Harmonium: Asymmetric, Bandstitched UWB for Fast, Accurate, and Robust Indoor Localization, IPSN 16 [[Paper]](https://patpannuto.com/pubs/kempke16harmonium.pdf) (NO ML)
-* <span style="color:red">WISE: Low-Cost Wide Band Spectrum Sensing Using UWB, SenSys 22 [[Paper]](https://huangqy7.github.io/Paper/WISE_final.pdf) (NO ML)</span>
-
+```diff
+- WISE: Low-Cost Wide Band Spectrum Sensing Using UWB, SenSys 22 [[Paper]](https://huangqy7.github.io/Paper/WISE_final.pdf) (NO ML)
+```
 #### Bluetooth Sensing (Total: 5 | No ML(3) | ML(0) | DL(2))
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution) (DL)
 * BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection, IPSN 21 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/billah21blecansee.pdf) (DL)
@@ -650,7 +651,9 @@ Total/No-ML/Traditional ML/DL
 - QuickC: Practical sub-millisecond transport for small cells, MobiCom 16 [[Paper]](https://web.stanford.edu/~skatti/pubs/mobicom16-quickc.pdf) (NO ML)
 * LTE in Unlicensed Spectrum: Are We There Yet?, MobiCom 16 [[Paper]](http://www.cs.albany.edu/~mariya/courses/csi445660F16/papers/p135-chai.pdf) (NO ML)
 *  A reliable distributed cellular core network for hyper-scale public clouds, MobiCom 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/02/ECHO-TR.pdf) (NO ML)
-- <span style="color:red">Challenge: COSMOS: A City-Scale Programmable Testbed for Experimentation with Advanced Wireless, MobiCom 20 [[Paper]](https://www.winlab.rutgers.edu/~sumitm/downloads/MobiCom2020_COSMOS.pdf) (NO ML?)(example experiment using DL)</span>
+```diff
+* Challenge: COSMOS: A City-Scale Programmable Testbed for Experimentation with Advanced Wireless, MobiCom 20 [[Paper]](https://www.winlab.rutgers.edu/~sumitm/downloads/MobiCom2020_COSMOS.pdf) (NO ML?)(example experiment using DL)
+```
 -  An Active-Passive Measurement Study of TCP Performance over LTE on High-speed Rails, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.04823.pdf) (NO ML)
 -  A Systematic Way to LTE Testing, MobiCom 19 [[Paper]](https://people.computing.clemson.edu/~jmarty/projects/lowLatencyNetworking/papers/3GPP/LTE/AsystematicWayToMeasureLTE.pdf) (NO ML)
 - Experiences: Design, Implementation, and Deployment of CoLTE, a Community LTE Solution, MobiCom 19 [[Paper]](https://kurti.sh/pubs/CoLTE_Mobicom_2019.pdf) (NO ML)
@@ -690,11 +693,15 @@ Total/No-ML/Traditional ML/DL
 - RFlens: metasurface-enabled beamforming for IoT communication and sensing, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483238) (NO ML)
 - CloseTalker: Secure, Short-Range Ad Hoc Wireless Communication, MobiSys 19 [[Paper]](https://www.cs.dartmouth.edu/~dfk/research/pierson-closetalker/pierson-closetalker.pdf) (NO ML)
 -  SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication, NSDI 23 [[paper]](https://www.usenix.org/system/files/nsdi23-zhao-renjie.pdf) (NO ML)
--<span style="color:red"> SmartShell: A Near-Field Reflective Surface Enhancing RSS, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596866) (NO ML)</span>
+```diff
+* SmartShell: A Near-Field Reflective Surface Enhancing RSS, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596866) (NO ML)
+```
 - TransFi: Emulating Custom Wireless Physical Layer from Commodity WiFi, MobiSys 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys22.pdf) (NO ML)
 - Wi-Fi Goes to Town: Rapid Picocell Switching for Wireless Transit Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098846) (NO ML)
 -  Real-time Distributed MIMO Systems, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934905) (NO ML)
--  <span style="color:red">FlexCore: Massively Parallel and Flexible Processing for Large MIMO Access Points, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-husmann.pdf) (NO ML)</span>
+```diff
+* FlexCore: Massively Parallel and Flexible Processing for Large MIMO Access Points, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-husmann.pdf) (NO ML)
+```
 - SWAN: Stitched Wi-Fi ANtennas, MobiCom 18 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_18_1.pdf) (NO ML)
 - Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544237) (NO ML)
 - MIXIQ: re-thinking ultra-low power receiver design for next-generation on-body applications, MobiCom 21 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/Mobicom21-MIXIQ.pdf) (NO ML)
@@ -735,7 +742,9 @@ Total/No-ML/Traditional ML/DL
 
 - DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays, IPSN 21 [[Paper]](https://arxiv.org/pdf/2105.05092.pdf)(DL)
 - CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560526)(DL)
--  <span style="color:red"> SpectraLux: Towards Exploiting a Broader Spectrum with Passive VLC, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586966)(DL)</span>
+```diff
+* SpectraLux: Towards Exploiting a Broader Spectrum with Passive VLC, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586966)(DL)
+```
 #### Bluetooth
 - enClosure: Group Communication via Encounter Closures, MobiSys 19 [[Paper]](https://people.mpi-sws.org/~druschel/publications/enclosure.pdf) (NO ML)
 -  Beetle: Flexible Communication for Bluetooth Low Energy, MobiSys 16 [[Paper]](http://iot.stanford.edu/pubs/beetle-mobisys16.pdf) (NO ML)
@@ -764,8 +773,9 @@ Total/No-ML/Traditional ML/DL
 - Practical Null Steering in Millimeter Wave Networks, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-madani.pdf) (NO ML)
 - mmWall: A Steerable, Transflective Metamaterial Surface for NextG mmWave Networks, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-cho-kun-woo.pdf) (NO ML)
 - SIGNiPHY: Reconciling random access with directional reception for efficient mmWave WLANs, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596860) (NO ML)
-- 
-- <span style="color:red">SpaceBeam: LiDAR-driven one-shot mmWave beam management, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466864)(Traditional ML)</span>
+```diff
+- SpaceBeam: LiDAR-driven one-shot mmWave beam management, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466864)(Traditional ML)
+```
 -  M5: Facilitating Multi-user Volumetric Content Delivery with Multi-lobe Multicast over mmWave, SensSys 22 [[Paper]](http://www.phpathak.com/files/m5-sensys.pdf)(Traditional ML)
 #### UWB
 - One Flood to Route Them All:Ultra-fast Convergecast of Concurrent Flows over UWB, SenSys 20 [[Paper]](http://disi.unitn.it/~picco/papers/sensys20_weaver.pdf) (NO ML)
@@ -790,7 +800,9 @@ Total/No-ML/Traditional ML/DL
 - 
 
 #### TV Whitespace
-- <span style="color:red">WhiteHaul: An Efficient Spectrum Aggregation System for Low-Cost and High Capacity Backhaul over White Spaces, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388950) (NO ML)(using 801.11ac cards)</span>
+```diff
+* WhiteHaul: An Efficient Spectrum Aggregation System for Low-Cost and High Capacity Backhaul over White Spaces, MobiSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3386901.3388950) (NO ML)(using 801.11ac cards)
+```
 -  SNOW: Sensor Network over White Spaces, SenSys 16 [[Paper]](https://www.cse.wustl.edu/~lu/papers/sensys16.pdf) (NO ML)
 - Enabling Reliable, Asynchronous, and Bidirectional Communication in Sensor Networks over White Spaces, SenSys 17 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/02/sensys17.pdf) (NO ML)
 - Whisper: IoT in the TV White Space Spectrum, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-chakraborty.pdf) (NO ML)
@@ -865,8 +877,10 @@ Total/No-ML/Traditional ML/DL
 - SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)（No ML）（introduces a device identification application using DL）
 - The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf)(NO ML) (Best Community Paper Award)
 - TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO ML)
-- <span style="color:red">RFClock: Timing, Phase and Frequency Synchronization for Distributed Wireless Networks, MobiCom 21 [[Paper]](https://genesys-lab.org/papers/RFCLOCK_MOBICOM2021.pdf) (NO ML)(works in 2.4GHz and 915MHz ISM band)</span>
-- - <span style="color:red">Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf) (NO ML)(supports multiple objectives)</span>
+```diff
+- RFClock: Timing, Phase and Frequency Synchronization for Distributed Wireless Networks, MobiCom 21 [[Paper]](https://genesys-lab.org/papers/RFCLOCK_MOBICOM2021.pdf) (NO ML)(works in 2.4GHz and 915MHz ISM band)
+- Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf) (NO ML)(supports multiple objectives)
+```
 -  TinySDR: Low-Power SDR Platform for Over-the-Air Programmable IoT Testbeds, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/hessar) (NO ML)
 * 
 
@@ -894,7 +908,9 @@ Total/No-ML/Traditional ML/DL
  - Towards Seamless Wireless Link Connection, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596833) (NO ML)
  - mmRipple: Communicating with mmWave Radars through Smartphone Vibration, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586956) (NO ML)
  - Networking across boundaries: enabling wireless communication through the water-air interface SIGCOMM 18[[Paper]](https://dl.acm.org/doi/10.1145/3230543.3230580)	(NO	ML)
- - <span style="color:red"> RF-Transformer: A Unified Backscatter Radio Hardware Abstraction, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2209.15195.pdf)(NO ML)</span>
+ ```diff
+ - RF-Transformer: A Unified Backscatter Radio Hardware Abstraction, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2209.15195.pdf)(NO ML)
+```
  
  ##### Multi-band Operation
   - A real-time experimentation platform for sub-6 GHz and millimeter-wave MIMO systems, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3466868) [[code]](https://github.com/rafaruizortiz/MIMORPH)(NO ML)
@@ -951,7 +967,9 @@ Total/No-ML/Traditional ML/DL
 - Verification and Redesign of OFDM Backscatter, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-liu-xin.pdf) (NO ML)
 * SyncScatter: Enabling WiFi like synchronization and range for WiFi backscatter Communication, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-dunna.pdf) (NO ML)
 #### Magnetoelectric
-- <span style="color:red">Magnetoelectric backscatter communication for millimeter-sized wireless biomedical implants, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560541) (NO ML) (Best Paper Award)(near zero-power backscatter)</span>
+```diff
+- Magnetoelectric backscatter communication for millimeter-sized wireless biomedical implants, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560541) (NO ML) (Best Paper Award)(near zero-power backscatter)
+```
 
 #### RFID
 - Drone Relays for Battery-Free Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098847) (NO ML) 
@@ -994,7 +1012,9 @@ Total/No-ML/Traditional ML/DL
 - LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (NO ML)
  - Judo: addressing the energy asymmetry of wireless embedded systems through tunnel diode based wireless transmitters, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538923) (NO ML)
  - Enabling software-defined PHY for backscatter networks, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538927) (NO ML)(support multiple protocols)
- - <span style="color:red">One Tag, Two Codes: Identifying Optical Barcodes with NFC, MobiCom 21 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/coilcode-mobicom21.pdf)</span> (NO ML)
+ ```diff
+ - One Tag, Two Codes: Identifying Optical Barcodes with NFC, MobiCom 21 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/coilcode-mobicom21.pdf)(NO ML)
+```
  - Enabling Passive Backscatter Tag Localization Without Active Receivers, SenSys 21 [[Paper]](http://www.wings.cs.stonybrook.edu/pdfs/2021-sensys.pdf) (NO ML)
  - TagAlong: Efficient Integration of Battery-free Sensor Tags in Standard Wireless Networks, IPSN 20 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2020-2ZapWCkbA6ELdouTqExUlt/549700a169/549700a169.pdf) (NO ML)
  - Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter, MobiCom 20 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_20_2.pdf) (NO ML)
@@ -1020,13 +1040,17 @@ Total/No-ML/Traditional ML/DL
 -  DeepGANTT: A Scalable Deep Learning Scheduler for Backscatter Networks, IPSN 23 [[Paper]](https://arxiv.org/pdf/2112.12985.pdf)(DL)
 
 ### NA
-* <span style="color:red"> In-Network Velocity Control of Industrial Robot Arms, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-laki.pdf) (NO ML) (programmable data plane)</span>
+```diff
+* In-Network Velocity Control of Industrial Robot Arms, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-laki.pdf) (NO ML) (programmable data plane)
+```
 * Idea: A System for Efficient Failure Management in Smart IoT Environments, MobiSys 16 [[Paper]](https://pages.cs.wisc.edu/~sdsen/papers/2016idea.pdf) (NO ML)
 * Mobile Plus: Multi-device Mobile Platform for Cross-device Functionality Sharing, MobiSys 17 [[Paper]](http://cps.kaist.ac.kr/papers/mobisys17-mobileplus.pdf) (NO ML)
 
 * Network Planning with Deep Reinforcement Learning, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472902.pdf) (DL)
 Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110971) [[code]](https://github.com/lkh329/Supreme) （DL)
-* <span style="color:red">Industrial Knee-jerk: In-Network Simultaneous Planning and Control on a TSN Switch, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596836) (DL)</span>
+```diff
+* Industrial Knee-jerk: In-Network Simultaneous Planning and Control on a TSN Switch, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596836) (DL)
+```
 
 
 
@@ -1121,7 +1145,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * Trust but Verify: Auditing the Secure Internet of Things, MobiSys 17 [[Paper]](https://people.csail.mit.edu/henrycg/files/academic/papers/mobisys17tlsrar.pdf) (NO ML)
 * MagSnoop: Listening to Sounds Induced by Magnetic Field Fluctuations to Infer Mobile Payment Tokens, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538937)
 * Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (ML)
-* <span style="color:red"> RF-DNA: Large-Scale Physical-layer Identifications of RFIDs via Dual Natural Attributes, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517028) (DL)</span>
+```diff
+* RF-DNA: Large-Scale Physical-layer Identifications of RFIDs via Dual Natural Attributes, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517028) (DL)
+```
 
 
 ## AIoT Systems and their Applications (Total: 204)
@@ -1209,8 +1235,10 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * SVE: Distributed Video Processing at Facebook Scale, SOSP 17 [[Paper]](https://www.cs.princeton.edu/~wlloyd/papers/sve-sosp17.pdf) (NO ML)
 * Neural Adaptive Video Streaming with Pensieve, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098843) (DL)
 * Disk|Crypt|Net: rethinking the stack for high-performance video streaming, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098844) (NO ML)
-* <span style="color:red"> AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230554)(NO ML)</span>
-* <span style="color:red"> Towards Battery-Free HD Video Streaming, NSDI 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)(NO ML)</span>
+  ```diff
+* AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230554)(NO ML)
+* Towards Battery-Free HD Video Streaming, NSDI 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)(NO ML)
+```
 
 * RnB: Rate and Brightness Adaptation for Rate-Distortion-Energy Tradeoff in HTTP Adaptive Streaming over Mobile Devices, MobiCom 16 [[Paper]](https://mason.gmu.edu/~zyan4/papers/rnb_mobicom16.pdf) (ML)
 * CFA: A Practical Prediction System for Video QoE Optimization, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-jiang-junchen.pdf) (ML)
@@ -1348,7 +1376,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * Airdropping Sensor Networks from Drones and Insects, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419981) (NO ML)
 * Estimating Heart Rate and Detecting Feeding Events of Fish Using an Implantable Biologger, IPSN 20 [[Paper]](https://research.csiro.au/dss/wp-content/uploads/sites/100/2020/02/Estimating_Heart_Rate_and_Detecting_Feeding_Events_of_Fish_Using_an_Implantable_Biologger-1.pdf) (NO ML)
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf) (NO ML)
-* <span style="color:red"> Wind dispersal of battery-free wireless devices, Nature 2022	[[Paper]](https://www.nature.com/articles/s41586-021-04363-9)	(NO ML)</span>
+```diff
+* Wind dispersal of battery-free wireless devices, Nature 2022	[[Paper]](https://www.nature.com/articles/s41586-021-04363-9)	(NO ML)
+```
   
 
 ## Others
@@ -1389,8 +1419,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 * Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
 * Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO ML)
-* <span style="color:red"> SociTrack: infrastructure-free interaction tracking through mobile sensor networks, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419190) (NO ML) </span>
-
+```diff
+* SociTrack: infrastructure-free interaction tracking through mobile sensor networks, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419190) (NO ML)
+```
 
 
 
