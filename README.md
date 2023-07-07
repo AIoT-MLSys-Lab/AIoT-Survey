@@ -33,7 +33,7 @@ https://sites.google.com/view/osu-aiot-seminar
 ## AIoT Paper List Organized by Topics
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
-  - [Sensing (265/102)](#sensing)
+  - [Sensing (265/102) (Led by Hyunho)](#sensing)
     - [Motion Sensing (10/6) (Siam)](#motion-sensing)
     - [Wireless Sensing (112/35)](#wireless-sensing)
     	- [RFID Sensing (27/5)](#rfid-sensing)
@@ -67,9 +67,9 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Model Deployment on the Edge (2)](#model-deployment-on-the-edge)
     - [Automated Machine Learning for AIoT (11) (Shen)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT (18)](#compiler-for-aiot)
-  - [Networking and Communication (Led by Zhichao)](#networking-and-communication)
+  - [Networking and Communication (Led by Li)](#networking-and-communication)
   - [Security and Privacy (Will be removed)](#security-and-privacy)
-  - [AIoT Systems and their Applications (204/84)](#aiot-systems-and-their-applications)
+  - [AIoT Systems and their Applications (204/84) (Led by Siam)](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (42/20)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Streaming (40/17)](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22/19)](#aiot-systems-for-video-analytics)
