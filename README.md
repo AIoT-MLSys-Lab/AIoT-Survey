@@ -408,7 +408,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf) (ML)
 * Sensor-assisted Face Recognition System on Smart Glass via Multi-view Sparse Representation Classification, IPSN 16 [[Paper]](https://www.cse.unsw.edu.au/~wenh/xu_ipsn_20162.pdf) (ML)
 	
-### Others
+### Others (Total:37  | No ML(37) | ML(0) | DL(0))
 * Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (NO ML)
 * BioScatter: Low-Power Sweat Sensing with Backscatter, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596834) (NO ML)
 * FabToys: plush toys with large arrays of fabric-based pressure sensors to enable fine-grained interaction detection, MobiSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/FabToy-MobiSys22.pdf)
@@ -852,9 +852,9 @@ Total/No-ML/Traditional ML/DL
 #### HART (Total: 1 | No ML(0) | ML(0) | DL(1))
 - Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-shi.pdf)(DL)
 - 
-#### VHF
+#### VHF (Total:1  | No ML(1) | ML(0) | DL(0))
 - Blind Distributed MU-MIMO for IoT Networking over VHF Narrowband Spectrum, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345427)(NO ML)
-#### SDR
+#### SDR (Total: 7 | No ML(7) | ML(0) | DL(0))
 -  SparSDR: Sparsity-proportional Backhaul and Compute for SDRs, MobiSys 19 [[Paper]](http://people.csail.mit.edu/moein/papers/sparsdr-mobisys19.pdf) (NO ML)
 - SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)（No ML）（introduces a device identification application using DL）
 - The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf)(NO ML) (Best Community Paper Award)
@@ -864,11 +864,11 @@ Total/No-ML/Traditional ML/DL
 - Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf) (NO ML)(supports multiple objectives)
 ```
 -  TinySDR: Low-Power SDR Platform for Over-the-Air Programmable IoT Testbeds, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/hessar) (NO ML)
-* 
+ 
 
-#### Conductive Material
+#### Conductive Material (Total: 2 | No ML(2) | ML(0) | DL(0))
 - COCOON - A Conductive Substrate-based Coupled Oscillator Network for Wireless Communication, SenSys 21 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys21-COCOON.pdf) (NO ML)
-- Surface MIMO: Using Conductive Surfaces For MIMO Between Small Devices, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1809.02726.pdf)
+- Surface MIMO: Using Conductive Surfaces For MIMO Between Small Devices, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1809.02726.pdf) (NO ML)
 #### CTC
  - Chiron: Concurrent High Throughput Communication for IoT Devices, MobiSys 18 [[Paper]](https://cis.csuohio.edu/~chi/publication/li-2018-cch-3210240-3210346/li-2018-cch-3210240-3210346.pdf) (NO ML)
  - B2W2: N-Way Concurrent Communication for IoT Devices, SenSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2994551.2994561) (NO ML)
