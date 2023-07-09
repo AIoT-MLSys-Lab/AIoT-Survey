@@ -11,11 +11,10 @@
 	* Siam:
    	* Li Liu:
 	* Samiul:
- 	* Xin:	
 	* Marcus:
 	* Shen:
 	* Zhichao:
-	* MZ: Introduction, Conclusion
+	* MZ:
 
 ### ToDo (05/09/2023) 
 * Add papers into the list.
