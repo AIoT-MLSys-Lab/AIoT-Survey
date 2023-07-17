@@ -45,7 +45,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Light Sensing (13/1)](#light-sensing)
     - [Magentic Sensing (5/2)](#magnetic-sensing)
     - [Air-Water Sensing (1/0)](#air-water-sensing)
-    - [Multi-Modal Sensing (28/22) (Hyunho)](#multi-modal-sensing)
+    - [Multi-Modal Sensing (30/22) (Hyunho)](#multi-modal-sensing)
   - [Computing (154)](#computing)
     - [On-Device Inference (70)](#on-device-inference)
       	- [Model Compression (12) (Xin)](#model-compression)
@@ -371,9 +371,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
 
 ### Multi-Modal Sensing	(Total: 30 | No ML(2) | ML(6) | DL(22))
-'''diff
+```diff
 * Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf) (DL)
-'''
+```
 * Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables, MobiSys 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VibVoice-MobiSys23.pdf) (DL)
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586958) (DL)
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
@@ -462,6 +462,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16 [[Paper]](https://arxiv.org/abs/1510.00149)
 		
 #### Inference Optimization (Total: 21)
+```diff
+* Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power,	ASPLOS	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3445814.3446737) (DL)
+* DeepCache: Principled Cache for Mobile Deep Vision, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1712.01670.pdf) [[Code]](https://github.com/xumengwei/DeepCache) (DL)
+* DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
+```
 * ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU, MobiSys 23 [[Paper]](https://yuanchun-li.github.io/static/files/MobiSys23_ConvReLU++.pdf) [[Code]](https://github.com/GAIR-team/conv_relu_plus_plus)
 * Boosting DNN Cold Inference on Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596842)
 * Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
@@ -471,7 +476,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI	22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
 * NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)
-* Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power,	ASPLOS	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3445814.3446737) (DL)
 * MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning, NeurIPS 21
 * Flexible High-resolution Object Detection on Edge Devices with Tunable Latency, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
 * IOS: Inter-Operator Scheduler for CNN Acceleration, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
@@ -479,10 +483,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
 * DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)
-* DeepCache: Principled Cache for Mobile Deep Vision, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1712.01670.pdf) [[Code]](https://github.com/xumengwei/DeepCache) (DL)
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
-* DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
 
 #### Multi-Tenant Inference (Total: 11)	
 * POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
