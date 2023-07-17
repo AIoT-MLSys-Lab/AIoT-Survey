@@ -40,12 +40,12 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [UWB Sensing (12/2)](#uwb-sensing)
     	- [Bluetooth Sensing (5/2)](#bluetooth-sensing)
     - [Earables (19/5) (Hyunho)](#earables)
-    - [Acoustic Sensing (48/13) (Hyunho)](#acoustic-sensing)
+    - [Acoustic Sensing (47/12) (Hyunho)](#acoustic-sensing)
     - [Vision Sensing (26/16) (Hyunho)](#vision-sensing)
     - [Light Sensing (13/1)](#light-sensing)
     - [Magentic Sensing (5/2)](#magnetic-sensing)
     - [Air-Water Sensing (1/0)](#air-water-sensing)
-    - [Multi-Modal Sensing (28/21) (Hyunho)](#multi-modal-sensing)
+    - [Multi-Modal Sensing (28/22) (Hyunho)](#multi-modal-sensing)
   - [Computing (154)](#computing)
     - [On-Device Inference (70)](#on-device-inference)
       	- [Model Compression (12) (Xin)](#model-compression)
@@ -269,7 +269,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (ML)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML)
 
-### Acoustic Sensing (Total: 48 | No ML(25) | ML(10) | DL(13))	
+### Acoustic Sensing (Total: 47 | No ML(25) | ML(10) | DL(12))	
 * SoundSieve: Seconds-Long Audio Event Recognition on Intermittently-Powered Systems, MobiSys 23 [[Paper]](https://arxiv.org/pdf/2305.16445.pdf) (DL)
 * DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596867) (NO ML)
 * VeCare: Statistical Acoustic Sensing for Automotive In-Cabin Monitoring, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yi.pdf) (NO ML)
@@ -283,7 +283,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SPiDR: ultra-low-power acoustic spatial sensing for micro-robot navigation,	MobiSys	22	[[Paper]](https://www.cs.umd.edu/~nakul/assets/papers/spidr_mobisys2022_nakul.pdf) (NO ML) (Best Paper)
 * SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568534) (DL)
 * Room-scale Hand Gesture Recognition Using Smart Speakers, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dli/papers/SenSys2022_SpeakerGesture.pdf) (ML)
-* Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf) (DL)
 * SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568530) (DL)
 * Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508) (DL)
 * SpeechQoE: A Novel Personalized QoE Assessment Model for Voice Services via Speech Sensing, SenSys 22 [[Paper]](https://ranger.uta.edu/~mingli/publications/SpeechQoE.pdf) (DL)
@@ -371,7 +370,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Air-Water Sensing (Total: 4 | No ML(1) | ML(0) | DL(0))
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
 
-### Multi-Modal Sensing	(Total: 29 | No ML(2) | ML(6) | DL(21))
+### Multi-Modal Sensing	(Total: 30 | No ML(2) | ML(6) | DL(22))
+'''diff
+* Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf) (DL)
+'''
 * Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables, MobiSys 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VibVoice-MobiSys23.pdf) (DL)
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586958) (DL)
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
