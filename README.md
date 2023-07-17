@@ -30,7 +30,7 @@ https://sites.google.com/view/osu-aiot-seminar
 ## AIoT Paper List Organized by Topics
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
-  - [Sensing (263/100) (Led by Hyunho)](#sensing)
+  - [Sensing (262/99) (Led by Hyunho)](#sensing)
     - [Motion Sensing (10/6) (Siam)](#motion-sensing)
     - [Wireless Sensing (112/35)](#wireless-sensing)
     	- [RFID Sensing (27/5)](#rfid-sensing)
@@ -40,7 +40,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [UWB Sensing (12/2)](#uwb-sensing)
     	- [Bluetooth Sensing (5/2)](#bluetooth-sensing)
     - [Earables (19/5) (Hyunho)](#earables)
-    - [Acoustic Sensing (49/14) (Hyunho)](#acoustic-sensing)
+    - [Acoustic Sensing (48/13) (Hyunho)](#acoustic-sensing)
     - [Vision Sensing (26/16) (Hyunho)](#vision-sensing)
     - [Light Sensing (13/1)](#light-sensing)
     - [Magentic Sensing (5/2)](#magnetic-sensing)
@@ -103,7 +103,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [AIoT Systems for Agriculture (9/1)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (6/1)](#aiot-systems-for-biology)
     	
-## Sensing (Total: 263)
+## Sensing (Total: 262)
 
 ### Motion Sensing (Total: 10 | No ML(2) | ML(1) | DL(6))
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548) (DL)
@@ -269,7 +269,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (ML)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML)
 
-### Acoustic Sensing (Total: 49 | No ML(25) | ML(10) | DL(14))	
+### Acoustic Sensing (Total: 48 | No ML(25) | ML(10) | DL(13))	
 * SoundSieve: Seconds-Long Audio Event Recognition on Intermittently-Powered Systems, MobiSys 23 [[Paper]](https://arxiv.org/pdf/2305.16445.pdf) (DL)
 * DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596867) (NO ML)
 * VeCare: Statistical Acoustic Sensing for Automotive In-Cabin Monitoring, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yi.pdf) (NO ML)
@@ -287,7 +287,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568530) (DL)
 * Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508) (DL)
 * SpeechQoE: A Novel Personalized QoE Assessment Model for Voice Services via Speech Sensing, SenSys 22 [[Paper]](https://ranger.uta.edu/~mingli/publications/SpeechQoE.pdf) (DL)
-* Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/Telesonar-SenSys22.pdf) (DL)		
 * Enabling Contact-free Acoustic Sensing under Device Motion,	UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3550329)(NO ML)	
 * MAVL: Multiresolution Analysis of Voice Localization, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf) (NO ML)
 * MagicInput: Training-free Multi-lingual Finger Input System using Data Augmentation based on MNISTs, ISPN 21 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/assets/publications/ipsn21_pan.pdf)	(ML)
@@ -1045,7 +1044,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 
 
 ## Security and Privacy	
-
+```diff
+* Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/Telesonar-SenSys22.pdf) (DL)
+```	
 * Furtively Connecting IoT Devices with Acoustic Noise, IPSN 22 [[Paper]](https://ieeexplore.ieee.org/document/9826085/keywords#keywords) (NOML)
 * Enabling Secure Touch-to-Access Device Pairing based on Human Body’s Electrical Response, MobiCom 22 [[Paper]](https://taogu.site/pub/paper/Device_Pairing.pdf)
 * Non-Cooperative Wi-Fi Localization & its Privacy Implications, MobiCom 22 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/WiPeep_Mobicom2022.pdf) (NO ML)
