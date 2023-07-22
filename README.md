@@ -843,13 +843,13 @@ Majority of the included papers are published at top-tier venues in the areas of
 - Mixer: Efficient Many-to-All Broadcast in Dynamic Wireless Mesh Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274849) (NO ML)(in principle Mixer works on any physical layer that features the capture effect)
 - Performant TCP for Low-Power Wireless Networks, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-kumar.pdf) (LLNs) (NO ML)
 - Empowering Low-Power Wide Area Networks in Urban Settings, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098845) (NO ML)
-- 
 
 #### HART (Total: 1 | No ML(0) | ML(0) | DL(1))
 - Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-shi.pdf)(DL)
-- 
+  
 #### VHF (Total:1  | No ML(1) | ML(0) | DL(0))
 - Blind Distributed MU-MIMO for IoT Networking over VHF Narrowband Spectrum, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345427)(NO ML)
+
 #### SDR (Total: 7 | No ML(7) | ML(0) | DL(0))
 -  SparSDR: Sparsity-proportional Backhaul and Compute for SDRs, MobiSys 19 [[Paper]](http://people.csail.mit.edu/moein/papers/sparsdr-mobisys19.pdf) (NO ML)
 - SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)（No ML）（introduces a device identification application using DL）
@@ -1120,27 +1120,16 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * Eingerprint: Robust Energy-related Fingerprinting for Passive RFID Tags, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf) (NO ML)
 * mmEve: Eavesdropping on Smartphone's Earpiece via COTS mmWave Device, MobiCom 22 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2022.pdf) (DL)
 
-
 ### Authenticate
 * FaceRevelio: a face liveness detection system for smartphones with a single front camera, MobiCom 20 [[Paper]](https://habiba-farrukh.github.io/files/FaceRevelio.pdf) (DL)
 * Ghostbuster: Detecting the Presence of Hidden Eavesdroppers, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/ghostbuster-mobicom18.pdf) (NO ML)
-* Trust but Verify: Auditing the Secure Internet of Things, MobiSys 17 [[Paper]](https://people.csail.mit.edu/henrycg/files/academic/papers/mobisys17tlsrar.pdf) (NO ML)
-* Ditio: Trustworthy Auditing of Sensor Activities in Mobile & IoT Devices, SenSys 17 [[Paper]](https://www.ics.uci.edu/~ardalan/papers/Mirzamohammadi_SenSys17.pdf) (NO ML)
-* Battery-Free Identification Token for Touch Sensing Devices, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Battery%20Free%20Token_Phuc.pdf) (NO ML)
 * Empirical Validation of Commodity Spectrum Monitoring, SenSys 16 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/spectrum-sensys16.pdf) (NO ML)
-* Secret from Muscle: Enabling Secure Pairing with Electromyography, SenSys 16 [[Paper]](https://www.cs.virginia.edu/~bjc8c/class/cs6501-f17/yang16electromyography.pdf)
 * VibID: User Identification through Bio-Vibrometry, IPSN 16 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/courses/fall2015/papers/VibID_IPSN2016.pdf)
-* Walkie-Talkie: Motion-Assisted Automatic Key Generation for Secure On-Body Device Communication, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460726) (NO ML)
-* Performance Characterization of Deep Learning Models for Breathing-based Authentication on Resource-Constrained Devices, Ubicomp 19 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5258&context=sis_research)
-* Body-Guided Communications: A Low-power, Highly-Confined Primitive to Track and Secure Every Touch, MobiCom 18 [[Paper]](https://www.andrew.cmu.edu/user/miahmed/papers/bodyGuided_mobicom.pdf) (NO ML)
-* Taprint: Secure Text Input for Commodity Smart Wristbands, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300124)
-* Trust but Verify: Auditing the Secure Internet of Things, MobiSys 17 [[Paper]](https://people.csail.mit.edu/henrycg/files/academic/papers/mobisys17tlsrar.pdf) (NO ML)
 * MagSnoop: Listening to Sounds Induced by Magnetic Field Fluctuations to Infer Mobile Payment Tokens, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538937)
 * Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (ML)
 ```diff
 - RF-DNA: Large-Scale Physical-layer Identifications of RFIDs via Dual Natural Attributes, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517028) (DL)
 ```
-
 
 ## AIoT Systems and their Applications (Total: 204)
 							
