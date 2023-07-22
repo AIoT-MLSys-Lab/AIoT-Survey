@@ -60,7 +60,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [Training on Distributed Devices (2)](#training-on-distributed-devices)
     	- [Cross-Device Federated Learning (20) (Samiul)](#cross-device-federated-learning)
     	- [Benchmarks (5) (Samiul)](#training-benchmarks)
-    - [Offloading (15)](#offloading)
+    - [Offloading (15) (Marcus)](#offloading)
     - [Model Deployment on the Edge (2)](#model-deployment-on-the-edge)
     - [Automated Machine Learning for AIoT (11) (Shen)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT (18)](#compiler-for-aiot)
@@ -92,7 +92,6 @@ Majority of the included papers are published at top-tier venues in the areas of
       - [... ()]() -->
     - [Hybrid (2/0)](#hybrid)
     - [NA (6/3)](#na) 
-  - [Security and Privacy (Will be removed)](#security-and-privacy)
   - [AIoT Systems and their Applications (204/84) (Led by Siam)](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (42/20)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Streaming (40/17)](#aiot-systems-for-video-streaming)
