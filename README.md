@@ -236,6 +236,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization, SenSys 16 [[Paper]](https://patpannuto.com/pubs/kempke16surepoint.pdf) (NO ML)
 * Harmonium: Asymmetric, Bandstitched UWB for Fast, Accurate, and Robust Indoor Localization, IPSN 16 [[Paper]](https://patpannuto.com/pubs/kempke16harmonium.pdf) (NO ML)
 
+#### Cellular Sensing (Total:  | No ML() | ML() | DL())
+* Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
+
 #### Bluetooth Sensing (Total: 5 | No ML(3) | ML(0) | DL(2))
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution) (DL)
 * Nationwide Deployment and Operation of a Virtual Arrival Detection System in the Wild, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472911.pdf) (NO ML)
@@ -435,7 +438,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Tackling the Redundancy and Sparsity in Crowd Sensing Applications, SenSys 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/SenSys2016.pdf) (NO ML)
 * Fabric as a Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles, SenSys 18 [[Paper]](https://welab.umass.edu/SenSys18-Tribo.pdf) (NO ML)
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)
-* Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
 					
 ## Computing (Total: 154)							
 	
