@@ -369,7 +369,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Multi-Modal Sensing	(Total: 30 | No ML(2) | ML(6) | DL(22))
 ```diff
 * Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf) (DL)
-* Multimodal deep learning for activity and context recognition, UbiComp 2018 [[Paper]](https://homepages.inf.ed.ac.uk/mmarina/papers/ubicomp18.pdf) (DL)
 ```
 * Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables, MobiSys 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VibVoice-MobiSys23.pdf) (DL)
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586958) (DL)
@@ -394,6 +393,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,	SenSys 19 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5649&context=sis_research) (DL)
 * CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services, MobiSys 18 [[Paper]](https://arxiv.org/pdf/1909.13673.pdf)	(NO ML)	
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications, ASPLOS 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185) (DL)
+* Multimodal deep learning for activity and context recognition, UbiComp 2018 [[Paper]](https://homepages.inf.ed.ac.uk/mmarina/papers/ubicomp18.pdf) (DL)
 * EngageMon: Multi-Modal Engagement Sensing for Mobile Games, UbiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745) (ML)
 * Bringing IoT to Sports Analytics, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-gowda.pdf) (ML)
 * Non-Intrusive Multi-Modal Estimation of Building Occupancy, SenSys 17 [[Paper]](http://www.phpathak.com/files/occupancy-sensys.pdf) (ML)
