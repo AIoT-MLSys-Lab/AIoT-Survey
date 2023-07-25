@@ -1207,6 +1207,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * VideoChef: Efficient Approximation for Streaming Video Processing Pipelines, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-xu-ran.pdf) (ML)
 * Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241565) (ML)
 * Salsify: Low-Latency Network Video Through Tighter Integration Between a Video Codec and a Transport Protocol, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-fouladi.pdf) (NO ML)
+* Towards Battery-Free HD Video Streaming, NSDI 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf) (NO ML)
 * Neural Adaptive Content-aware Internet Video Delivery, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-yeo.pdf) (DL)
 * Oboe: Auto-tuning Video ABR Algorithms to Network Conditions, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230558) (NO ML)
 * Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210323) (ML)
@@ -1215,12 +1216,8 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * SVE: Distributed Video Processing at Facebook Scale, SOSP 17 [[Paper]](https://www.cs.princeton.edu/~wlloyd/papers/sve-sosp17.pdf) (NO ML)
 * Neural Adaptive Video Streaming with Pensieve, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098843) (DL)
 * Disk|Crypt|Net: rethinking the stack for high-performance video streaming, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098844) (NO ML)
-```diff
-- RnB: Rate and Brightness Adaptation for Rate-Distortion-Energy Tradeoff in HTTP Adaptive Streaming over Mobile Devices, MobiCom 16 [[Paper]](https://mason.gmu.edu/~zyan4/papers/rnb_mobicom16.pdf) (ML)
-- CFA: A Practical Prediction System for Video QoE Optimization, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-jiang-junchen.pdf) (ML)
-- AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230554)(NO ML)
-- Towards Battery-Free HD Video Streaming, NSDI 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf)(NO ML)
-```
+* CFA: A Practical Prediction System for Video QoE Optimization, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-jiang-junchen.pdf) (ML)
+* RnB: Rate and Brightness Adaptation for Rate-Distortion-Energy Tradeoff in HTTP Adaptive Streaming over Mobile Devices, MobiCom 16 [[Paper]](https://mason.gmu.edu/~zyan4/papers/rnb_mobicom16.pdf) (ML)
 
 ### AIoT Systems for Video Analytics (Total: 22 | No ML(3) | ML(0) | DL(19))							
 * Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-padmanabhan.pdf) [[code]](https://github.com/artpad6/gemel_nsdi23) (DL)
@@ -1241,6 +1238,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * Nexus: a GPU cluster engine for accelerating DNN-based video analysis, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359658) (DL)
 * Caesar: cross-camera complex activity recognition, SenSys 19 [[Paper]](http://web.cs.ucla.edu/~ravi/CS239_W20/papers/caesar.pdf) (DL)
 * Chameleon: scalable adaptation of video analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230574) (DL)
+* AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230554) (NO ML)
 * VideoMec: A Metadata-Enhanced Crowdsourcing System for Mobile Videos, IPSN 17 [[Paper]](http://mcn.cse.psu.edu/paper/yibowu/ipsn17-yibo.pdf) (NO ML)
 * Panoptes: Servicing Multiple Applications Simultaneously using Steerable Cameras, IPSN 17 [[Paper]](https://winlab.rutgers.edu/~shubhamj/papers/Shubham_Panoptes_IPSN2017.pdf) (NO ML)
 * ViewMap: Sharing Private In-Vehicle Dashcam Videos, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kim-minho.pdf) (NO ML)
