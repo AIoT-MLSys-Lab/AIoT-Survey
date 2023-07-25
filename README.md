@@ -434,8 +434,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Vi-Liquid: Unknown Liquid Identification with Your Smartphone Vibration, MobiCom 21 [[Paper]](https://www.huangyongzhi.com.cn/data/Vi-Liquid.pdf) (NO ML)
 * Robust Indoor Localization with ADS-B, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483257) (NO ML)
 * Network-Side Digital Contact Tracing on a Large University Campus, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2201.10641.pdf) (NO ML)
-* Is your smoke detector working properly?: robust fault tolerance approaches for smoke detectors, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466869) (NO ML)
-* Tackling the Redundancy and Sparsity in Crowd Sensing Applications, SenSys 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/SenSys2016.pdf) (NO ML)
 * Fabric as a Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles, SenSys 18 [[Paper]](https://welab.umass.edu/SenSys18-Tribo.pdf) (NO ML)
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)
 					
