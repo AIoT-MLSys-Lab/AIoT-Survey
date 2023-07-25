@@ -421,7 +421,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Platypus — Indoor Localization and Identification through Sensing Electric Potential Changes in Human Bodies, MobiSys 16 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/grosse2016platypus.pdf)
 * Expansion of Human–Phone Interface By Sensing Structure-Borne Sound Propagation, MobiSys 16 [[Paper]](https://yctung.github.io/files/publication/mobisys16-forcephone.pdf) (NO ML)
 * Nutrilyzer: A Mobile System for Characterizing Liquid Food with Photoacoustic Effect, SenSys 16 [[Paper]](https://pac.cs.cornell.edu/pubs/Sensys2016_Nutrilyzer.pdf)
-* Indoor Tracking Using Crowdsourced Maps, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460679) (NO ML)
 * SurfaceVibe: Vibration-Based Tap & Swipe Tracking on Ubiquitous Surfaces, IPSN 17 [[Paper]](https://www.andrew.cmu.edu/user/shijiapa/documentations/Pan_IPSN_2017.pdf) (NO ML)
 * Listening through a Vibration Motor, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/VibraPhone_mobisys16.pdf) (NO ML)
 * Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274836)
