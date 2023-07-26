@@ -407,7 +407,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Others (Total:37  | No ML(37) | ML(0) | DL(0))
 * Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (NO ML)
 * BioScatter: Low-Power Sweat Sensing with Backscatter, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596834) (NO ML)
-* FabToys: plush toys with large arrays of fabric-based pressure sensors to enable fine-grained interaction detection, MobiSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/FabToy-MobiSys22.pdf)
 * Locating Everyday Objects using NFC Textiles, IPSN 21 [[Paper]](https://swarunkumar.com/papers/textilesense-ipsn2021.pdf)
 * LOCI: Privacy-aware, Device-free, Low-power Localization of Multiple Persons using IR Sensors, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9111059)
 * From relative azimuth to absolute location: pushing the limit of PIR sensor based localization, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380878)
