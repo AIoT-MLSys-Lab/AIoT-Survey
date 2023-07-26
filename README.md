@@ -39,7 +39,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     	- [mmWave Sensing (21/11) (Hyunho)](#mmwave-sensing)
     	- [TeraHertz Sensing (2/0)](#teraHertz-sensing)
     	- [UWB Sensing (12/2)](#uwb-sensing)
-	- [Cellular Sensing (X/X)](#cellular-sensing)
+     	- [Cellular Sensing (X/X)](#cellular-sensing)
     	- [LoRa Sensing (X/X)](#lora-sensing)
     	- [Bluetooth Sensing (5/2)](#bluetooth-sensing)
     - [Earables (19/5) (Hyunho)](#earables)
