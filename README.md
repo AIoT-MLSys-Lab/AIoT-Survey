@@ -1263,15 +1263,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 
 ## Others
 * Throughput-Fairness Tradeoffs in Mobility Platforms, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467881)
-* Fall-curve: A novel primitive for IoT Fault Detection and Isolation, SenSys 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Camera_Ready__FaultTolerance_SenSys18.pdf)
-* SPRIGHT: Extracting the Server from Serverless Computing! High-performance eBPF-based Event-driven, Shared-memory Processing, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544259) (NO ML)
-* LEGO: Empowering Chip-Level Functionality Plug-and-Play for Next-Generation IoT Devices, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582050) (NO ML)
-* Beam: Ending Monolithic Applications for Connected Devices, ATC 16 [[Paper]](https://www.usenix.org/system/files/conference/atc16/atc16_paper-shen.pdf) (NO ML)
 * DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-chae.pdf) (NO ML)
 * EdgEWisE: A Better Stream Processing Engine for the Edge, ATC 19 [[Paper]](https://www.usenix.org/system/files/atc19-fu.pdf)
 * DART: A Scalable and Adaptive Edge Stream Processing Engine, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-liu.pdf)
-* Home, SafeHome: Smart Home Reliability with Visibility and Atomicity, EuroSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447786.3456261) (NO ML)
-* Understanding power consumption of NB-IoT in the wild: tool and large-scale measurement, MobiCom 20 [[Paper]](https://www.cs.cityu.edu.hk/~jhuan9/papers/nbiot20mobicom.pdf) (NO ML)
 * CapBand: Battery-free Successive Capacitance Sensing Wristband for Hand Gesture Recognition, SenSys 18 [[Paper]](https://genesys-lab.org/papers/p54-Truong.pdf)(Best paper runner-up awards)
 * Battery-Free Eye Tracker on Glasses, MobiCom 18 [[Paper]](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3975&context=facoa)
 * Interpreting Deep Learning-Based Networking Systems, SIGCOMM 20 [[Paper]](https://arxiv.org/pdf/1910.03835.pdf)
@@ -1287,9 +1281,8 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 * Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
 * Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO ML)
-```diff
-- SociTrack: infrastructure-free interaction tracking through mobile sensor networks, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419190) (NO ML)
-```
+* SociTrack: infrastructure-free interaction tracking through mobile sensor networks, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419190) (NO ML)
+
 
 
 
