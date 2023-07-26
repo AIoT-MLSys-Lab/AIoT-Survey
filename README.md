@@ -456,9 +456,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16 [[Paper]](https://arxiv.org/abs/1510.00149)
 		
 #### Inference Optimization (Total: 21)
-```diff
-* Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power,	ASPLOS	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3445814.3446737) (DL)
-```
 * ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU, MobiSys 23 [[Paper]](https://yuanchun-li.github.io/static/files/MobiSys23_ConvReLU++.pdf) [[Code]](https://github.com/GAIR-team/conv_relu_plus_plus)
 * Boosting DNN Cold Inference on Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596842)
 * Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
