@@ -1268,9 +1268,6 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 
 ## Others
 * Throughput-Fairness Tradeoffs in Mobility Platforms, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467881)
-* DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-chae.pdf) (NO ML)
-* EdgEWisE: A Better Stream Processing Engine for the Edge, ATC 19 [[Paper]](https://www.usenix.org/system/files/atc19-fu.pdf)
-* DART: A Scalable and Adaptive Edge Stream Processing Engine, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-liu.pdf)
 * Battery-Free Eye Tracker on Glasses, MobiCom 18 [[Paper]](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3975&context=facoa)
 * Interpreting Deep Learning-Based Networking Systems, SIGCOMM 20 [[Paper]](https://arxiv.org/pdf/1910.03835.pdf)
 * Sidewinder: An Energy Efficient and Developer Friendly Heterogeneous Architecture for Continuous Mobile Sensing, ASPLOS 16 [[Paper]](https://www.eecg.utoronto.ca/~ashvin/publications/sidewinder.pdf) (NO ML)
