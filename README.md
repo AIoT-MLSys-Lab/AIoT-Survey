@@ -1034,47 +1034,14 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 ```
 
 
-
 ## Security and Privacy	
-```diff
-* Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/Telesonar-SenSys22.pdf) (DL)
-```	
+* Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/Telesonar-SenSys22.pdf) (DL)	
 * Furtively Connecting IoT Devices with Acoustic Noise, IPSN 22 [[Paper]](https://ieeexplore.ieee.org/document/9826085/keywords#keywords) (NOML)
 * Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359639)
-* Countering Acoustic Adversarial Attacks in Microphone-equipped Smart Home Devices, UbiComp 20 [[Paper]](https://mobile-systems.cl.cam.ac.uk/papers/imwut20-bhattacharya.pdf)
-* DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532)
-* Eavesdropping user credentials via GPU side channels on smartphones, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507757)
-* Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-liu-zikun.pdf)
-* MASHaBLE: Mobile Applications of Secret Handshakes over Bluetooth LE, MobiCom 16 [[Paper]](https://www.blackhat.com/docs/asia-17/materials/asia-17-Michalevsky-MASHABLE-Mobile-Applications-Of-Secret-Handshakes-Over-Bluetooth-LE-wp.pdf)[[code]](https://github.com/ymcrcat/MASHaBLE)
-* Keep Others from Peeking at Your Mobile Device Screen!, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300119) (NO ML)
 * mQRCode: Secure QR Code Using Nonlinearity of Spatial Frequency in Light, MobiCom 19 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobicom19_pan.pdf) (NO ML)
 * PECAM: Privacy-Enhanced Video Streaming and Analytics via Securely-Reversible Transformation, MobiCom 21 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/mobicom21-final80.pdf)
 * StreamingTag: A Scalable Piracy Tracking Solution for Mobile Streaming Services, MobiCom 22 [[Paper]](https://people.gix.tsinghua.edu.cn/dangfan/publication/mobicom22-streaming-tag/mobicom22-streaming-tag.pdf) (NO ML)
-* Protego: securing wireless communication via programmable metasurface, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560547) (NO ML)
-* Defending against Sybil Devices in Crowdsourced Mapping Services, MobiSys 16 [[Paper]](https://people.cs.vt.edu/~gangwang/waze_dat16.pdf) (NO ML)
-* Blink and Flicker: Detecting Wireless Spy Cameras Via Stimulating and Probing, MobiSys 18 [[Paper]](http://ceca.pku.edu.cn/docs/20180808121558901898.pdf) (NO ML)
-* Understanding Fileless Attacks on Linux-based IoT Devices with HoneyCloud, MobiSys 19 [[Paper]](https://users.cs.northwestern.edu/~ychen/Papers/iot_mobisys19.pdf) (NO ML)
-* Battery-Enabled Anti-Theft Vehicle Immobilizer, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3539772) (NO ML)
-* MagEar: Eavesdropping via Audio Recovery using Magnetic Side Channel, MobiCom 22 [[Paper]](https://www.huangyongzhi.com.cn/data/MagEar.pdf)
-* From Physical to Cyber: Escalating Protection for Personalized Auto Insurance, SenSys 16 [[Paper]](https://arxiv.org/pdf/1609.02234.pdf) 
-* Detecting Replay Attacks against Industrial Robots, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430775)
-* TrustICT: An Efficient Trusted Interaction Interface between Isolated Execution Domains on ARM Multi-core Processors, SenSys 20 [[Paper]](https://csis.gmu.edu/ksun/publications/sensys20-trustict.pdf) (NO ML)
-* Reverse Engineering Physical Semantics of PLC Program Variables Using Control Invariants, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568521) (NO ML)
 * RF-protect: privacy against device-free human tracking, SIGCOMM 22 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/RFProtect_SIGCOMM22.pdf)
-* Practical GAN-based Synthetic IP Header Trace Generation using NetShare, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544251)
-* PhyCloak: Obfuscating Sensing from Communication Signals, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-qiao.pdf) (NO ML) (Best Student Paper)
-* Prio: Private, Robust, and Scalable Computation of Aggregate Statistics, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-corrigan-gibbs.pdf)
-* Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf) (NO ML)
-* EarFisher: Detecting Wireless Eavesdroppers by Stimulating and Sensing Memory EMR, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-shen.pdf)
-* Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-liu-zikun.pdf)
-* LOCA: A Location-Oblivious Cellular Architecture, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-luo.pdf) (NO ML)
-* CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-tan.pdf) (NO ML)
-* Addra: Metadata-private voice communication over fully untrusted infrastructure, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-ahmad.pdf) (NO ML)
-* DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints, ASPLOS 20 [[Paper]](https://seal.ece.ucsb.edu/sites/default/files/publications/clean_project_asplos_cr_xing_3.pdf)
-* Eingerprint: Robust Energy-related Fingerprinting for Passive RFID Tags, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf) (NO ML)
-* mmEve: Eavesdropping on Smartphone's Earpiece via COTS mmWave Device, MobiCom 22 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2022.pdf) (DL)
-
-### Authenticate
 * FaceRevelio: a face liveness detection system for smartphones with a single front camera, MobiCom 20 [[Paper]](https://habiba-farrukh.github.io/files/FaceRevelio.pdf) (DL)
 * Ghostbuster: Detecting the Presence of Hidden Eavesdroppers, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/ghostbuster-mobicom18.pdf) (NO ML)
 * Empirical Validation of Commodity Spectrum Monitoring, SenSys 16 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/spectrum-sensys16.pdf) (NO ML)
