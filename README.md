@@ -249,7 +249,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 #### Others 
 * SkySense: Terrestrial and Aerial Spectrum Use Analysed Using Lightweight Sensing Technology with Weather Balloons, MobiSys 20 [[Paper]](https://www.lenders.ch/publications/conferences/mobisys20.pdf)
-* Neuroplex: Learning to Detect Complex Events in Sensor Networks through Knowledge Injection, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3431158)
 * RFTacho: Non-intrusive RF monitoring of rotating machines, IPSN 22 [[Paper]](https://arxiv.org/pdf/2202.09841.pdf)
 * LiqRay: non-invasive and fine-grained liquid recognition system, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560540)
 * RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)
