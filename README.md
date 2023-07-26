@@ -1034,11 +1034,6 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 ```
 
 
-## Security and Privacy	
-* PECAM: Privacy-Enhanced Video Streaming and Analytics via Securely-Reversible Transformation, MobiCom 21 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/mobicom21-final80.pdf)
-* StreamingTag: A Scalable Piracy Tracking Solution for Mobile Streaming Services, MobiCom 22 [[Paper]](https://people.gix.tsinghua.edu.cn/dangfan/publication/mobicom22-streaming-tag/mobicom22-streaming-tag.pdf) (NO ML)
-  
-
 ## AIoT Systems and their Applications (Total: 204)
 							
 ### AIoT Systems for Healthcare and Wellbeing (Total: 42 | No ML(16) | ML(6) | DL(20))
