@@ -1028,6 +1028,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### NA (Total: 6 | No ML(3) | ML(0) | DL(3))
 ```diff
 - In-Network Velocity Control of Industrial Robot Arms, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-laki.pdf) (NO ML) (programmable data plane)
+* Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
+* Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO ML)
 ```
 * Idea: A System for Efficient Failure Management in Smart IoT Environments, MobiSys 16 [[Paper]](https://pages.cs.wisc.edu/~sdsen/papers/2016idea.pdf) (NO ML)
 * Mobile Plus: Multi-device Mobile Platform for Cross-device Functionality Sharing, MobiSys 17 [[Paper]](http://cps.kaist.ac.kr/papers/mobisys17-mobileplus.pdf) (NO ML)
@@ -1267,11 +1269,4 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * Airdropping Sensor Networks from Drones and Insects, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419981) (NO ML)
 * Estimating Heart Rate and Detecting Feeding Events of Fish Using an Implantable Biologger, IPSN 20 [[Paper]](https://research.csiro.au/dss/wp-content/uploads/sites/100/2020/02/Estimating_Heart_Rate_and_Detecting_Feeding_Events_of_Fish_Using_an_Implantable_Biologger-1.pdf) (NO ML)
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf) (NO ML)
-
-## Others
-* Interpreting Deep Learning-Based Networking Systems, SIGCOMM 20 [[Paper]](https://arxiv.org/pdf/1910.03835.pdf)
-* Animal-Borne Anti-Poaching System, MobiSys 19 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326080) (NO ML)
-* SmartLens: Sensing Eye Activities Using Zero-power Contact Lens, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560532) (NO	ML)	
-* Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
-* Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO ML)
 
