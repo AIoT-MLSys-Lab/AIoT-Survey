@@ -8,16 +8,6 @@
 * Use the following labels: [Paper] [Code] [Dataset]
 * Add papers into the list.
 * Put each paper under the correct category. Create new categories if the papers do not fit the current ones.
-* Assignment:
-	* Hyunho:
-	* Siam:
-   	* Li Liu:
-	* Samiul:
-	* Marcus:
- 	* Xin	
-	* Shen:
-	* Zhichao:
-	* MZ:
 
 ## What is AIoT?
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
