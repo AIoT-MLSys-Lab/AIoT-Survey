@@ -1035,17 +1035,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 
 
 ## Security and Privacy	
-* Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/Telesonar-SenSys22.pdf) (DL)	
-* Furtively Connecting IoT Devices with Acoustic Noise, IPSN 22 [[Paper]](https://ieeexplore.ieee.org/document/9826085/keywords#keywords) (NOML)
-* Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359639)
-* mQRCode: Secure QR Code Using Nonlinearity of Spatial Frequency in Light, MobiCom 19 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobicom19_pan.pdf) (NO ML)
 * PECAM: Privacy-Enhanced Video Streaming and Analytics via Securely-Reversible Transformation, MobiCom 21 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/mobicom21-final80.pdf)
 * StreamingTag: A Scalable Piracy Tracking Solution for Mobile Streaming Services, MobiCom 22 [[Paper]](https://people.gix.tsinghua.edu.cn/dangfan/publication/mobicom22-streaming-tag/mobicom22-streaming-tag.pdf) (NO ML)
-* RF-protect: privacy against device-free human tracking, SIGCOMM 22 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/RFProtect_SIGCOMM22.pdf)
-* FaceRevelio: a face liveness detection system for smartphones with a single front camera, MobiCom 20 [[Paper]](https://habiba-farrukh.github.io/files/FaceRevelio.pdf) (DL)
-* Ghostbuster: Detecting the Presence of Hidden Eavesdroppers, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/ghostbuster-mobicom18.pdf) (NO ML)
-* Empirical Validation of Commodity Spectrum Monitoring, SenSys 16 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/spectrum-sensys16.pdf) (NO ML)
-
+  
 
 ## AIoT Systems and their Applications (Total: 204)
 							
