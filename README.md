@@ -240,6 +240,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
 * LTE-based Pervasive Sensing Across Indoor and Outdoor, SenSys	21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943) (NO ML)
 
+#### LoRa Sensing (Total:  | No ML() | ML() | DL())
+* Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (NO ML)
+
 #### Bluetooth Sensing (Total: 5 | No ML(3) | ML(0) | DL(2))
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution) (DL)
 * Nationwide Deployment and Operation of a Virtual Arrival Detection System in the Wild, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472911.pdf) (NO ML)
@@ -405,7 +408,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sensor-assisted Face Recognition System on Smart Glass via Multi-view Sparse Representation Classification, IPSN 16 [[Paper]](https://www.cse.unsw.edu.au/~wenh/xu_ipsn_20162.pdf) (ML)
 	
 ### Others (Total:37  | No ML(37) | ML(0) | DL(0))
-* Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (NO ML)
 * BioScatter: Low-Power Sweat Sensing with Backscatter, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596834) (NO ML)
 * Locating Everyday Objects using NFC Textiles, IPSN 21 [[Paper]](https://swarunkumar.com/papers/textilesense-ipsn2021.pdf)
 * LOCI: Privacy-aware, Device-free, Low-power Localization of Multiple Persons using IR Sensors, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9111059)
