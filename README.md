@@ -1116,12 +1116,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * FaceRevelio: a face liveness detection system for smartphones with a single front camera, MobiCom 20 [[Paper]](https://habiba-farrukh.github.io/files/FaceRevelio.pdf) (DL)
 * Ghostbuster: Detecting the Presence of Hidden Eavesdroppers, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/ghostbuster-mobicom18.pdf) (NO ML)
 * Empirical Validation of Commodity Spectrum Monitoring, SenSys 16 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/spectrum-sensys16.pdf) (NO ML)
-* VibID: User Identification through Bio-Vibrometry, IPSN 16 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/courses/fall2015/papers/VibID_IPSN2016.pdf)
-* MagSnoop: Listening to Sounds Induced by Magnetic Field Fluctuations to Infer Mobile Payment Tokens, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538937)
-* Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, MobiCom 22 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/mmFace-MobiCom22.pdf) (ML)
-```diff
-- RF-DNA: Large-Scale Physical-layer Identifications of RFIDs via Dual Natural Attributes, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517028) (DL)
-```
+
 
 ## AIoT Systems and their Applications (Total: 204)
 							
