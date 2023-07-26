@@ -1043,7 +1043,6 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform, SOSP 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3341301.3359639)
 * Countering Acoustic Adversarial Attacks in Microphone-equipped Smart Home Devices, UbiComp 20 [[Paper]](https://mobile-systems.cl.cam.ac.uk/papers/imwut20-bhattacharya.pdf)
 * DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532)
-* Privid: Practical, Privacy-Preserving Video Analytics Queries, OSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-cangialosi.pdf)
 * Eavesdropping user credentials via GPU side channels on smartphones, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503222.3507757)
 * Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-liu-zikun.pdf)
 * MASHaBLE: Mobile Applications of Secret Handshakes over Bluetooth LE, MobiCom 16 [[Paper]](https://www.blackhat.com/docs/asia-17/materials/asia-17-Michalevsky-MASHABLE-Mobile-Applications-Of-Secret-Handshakes-Over-Bluetooth-LE-wp.pdf)[[code]](https://github.com/ymcrcat/MASHaBLE)
