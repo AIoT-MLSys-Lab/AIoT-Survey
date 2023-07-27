@@ -248,7 +248,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf) (NO ML)
 
 ```diff
-- Uncertain 
+- The following wireless sensing papers, I am not certain which subtopic each paper belongs to. 
 ```
 * SkySense: Terrestrial and Aerial Spectrum Use Analysed Using Lightweight Sensing Technology with Weather Balloons, MobiSys 20 [[Paper]](https://www.lenders.ch/publications/conferences/mobisys20.pdf)
 * RFTacho: Non-intrusive RF monitoring of rotating machines, IPSN 22 [[Paper]](https://arxiv.org/pdf/2202.09841.pdf)
