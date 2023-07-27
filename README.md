@@ -18,7 +18,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 ## OSU AIoT Seminar Series
 https://sites.google.com/view/osu-aiot-seminar
 
-## AIoT Paper List Organized by Topics
+## AIoT Papers Organized by Topics
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
   - [Sensing (262/99) (Led by Hyunho)](#sensing)
