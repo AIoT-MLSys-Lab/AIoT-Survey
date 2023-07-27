@@ -12,8 +12,11 @@
 ## What is AIoT?
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
 
+![Picture1](https://github.com/AIoT-MLSys-Lab/AIoT/assets/3488904/88b09558-5e5a-4e7a-aa1a-1a7e2d08d58a)
+
 ## Survey
 * Artificial Intelligence of Things: A Survey, 2023.
+
 
 ## OSU AIoT Seminar Series
 https://sites.google.com/view/osu-aiot-seminar
