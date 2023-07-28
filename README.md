@@ -46,7 +46,7 @@ Majority of the included papers are published at top-tier venues in the areas of
   - [Computing (154) (Led by Samiul, Marcus and Xin)](#computing)
     - [On-Device Inference (70)](#on-device-inference)
       	- [Model Compression (12) (Xin)](#model-compression)
-      	- [Inference Optimization (21) (XXX)](#inference-optimization)
+      	- [Inference Optimization (21) (Xin)](#inference-optimization)
       	- [Multi-Tenant Inference (11) (Marcus)](#multi-tenant-inference)
       	- [Cross-Processor Inference (11) (Marcus)](#cross-processor-inference)
       	- [Privacy-Preserving Inference (5) (Siam)](#privacy-preserving-inference)
