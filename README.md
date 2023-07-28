@@ -53,7 +53,7 @@ Majority of the included papers are published at top-tier venues in the areas of
       	- [Adaptation (8) (Marcus)](#adaptation)
       	- [Benchmarks (2)](#inference-benchmarks)
     - [On-Device Training (38)](#on-device-training)
-    	- [Training on a Single Device (11) (XXX)](#training-on-a-single-device)
+    	- [Training on a Single Device (11) (Samiul)](#training-on-a-single-device)
     	- [Training on Distributed Devices (2) (Samiul)](#training-on-distributed-devices)
     	- [Cross-Device Federated Learning (20) (Samiul)](#cross-device-federated-learning)
     	- [Benchmarks (5) (Samiul)](#training-benchmarks)
