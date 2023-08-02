@@ -115,7 +115,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ### Wireless Sensing (Total: 112)
 
-#### RFID Sensing (Total: 28 | No ML(20) | ML(4) | DL(5))
+#### RFID Sensing (Total: 28 | No ML(20) | ML(3) | DL(5))
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
 * A Passive Eye-in-Hand “Camera” for Minature Robots, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568505) (NO ML)
 * Thermotag: item-level temperature sensing with a passive RFID tag, MobiSys 21 [[Paper]](https://cs.nju.edu.cn/liujia/papers/mobisys21-themotag.pdf) (NO ML)
