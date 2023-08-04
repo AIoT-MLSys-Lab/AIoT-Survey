@@ -36,6 +36,8 @@ Majority of the included papers are published at top-tier venues in the areas of
      	- [Cellular Sensing (X/X)](#cellular-sensing)
     	- [LoRa Sensing (X/X)](#lora-sensing)
     	- [Bluetooth Sensing (5/2)](#bluetooth-sensing)
+     	- [Ariel Sensing (2/0)](#ariel-sensing)
+      	- [RF Sensing (7/5)](#rf-sensing)
     - [Earables (19/5) (Hyunho)](#earables)
     - [Acoustic Sensing (47/12) (Hyunho)](#acoustic-sensing)
     - [Vision Sensing (26/16) (Hyunho)](#vision-sensing)
@@ -144,6 +146,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * The Design and Implementation of a Mobile RFID Tag Sorting Robot, MobiSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1493115/1/mobitagbot_for_rps.pdf) (NO ML)
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
+*
+
 
 #### Wi-Fi Sensing (Total: 45 | No ML(23) | ML(7) | DL(15))
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf) (DL)
@@ -251,19 +255,20 @@ Majority of the included papers are published at top-tier venues in the areas of
 * BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection, IPSN 21 [[Paper]](https://www.cs.virginia.edu/~bjc8c/papers/billah21blecansee.pdf) (DL)
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf) (NO ML)
 
-```diff
-- The following wireless sensing papers, I am not certain which subtopic each paper belongs to. 
-```
-* SkySense: Terrestrial and Aerial Spectrum Use Analysed Using Lightweight Sensing Technology with Weather Balloons, MobiSys 20 [[Paper]](https://www.lenders.ch/publications/conferences/mobisys20.pdf)
-* RFTacho: Non-intrusive RF monitoring of rotating machines, IPSN 22 [[Paper]](https://arxiv.org/pdf/2202.09841.pdf)
-* LiqRay: non-invasive and fine-grained liquid recognition system, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560540)
-* RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)
-* RFMap: Generating Indoor Maps using RF Signals, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110988)
-* EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)
-* RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, mobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)
-* Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (FMCW radio)
+#### Ariel Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
+* SkySense: Terrestrial and Aerial Spectrum Use Analysed Using Lightweight Sensing Technology with Weather Balloons, MobiSys 20 [[Paper]](https://www.lenders.ch/publications/conferences/mobisys20.pdf) (NO ML)
 * Robust Indoor Localization with ADS-B, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483257) (NO ML)
-* Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)
+
+#### RF Sensing (Total: 7 | No ML(2) | ML(2) | DL(3))
+* RFTacho: Non-intrusive RF monitoring of rotating machines, IPSN 22 [[Paper]](https://arxiv.org/pdf/2202.09841.pdf) (NO ML)
+* LiqRay: non-invasive and fine-grained liquid recognition system, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560540) (NO ML)
+* 
+* Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (FMCW radio)(ML)
+* 
+* RFMap: Generating Indoor Maps using RF Signals, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110988)(DL)
+* RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, mobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)（DL）
+* Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)(WiFi, UWB, FMCW radio)(DL)
+* RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)(ML+DL)
 	
 ### Earables (Total: 19 | No ML(4) | ML(9) | DL(5))
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
@@ -391,7 +396,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Cross-Medium Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
 
-### Multi-Modal Sensing	(Total: 30 | No ML(2) | ML(6) | DL(22))
+### Multi-Modal Sensing	(Total: 31 | No ML(2) | ML(7) | DL(22))
 * Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables, MobiSys 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VibVoice-MobiSys23.pdf) (DL)
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586958) (DL)
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
@@ -423,6 +428,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Indoor localization via multi-modal sensing on smartphones, UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668) (ML)
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf) (ML)
 * Sensor-assisted Face Recognition System on Smart Glass via Multi-view Sparse Representation Classification, IPSN 16 [[Paper]](https://www.cse.unsw.edu.au/~wenh/xu_ipsn_20162.pdf) (ML)
+* EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)(ML)
 
      
 ## Computing (Total: 154)							
@@ -506,15 +512,15 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles, SenSys 20 [[Paper]](https://arxiv.org/pdf/2010.10754.pdf)
 * FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision, SEC 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
-* NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
+* NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)
 		
 #### Benchmarks (Total: 2)
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
 
-### On-Device Training (Total: 33)
+### On-Device Training (Total: 34)
 
-#### Training on a Single Device (Total: 11)
+#### Training on a Single Device (Total: 12)
 * ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection, MobiSys 23 [[Paper]](https://hellokevin07.github.io/files/mobisys23-ElasticTrainer.pdf) [[Code]](https://github.com/HelloKevin07/ElasticTrainer)
 * On-Device Training Under 256KB Memory, NeurIPS 22 [[Paper]](https://arxiv.org/abs/2206.15472)
 * Mandheling: mixed-precision on-device DNN training with DSP offloading,	MobiCom	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
@@ -525,7 +531,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning,	ATC	21	[[Paper]](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)
 * MDLdroidLite: a release-and-inhibit control approach to resource-efficient deep neural networks on mobile devices,	SenSys	20	[[Paper]](https://taogu.site/pub/paper/Paper_3_SenSys_2020.pdf)	
 * Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)		
-* Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/10.1145/3297858.3304038)
+* Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/10.1145/3297858.3304038)	
 
 #### Training on Distributed Devices (Total: 2)
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
