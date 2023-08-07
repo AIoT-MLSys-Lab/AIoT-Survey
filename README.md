@@ -193,6 +193,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * HeadScan: A Wearable System for Radio-based Sensing of Head and Mouth-related Activities, IPSN 16 [[Paper]](https://innovationcenter.msu.edu/wp-content/uploads/2021/07/HeadScan-A-Wearable-System-for-Radio-Based-Sensing-of-Head-and-Mouth-Related-Activities-1.pdf) (ML)
 * WiWho: WiFi-Based Person Identification in Smart Spaces, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460727) (ML)
 * Decimeter-Level Localization with a Single WiFi Access Point, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf) (NO ML)
+* Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (ML)
 
 #### mmWave Sensing (Total: 21 | No ML(7) | ML(3) | DL(11))
 * mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596839) (DL)
@@ -258,13 +259,11 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Robust Indoor Localization with ADS-B, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483257) (NO ML)
 
 #### Others (Total: 7 | No ML(2) | ML(2) | DL(3))
-* RFTacho: Non-intrusive RF monitoring of rotating machines, IPSN 22 [[Paper]](https://arxiv.org/pdf/2202.09841.pdf) (NO ML)
 * LiqRay: non-invasive and fine-grained liquid recognition system, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560540) (NO ML)
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)(WiFi, UWB, FMCW radio)(DL)
 * RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)(ML+DL)
 * RFMap: Generating Indoor Maps using RF Signals, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110988)(DL)
 * RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, MobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)（DL）
-* Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (ML)
 	
 ### Earables (Total: 19 | No ML(4) | ML(9) | DL(5))
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
