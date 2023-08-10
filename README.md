@@ -186,6 +186,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Multi-User Activity Recognition Using WiFi, MobiSys 18 [[Paper]](https://arxiv.org/pdf/2106.00865.pdf) (NO ML)
 * Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340) (ML)
 * Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
+* RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, MobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)（DL）
 * 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf) (NO ML)
 * WiFi-Enabled Smart Human Dynamics Monitoring, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131692) (ML)
 * LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(NO ML)
@@ -259,11 +260,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Robust Indoor Localization with ADS-B, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483257) (NO ML)
 
 #### Others (Total: 7 | No ML(2) | ML(2) | DL(3))
-* LiqRay: non-invasive and fine-grained liquid recognition system, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560540) (NO ML)
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)(WiFi, UWB, FMCW radio)(DL)
 * RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)(ML+DL)
-* RFMap: Generating Indoor Maps using RF Signals, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110988)(DL)
-* RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, MobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)（DL）
 	
 ### Earables (Total: 19 | No ML(4) | ML(9) | DL(5))
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
