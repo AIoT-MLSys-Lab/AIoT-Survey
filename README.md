@@ -29,7 +29,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Motion Sensing (9/6) (Siam) (DONE)](#motion-sensing)
     - [Wireless Sensing (112/35)](#wireless-sensing)
     	- [RFID Sensing (28/5) (Hyunho)](#rfid-sensing)
-    	- [Wi-Fi Sensing (45/15) (Hyunho)](#wi-fi-sensing)
+    	- [Wi-Fi Sensing (44/14) (Hyunho)](#wi-fi-sensing)
     	- [mmWave Sensing (21/11) (Hyunho)](#mmwave-sensing)
     	- [TeraHertz Sensing (2/0)](#teraHertz-sensing)
     	- [UWB Sensing (12/2)](#uwb-sensing)
@@ -147,7 +147,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 
-#### Wi-Fi Sensing (Total: 45 | No ML(23) | ML(7) | DL(15))
+#### Wi-Fi Sensing (Total: 44 | No ML(23) | ML(7) | DL(14))
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf) (DL)
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
@@ -175,7 +175,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Toward Reliable Localization by Unequal AoA Tracking, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326103) (NO ML)
 * RF-based Inertial Measurement, SIGCOMM 19 [[Paper]](https://cswu.me/papers/sigcomm19_rim_paper.pdf) (NO ML)
 * LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf) (ML)
-* RF-based 3D skeletons, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230579) (DL)
 * Magnitude-Based Angle-of-Arrival Estimation, Localization, and Target Tracking, IPSN 18 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN18_KaranamKoranyMostofi.pdf) (NO ML)
 * CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241570) (DL)
 * Towards Environment Independent Device Free Human Activity Recognition, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241548) (DL)
@@ -262,6 +261,9 @@ Majority of the included papers are published at top-tier venues in the areas of
 #### Others (Total: 7 | No ML(2) | ML(2) | DL(3))
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)(WiFi, UWB, FMCW radio)(DL)
 * RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)(ML+DL)
+```diff
+* RF-based 3D skeletons, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230579) (DL)
+```
 	
 ### Earables (Total: 19 | No ML(4) | ML(9) | DL(5))
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
