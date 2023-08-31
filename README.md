@@ -161,7 +161,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-gupta.pdf) (NO ML)
 * Counting a stationary crowd using off-the-shelf wifi, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468012) (NO ML)
 * Accurate Ubiquitous Localization with Off-the-Shelf IEEE 802.11ac Devices, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468850) (NO ML)
-* OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi, SenSys 21 [[Paper]](https://ruixiao24.github.io/files/rui_onefi.pdf) (DL)
+* OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi, SenSys 21 [[Paper]](https://ruixiao24.github.io/files/rui_onefi.pdf) [[Code]](https://github.com/ruixiao24/onefi) (DL)
 * Deep learning based wireless localization for indoor navigation, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380894) (DL)
 * Towards 3D human pose construction using wifi, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~lusu/papers/MobiCom2020.pdf) (DL)
 * Wi-Fi See It All: Generative Adversarial Network-augmented Versatile Wi-Fi Imaging, SenSys 20 [[Paper]](https://cse.msu.edu/~caozc/papers/sensys20-chen.pdf) (DL)
