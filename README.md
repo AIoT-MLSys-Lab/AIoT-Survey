@@ -45,7 +45,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Magentic Sensing (5/2)](#magnetic-sensing)
     - [Cross-Medium Sensing (1/0)](#cross-medium-sensing)
     - [Multi-Modal Sensing (30/22) (Hyunho)](#multi-modal-sensing)
-  - [Computing (154) (Led by Marcus, Samiul, and Xin)](#computing)
+  - [Computing (154) (Led by Marcus and Samiul)](#computing)
     - [On-Device Inference (70)](#on-device-inference)
       	- [Model Compression (12) (Siam)](#model-compression)
       	- [Inference Optimization (21) (Marcus)](#inference-optimization)
