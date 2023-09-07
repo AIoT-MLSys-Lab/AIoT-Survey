@@ -415,7 +415,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * A closer look at quality-aware runtime assessment of sensing models in multi-device environments,	SenSys	19	[[Paper]](https://akhilmathurs.github.io/papers/min_sensys2019.pdf) (DL)
 * SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,	SenSys 19 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5649&context=sis_research) (DL)
 * CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services, MobiSys 18 [[Paper]](https://arxiv.org/pdf/1909.13673.pdf)	(NO ML)	
-* Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications, ASPLOS 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185) (DL)
 * Multimodal deep learning for activity and context recognition, UbiComp 2018 [[Paper]](https://homepages.inf.ed.ac.uk/mmarina/papers/ubicomp18.pdf) (DL)
 * EngageMon: Multi-Modal Engagement Sensing for Mobile Games, UbiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745) (ML)
 * Bringing IoT to Sports Analytics, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-gowda.pdf) (ML)
@@ -476,6 +475,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938)			
 * NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
+* Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications, ASPLOS 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185) (DL)
 * DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
 * MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
 
