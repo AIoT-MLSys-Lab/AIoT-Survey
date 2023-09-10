@@ -395,7 +395,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables, MobiSys 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VibVoice-MobiSys23.pdf) (DL)
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586958) (DL)
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
-* Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538918)  (DL)
 * Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538918) (DL)
 * Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf) (DL)
 * Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensor, IPSN 22 [[Paper]](https://www.winlab.rutgers.edu/~hansiiii/papers/ViFi_Paper___IPSN_2022__Camera_Ready_.pdf) (DL)
