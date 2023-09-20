@@ -1062,7 +1062,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693) (DL)
 * Glasses for the Third Eye: Improving the Quality of Clinical Data Analysis with Motion Sensor-based Data Filtering, SenSys 17 [[Paper]](http://nsl.cau.ac.kr/~jpaek/docs/medisense-sensys2017-published.pdf) (NO ML)
 * mCerebrum: A Mobile Sensing Software Platform for Development and Validation of Digital Biomarkers and Interventions, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131694) (ML)
-* iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://iwct.sjtu.edu.cn/personal/xtian/paper/2017-mobisys-iBlink.pdf) (DL)
+* iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081343) (DL)
 * Monitoring a Person's Heart Rate and Respiratory Rate on a Shared Bed Using Geophones, SenSys 17 [[Paper]](https://www.cs.virginia.edu/~bjc8c/class/cs6501-f18/papers/jia17geophones.pdf) (NO ML)
 * PhO2: Smartphone based Blood Oxygen Level Measurement Systems using Near-IR and RED Wave-guided Light, SenSys 17 [[Paper]](https://mobile.cs.gsu.edu/aashok/Papers/12_2017_SenSys.pdf) (NO ML)
 * Monoxalyze: Verifying Smoking Cessation with a Keychain-sized Carbon Monoxide Breathalyzer, SenSys 16 [[Paper]](https://web.eecs.umich.edu/~prabal/pubs/papers/adkins16monoxalyze.pdf) (NO ML)
