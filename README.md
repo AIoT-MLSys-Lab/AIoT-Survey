@@ -441,7 +441,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
 * Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding, ICLR 16 [[Paper]](https://arxiv.org/abs/1510.00149)
 		
-#### Inference Optimization (Total: 21)
+#### Inference Optimization (Total: 18)
 * ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU, MobiSys 23 [[Paper]](https://yuanchun-li.github.io/static/files/MobiSys23_ConvReLU++.pdf) [[Code]](https://github.com/GAIR-team/conv_relu_plus_plus)
 * Boosting DNN Cold Inference on Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596842)
 * Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
@@ -454,7 +454,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning, NeurIPS 21
 * Flexible High-resolution Object Detection on Edge Devices with Tunable Latency, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
 * IOS: Inter-Operator Scheduler for CNN Acceleration, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
-* MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
 * DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)
 * DeepCache: Principled Cache for Mobile Deep Vision, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1712.01670.pdf) [[Code]](https://github.com/xumengwei/DeepCache) (DL)
@@ -497,7 +496,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Shredder: Learning Noise Distributions to Protect Inference Privacy, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1905.11814.pdf)
 * Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX, MobiCom 19 [[Paper]](https://soar.group/pubs/Occlumency.MobiCom19.pdf)
 
-#### Adaptation (Total: 8)
+#### Adaptation (Total: 7)
 * LiteReconfig: Cost and Content Aware Reconfiguration of Video Object Detection Systems for Mobile GPUs, EuroSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577)
 * Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 21	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
@@ -505,7 +504,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles, SenSys 20 [[Paper]](https://arxiv.org/pdf/2010.10754.pdf)
 * FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision, SEC 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
-* NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)
 		
 #### Benchmarks (Total: 2)
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
@@ -608,6 +606,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks,	OSDI 20	[[Paper]](https://www.usenix.org/system/files/osdi20-ma.pdf)		
 * FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System, ASPLOS 20 [[Paper]](https://ceca.pku.edu.cn/docs/20200915213803856105.pdf)
 * Ansor: Generating High-Performance Tensor Programs for Deep Learning,	OSDI	20	[[Paper]](https://www.usenix.org/system/files/osdi20-zheng.pdf)			
+* MNN: A Universal and Efficient Inference Engine, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf)
 * Astra: Exploiting Predictability to Optimize Deep Learning, ASPLOS 19 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/astra-asplos19.pdf)
 * Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler, ASPLOS 18 [[Paper]](https://arxiv.org/pdf/1801.00746.pdf)
 * CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274842) (NO ML)
