@@ -1024,7 +1024,6 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 ## AIoT Systems and their Applications (Total: 204)
 							
 ### AIoT Systems for Healthcare and Wellbeing (Total: 42 | No ML(16) | ML(6) | DL(20))
-* EMSAssist: An End-to-End Mobile Voice Assistant at the Edge for Emergency Medical Services, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596853) (DL)
 * PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones, MobiSys 23 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys23-ptease.pdf) (DL)
 * Passive Vital Sign Monitoring via Facial Vibrations Leveraging AR/VR Headsets, MobiSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596848) (DL)
 * Wireless earbuds for low-cost hearing screening, MobiSys 23 [[Paper]](https://homes.cs.washington.edu/~jucha/docs/oaebuds.pdf) [[Code]](https://github.com/uw-x/OAEbuds) (NO ML)
