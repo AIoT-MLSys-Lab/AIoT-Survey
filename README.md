@@ -254,7 +254,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf) (NO ML)
 
 #### Aerial Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
-* SkySense: Terrestrial and Aerial Spectrum Use Analysed Using Lightweight Sensing Technology with Weather Balloons, MobiSys 20 [[Paper]](https://www.lenders.ch/publications/conferences/mobisys20.pdf) (NO ML)
 * Robust Indoor Localization with ADS-B, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483257) (NO ML)
 
 #### Others (Total: 7 | No ML(2) | ML(2) | DL(3))
@@ -874,7 +873,7 @@ Majority of the included papers are published at top-tier venues in the areas of
   - An In-depth Understanding of Multipath TCP on Mobile Devices: Measurement and System Design, MobiCom 16 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/multipath_mobicom16.pdf) (NO ML)
   - MPBond: Efficient Network-level Collaboration Among Personal Mobile Devices, MobiSys 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mpbond_mobisys20.pdf) (NO ML)
 ```
-#### Other Sensor Network (Total: 9 | No ML(8) | ML(0) | DL(1))
+#### Other Sensor Network (Total: 10 | No ML(9) | ML(0) | DL(1))
 
 - System Architecture Directions for Post-SoC/32-bit Networked Sensors, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274839) (NO ML) (Best Paper Runner-up)
 - NEOFog: Nonvolatility-Exploiting Optimizations for Fog Computing, ASPLOS 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173162.3177154) (NO ML) 
@@ -884,8 +883,10 @@ Majority of the included papers are published at top-tier venues in the areas of
 - Hydra: Concurrent Coordination for Fault-tolerant Networking, IPSN 23 [[Paper]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/602741/7/3583120.3587047.pdf) (NO ML)
 - LAVA: fine-grained 3D indoor wireless coverage for small IoT devices	,	SIGCOMM	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472890)	(NO	ML)	
 * STeC: Exploiting Spatial and Temporal Correlation for Event-based Communication in WSNs, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485951) （NO ML）
-* 
 * Sirius: A Self-Localization System for Resource-Constrained IoT Sensors, MobiSys 23 [[Paper]](https://www.cs.umd.edu/~nakul/assets/papers/sirius_mobisys2023_nakul.pdf) (DL)
+```diff
+- SkySense: Terrestrial and Aerial Spectrum Use Analysed Using Lightweight Sensing Technology with Weather Balloons, MobiSys 20 [[Paper]](https://www.lenders.ch/publications/conferences/mobisys20.pdf) (NO ML)
+
 
 ### Hybrid (Total: 2 | No ML(2) | ML(0) | DL(0))
 - Polymorphic radios: A new design paradigm for ultra-low power communication, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230571)(NO ML) (strawman solution that connects BLE with WISP)
