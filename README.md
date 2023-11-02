@@ -147,7 +147,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 
-#### Wi-Fi Sensing (Total: 44 | No ML(23) | ML(7) | DL(14))
+#### Wi-Fi Sensing (Total: 44 | No ML(22) | ML(8) | DL(14))
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf) (DL)
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
@@ -182,7 +182,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Multipath Triangulation: Decimeter-level WiFi Localization and Orientation with a Single Unaided Receiver, MobiSys 18 [[Paper]](https://elahe.web.illinois.edu/Elahe%20Soltan_files/papers/MobiSys18_MonoLoco_CameraReady.pdf) (NO ML)
 * Widar2.0: Passive Human Tracking with a Single Wi-Fi Link, MobiSys 18 [[Paper]](https://www.cswu.me/papers/mobisys18_widar2.0_paper.pdf) (NO ML)
 * Verification: Accuracy Evaluation of WiFi Fine Time Measurements on an Open Platform, MobiCom 18 [[Paper]](https://www.andrew.cmu.edu/user/miahmed/papers/ftm_mobicom.pdf) (NO ML)
-* Multi-User Activity Recognition Using WiFi, MobiSys 18 [[Paper]](https://arxiv.org/pdf/2106.00865.pdf) (NO ML)
 * Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340) (ML)
 * Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
 * 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf) (NO ML)
@@ -221,7 +220,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Quasi-Optical 3D localization using Asymmetric Signatures above 100 GHz, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517022) (NO ML)
 * LeakyTrack: Non-Coherent Single-Antenna Nodal and Environmental Mobility Tracking with a Leaky-Wave Antenna, SenSys 20 [[Paper]](https://www.brown.edu/research/labs/mittleman/sites/brown.edu.research.labs.mittleman/files/uploads/SenSys_2020.pdf) (NO ML)
 
-#### UWB Sensing (Total: 14 | No ML(11) | ML(1) | DL(2))
+#### UWB Sensing (Total: 13 | No ML(10) | ML(1) | DL(2))
 * Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (NO ML) (Best Paper Award Runner-ups) 
 * Enabling High Accuracy Pervasive Tracking with Ultra Low Power UWB Tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560542) (NO ML)
 * WISE: Low-Cost Wide Band Spectrum Sensing Using UWB, SenSys 22 [[Paper]](https://huangqy7.github.io/Paper/WISE_final.pdf) (NO ML)
@@ -262,7 +261,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * RF-based 3D skeletons, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230579) (DL)
 * RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, MobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)（DL）
 	
-### Earables (Total: 19 | No ML(4) | ML(9) | DL(5))
+### Earables (Total: 18 | No ML(3) | ML(9) | DL(5))
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314) (Survey)
 * FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones, IPSN 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn22.pdf) [[Dataset]](https://developers.google.com/mediapipe) [[Code]](https://github.com/muxspace/facial_expressions) (DL)
@@ -282,7 +281,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (ML)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML)
 
-### Acoustic Sensing (Total: 47 | No ML(25) | ML(10) | DL(12))	
+### Acoustic Sensing (Total: 49 | No ML(26) | ML(11) | DL(12))	
 * SoundSieve: Seconds-Long Audio Event Recognition on Intermittently-Powered Systems, MobiSys 23 [[Paper]](https://arxiv.org/pdf/2305.16445.pdf) (DL)
 * DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596867) (NO ML)
 * VeCare: Statistical Acoustic Sensing for Automotive In-Cabin Monitoring, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yi.pdf) (NO ML)
@@ -297,7 +296,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568534) (DL)
 * SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568530) (DL)
 * Room-scale Hand Gesture Recognition Using Smart Speakers, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dli/papers/SenSys2022_SpeakerGesture.pdf) (ML)
-* Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508) (DL)
 * SpeechQoE: A Novel Personalized QoE Assessment Model for Voice Services via Speech Sensing, SenSys 22 [[Paper]](https://ranger.uta.edu/~mingli/publications/SpeechQoE.pdf) (DL)
 * Enabling Contact-free Acoustic Sensing under Device Motion,	UbiComp	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3550329)(NO ML)	
 * MAVL: Multiresolution Analysis of Voice Localization, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf) (NO ML)
@@ -334,7 +332,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf) (DL)
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf) (ML)
 																
-### Vision Sensing (Total: 26 | No ML(7) | ML(2) | DL(16))
+### Vision Sensing (Total: 25 | No ML(7) | ML(2) | DL(16))
 * Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulation, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596840) (DL)
 * RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips, MobiSys 23 [[Paper]](https://tianxing.me/paper/zhang-mobisys23.pdf) (DL)
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
@@ -378,7 +376,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (NO ML)
 * LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973767) (NO ML)
 
-### Magentic Sensing (Total: 4 | No ML(0) | ML(3) | DL(1))
+### Magentic Sensing (Total: 4 | No ML(0) | ML(3) | DL(2))
 * Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf) (ML)
 * MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://alansonsample.com/publications/docs/2021%20-%20MobiCom%20-%20MagX-%20Wearable,%20Untethered%20Hands%20Tracking%20with%20Passive%20Magnets.pdf) (ML)
 * MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://www.ece.sunysb.edu/~slin/Publications/MOBICOM2020.pdf) (DL)
@@ -388,7 +386,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 ### Cross-Medium Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
 
-### Multi-Modal Sensing	(Total: 31 | No ML(2) | ML(7) | DL(22))
+### Multi-Modal Sensing	(Total: 29 | No ML(2) | ML(7) | DL(20))
 * Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables, MobiSys 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VibVoice-MobiSys23.pdf) (DL)
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586958) (DL)
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
@@ -1021,7 +1019,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 
 ## AIoT Systems and their Applications (Total: 204)
 							
-### AIoT Systems for Healthcare and Wellbeing (Total: 42 | No ML(16) | ML(6) | DL(20))
+### AIoT Systems for Healthcare and Wellbeing (Total: 43 | No ML(16) | ML(6) | DL(21))
 * PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones, MobiSys 23 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys23-ptease.pdf) (DL)
 * Passive Vital Sign Monitoring via Facial Vibrations Leveraging AR/VR Headsets, MobiSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596848) (DL)
 * Wireless earbuds for low-cost hearing screening, MobiSys 23 [[Paper]](https://homes.cs.washington.edu/~jucha/docs/oaebuds.pdf) [[Code]](https://github.com/uw-x/OAEbuds) (NO ML)
@@ -1031,6 +1029,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * PROS: an Efficient Pattern-Driven Compressive Sensing Framework for Low-Power Biopotential-based Wearables with On-chip Intelligence, MobiCom 22 [[Paper]](https://theyoungkwon.github.io/papers/articles/pham_pros_mobicom22.pdf) (DL)
 * EarHealth: an earphone-based acoustic otoscope for detection of multiple ear diseases in daily life, MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538935) (DL)
 * Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones, SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437) (DL)
+* Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508) (DL)
 * NFCapsule: An Ingestible Sensor Pill for Eosinophilic Esophagitis Detection Based on Near-field Coupling, SenSys 22 [[Paper]](https://swarunkumar.com/papers/nfcapsule-sensys2022.pdf) (NO ML)
 * mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568506) (ML)
 * Your Smart Speaker Can “Hear” Your Heartbeat!, UbiComp 21 [[Paper]](https://dl.acm.org/doi/10.1145/3432237)	(NO ML)	
