@@ -152,7 +152,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
 * Experience: pushing indoor localization from laboratory to the wild, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (Best Community Contribution Runner-ups) (NO ML)
-* Wiffract: A New Foundation for RF Imaging via Edge Tracing, MobiCom 22 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/PallaproluKoranyMostofi_MobiCom2022.pdf) (DL)
+* Wiffract: A New Foundation for RF Imaging via Edge Tracing, MobiCom 22 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/PallaproluKoranyMostofi_MobiCom2022.pdf) (NO ML)
 * RF-URL: unsupervised representation learning for RF sensing, MobiCom 22 [[Paper]](http://staff.ustc.edu.cn/~dongheng/dhfiles/rf-url.pdf) (DL)
 * Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.10957.pdf) (DL)
 * SiFall: Practical Online Fall Detection with RF Sensing, SenSys 22 [[Paper]](https://arxiv.org/pdf/2301.03773.pdf) (DL)
