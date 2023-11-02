@@ -25,11 +25,11 @@ https://sites.google.com/view/osu-aiot-seminar
 ## AIoT Papers Organized by Topics
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
-  - [Sensing (273/98) (Led by Hyunho)](#sensing)
+  - [Sensing (273/97) (Led by Hyunho)](#sensing)
     - [Motion Sensing (9/6) (Siam) (DONE)](#motion-sensing)
-    - [Wireless Sensing (122/36)](#wireless-sensing)
+    - [Wireless Sensing (122/35)](#wireless-sensing)
     	- [RFID Sensing (28/5) (Hyunho)](#rfid-sensing)
-    	- [Wi-Fi Sensing (44/14) (Li Liu)](#wi-fi-sensing)
+    	- [Wi-Fi Sensing (44/13) (Li Liu)](#wi-fi-sensing)
     	- [mmWave Sensing (21/11) (Li Liu)](#mmwave-sensing)
     	- [TeraHertz Sensing (2/0)](#teraHertz-sensing)
     	- [UWB Sensing (13/2)](#uwb-sensing)
@@ -147,7 +147,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 
-#### Wi-Fi Sensing (Total: 44 | No ML(22) | ML(8) | DL(14))
+#### Wi-Fi Sensing (Total: 44 | No ML(23) | ML(8) | DL(13))
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf) (DL)
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
