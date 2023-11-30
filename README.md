@@ -25,7 +25,7 @@ https://sites.google.com/view/osu-aiot-seminar
 ## AIoT Papers Organized by Topics
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
-  - [Sensing (272/98) (Led by Hyunho)](#sensing)
+  - [Sensing (271/98) (Led by Hyunho)](#sensing)
     - [Motion Sensing (9/6) (Siam) (DONE)](#motion-sensing)
     - [Wireless Sensing (122/36)](#wireless-sensing)
     	- [RFID Sensing (28/5) (Hyunho)](#rfid-sensing)
@@ -40,7 +40,7 @@ Majority of the included papers are published at top-tier venues in the areas of
       	- [RF Sensing (5/4)](#rf-sensing)
     - [Earables (18/5) (Hyunho)](#earables)
     - [Acoustic Sensing (49/12) (Hyunho)](#acoustic-sensing)
-    - [Vision Sensing (25/16) (Hyunho)](#vision-sensing)
+    - [Vision Sensing (24/16) (Hyunho)](#vision-sensing)
     - [Light Sensing (14/1)](#light-sensing)
     - [Magentic Sensing (4/2)](#magnetic-sensing)
     - [Cross-Medium Sensing (1/0)](#cross-medium-sensing)
@@ -93,7 +93,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [NA (6/3)](#na) 
   - [AIoT Systems and their Applications (204/84) (Led by Siam)](#aiot-systems-and-their-applications)
     - [AIoT Systems for Healthcare and Wellbeing (43/20) (Hyunho)](#aiot-systems-for-healthcare-and-wellbeing)
-    - [AIoT Systems for Video Streaming (40/17) (Siam)](#aiot-systems-for-video-streaming)
+    - [AIoT Systems for Video Streaming (41/17) (Siam)](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22/19) (Siam)](#aiot-systems-for-video-analytics)
     - [AIoT Systems for Autonomous Driving (31/12) (Siam)](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (35/12) (Siam)](#aiot-systems-for-ar/vr/mr)
@@ -333,7 +333,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf) (DL)
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf) (ML)
 																
-### Vision Sensing (Total: 25 | No ML(7) | ML(2) | DL(16))
+### Vision Sensing (Total: 24 | No ML(6) | ML(2) | DL(16))
 * Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulation, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596840) (DL)
 * RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips, MobiSys 23 [[Paper]](https://tianxing.me/paper/zhang-mobisys23.pdf) (DL)
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
@@ -1079,6 +1079,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * Server-Driven Video Streaming for Deep Learning Inference, SIGCOMM 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887) (DL)
 * Jigsaw: Robust Live 4K Video Streaming, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300127) (NO ML)
 * Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345430) (DL)
+* Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs, MobiSys 19 [Paper] (NO ML)
 * End-to-end transport for video QoE fairness, SIGCOMM 19 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3341302.3342077) (NO ML)
 * Vantage: optimizing video upload for time-shifted viewing of social live streams, SIGCOMM 19 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3341302.3342064) (NO ML)
 * Pano: optimizing 360° video streaming with a better understanding of quality perception, SIGCOMM 19 [[Paper]](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf) (DL)
