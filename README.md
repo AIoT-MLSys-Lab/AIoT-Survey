@@ -64,7 +64,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [Automated Machine Learning for AIoT (11) (Shen)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT (18) (XXX)](#compiler-for-aiot)
   - [Networking and Communication (Led by Li)](#networking-and-communication)
-    - [Battery (206/10+16)](#battery)
+    - [Battery (208/10+16)](#battery)
     <!---
       - [Cellular ()](#cellular)
       - [WiFi ()](#wifi)
@@ -212,7 +212,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf) (ML)
 * WaveEar: Exploring a mmWave-based Noise-resistant Speech Sensing for Voice-User Interface, MobiSys 19 [[Paper]](https://www.acsu.buffalo.edu/~huiningl/papers/waveear2019.pdf) (DL)
 * FerroTag: a paper-based mmWave-scannable tagging infrastructure, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360019) (Best Paper) (ML)
-* LiSteer: mmWave Beam Acquisition and Steering by Tracking Indicator LEDs on Wireless APs, MobiCom 18 [[Paper]](https://dl.acm.org/doi/10.1145/3241539.3241542) (NO ML)
 * Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852) (NO ML)
 
 #### TeraHertz Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
@@ -607,7 +606,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ## Networking and Communication
 
-### Battery (Total: 207 | No ML(181) | ML(10) | DL(16))
+### Battery (Total: 208 | No ML(181) | ML(10) | DL(16))
 #### Cellular (Total:42  | No ML(32) | ML(4) | DL(6))
 - Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)  (NO ML)
 - Proteus: a network service control platform for service evolution in a mobile software defined infrastructure, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973757) (NO ML) 
@@ -710,7 +709,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 - BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy, IPSN 21 [[Paper]](https://dl.acm.org/doi/10.1145/3412382.3458271)（NO ML）
 - BLEach: Exploiting the Full Potential of IPv6 over BLE in Constrained Embedded IoT Devices, SenSys 17 [[Paper]](https://nes-lab.org/wordpress/wp-content/uploads/2019/11/spoerk17bleach.pdf) (NO ML)
 
-#### Millimeter-Wave (Total: 23 | No ML(21) | ML(2) | DL(0))
+#### Millimeter-Wave (Total: 24 | No ML(22) | ML(2) | DL(0))
 - Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241579) (NO ML)
 - Multi-Stream Beam-Training for mmWave MIMO Networks, MobiCom 18 [[Paper]](https://cse.buffalo.edu/faculty/dimitrio/publications/mobicom18_mute.pdf)(NO ML)
 -  M-Cube: a millimeter-wave massive MIMO software radio, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380892) (NO ML) (Best Papaer Award)
@@ -735,6 +734,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 - SpaceBeam: LiDAR-driven one-shot mmWave beam management, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466864)(Traditional ML)
 -  M5: Facilitating Multi-user Volumetric Content Delivery with Multi-lobe Multicast over mmWave, SensSys 22 [[Paper]](http://www.phpathak.com/files/m5-sensys.pdf)(Traditional ML)
+- LiSteer: mmWave Beam Acquisition and Steering by Tracking Indicator LEDs on Wireless APs, MobiCom 18 [[Paper]](https://dl.acm.org/doi/10.1145/3241539.3241542) (NO ML)
+
 #### UWB (Total: 5 | No ML(5) | ML(0) | DL(0))
 - WISE: Low-Cost Wide Band Spectrum Sensing Using UWB, SenSys 22 [[Paper]](https://huangqy7.github.io/Paper/WISE_final.pdf) (NO ML)
 - One Flood to Route Them All:Ultra-fast Convergecast of Concurrent Flows over UWB, SenSys 20 [[Paper]](http://disi.unitn.it/~picco/papers/sensys20_weaver.pdf) (NO ML)
