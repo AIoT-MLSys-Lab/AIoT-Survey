@@ -25,14 +25,14 @@ https://sites.google.com/view/osu-aiot-seminar
 ## AIoT Papers Organized by Topics
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
-  - [Sensing (271/98) (Led by Hyunho)](#sensing)
+  - [Sensing (270/98) (Led by Hyunho)](#sensing)
     - [Motion Sensing (9/6) (Siam) (DONE)](#motion-sensing)
-    - [Wireless Sensing (122/36)](#wireless-sensing)
+    - [Wireless Sensing (121/36)](#wireless-sensing)
     	- [RFID Sensing (28/5) (Hyunho)](#rfid-sensing)
     	- [Wi-Fi Sensing (43/14) (Li Liu)](#wi-fi-sensing)
     	- [mmWave Sensing (21/11) (Li Liu)](#mmwave-sensing)
     	- [TeraHertz Sensing (2/0)](#teraHertz-sensing)
-    	- [UWB Sensing (13/2)](#uwb-sensing)
+    	- [UWB Sensing (12/2)](#uwb-sensing)
      	- [Cellular Sensing (2/0)](#cellular-sensing)
     	- [LoRa Sensing (1/0)](#lora-sensing)
     	- [Bluetooth Sensing (5/2)](#bluetooth-sensing)
@@ -102,7 +102,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [AIoT Systems for Agriculture (9/1)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (6/1)](#aiot-systems-for-biology)
     	
-## Sensing (Total: 272)
+## Sensing (Total: 270)
 
 ### Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548) (DL)
@@ -115,7 +115,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 * Lasagna: Towards Deep Hierarchical Understanding and Searching over Mobile Sensing Data, MobiCom 16 [[Paper]](http://tns.thss.tsinghua.edu.cn/~cihangliu/papers/lasagna.pdf) (DL)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (ML) 
 
-### Wireless Sensing (Total: 122)
+### Wireless Sensing (Total: 121)
 
 #### RFID Sensing (Total: 28 | No ML(20) | ML(3) | DL(5))
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
@@ -222,7 +222,6 @@ Majority of the included papers are published at top-tier venues in the areas of
 #### UWB Sensing (Total: 13 | No ML(10) | ML(1) | DL(2))
 * Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (NO ML) (Best Paper Award Runner-ups) 
 * Enabling High Accuracy Pervasive Tracking with Ultra Low Power UWB Tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560542) (NO ML)
-* WISE: Low-Cost Wide Band Spectrum Sensing Using UWB, SenSys 22 [[Paper]](https://huangqy7.github.io/Paper/WISE_final.pdf) (NO ML)
 * SiWa: See into Walls via Deep UWB Radars, MobiCom 21 [[Paper]](https://arxiv.org/pdf/2110.14279.pdf) (DL)
 * MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar, SenSys 21 [[Paper]](https://arxiv.org/pdf/2111.08195.pdf) (DL)
 * UWHear: Through-wall Extraction and Separation of Audio Vibrations Using Wireless Signals, SenSys 20 [[Paper]](https://ziqi.plus/papers/UWHear.pdf) (NO ML)
@@ -608,7 +607,7 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 ## Networking and Communication
 
-### Battery (Total: 206 | No ML(180) | ML(10) | DL(16))
+### Battery (Total: 207 | No ML(181) | ML(10) | DL(16))
 #### Cellular (Total:42  | No ML(32) | ML(4) | DL(6))
 - Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)  (NO ML)
 - Proteus: a network service control platform for service evolution in a mobile software defined infrastructure, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973757) (NO ML) 
@@ -736,7 +735,8 @@ Majority of the included papers are published at top-tier venues in the areas of
 
 - SpaceBeam: LiDAR-driven one-shot mmWave beam management, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466864)(Traditional ML)
 -  M5: Facilitating Multi-user Volumetric Content Delivery with Multi-lobe Multicast over mmWave, SensSys 22 [[Paper]](http://www.phpathak.com/files/m5-sensys.pdf)(Traditional ML)
-#### UWB (Total: 4 | No ML(4) | ML(0) | DL(0))
+#### UWB (Total: 5 | No ML(5) | ML(0) | DL(0))
+- WISE: Low-Cost Wide Band Spectrum Sensing Using UWB, SenSys 22 [[Paper]](https://huangqy7.github.io/Paper/WISE_final.pdf) (NO ML)
 - One Flood to Route Them All:Ultra-fast Convergecast of Concurrent Flows over UWB, SenSys 20 [[Paper]](http://disi.unitn.it/~picco/papers/sensys20_weaver.pdf) (NO ML)
 - Network On or Off? Instant Global Binary Decisions over UWB with Flick, IPSN 23 [[Paper]](http://disi.unitn.it/~picco/papers/ipsn23.pdf) (NO ML)
 - Octopus: a practical and versatile wideband MIMO sensing platform, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483267)(NO ML but supports ML)
