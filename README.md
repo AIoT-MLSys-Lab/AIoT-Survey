@@ -25,9 +25,9 @@ https://sites.google.com/view/osu-aiot-seminar
 ## AIoT Papers Organized by Topics
 Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
 
-  - [Sensing (270/98) (Led by Hyunho)](#sensing)
+  - [Sensing (268/98) (Led by Hyunho)](#sensing)
     - [Motion Sensing (9/6) (Siam) (DONE)](#motion-sensing)
-    - [Wireless Sensing (121/36)](#wireless-sensing)
+    - [Wireless Sensing (119/36)](#wireless-sensing)
     	- [RFID Sensing (28/5) (Hyunho)](#rfid-sensing)
     	- [Wi-Fi Sensing (43/14) (Li Liu)](#wi-fi-sensing)
     	- [mmWave Sensing (21/11) (Li Liu)](#mmwave-sensing)
@@ -39,12 +39,12 @@ Majority of the included papers are published at top-tier venues in the areas of
      	- [Ariel Sensing (1/0)](#ariel-sensing)
       	- [RF Sensing (5/4)](#rf-sensing)
     - [Earables (18/5) (Hyunho)](#earables)
-    - [Acoustic Sensing (49/12) (Hyunho)](#acoustic-sensing)
-    - [Vision Sensing (24/16) (Hyunho)](#vision-sensing)
+    - [Acoustic Sensing (45/12) (Hyunho)](#acoustic-sensing)
+    - [Vision Sensing (25/16) (Hyunho)](#vision-sensing)
     - [Light Sensing (14/1)](#light-sensing)
     - [Magentic Sensing (4/2)](#magnetic-sensing)
     - [Cross-Medium Sensing (1/0)](#cross-medium-sensing)
-    - [Multi-Modal Sensing (29/20) (Hyunho)](#multi-modal-sensing)
+    - [Multi-Modal Sensing (32/20) (Hyunho)](#multi-modal-sensing)
   - [Computing (154) (Led by Marcus and Samiul)](#computing)
     - [On-Device Inference (70)](#on-device-inference)
       	- [Model Compression (12) (Siam)](#model-compression)
@@ -91,8 +91,8 @@ Majority of the included papers are published at top-tier venues in the areas of
       - [... ()]() -->
     - [Hybrid (2/0)](#hybrid)
     - [NA (6/3)](#na) 
-  - [AIoT Systems and their Applications (204/84) (Led by Siam)](#aiot-systems-and-their-applications)
-    - [AIoT Systems for Healthcare and Wellbeing (43/20) (Hyunho)](#aiot-systems-for-healthcare-and-wellbeing)
+  - [AIoT Systems and their Applications (209/81) (Led by Siam)](#aiot-systems-and-their-applications)
+    - [AIoT Systems for Healthcare and Wellbeing (44/20) (Hyunho)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Streaming (41/17) (Siam)](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22/19) (Siam)](#aiot-systems-for-video-analytics)
     - [AIoT Systems for Autonomous Driving (31/12) (Siam)](#aiot-systems-for-autonomous-driving)
@@ -102,7 +102,7 @@ Majority of the included papers are published at top-tier venues in the areas of
     - [AIoT Systems for Agriculture (9/1)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (6/1)](#aiot-systems-for-biology)
     	
-## Sensing (Total: 270)
+## Sensing (Total: 268)
 
 ### Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548) (DL)
