@@ -1,20 +1,16 @@
-# AIoT (Artificial Intelligence of Things): Survey, Seminars, Papers, Benchmarks, and Open-Source Resources.  
+# Artificial Intelligence of Things: A Survey  
 
-## What is AIoT?
+## 📌 What is This Survey About?
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
+**We will actively maintain this list to include newly published work**.
 
 <p align="center">
 <img src="https://github.com/AIoT-MLSys-Lab/AIoT/assets/3488904/7d1d387e-0955-46bd-a562-fd931fea4d50.png" width="40%" height="40%"></p>
 
-## Survey
-* Artificial Intelligence of Things: A Survey, 2023.
-
 ## OSU AIoT Seminar Series
 https://sites.google.com/view/osu-aiot-seminar
 
-## AIoT Papers Organized by Topics
-Majority of the included papers are published at top-tier venues in the areas of mobile computing (MobiCom/MobiSys/SenSys), networks (SIGCOMM/NSDI), computer systems (OSDI/SOSP/ASPLOS), and AI/ML systems (MLSys) from 2016 to now. **We will actively maintain this list to include newly published work**.
-
+## 📖 Table of Content
   - [Sensing (268/98) (Led by Hyunho)](#sensing)
     - [Motion Sensing (9/6) (Siam) (DONE)](#motion-sensing)
     - [Wireless Sensing (119/36)](#wireless-sensing)
