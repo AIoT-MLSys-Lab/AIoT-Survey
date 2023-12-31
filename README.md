@@ -9,7 +9,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 We will actively maintain this repository and update the survey by incorporating new research as it emerges.
 
 ## OSU AIoT Seminar Series
-https://sites.google.com/view/osu-aiot-seminar
+Website: https://sites.google.com/view/osu-aiot-seminar
 
 ## 📖 Table of Content
   - [Sensing (268/98) (Led by Hyunho)](#sensing)
