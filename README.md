@@ -2,10 +2,11 @@
 
 ## 📌 What is This Survey About?
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
-**We will actively maintain this list to include newly published work**.
 
 <p align="center">
 <img src="https://github.com/AIoT-MLSys-Lab/AIoT/assets/3488904/7d1d387e-0955-46bd-a562-fd931fea4d50.png" width="40%" height="40%"></p>
+
+We will actively maintain this repository and update the survey by incorporating new research as it emerges.
 
 ## OSU AIoT Seminar Series
 https://sites.google.com/view/osu-aiot-seminar
