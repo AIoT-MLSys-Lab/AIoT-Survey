@@ -13,7 +13,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 ## 📖 Table of Content
   - [Sensing (268/98)](#sensing)
-    - [Motion Sensing (9/6)](#motion-sensing)
+    - [Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))](#motion-sensing)
     - [Wireless Sensing (119/36)](#wireless-sensing)
     	- [RFID Sensing (28/5) (Hyunho)](#rfid-sensing)
     	- [Wi-Fi Sensing (43/14) (Li Liu)](#wi-fi-sensing)
@@ -91,7 +91,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
     	
 ## Sensing
 
-### Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))
+### Motion Sensing
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548) (DL)
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (DL) (Best paper runner-up) 
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors, MobiSys 19 [[Paper]](https://yangliu-cs.github.io/YangLiu-CS/paper/2019-MobiSys-ArmTroi.pdf) (DL)
