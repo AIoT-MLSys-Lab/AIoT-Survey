@@ -1233,4 +1233,13 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 
 This repository is maintained by <ins>[XXX](XXX)</ins> (siam.XXX@osu.edu), <ins>[XXX](XXX)</ins> (XXX@msu.edu), <ins>[samiul272](https://github.com/samiul272)</ins> (alam.140@osu.edu), and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). **We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community**.
 
+1. If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a **pull request** using the following markdown format.
+
+```markdown
+Paper Title, <ins>Conference/Journal/Preprint, Year</ins>  [[pdf](link)] [[other resources](link)].
+```
+
+2. If one preprint paper has multiple versions, please use **the earliest submitted year**.
+   
+3. Display the papers in **a year descending order** (the latest, the first).
 
