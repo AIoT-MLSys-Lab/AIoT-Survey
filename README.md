@@ -13,7 +13,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 ## 📖 Table of Content
   - [Sensing (268/98)](#sensing)
-    - [Motion Sensing (9/6) (Siam) (DONE)](#motion-sensing)
+    - [Motion Sensing (9/6)](#motion-sensing)
     - [Wireless Sensing (119/36)](#wireless-sensing)
     	- [RFID Sensing (28/5) (Hyunho)](#rfid-sensing)
     	- [Wi-Fi Sensing (43/14) (Li Liu)](#wi-fi-sensing)
