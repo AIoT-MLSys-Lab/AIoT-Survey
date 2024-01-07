@@ -89,7 +89,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
     - [AIoT Systems for Agriculture (9/1)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (6/1)](#aiot-systems-for-biology)
     	
-## Sensing (Total: 268)
+## Sensing
 
 ### Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548) (DL)
