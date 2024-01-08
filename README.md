@@ -21,7 +21,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
   - [Sensing (268/98)](#sensing)
     - [Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))](#motion-sensing)
     - [Wireless Sensing (119/36)](#wireless-sensing)
-    	- [RFID Sensing (28/5)](#rfid-sensing)
+    	- [RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))](#rfid-sensing)
     	- [Wi-Fi Sensing (43/14)](#wi-fi-sensing)
     	- [mmWave Sensing (21/11)](#mmwave-sensing)
     	- [TeraHertz Sensing (2/0)](#teraHertz-sensing)
@@ -110,7 +110,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 ### Wireless Sensing (Total: 119)
 
-#### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))
+#### RFID Sensing 
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
 * A Passive Eye-in-Hand “Camera” for Minature Robots, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568505) (NO ML)
 * Thermotag: item-level temperature sensing with a passive RFID tag, MobiSys 21 [[Paper]](https://cs.nju.edu.cn/liujia/papers/mobisys21-themotag.pdf) (NO ML)
