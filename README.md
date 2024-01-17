@@ -84,7 +84,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
       - [... ()]() -->
     - [Hybrid (2/0)](#hybrid)
     - [NA (6/3)](#na) 
-  - [AIoT Systems and their Applications (209/81)](#aiot-systems-and-their-applications)
+  - [Domain-specific AIoT Systems (209/81)](#domain-specific-aiot-systems)
     - [AIoT Systems for Healthcare and Wellbeing (44/20)](#aiot-systems-for-healthcare-and-wellbeing)
     - [AIoT Systems for Video Streaming (41/17)](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22/19)](#aiot-systems-for-video-analytics)
