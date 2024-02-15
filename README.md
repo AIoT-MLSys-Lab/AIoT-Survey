@@ -599,6 +599,14 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 ### Battery (Total: 208 | No ML(181) | ML(10) | DL(16))
 #### Cellular (Total:42  | No ML(32) | ML(4) | DL(6))
+```diff
+- Taking 5G RAN Analytics and Control to a New Level, MobiCom 23 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf) (NO ML)
+- CA++: Enhancing Carrier Aggregation Beyond 5G, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592500) (NO ML)
+- CoreKube: An Efficient, Autoscaling and Resilient Mobile Core System, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592522) [[Code]](https://github.com/netsys-edinburgh/CoreKube) (NO ML) (Best Artifact Award)
+- X-Plane: A High-Throughput Large-Capacity 5G UPF, MobiCom 23 [[Paper]](https://jhc.sjtu.edu.cn/~bjiang/papers/Liu_MobiCom2023_X-Plane.pdf) (NO ML)
+- Enabling Resilience in Virtualized RANs with Atlas, MobiCom 23 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/09/atlas_mobicom.pdf) (NO ML)
+
+```
 - Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)  (NO ML)
 - Proteus: a network service control platform for service evolution in a mobile software defined infrastructure, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973757) (NO ML) 
 - How Should I Slice My Network? A Multi-Service Empirical Evaluation of Resource Sharing Efficiency, MobiCom 18 [[Paper]](https://core.ac.uk/download/pdf/288500453.pdf) (NO ML)
@@ -1001,6 +1009,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 ## AIoT Systems and their Applications (Total: 209)
 							
 ### AIoT Systems for Healthcare and Wellbeing (Total: 44 | No ML(17) | ML(7) | DL(20))
+```diff
+- AccessWear: Making Smartphone Applications Accessible to Blind Users, MobiCom 23 [[Paper]](https://www3.cs.stonybrook.edu/~jain/papers/MobiCom_AccessWear_2023.pdf) (NO ML)
+```
 * DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596867) (NO ML)
 * PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones, MobiSys 23 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys23-ptease.pdf) (DL)
 * Passive Vital Sign Monitoring via Facial Vibrations Leveraging AR/VR Headsets, MobiSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596848) (DL)
