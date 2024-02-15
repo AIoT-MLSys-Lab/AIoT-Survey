@@ -98,9 +98,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 ## Sensing
 
 ### Motion Sensing
-```diff
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548) (DL)
-```
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (DL) (Best paper runner-up) 
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors, MobiSys 19 [[Paper]](https://yangliu-cs.github.io/YangLiu-CS/paper/2019-MobiSys-ArmTroi.pdf) (DL)
 * SenseHAR: a robust virtual activity sensor for smartphones and wearables, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360032) (DL)			
@@ -1207,6 +1205,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 
 ### AIoT Systems for Agriculture  (Total: 9 | No ML(7) | ML(1) | DL(1))
+```diff
+* AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613275) (ML) (Best Paper Award)
+```
 * DRLIC: Deep Reinforcement Learning for Irrigation Control, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a041/962400a041.pdf) (DL)
 * IoTree: a battery-free wearable system with biocompatible sensors for continuous tree health monitoring, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3567652) (NO ML)
 * Estimating Soil Moisture using RF Signals, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517025) (NO ML) 
