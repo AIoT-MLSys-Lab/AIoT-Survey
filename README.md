@@ -677,9 +677,9 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - AiFi: AI-Enabled WiFi Interference Cancellation with Commodity PHY-Layer Information, SenSys 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/sensys22.pdf)（DL）
 #### Acoustic (Total: 7 | No ML(7) | ML(0) | DL(0))
 ```diff
-+ Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound, MobiCom 23 [[Paper]](https://tachen-cs.github.io/data/papers/2023-mobicom-spotsound/SpotSound.pdf) (DL)
+- Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound, MobiCom 23 [[Paper]](https://tachen-cs.github.io/data/papers/2023-mobicom-spotsound/SpotSound.pdf) (DL)
 ```
-+ Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound, MobiCom 23 [[Paper]](https://tachen-cs.github.io/data/papers/2023-mobicom-spotsound/SpotSound.pdf) (DL)
+- Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound, MobiCom 23 [[Paper]](https://tachen-cs.github.io/data/papers/2023-mobicom-spotsound/SpotSound.pdf) (DL)
 - Deaf-aid: mobile IoT communication exploiting stealthy speaker-to-gyroscope channel, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020c.pdf) (NO ML)
 - Messages Behind the Sound: Real-Time Hidden Acoustic Signal Capture with Smartphones, MobiCom 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/MobiCom2016.pdf) (NO ML)
 - Near-Ultrasound Communication for TV's 2nd Screen Services,  MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973774) (NO ML)
