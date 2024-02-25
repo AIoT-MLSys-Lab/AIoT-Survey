@@ -113,6 +113,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 #### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))
 ```diff
 - A Handheld Fine-Grained RFID Localization System with Complex-Controlled Polarization,MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592504) (NO ML)
+- GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2304.07572.pdf) ()
 ```
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
 * A Passive Eye-in-Hand “Camera” for Minature Robots, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568505) (NO ML)
@@ -1003,13 +1004,13 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - Magnetic Backscatter for In-body Communication and Localization, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613301) (NO ML)
 ```
 - SmartShell: A Near-Field Reflective Surface Enhancing RSS, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596866) (NO ML)
+-  DeepGANTT: A Scalable Deep Learning Scheduler for Backscatter Networks, IPSN 23 [[Paper]](https://arxiv.org/pdf/2112.12985.pdf)(DL)
 - Magnetoelectric backscatter communication for millimeter-sized wireless biomedical implants, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560541) (NO ML) (Best Paper Award)(near zero-power backscatter)
 - Pushing the Physical Limits of IoT Devices with Programmable Metasurfaces, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-chen.pdf)(NO ML)
 - LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (NO ML)
 - Judo: addressing the energy asymmetry of wireless embedded systems through tunnel diode based wireless transmitters, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538923) (NO ML)
 - Enabling software-defined PHY for backscatter networks, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538927) (NO ML)(support multiple protocols)
 - One Tag, Two Codes: Identifying Optical Barcodes with NFC, MobiCom 21 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/coilcode-mobicom21.pdf)(NO ML)
-
 - Enabling Passive Backscatter Tag Localization Without Active Receivers, SenSys 21 [[Paper]](http://www.wings.cs.stonybrook.edu/pdfs/2021-sensys.pdf) (NO ML)
 - TagAlong: Efficient Integration of Battery-free Sensor Tags in Standard Wireless Networks, IPSN 20 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2020-2ZapWCkbA6ELdouTqExUlt/549700a169/549700a169.pdf) (NO ML)
 - Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter, MobiCom 20 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_20_2.pdf) (NO ML)
@@ -1028,15 +1029,15 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - PLatter: On the Feasibility of Building-scale Power Line Backscatter, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-zhang_junbo.pdf) (NO ML)
 - NICScatter: Backscatter as a Covert Channel in Mobile Devices, MobiCom 17 [[Paper]](https://www.yangzhice.com/docforweb/NICScatter/NICScatter_MobiCom.pdf) (NO ML)
 - RF-Transformer: A Unified Backscatter Radio Hardware Abstraction, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2209.15195.pdf)(NO ML)
-- 
 - Eliminating Design Effort: A Reconfigurable Sensing Framework For Chipless, Backscatter Tags, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a298/962400a298.pdf)(Traditional ML)
 - RFocus: Beamforming Using Thousands of Passive Antennas, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-arun.pdf)（Traditional ML)
 -  BARNET: Activity Recognition using Passive Backscattering Tag-to-Tag Network, MobiSys 18 [[Paper]](http://www.wings.cs.sunysb.edu/pdfs/2018-Jihoon-mobisys.pdf)(Traditional ML)
 
--  DeepGANTT: A Scalable Deep Learning Scheduler for Backscatter Networks, IPSN 23 [[Paper]](https://arxiv.org/pdf/2112.12985.pdf)(DL)
-
 ### NA (Total: 6 | No ML(3) | ML(0) | DL(3))
-
+```diff
+- NeRF2: Neural Radio-Frequency Radiance Fields, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2305.06118.pdf) (DL) (Best Paper Award Runner-Up)
+- Softly, Deftly, Scrolls Unfurl Their Splendor: Rolling Flexible Surfaces for Wideband Wireless, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592520) (NO ML)
+```
 - In-Network Velocity Control of Industrial Robot Arms, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-laki.pdf) (NO ML) (programmable data plane)
 * Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
 * Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO ML)
@@ -1282,6 +1283,7 @@ Maybe not AIoT
 - A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592519) (NO ML)
 - Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592521) (NO ML)
 - PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613257) (NO ML)
+- GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2304.07572.pdf) (NO ML)
 ```
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
