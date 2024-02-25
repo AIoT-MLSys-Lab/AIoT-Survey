@@ -98,6 +98,9 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 ## Sensing
 
 ### Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))
+```diff
+- Practically Adopting Human Activity Recognition, MobiCom 23 [[Paper]](https://dapowan.github.io/files/UniHAR.pdf) (DL)
+```
 * Real-Time Tracking of Smartwatch Orientation and Location by Multitask Learning, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568548) (DL)
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (DL) (Best paper runner-up) 
 * Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors, MobiSys 19 [[Paper]](https://yangliu-cs.github.io/YangLiu-CS/paper/2019-MobiSys-ArmTroi.pdf) (DL)
@@ -144,6 +147,9 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 
 #### Wi-Fi Sensing (Total: 43 | No ML(19) | ML(10) | DL(14))
+```diff
+- MUSE-Fi: Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613290) (DL)
+```
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf) (DL)
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
@@ -191,6 +197,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 #### mmWave Sensing (Total: 20 | No ML(6) | ML(3) | DL(11))
 ```diff
 - mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
+- Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613302) (DL)
 ```
 * mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596839) (DL)
 * Contactless Material Identification with Millimeter Wave Vibrometry, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596850) (DL)
@@ -260,6 +267,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 #### Others (Total: 5 | No ML(0) | ML(1) | DL(4))
 ```diiff
 - Quantum Wireless Sensing: Principle, Design and Implementation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613258) (NO ML)
+- DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613272) (NO ML)
 ```
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513)(WiFi, UWB, FMCW radio)(DL) (Also healthcare)
 * RISE: robust wireless sensing using probabilistic and statistical assessments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483253)(ML+DL)
@@ -533,6 +541,9 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 ### On-Device Training (Total: 34)
 
 #### Training on a Single Device (Total: 12)
+```diff
+- Cost-effective On-device Continual Learning over Memory Hierarchy with Miro, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2308.06053.pdf)
+```
 * ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection, MobiSys 23 [[Paper]](https://hellokevin07.github.io/files/mobisys23-ElasticTrainer.pdf) [[Code]](https://github.com/HelloKevin07/ElasticTrainer)
 * On-Device Training Under 256KB Memory, NeurIPS 22 [[Paper]](https://arxiv.org/abs/2206.15472)
 * Mandheling: mixed-precision on-device DNN training with DSP offloading,MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
@@ -550,6 +561,10 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
 
 #### Cross-Device Federated Learning (Total: 20)
+```diff
+- Efficient Federated Learning for Modern NLP, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2205.10162.pdf)
+- Federated Few-Shot Learning for Mobile NLP, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2212.05974.pdf) 
+```
 * Harmony: Heterogeneous Multi-Modal Federated Learning through Disentangled Model Training, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596844)
 * EEFL: High-Speed Wireless Communications Inspired Energy Efficient Federated Learning over Mobile Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596865)
 * FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-junxue.pdf)
@@ -557,7 +572,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
 * BalanceFL: Addressing Class Imbalance in Long-tail Federated Learning, IPSN 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BalanceFL-IPSN22.pdf) [[code]](https://github.com/sxontheway/BalanceFL)
 * Papaya: Practical, Private, and Scalable Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
-* PyramidFL: a fine-grained client selection framework for efficient federated learning, MobiCom 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)			
+* PyramidFL: a fine-grained client selection framework for efficient federated learning, MobiCom 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)		
 * FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients,	MobiSys	22	[[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
 * LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf)
 * FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices,	SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568538)	
@@ -1035,7 +1050,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - TagAlong: Efficient Integration of Battery-free Sensor Tags in Standard Wireless Networks, IPSN 20 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2020-2ZapWCkbA6ELdouTqExUlt/549700a169/549700a169.pdf) (NO ML)
 - Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter, MobiCom 20 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_20_2.pdf) (NO ML)
 - Tunnel emitter: tunnel diode based low-power carrier emitters for backscatter tags, MobiCom 20 [[Paper]](https://lorenzocorneo.github.io/papers/2020-mobicom.pdf) (NO ML)
-- Towards scalable backscatter sensor mesh with decodable relay and distributed excitation	,	MobiSys	20	[[Paper]](https://www2.cs.sfu.ca/~jcliu/Papers/mobisys20-final157.pdf)	(NO	ML)	
+- Towards scalable backscatter sensor mesh with decodable relay and distributed excitation	,	MobiSys	20	[[Paper]](https://www2.cs.sfu.ca/~jcliu/Papers/mobisys20-final157.pdf)	(NO ML)	
 - TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345451) (NO ML)
 - 3D Localization for Sub-Centimeter Sized Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274851) (Best Paper) (NO ML)
 - Battery-Free Cellphone, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/phone.pdf) (NO ML)
@@ -1126,6 +1141,10 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 
 ### AIoT Systems for Video Streaming (Total: 43 | No ML(18) | ML(7) | DL(18))
+```diff
+- MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592530) (DL)
+- FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592525) (DL)
+```
 * OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851) (DL)
 * Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-zhuqi.pdf) (NO ML)
 * Enabling High Quality Real-Time Communications with Adaptive Frame-Rate, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-meng.pdf) (NO ML)
@@ -1197,6 +1216,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 - mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613291) (DL)
 - VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving, MobiCom 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VI-Map-MobiCom23.pdf) (DL)
 - Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors, MobiCom 23 [[Paper]](https://ry4nzhu.github.io/publication/robust_real_time/robust_real_time.pdf) (DL)
+- AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592517) (DL) (also federated learning)
 ```
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups) (DL)
 * Mosaic: leveraging diverse reflector geometries for omnidirectional around-corner automotive radar, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538944) (NO ML)
@@ -1275,6 +1295,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 - BatMobility: Towards Flying Without Seeing for Autonomous Drones, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2307.11518.pdf) (DL)
 - RF-Search: Searching Unconscious Victim in Smoke Scenes with RF-enabled Drone, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613305) (NO ML)
 - MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility Conditions, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613264) (NO ML)
+- Taming Event Cameras with Bio-Inspired Architecture and Algorithm: A Case for Drone Obstacle Avoidance, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613269) (NO ML)
 ```
 * Placement Optimization for UAV-Enabled Wireless Networks with Multi-Hop Backhauls in Urban Environments, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a054/962400a054.pdf) (NO ML)
 * Wi-Drone: Wi-Fi-based 6-DoF Tracking for Indoor Drone Flight Control, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538936) (NO ML)
