@@ -1018,11 +1018,13 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - Charging a Smartphone Across a Room Using Lasers,	UbiComp	18	[[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/laserpower.pdf)	(NO ML)
 - PassiveVLC: Enabling Practical Visible Light Backscatter Communication for Battery-free IoT Applications, MobiCom 17 [[Paper]](https://ceca.pku.edu.cn/media/lw/63a22162bb427709099f765883bf243b.pdf)(NO ML)
 -  Turboboosting Visible Light Backscatter Communication, SIGCOMM 20 [[Paper]](https://ceca.pku.edu.cn/docs/20200826153441008514.pdf) (NO ML)
-
 - SpectraLux: Towards Exploiting a Broader Spectrum with Passive VLC, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586966)(DL)
 - U-star: an underwater navigation system based on passive 3D optical identification tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517019)(DL)
 
 #### Acoustic (Total: 4 | No ML(4) | ML(0) | DL(0))
+```diff
++ Enabling Long-Range Underwater Backscatter via Van Atta Acoustic Networks, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604814) (NO ML)
+```
  - Ultra-Wideband Underwater Backscatter via Piezoelectric Metamaterials, SIGCOMM 20	[[Paper]](https://www.mit.edu/~fadel/papers/U2B-paper.pdf) (NO ML)
  - Underwater backscatter networking	,	SIGCOMM	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3341302.3342091)	(NO	ML)	
  - Microphone array backscatter: an application-driven design for lightweight spatial sound recording over the air, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483265)	(NO ML)
