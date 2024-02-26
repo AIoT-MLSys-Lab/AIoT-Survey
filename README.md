@@ -149,6 +149,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 #### Wi-Fi Sensing (Total: 43 | No ML(19) | ML(10) | DL(14))
 ```diff
 - MUSE-Fi: Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613290) (DL)
++ Enabling Ubiquitous Wi-Fi Sensing with Beamforming Reports, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604817) (ML)
 ```
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf) (DL)
 * Exploring Multiple Antennas for Long-range WiFi Sensing, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
@@ -407,6 +408,9 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107) (ML)
 
 ### Cross-Medium Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
+```diff
++ Underwater 3D positioning on smart devices, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604851) (NO ML)
+```
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
 
 ### Multi-Modal Sensing	(Total: 32 | No ML(3) | ML(9) | DL(20))
