@@ -1,4 +1,4 @@
-Vision Sensing# Artificial Intelligence of Things: A Survey  
+# Artificial Intelligence of Things: A Survey  
 
 > **[Artificial Intelligence of Things: A Survey]
 
