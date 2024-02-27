@@ -666,7 +666,6 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - CoreKube: An Efficient, Autoscaling and Resilient Mobile Core System, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592522) [[Code]](https://github.com/netsys-edinburgh/CoreKube) (NO ML) (Best Artifact Award)
 - X-Plane: A High-Throughput Large-Capacity 5G UPF, MobiCom 23 [[Paper]](https://jhc.sjtu.edu.cn/~bjiang/papers/Liu_MobiCom2023_X-Plane.pdf) (NO ML)
 - Enabling Resilience in Virtualized RANs with Atlas, MobiCom 23 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/09/atlas_mobicom.pdf) (NO ML)
-
 ```
 - Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560516)  (NO ML)
 - Proteus: a network service control platform for service evolution in a mobile software defined infrastructure, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973757) (NO ML) 
@@ -679,7 +678,6 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * LTE in Unlicensed Spectrum: Are We There Yet?, MobiCom 16 [[Paper]](http://www.cs.albany.edu/~mariya/courses/csi445660F16/papers/p135-chai.pdf) (NO ML)
 *  A reliable distributed cellular core network for hyper-scale public clouds, MobiCom 18 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/02/ECHO-TR.pdf) (NO ML)
 - Challenge: COSMOS: A City-Scale Programmable Testbed for Experimentation with Advanced Wireless, MobiCom 20 [[Paper]](https://www.winlab.rutgers.edu/~sumitm/downloads/MobiCom2020_COSMOS.pdf) (NO ML)
-
 -  An Active-Passive Measurement Study of TCP Performance over LTE on High-speed Rails, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.04823.pdf) (NO ML)
 -  A Systematic Way to LTE Testing, MobiCom 19 [[Paper]](https://people.computing.clemson.edu/~jmarty/projects/lowLatencyNetworking/papers/3GPP/LTE/AsystematicWayToMeasureLTE.pdf) (NO ML)
 - Experiences: Design, Implementation, and Deployment of CoLTE, a Community LTE Solution, MobiCom 19 [[Paper]](https://kurti.sh/pubs/CoLTE_Mobicom_2019.pdf) (NO ML)
@@ -701,12 +699,10 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - Vivisecting Mobility Management in 5G Cellular Networks, SIGCOMM 22 [[Paper]](https://zhan6841.github.io/files/vivisectingmobility-sigcomm22.pdf) (NO ML)
 - iCellular: Device-Customized Cellular Network Access on Commodity Smartphones, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-li-yuanjie.pdf) (NO ML)
 - Device-Based LTE Latency Reduction at the Application Layer, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-tan.pdf)(NO ML)
-
 - Experience: Automating Diagnosis of Cellular Radio Access Network Problems, MobiCom 17 [[Paper]](https://www.anand-iyer.com/papers/ran-mobicom2017.pdf)(Traditional ML)
 - Mitigating the Latency-Accuracy Trade-off in Mobile Data Analytics Systems, MobiCom 18 [[Paper]](https://www.anand-iyer.com/papers/cellscope-mobicom2018.pdf) (Traditional ML)
 - A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472923.pdf)[[code]](https://github.com/SIGCOMM21-5G/artifact)(mixed, used traditional ML and evaluated algorithms including DL)
 * CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions, MobiSys 19 [[Paper]](https://research.ece.cmu.edu/lions/Papers/CASTLE_MobiSys.pdf)(Traditional ML)
-
 - An In-depth Study of Commercial MVNO: Measurement and Optimization, MobiSys 19 [[Paper]](https://www.cs.binghamton.edu/~yaoliu/publications/mobisys19-mvno.pdf)(mixed)
 - DeepRadar: A Deep-Learning-based Environmental Sensing Capability Sensor Design for CBRS, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448632) (Bandwidth/Rader estimate/detection using DL)
 -  FIRE: Enabling Reciprocity for FDD MIMO Systems, MobiCom 21 [[Paper]](https://deepakv.web.illinois.edu/assets/papers/FIRE_Mobicom2021.pdf) (General network-channel estimation using DL)
@@ -743,7 +739,6 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - Shrimp: a robust underwater visible light communication system, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3448616) (NO ML)	
 - AmphiLight: Direct Air-Water Communication with Laser Light, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/carver)(NO ML)
 
-
 #### Vibration (Total: 2 | No ML(2) | ML(0) | DL(0))
 - Ripple II: Faster Communication through Physical Vibration, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-roy.pdf) (NO ML)
 - mmRipple: Communicating with mmWave Radars through Smartphone Vibration, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586956) (NO ML)
@@ -774,8 +769,10 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 #### Millimeter-Wave (Total: 24 | No ML(22) | ML(2) | DL(0))
 ```diff
++ NOTE backscatter goes to batteryless?
 - UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592526) (NO ML)
 - Bringing Millimeter Wave Technology to Any IoT Device, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613255) (NO ML)
++ A Millimeter Wave Backscatter Network for Two-Way Communication and Localization, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604873) (NO ML)
 ```
 - Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241579) (NO ML)
 - Multi-Stream Beam-Training for mmWave MIMO Networks, MobiCom 18 [[Paper]](https://cse.buffalo.edu/faculty/dimitrio/publications/mobicom18_mute.pdf)(NO ML)
@@ -851,13 +848,12 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * WIDESEE: Towards Wide-Area Contactless Wireless Sensing	,	SenSys	19	[[Paper]](https://zwang4.github.io/publications/sensys19.pdf)	(NO	ML)	
 * FTrack: parallel decoding for LoRa transmissions, SenSys 19 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/FTrack_Sensys19.pdf)(NO ML)
 * Concurrent Interference Cancellation : Decoding Multi-Packet Collisions in LoRa, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472931.pdf) (NO ML)
-
 - SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9111031)(Traditional ML)
 - Automated Estimation of Link Quality for LoRa: A Remote Sensing Approach, IPSN 19 [[Paper]](https://pure.tudelft.nl/ws/files/55547022/IPSN2019.pdf)(Traditional ML)
-
 * LLDPC: A Low-Density Parity-Check Coding Scheme for LoRa Networks, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568547) (DL)
 * DeepLoRa: Learning accurate path loss model for long distance links in LPWAN, INFOCOM 21 [[Paper]](https://ieeexplore.ieee.org/document/9488784)(DL)
 * NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485928)(DL)
+* 
 #### LPWAN (Total: 12 | No ML(12) | ML(0) | DL(0))
 ```diff
 - Low-Bandwidth Self-Improving Transmission of Rare Training Data, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613300) (DL)
@@ -891,10 +887,8 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)（No ML）（introduces a device identification application using DL）
 - The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf)(NO ML) (Best Community Paper Award)
 - TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO ML)
-
 - RFClock: Timing, Phase and Frequency Synchronization for Distributed Wireless Networks, MobiCom 21 [[Paper]](https://genesys-lab.org/papers/RFCLOCK_MOBICOM2021.pdf) (NO ML)(works in 2.4GHz and 915MHz ISM band)
 - Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf) (NO ML)(supports multiple objectives)
-
 -  TinySDR: Low-Power SDR Platform for Over-the-Air Programmable IoT Testbeds, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/hessar) (NO ML)
  
 
@@ -935,7 +929,6 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
   - MPBond: Efficient Network-level Collaboration Among Personal Mobile Devices, MobiSys 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mpbond_mobisys20.pdf) (NO ML)
 
 #### Other Sensor Network (Total: 10 | No ML(9) | ML(0) | DL(1))
-
 - System Architecture Directions for Post-SoC/32-bit Networked Sensors, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274839) (NO ML) (Best Paper Runner-up)
 - NEOFog: Nonvolatility-Exploiting Optimizations for Fog Computing, ASPLOS 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173162.3177154) (NO ML) 
 - Effectively Capturing Attention Using the Capture Effect, SenSys 16 [[Paper]](https://tik-db.ee.ethz.ch/file/b468db98c89b23c868db49b3e72817d0/paper-sp.pdf) (NO ML)
@@ -1082,10 +1075,8 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - In-Network Velocity Control of Industrial Robot Arms, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-laki.pdf) (NO ML) (programmable data plane)
 * Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (NO ML)
 * Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity,	MobiCom	20	[[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216))	(NO ML)
-
 * Idea: A System for Efficient Failure Management in Smart IoT Environments, MobiSys 16 [[Paper]](https://pages.cs.wisc.edu/~sdsen/papers/2016idea.pdf) (NO ML)
 * Mobile Plus: Multi-device Mobile Platform for Cross-device Functionality Sharing, MobiSys 17 [[Paper]](http://cps.kaist.ac.kr/papers/mobisys17-mobileplus.pdf) (NO ML)
-
 * Network Planning with Deep Reinforcement Learning, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472902.pdf) (DL)
 Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110971) [[code]](https://github.com/lkh329/Supreme) （DL)
 
@@ -1351,9 +1342,12 @@ Maybe not AIoT
 * MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (NO ML)
 
 ### AIoT Systems for Biology (Total: 7 | No ML(5) | ML(1) | DL(1))
+```diff
++ Towards Practical and Scalable Molecular Networks, SIGCOMM 23 [[Paper]](https://uwconnect.ece.wisc.edu/wp-content/uploads/sites/1525/2023/08/Towards-Practical-and-Scalable-Molecular-Networks.pdf) (ML)
+```
 * Wind dispersal of battery-free wireless devices, Nature 2022 [[Paper]](https://www.nature.com/articles/s41586-021-04363-9) (NO ML)
 * Vildehaye: A Family of Versatile, Widely-Applicable, and Field-Proven Lightweight Wildlife Tracking and Sensing Tags, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a001/962400a001.pdf) (NO ML)
-* mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking,	MobiCom	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483263) (DL)		
+* mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking,	MobiCom	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483263) (DL)	
 * PigNet: Failure-Tolerant Pig Activity Monitoring System Using Structural Vibration, IPSN 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3412382.3458902) (ML)
 * Airdropping Sensor Networks from Drones and Insects, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419981) (NO ML)
 * Estimating Heart Rate and Detecting Feeding Events of Fish Using an Implantable Biologger, IPSN 20 [[Paper]](https://research.csiro.au/dss/wp-content/uploads/sites/100/2020/02/Estimating_Heart_Rate_and_Detecting_Feeding_Events_of_Fish_Using_an_Implantable_Biologger-1.pdf) (NO ML)
