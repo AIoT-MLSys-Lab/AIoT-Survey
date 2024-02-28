@@ -1145,6 +1145,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 + Converge: QoE-driven Multipath Video Conferencing over WebRTC, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604822) (NO ML)
 + CellFusion: Multipath Vehicle-to-Cloud Video Streaming with Network Coding in the Wild, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604832) (NO ML)
 + XRON: A Hybrid Elastic Cloud Overlay Network for Video Conferencing at Planetary Scale, SIGCOMM 23 [[Paper]](https://ennanzhai.github.io/pub/xron-sigcomm23.pdf) (NO ML)
++ Sammy: smoothing video traffic to be a friendly internet neighbor, SIGCOMM 23 [[Paper]](https://brucespang.com/papers/sammy.pdf) (NO ML)
++ Veritas: Answering Causal Queries from Video Streaming Traces, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604828) (ML)
++ ZGaming: Zero-Latency 3D Cloud Gaming by Image Prediction, SICGOMM 23 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604819) (DL)
 ```
 * OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851) (DL)
 * Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-zhuqi.pdf) (NO ML)
@@ -1191,7 +1194,10 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * PERCEIVE: Deep Learning-based Cellular Uplink Prediction Using Real-time Scheduling Patterns, MobiSys 20 [[Paper]](https://mail.netstech.org/wp-content/uploads/2021/07/perceive-mobisys-2020.pdf)（DL）
 
 
-### AIoT Systems for Video Analytics (Total: 19 | No ML(1) | ML(0) | DL(19))							
+### AIoT Systems for Video Analytics (Total: 19 | No ML(1) | ML(0) | DL(19))		
+```diff
++ PacketGame: Multi-Stream Packet Gating for Concurrent Video Inference at Scale, SIGCOMM 23 [[Paper]](https://yuanmu97.github.io/preprint/packetgame_sigcomm23.pdf) (DL)
+```
 * Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-padmanabhan.pdf) [[code]](https://github.com/artpad6/gemel_nsdi23) (DL)
 * Boggart: Towards General-Purpose Acceleration of Retrospective Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-agarwal-neil.pdf) (DL)
 * RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf) (DL)
