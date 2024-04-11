@@ -1366,6 +1366,8 @@ Maybe not AIoT
 
 ## LLMs for AIoT System
 * Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs [[Paper]](https://arxiv.org/abs/2403.06201)
+* HARGPT: Are LLMs Zero-Shot Human Activity Recognizers? [[Paper]](https://arxiv.org/abs/2403.02727)
+* TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs [[Paper]](https://arxiv.org/abs/2303.16434)
 
 
 ## ❤️ Contribution
