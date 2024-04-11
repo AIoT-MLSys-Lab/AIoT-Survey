@@ -1364,6 +1364,10 @@ Maybe not AIoT
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf) (NO ML)
 
 
+## LLMs for AIoT System
+* Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs [[Paper]](https://arxiv.org/abs/2403.06201)
+
+
 ## ❤️ Contribution
 
 This repository is maintained by <ins>[XXX](XXX)</ins> (siam.XXX@osu.edu), <ins>[XXX](XXX)</ins> (XXX@msu.edu), <ins>[samiul272](https://github.com/samiul272)</ins> (alam.140@osu.edu), and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). **We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community**.
