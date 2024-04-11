@@ -1368,7 +1368,12 @@ Maybe not AIoT
 * Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs [[Paper]](https://arxiv.org/abs/2403.06201)
 * HARGPT: Are LLMs Zero-Shot Human Activity Recognizers? [[Paper]](https://arxiv.org/abs/2403.02727)
 * TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs [[Paper]](https://arxiv.org/abs/2303.16434)
-
+* Poster: Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models, MobiSys '23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3597366)
+* LLMind: Orchestrating AI and IoT with LLM for Complex Task Execution [[Paper]](https://arxiv.org/abs/2312.09007)
+* An LLM-based Framework for Fingerprinting Internet-connected Devices [[Paper]](https://dl.acm.org/doi/abs/10.1145/3618257.3624845)
+* VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things
+[[Paper]](https://arxiv.org/abs/2312.00401)
+* 
 
 ## ❤️ Contribution
 
