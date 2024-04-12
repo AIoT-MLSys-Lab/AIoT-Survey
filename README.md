@@ -94,6 +94,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
     - [AIoT Systems for Satellites](#aiot-systems-for-satellites)
     - [AIoT Systems for Agriculture (9/1)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (6/1)](#aiot-systems-for-biology)
+  - [LLMs for AIoT System](#LLMs-for-AIoT-System)
     	
 ## Sensing
 
@@ -1364,7 +1365,7 @@ Maybe not AIoT
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf) (NO ML)
 
 
-## LLMs for AIoT System
+## <a name="LLMs-for-AIoT-System"></a>LLMs for AIoT System
 * Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs [[Paper]](https://arxiv.org/abs/2403.06201)
 * HARGPT: Are LLMs Zero-Shot Human Activity Recognizers? [[Paper]](https://arxiv.org/abs/2403.02727)
 * TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs [[Paper]](https://arxiv.org/abs/2303.16434)
