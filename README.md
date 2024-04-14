@@ -1366,8 +1366,10 @@ Maybe not AIoT
 
 
 ## <a name="LLMs-for-AIoT-System"></a>LLMs for AIoT System
+### Sensor Data Reasoning
 * Penetrative AI: Making LLMs Comprehend the Physical World [[Paper]](https://arxiv.org/html/2310.09605v2)
 * LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces [[Paper]](https://arxiv.org/pdf/2403.19857.pdf)
+* Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data [[Paper]](https://arxiv.org/abs/2401.06866)
 * Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs [[Paper]](https://arxiv.org/abs/2403.06201)
 * HARGPT: Are LLMs Zero-Shot Human Activity Recognizers? [[Paper]](https://arxiv.org/abs/2403.02727)
 * TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs [[Paper]](https://arxiv.org/abs/2303.16434)
@@ -1376,7 +1378,11 @@ Maybe not AIoT
 * An LLM-based Framework for Fingerprinting Internet-connected Devices [[Paper]](https://dl.acm.org/doi/abs/10.1145/3618257.3624845)
 * VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things
 [[Paper]](https://arxiv.org/abs/2312.00401)
-* 
+* Using Large Language Models to Enhance the Reusability of Sensor Data [[Paper]](https://www.mdpi.com/1424-8220/24/2/347)
+
+### Multi-Agent LLM for AIoT System
+* CASIT: Collective Intelligent Agent System for Internet of Things [[Paper]](https://ieeexplore.ieee.org/abstract/document/10439991)
+
 
 ## ❤️ Contribution
 
