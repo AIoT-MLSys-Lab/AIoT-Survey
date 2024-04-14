@@ -1366,6 +1366,8 @@ Maybe not AIoT
 
 
 ## <a name="LLMs-for-AIoT-System"></a>LLMs for AIoT System
+* Penetrative AI: Making LLMs Comprehend the Physical World [[Paper]](https://arxiv.org/html/2310.09605v2)
+* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces [[Paper]](https://arxiv.org/pdf/2403.19857.pdf)
 * Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs [[Paper]](https://arxiv.org/abs/2403.06201)
 * HARGPT: Are LLMs Zero-Shot Human Activity Recognizers? [[Paper]](https://arxiv.org/abs/2403.02727)
 * TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs [[Paper]](https://arxiv.org/abs/2303.16434)
@@ -1378,7 +1380,7 @@ Maybe not AIoT
 
 ## ❤️ Contribution
 
-This repository is maintained by <ins>[shakhrulsiam268](https://github.com/shakhrulsiam268)</ins> (siam.XXX@osu.edu), <ins>[XXX](XXX)</ins> (XXX@msu.edu), <ins>[samiul272](https://github.com/samiul272)</ins> (alam.140@osu.edu), and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). **We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community**.
+This repository is maintained by <ins>[shakhrulsiam268](https://github.com/shakhrulsiam268)</ins> (siam.5@osu.edu), <ins>[XXX](XXX)</ins> (XXX@msu.edu), <ins>[samiul272](https://github.com/samiul272)</ins> (alam.140@osu.edu), and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). **We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community**.
 
 1. If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a **pull request** using the following markdown format.
 
