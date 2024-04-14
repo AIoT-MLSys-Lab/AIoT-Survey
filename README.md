@@ -1372,13 +1372,19 @@ Maybe not AIoT
 * Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data [[Paper]](https://arxiv.org/abs/2401.06866)
 * Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs [[Paper]](https://arxiv.org/abs/2403.06201)
 * HARGPT: Are LLMs Zero-Shot Human Activity Recognizers? [[Paper]](https://arxiv.org/abs/2403.02727)
-* TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs [[Paper]](https://arxiv.org/abs/2303.16434)
-* Poster: Rethinking Embedded Sensor Data Processing and Analysis with Large Language Models, MobiSys '23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3597366)
-* LLMind: Orchestrating AI and IoT with LLM for Complex Task Execution [[Paper]](https://arxiv.org/abs/2312.09007)
 * An LLM-based Framework for Fingerprinting Internet-connected Devices [[Paper]](https://dl.acm.org/doi/abs/10.1145/3618257.3624845)
+
+
+### Reusability of Sensor Data
+* Using Large Language Models to Enhance the Reusability of Sensor Data [[Paper]](https://www.mdpi.com/1424-8220/24/2/347)
+* Leveraging Large Language Models for Sensor Data Retrieval [[Paper]](https://www.mdpi.com/2076-3417/14/6/2506)
+
+
+### Interaction between AI and IoT
+* TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs [[Paper]](https://arxiv.org/abs/2303.16434)
+* LLMind: Orchestrating AI and IoT with LLM for Complex Task Execution [[Paper]](https://arxiv.org/abs/2312.09007)
 * VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things
 [[Paper]](https://arxiv.org/abs/2312.00401)
-* Using Large Language Models to Enhance the Reusability of Sensor Data [[Paper]](https://www.mdpi.com/1424-8220/24/2/347)
 
 ### Multi-Agent LLM for AIoT System
 * CASIT: Collective Intelligent Agent System for Internet of Things [[Paper]](https://ieeexplore.ieee.org/abstract/document/10439991)
