@@ -1389,6 +1389,10 @@ Maybe not AIoT
 * VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things
 [[Paper]](https://arxiv.org/abs/2312.00401)
 
+### Security and Privacy of AIoT Devices
+* Revolutionizing Cyber Threat Detection with Large Language Models: A privacy-preserving BERT-based Lightweight Model for IoT/IIoT Devices [[Paper]](https://arxiv.org/abs/2306.14263)
+* Application of Large Language Models to DDoS Attack Detection [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-51630-6_6)
+
 ### Multi-Agent LLM for AIoT System
 * CASIT: Collective Intelligent Agent System for Internet of Things [[Paper]](https://ieeexplore.ieee.org/abstract/document/10439991)
 
