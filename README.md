@@ -1372,6 +1372,9 @@ Maybe not AIoT
 * Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data [[Paper]](https://arxiv.org/abs/2401.06866)
 * Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs [[Paper]](https://arxiv.org/abs/2403.06201)
 * HARGPT: Are LLMs Zero-Shot Human Activity Recognizers? [[Paper]](https://arxiv.org/abs/2403.02727)
+* 
+### Identifying New Device
+* IoT Device Labeling Using Large Language Models [[Paper]](https://arxiv.org/pdf/2403.01586.pdf)
 * An LLM-based Framework for Fingerprinting Internet-connected Devices [[Paper]](https://dl.acm.org/doi/abs/10.1145/3618257.3624845)
 
 
