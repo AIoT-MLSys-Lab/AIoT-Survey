@@ -154,6 +154,10 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 #### Wi-Fi Sensing (Total: 43 | No ML(19) | ML(10) | DL(14))
 ```diff
+! Understanding WiFi signal frequency features for position-independent gesture sensing, IEEE Transactions on Mobile Computing 2022 [[Paper]](https://hal.science/hal-03363402/file/Understanding_WiFi_Signal_Frequency_Features_for_Position-Independent_Gesture_Sensing.pdf)
+```
+
+```diff
 + MUSE-Fi: Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613290) (DL)
 + Enabling Ubiquitous Wi-Fi Sensing with Beamforming Reports, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604817) (ML)
 ```
@@ -286,8 +290,8 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 ### Earables (Total: 18 | No ML(4) | ML(8) | DL(5))
 
 ```diff
-+ MandiPass: Secure and Usable User Authentication via Earphone IMU, IEEE Transactions on Mobile Computing 2021 [[Paper]](https://ieeexplore.ieee.org/document/9546415)
-+ DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178)
+! MandiPass: Secure and Usable User Authentication via Earphone IMU, IEEE Transactions on Mobile Computing 2021 [[Paper]](https://ieeexplore.ieee.org/document/9546415)
+! DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178)
 ```
 
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
@@ -312,6 +316,12 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 
 ### Acoustic Sensing (Total: 45 | No ML(23) | ML(10) | DL(12))	
+```diff
+! DeepRange: Acoustic Ranging via Deep Learning, IMWUT 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432195)
+! Your Table Can Be an Input Panel: Acoustic-based Device-Free Interaction Recognition, IMWUT 2019 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3314390)
+! Sequence-Based Device-Free Gesture Recognition Framework for Multi-Channel Acoustic Signals [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095790)
+```
+
 ```diff
 + Meta-Speaker: Acoustic Source Projection by Exploiting Air Nonlinearity, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613279) (NO ML)
 + PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones, MobiCom 23 [[Paper]](https://people.cs.umass.edu/~dli/papers/Mobicom23_PowerPhone.pdf) (DL)
