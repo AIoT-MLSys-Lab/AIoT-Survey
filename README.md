@@ -116,13 +116,14 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 #### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))
 ```diff
-+ ShakeReader: ‘Read’ UHF RFID using Smartphone, IEEE INFOCOM 2021 [[Paper]](https://ieeexplore.ieee.org/document/9488802)
+! ShakeReader: ‘Read’ UHF RFID using Smartphone, IEEE INFOCOM 2021 [[Paper]](https://ieeexplore.ieee.org/document/9488802)
 ```
 
 ```diff
 + A Handheld Fine-Grained RFID Localization System with Complex-Controlled Polarization,MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592504) (NO ML)
 + Fast, Fine-grained, and Robust Grouping of RFIDs, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3592510) (NO ML)
 ```
+
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (NO ML)
 * A Passive Eye-in-Hand “Camera” for Minature Robots, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568505) (NO ML)
 * Thermotag: item-level temperature sensing with a passive RFID tag, MobiSys 21 [[Paper]](https://cs.nju.edu.cn/liujia/papers/mobisys21-themotag.pdf) (NO ML)
