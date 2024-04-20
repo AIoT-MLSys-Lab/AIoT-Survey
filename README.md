@@ -116,6 +116,10 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 #### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))
 ```diff
++ ShakeReader: ‘Read’ UHF RFID using Smartphone, IEEE INFOCOM 2021 [[Paper]](https://ieeexplore.ieee.org/document/9488802)
+```
+
+```diff
 + A Handheld Fine-Grained RFID Localization System with Complex-Controlled Polarization,MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592504) (NO ML)
 + Fast, Fine-grained, and Robust Grouping of RFIDs, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3592510) (NO ML)
 ```
@@ -279,6 +283,12 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 	
 ### Earables (Total: 18 | No ML(4) | ML(8) | DL(5))
+
+```diff
++ MandiPass: Secure and Usable User Authentication via Earphone IMU, IEEE Transactions on Mobile Computing 2021 [[Paper]](https://ieeexplore.ieee.org/document/9546415)
++ DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178)
+```
+
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314) (Survey)
 * FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones, IPSN 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn22.pdf) [[Dataset]](https://developers.google.com/mediapipe) [[Code]](https://github.com/muxspace/facial_expressions) (DL)
@@ -297,6 +307,8 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * TYTH-Typing On Your Teeth: Tongue-Teeth Localization for Human-Computer Interface, MobiSys 18 [[Paper]](http://mnslab.org/tamvu/paper/2018%20TYTH_Phuc.pdf) (ML)
 * MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (NO ML)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML) (Also healthcare)
+
+
 
 ### Acoustic Sensing (Total: 45 | No ML(23) | ML(10) | DL(12))	
 ```diff
