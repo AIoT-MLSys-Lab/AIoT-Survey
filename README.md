@@ -1395,6 +1395,7 @@ Maybe not AIoT
 * 
 
 ### Low-Rank Adaptation of LLM
+* QLORA: Efficient Finetuning of Quantized LLMs, NeurIPS 2023 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
 * S-LoRA: Serving Thousands of Concurrent LoRA Adapters, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.03285)
 * Punica: Multi-Tenant LoRA Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.18547)
 * 
