@@ -1392,29 +1392,17 @@ Maybe not AIoT
 ### Sensor Data Reasoning
 * Penetrative AI: Making LLMs Comprehend the Physical World (HOTMOBILE '24) [[Paper]](https://arxiv.org/html/2310.09605v2)
 * LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces (SenSys-ML '24) [[Paper]](https://arxiv.org/pdf/2403.19857.pdf)
-* Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data (Arxiv) [[Paper]](https://arxiv.org/abs/2401.06866)
-* Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs (Coupling of Sensing & Computing in AIoT Systems (CSCAIoTSys '24)) [[Paper]](https://arxiv.org/abs/2403.06201)
-* HARGPT: Are LLMs Zero-Shot Human Activity Recognizers? (Arxiv) [[Paper]](https://arxiv.org/abs/2403.02727)
 * 
+
+### Low-Rank Adaptation of LLM
+* S-LoRA: Serving Thousands of Concurrent LoRA Adapters, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.03285)
+* Punica: Multi-Tenant LoRA Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.18547)
+* 
+
 ### Identifying New Device
 * IoT Device Labeling Using Large Language Models (Arxiv) [[Paper]](https://arxiv.org/pdf/2403.01586.pdf)
 * An LLM-based Framework for Fingerprinting Internet-connected Devices (IMC '23: Proceedings of the 2023 ACM on Internet Measurement Conference) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3618257.3624845)
 
-
-### Reusability of Sensor Data
-* Using Large Language Models to Enhance the Reusability of Sensor Data (MDPI '24)  [[Paper]](https://www.mdpi.com/1424-8220/24/2/347)
-* Leveraging Large Language Models for Sensor Data Retrieval (MDPI '24) [[Paper]](https://www.mdpi.com/2076-3417/14/6/2506)
-
-
-### Interaction between AI and IoT
-* TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs (Intelligent computing '24) [[Paper]](https://arxiv.org/abs/2303.16434)
-* LLMind: Orchestrating AI and IoT with LLM for Complex Task Execution (Arxiv) [[Paper]](https://arxiv.org/abs/2312.09007)
-* VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things (Arxiv)
-[[Paper]](https://arxiv.org/abs/2312.00401)
-
-### Security and Privacy of AIoT Devices
-* Revolutionizing Cyber Threat Detection with Large Language Models: A privacy-preserving BERT-based Lightweight Model for IoT/IIoT Devices (IEEE Access '24) [[Paper]](https://arxiv.org/abs/2306.14263)
-* Application of Large Language Models to DDoS Attack Detection (Springer '23) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-51630-6_6)
 
 ### Multi-Agent LLM for AIoT System
 * CASIT: Collective Intelligent Agent System for Internet of Things (IEEE Internet of Things Journal '24) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10439991)
