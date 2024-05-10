@@ -1399,6 +1399,12 @@ Maybe not AIoT
 * Punica: Multi-Tenant LoRA Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.18547)
 * 
 
+### Mobile LLM
+* Mobile Foundation Model as Firmware The Way Towards a Unified Mobile AI Landscape, Mobicom '24 [[Paper]](https://xumengwei.github.io/files/MobiCom24-MobileFM.pdf)
+* AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
+* 
+
+
 ### Identifying New Device
 * IoT Device Labeling Using Large Language Models (Arxiv) [[Paper]](https://arxiv.org/pdf/2403.01586.pdf)
 * An LLM-based Framework for Fingerprinting Internet-connected Devices (IMC '23: Proceedings of the 2023 ACM on Internet Measurement Conference) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3618257.3624845)
