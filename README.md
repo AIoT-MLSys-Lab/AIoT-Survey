@@ -29,7 +29,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
      	- [Cellular Sensing (2/0)](#cellular-sensing)
     	- [LoRa Sensing (1/0)](#lora-sensing)
     	- [Bluetooth Sensing (5/2)](#bluetooth-sensing)
-     	- [Ariel Sensing (1/0)](#ariel-sensing)
+     	- [Aerial Sensing (1/0)](#ariel-sensing)
       	- [RF Sensing (5/4)](#rf-sensing)
     - [Earables (18/5)](#earables)
     - [Acoustic Sensing (45/12)](#acoustic-sensing)
