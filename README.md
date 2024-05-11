@@ -1400,16 +1400,23 @@ Maybe not AIoT
 * Punica: Multi-Tenant LoRA Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.18547)
 * 
 
+### LLM Compression (Quantization)
+* AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2306.00978)
+* Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.19102)
+
+### Inference Optimization
+* HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Device, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2403.01164)
+* FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.01282)
+* Vidur: A Large-Scale Simulation Framework For LLM Inference, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2405.05465)
+* Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2403.09054)
+
+### Fine-Tuning LLM
+* Fine-Tuning Language Models Using Formal Methods Feedback: A Use Case in Autonomous Systems, MLSys '24 [[Paper]](https://arxiv.org/pdf/2310.18239)
+
 ### Mobile LLM
 * Mobile Foundation Model as Firmware The Way Towards a Unified Mobile AI Landscape, Mobicom '24 [[Paper]](https://xumengwei.github.io/files/MobiCom24-MobileFM.pdf)
 * AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
 * 
-
-
-### Identifying New Device
-* IoT Device Labeling Using Large Language Models (Arxiv) [[Paper]](https://arxiv.org/pdf/2403.01586.pdf)
-* An LLM-based Framework for Fingerprinting Internet-connected Devices (IMC '23: Proceedings of the 2023 ACM on Internet Measurement Conference) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3618257.3624845)
-
 
 ### Multi-Agent LLM for AIoT System
 * CASIT: Collective Intelligent Agent System for Internet of Things (IEEE Internet of Things Journal '24) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10439991)
