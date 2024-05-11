@@ -1392,15 +1392,16 @@ Maybe not AIoT
 ### Sensor Data Reasoning
 * Penetrative AI: Making LLMs Comprehend the Physical World (HOTMOBILE '24) [[Paper]](https://arxiv.org/html/2310.09605v2)
 * LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces (SenSys-ML '24) [[Paper]](https://arxiv.org/pdf/2403.19857.pdf)
-* 
 
-### Low-Rank Adaptation of LLM
+
+### LLM Compression 
+#### Low-Rank Adaptation
 * QLORA: Efficient Finetuning of Quantized LLMs, NeurIPS 2023 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
 * S-LoRA: Serving Thousands of Concurrent LoRA Adapters, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.03285)
 * Punica: Multi-Tenant LoRA Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.18547)
-* 
 
-### LLM Compression (Quantization)
+
+#### Quantization
 * AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2306.00978)
 * Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.19102)
 
@@ -1416,10 +1417,6 @@ Maybe not AIoT
 ### Mobile LLM
 * Mobile Foundation Model as Firmware The Way Towards a Unified Mobile AI Landscape, Mobicom '24 [[Paper]](https://xumengwei.github.io/files/MobiCom24-MobileFM.pdf)
 * AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
-* 
-
-### Multi-Agent LLM for AIoT System
-* CASIT: Collective Intelligent Agent System for Internet of Things (IEEE Internet of Things Journal '24) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10439991)
 
 
 ## ❤️ Contribution
