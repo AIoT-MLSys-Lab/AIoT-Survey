@@ -1391,7 +1391,6 @@ Maybe not AIoT
 ## <a name="LLMs-for-AIoT-System"></a>LLMs for AIoT System
 
 
-* MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs, NSDI '24 [[Paper]](https://arxiv.org/pdf/2402.15627)
 * Efficient Memory Management for Large Language Model Serving with PagedAttention, SOSP '23 [[Paper]](https://arxiv.org/pdf/2309.06180)
 * 
 
@@ -1400,6 +1399,9 @@ Maybe not AIoT
 * Penetrative AI: Making LLMs Comprehend the Physical World (HOTMOBILE '24) [[Paper]](https://arxiv.org/html/2310.09605v2)
 * LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces (SenSys-ML '24) [[Paper]](https://arxiv.org/pdf/2403.19857.pdf)
 
+### LLM Training
+* MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs, NSDI '24 [[Paper]](https://arxiv.org/pdf/2402.15627)
+* Federated Few-Shot Learning for Mobile NLP, MobiCom'23 [[Paper]](https://arxiv.org/pdf/2212.05974)
 
 ### LLM Compression 
 #### Low-Rank Adaptation
