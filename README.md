@@ -1391,9 +1391,6 @@ Maybe not AIoT
 ## <a name="LLMs-for-AIoT-System"></a>LLMs for AIoT System
 
 
-* Efficient Memory Management for Large Language Model Serving with PagedAttention, SOSP '23 [[Paper]](https://arxiv.org/pdf/2309.06180)
-* 
-
 
 ### Sensor Data Reasoning
 * Penetrative AI: Making LLMs Comprehend the Physical World (HOTMOBILE '24) [[Paper]](https://arxiv.org/html/2310.09605v2)
@@ -1419,6 +1416,8 @@ Maybe not AIoT
 * FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.01282)
 * Vidur: A Large-Scale Simulation Framework For LLM Inference, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2405.05465)
 * Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2403.09054)
+* Efficient Memory Management for Large Language Model Serving with PagedAttention, SOSP '23 [[Paper]](https://arxiv.org/pdf/2309.06180)
+
 
 ### Fine-Tuning LLM
 * Fine-Tuning Language Models Using Formal Methods Feedback: A Use Case in Autonomous Systems, MLSys '24 [[Paper]](https://arxiv.org/pdf/2310.18239)
