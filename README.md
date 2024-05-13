@@ -1399,6 +1399,7 @@ Maybe not AIoT
 ### LLM Training
 * MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs, NSDI '24 [[Paper]](https://arxiv.org/pdf/2402.15627)
 * Federated Few-Shot Learning for Mobile NLP, MobiCom'23 [[Paper]](https://arxiv.org/pdf/2212.05974)
+* Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates, SOSP '23 [[Paper]](https://arxiv.org/pdf/2309.08125)
 
 ### LLM Compression 
 #### Low-Rank Adaptation
