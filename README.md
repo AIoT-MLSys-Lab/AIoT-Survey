@@ -279,7 +279,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * Robust Indoor Localization with ADS-B, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483257) (NO ML)
 
 #### Others (Total: 5 | No ML(0) | ML(1) | DL(4))
-```diiff
+```diff
 + XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL) (Also Multi-Modal)
 - Quantum Wireless Sensing: Principle, Design and Implementation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613258) (NO ML)
 - DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613272) (NO ML)
