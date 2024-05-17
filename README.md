@@ -1403,41 +1403,57 @@ Maybe not AIoT
 
 ## <a name="LLMs-for-AIoT-System"></a>LLMs for AIoT System
 
-
-
 ### Sensor Data Reasoning
 * Penetrative AI: Making LLMs Comprehend the Physical World (HOTMOBILE '24) [[Paper]](https://arxiv.org/html/2310.09605v2)
 * LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces (SenSys-ML '24) [[Paper]](https://arxiv.org/pdf/2403.19857.pdf)
 
-### LLM Training
-* MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs, NSDI '24 [[Paper]](https://arxiv.org/pdf/2402.15627)
+### Mobile Agents
+* Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
+* Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent
+* Octopus v2: On-device language model for super agent
+* Towards an On-device Agent for Text Rewriting
+
+### Mobile UI
+* Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs
+
+### GenAI Models for IoT
+* MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases
+
+### Benchmarks
+* MELTing point: Mobile Evaluation of Language Transformers
+* Mobile Foundation Model as Firmware
+
+### Federated Learning
 * Federated Few-Shot Learning for Mobile NLP, MobiCom'23 [[Paper]](https://arxiv.org/pdf/2212.05974)
-* Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates, SOSP '23 [[Paper]](https://arxiv.org/pdf/2309.08125)
+* Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models
+* Prompt Public Large Language Models to Synthesize Data for Private On-device Applications
+* Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes
 
-### LLM Compression 
-
-
-#### Quantization
+### LLM Compression for IoT
 * AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2306.00978)
 * Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.19102)
 
-### Inference Optimization
+### Eddge-Cloud Collaboration
+* EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge 
+
+### Inference 
 * HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Device, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2403.01164)
-* FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.01282)
 * Vidur: A Large-Scale Simulation Framework For LLM Inference, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2405.05465)
 * Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2403.09054)
-* Efficient Memory Management for Large Language Model Serving with PagedAttention, SOSP '23 [[Paper]](https://arxiv.org/pdf/2309.06180)
+* EdgeMoE: Fast On-Device Inference of MoE-based Large Language Model
+* LLMCad: Fast and Scalable On-device Large Language Model Inference
+* LLM in a flash: Efficient Large Language Model Inference with Limited Memory
+* STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining
+* SwapMoE: Efficient Memory-Constrained Serving of Large Sparse MoE Models via Dynamic Expert Pruning and Swapping
+* EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models
 
-
-### Fine-Tuning LLM
-#### Low-Rank Adaptation
+### Fine-Tuning
 * QLORA: Efficient Finetuning of Quantized LLMs, NeurIPS 2023 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
 * S-LoRA: Serving Thousands of Concurrent LoRA Adapters, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.03285)
 * Punica: Multi-Tenant LoRA Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.18547)
-
 * Fine-Tuning Language Models Using Formal Methods Feedback: A Use Case in Autonomous Systems, MLSys '24 [[Paper]](https://arxiv.org/pdf/2310.18239)
 
-### Mobile LLM
+### Applications
 * Mobile Foundation Model as Firmware The Way Towards a Unified Mobile AI Landscape, Mobicom '24 [[Paper]](https://xumengwei.github.io/files/MobiCom24-MobileFM.pdf)
 * AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
 
