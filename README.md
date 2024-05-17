@@ -1415,10 +1415,6 @@ Maybe not AIoT
 * Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates, SOSP '23 [[Paper]](https://arxiv.org/pdf/2309.08125)
 
 ### LLM Compression 
-#### Low-Rank Adaptation
-* QLORA: Efficient Finetuning of Quantized LLMs, NeurIPS 2023 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
-* S-LoRA: Serving Thousands of Concurrent LoRA Adapters, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.03285)
-* Punica: Multi-Tenant LoRA Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.18547)
 
 
 #### Quantization
@@ -1434,6 +1430,11 @@ Maybe not AIoT
 
 
 ### Fine-Tuning LLM
+#### Low-Rank Adaptation
+* QLORA: Efficient Finetuning of Quantized LLMs, NeurIPS 2023 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
+* S-LoRA: Serving Thousands of Concurrent LoRA Adapters, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.03285)
+* Punica: Multi-Tenant LoRA Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.18547)
+
 * Fine-Tuning Language Models Using Formal Methods Feedback: A Use Case in Autonomous Systems, MLSys '24 [[Paper]](https://arxiv.org/pdf/2310.18239)
 
 ### Mobile LLM
