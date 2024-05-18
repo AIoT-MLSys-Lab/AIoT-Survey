@@ -1428,7 +1428,6 @@ Maybe not AIoT
 
 ### LLM Compression for IoT
 * AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2306.00978)
-* Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.19102)
 
 ### Edge-Cloud Collaboration
 * EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge, Sensys '23 [[Paper]](https://arxiv.org/pdf/2311.10986)
