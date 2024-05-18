@@ -1416,18 +1416,15 @@ Maybe not AIoT
 ### Mobile UI
 * Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2404.05719)
 
-### GenAI Models for IoT
-* MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases [[Paper]](https://arxiv.org/pdf/2402.14905)
-
 ### Benchmarks
 * MELTing point: Mobile Evaluation of Language Transformers [[Paper]](https://arxiv.org/pdf/2403.12844)
-* Mobile Foundation Model as Firmware [[Paper]](https://arxiv.org/pdf/2308.14363)
+* Mobile Foundation Model as Firmware, MobiCom ’24 [[Paper]](https://arxiv.org/pdf/2308.14363)
 
 ### Federated Learning
 * Federated Few-Shot Learning for Mobile NLP, MobiCom'23 [[Paper]](https://arxiv.org/pdf/2212.05974)
 * Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models, NeurIPS '23 [[Paper]](https://arxiv.org/pdf/2401.06432)
 * Prompt Public Large Language Models to Synthesize Data for Private On-device Applications [[Paper]](https://arxiv.org/pdf/2404.04360)
-* Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes [[Paper]](https://arxiv.org/pdf/2312.06353)
+
 
 ### LLM Compression for IoT
 * AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2306.00978)
