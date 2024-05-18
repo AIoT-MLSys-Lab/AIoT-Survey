@@ -1438,8 +1438,6 @@ Maybe not AIoT
 
 ### Inference 
 * HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Device, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2403.01164)
-* Vidur: A Large-Scale Simulation Framework For LLM Inference, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2405.05465)
-* Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2403.09054)
 * EdgeMoE: Fast On-Device Inference of MoE-based Large Language Model [[Paper]](https://arxiv.org/pdf/2308.14352)
 * LLMCad: Fast and Scalable On-device Large Language Model Inference [[Paper]](https://arxiv.org/pdf/2309.04255)
 * LLM in a flash: Efficient Large Language Model Inference with Limited Memory [[Paper]](https://arxiv.org/pdf/2312.11514)
@@ -1448,9 +1446,6 @@ Maybe not AIoT
 
 
 ### Fine-Tuning
-* QLORA: Efficient Finetuning of Quantized LLMs, NeurIPS 2023 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
-* S-LoRA: Serving Thousands of Concurrent LoRA Adapters, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2311.03285)
-* Punica: Multi-Tenant LoRA Serving, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2310.18547)
 * Fine-Tuning Language Models Using Formal Methods Feedback: A Use Case in Autonomous Systems, MLSys '24 [[Paper]](https://arxiv.org/pdf/2310.18239)
 
 ### Applications
