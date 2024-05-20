@@ -524,6 +524,9 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
 
 #### Multi-Tenant Inference (Total: 12)	
+```diff
++ Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.04339)
+```
 * POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
 * VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)		
@@ -570,6 +573,9 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)		
 		
 #### Benchmarks (Total: 2)
+```diff
++ nnPerf: Demystifying DNN Runtime Inference Latency on Mobile Platforms, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625797)
+```
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
 
@@ -578,6 +584,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 #### Training on a Single Device (Total: 12)
 ```diff
 + Cost-effective On-device Continual Learning over Memory Hierarchy with Miro, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2308.06053.pdf)
++ LifeLearner: Hardware-Aware Meta Continual Learning System for Embedded Computing Platforms, SenSys 23 [[Paper]](https://arxiv.org/pdf/2311.11420)
 ```
 * ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection, MobiSys 23 [[Paper]](https://hellokevin07.github.io/files/mobisys23-ElasticTrainer.pdf) [[Code]](https://github.com/HelloKevin07/ElasticTrainer)
 * On-Device Training Under 256KB Memory, NeurIPS 22 [[Paper]](https://arxiv.org/abs/2206.15472)
@@ -961,7 +968,10 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
   - An In-depth Understanding of Multipath TCP on Mobile Devices: Measurement and System Design, MobiCom 16 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/multipath_mobicom16.pdf) (NO ML)
   - MPBond: Efficient Network-level Collaboration Among Personal Mobile Devices, MobiSys 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mpbond_mobisys20.pdf) (NO ML)
 
-#### Other Sensor Network (Total: 10 | No ML(9) | ML(0) | DL(1))
+#### Other Sensor Network (Total: 10 | No ML(9) | ML(1) | DL(1))
+```diff
++ NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Kai.Zheng_SenSys23_NeuroRadar.pdf) (ML)
+```
 - System Architecture Directions for Post-SoC/32-bit Networked Sensors, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274839) (NO ML) (Best Paper Runner-up)
 - NEOFog: Nonvolatility-Exploiting Optimizations for Fog Computing, ASPLOS 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173162.3177154) (NO ML) 
 - Effectively Capturing Attention Using the Capture Effect, SenSys 16 [[Paper]](https://tik-db.ee.ethz.ch/file/b468db98c89b23c868db49b3e72817d0/paper-sp.pdf) (NO ML)
@@ -1003,6 +1013,9 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 - RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-xinyi.pdf) (NO ML)
 - Leveraging Ambient LTE Traffic for Ubiquitous Passive Communication, SIGCOMM 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405861) (NO ML)
 #### Wifi (Total: 17 | No ML(17) | ML(0) | DL(0))
+```diff
++ Upscaling Fog Computing in Oceans for Underwater Pervasive Data Science Using Low-Cost Micro-Clouds, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3575801) (DL)
+```
 - RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-xinyi.pdf) (NO ML)
 - Timespan-based Backscatter Using a Single COTS Receiver, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596858) (NO ML)
 - Leggiero: Analog WiFi Backscatter with Payload Transparency, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596835) (NO ML)
