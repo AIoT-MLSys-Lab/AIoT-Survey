@@ -563,6 +563,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 #### Adaptation (Total: 7)
 ```diff
 + AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592529)
++ On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625814)
 ```
 * LiteReconfig: Cost and Content Aware Reconfiguration of Video Object Detection Systems for Mobile GPUs, EuroSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577)
 * Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
@@ -604,6 +605,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 
 #### Cross-Device Federated Learning (Total: 20)
 ```diff
++ FedINC: An Exemplar-Free Continual Federated Learning Framework with Small Labeled Data, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625800)
 + Efficient Federated Learning for Modern NLP, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2205.10162.pdf)
 + Federated Few-Shot Learning for Mobile NLP, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2212.05974.pdf) 
 ```
@@ -670,7 +672,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
 * Mind Mappings: Enabling Efficient Algorithm-Accelerator Mapping Space Search, ASPLOS 21 [[Paper]](https://arxiv.org/pdf/2103.01489.pdf)
 * Searching for Winograd-aware Quantized Networks, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/45c48cce2e2d7fbdea1afc51c7c6ad26-Paper.pdf)
 * SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
-* MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)		
+* MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)	
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
 														
 ### Compiler for AIoT (Total: 18)							
@@ -1133,6 +1135,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 							
 ### AIoT Systems for Healthcare and Wellbeing (Total: 44 | No ML(17) | ML(7) | DL(20))
 ```diff
++ PDAssess: A Privacy-preserving Free-speech based Parkinson’s Disease Daily Assessment System, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625805)
 + AccessWear: Making Smartphone Applications Accessible to Blind Users, MobiCom 23 [[Paper]](https://www3.cs.stonybrook.edu/~jain/papers/MobiCom_AccessWear_2023.pdf) (NO ML)
 + Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses, MobiCom  23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613260) (ML)
 + SignQuery: A Natural User Interface and Search Engine for Sign Languages with Wearable Sensors, MobiCom 23 [[Paper]](https://www.cse.psu.edu/~mkg31/papers/signquery.pdf) (DL)
