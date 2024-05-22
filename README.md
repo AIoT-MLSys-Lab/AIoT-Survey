@@ -1433,22 +1433,22 @@ Maybe not AIoT
 * LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces (SenSys-ML '24) [[Paper]](https://arxiv.org/pdf/2403.19857.pdf)
 
 ### Mobile Agents
-* Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception [[Paper]](https://arxiv.org/pdf/2401.16158)
-* Octopus v2: On-device language model for super agent [[Paper]](https://arxiv.org/pdf/2404.01744)
-* Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent [[Paper]](https://arxiv.org/pdf/2404.11459v2)
+* Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception, ICLR 2024 [[Paper]](https://arxiv.org/pdf/2401.16158)
+* Octopus v2: On-device language model for super agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.01744)
+* Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.11459v2)
 * Towards an On-device Agent for Text Rewriting [[Paper]](https://arxiv.org/pdf/2308.11807)
 
 ### Mobile UI
-* Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2404.05719)
+* Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs, Arxiv 2024  [[Paper]](https://arxiv.org/pdf/2404.05719)
 
 ### Benchmarks
-* MELTing point: Mobile Evaluation of Language Transformers [[Paper]](https://arxiv.org/pdf/2403.12844)
+* MELTing point: Mobile Evaluation of Language Transformers, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2403.12844)
 * Mobile Foundation Model as Firmware, MobiCom ’24 [[Paper]](https://arxiv.org/pdf/2308.14363)
 
 ### Federated Learning
 * Federated Few-Shot Learning for Mobile NLP, MobiCom'23 [[Paper]](https://arxiv.org/pdf/2212.05974)
 * Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models, NeurIPS '23 [[Paper]](https://arxiv.org/pdf/2401.06432)
-* Prompt Public Large Language Models to Synthesize Data for Private On-device Applications [[Paper]](https://arxiv.org/pdf/2404.04360)
+* Prompt Public Large Language Models to Synthesize Data for Private On-device Applications, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.04360)
 
 
 ### LLM Compression for IoT
@@ -1459,11 +1459,11 @@ Maybe not AIoT
 
 ### Inference 
 * HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Device, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2403.01164)
-* EdgeMoE: Fast On-Device Inference of MoE-based Large Language Model [[Paper]](https://arxiv.org/pdf/2308.14352)
-* LLMCad: Fast and Scalable On-device Large Language Model Inference [[Paper]](https://arxiv.org/pdf/2309.04255)
-* LLM in a flash: Efficient Large Language Model Inference with Limited Memory [[Paper]](https://arxiv.org/pdf/2312.11514)
+* EdgeMoE: Fast On-Device Inference of MoE-based Large Language Model, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2308.14352)
+* LLMCad: Fast and Scalable On-device Large Language Model Inference, Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2309.04255)
+* LLM in a flash: Efficient Large Language Model Inference with Limited Memory, Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2312.11514)
 * STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining, ASPLOS ’23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3575693.3575698)
-* SwapMoE: Efficient Memory-Constrained Serving of Large Sparse MoE Models via Dynamic Expert Pruning and Swapping [[Paper]](https://arxiv.org/pdf/2308.15030)
+* SwapMoE: Efficient Memory-Constrained Serving of Large Sparse MoE Models via Dynamic Expert Pruning and Swapping, Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2308.15030)
 
 
 ### Fine-Tuning
