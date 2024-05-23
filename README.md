@@ -94,7 +94,7 @@ Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
     - [AIoT Systems for Satellites](#aiot-systems-for-satellites)
     - [AIoT Systems for Agriculture (9/1)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (6/1)](#aiot-systems-for-biology)
-  - [LLMs for AIoT System](#LLMs-for-AIoT-System)
+  - [Generative AI for AIoT System](#Generative-AI-for-AIoT)
     	
 ## Sensing
 
@@ -1438,6 +1438,10 @@ Maybe not AIoT
 * Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.11459v2)
 * Towards an On-device Agent for Text Rewriting [[Paper]](https://arxiv.org/pdf/2308.11807)
 
+### Applications
+* Mobile Foundation Model as Firmware The Way Towards a Unified Mobile AI Landscape, Mobicom '24 [[Paper]](https://xumengwei.github.io/files/MobiCom24-MobileFM.pdf)
+* AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
+
 ### Mobile UI
 * Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs, Arxiv 2024  [[Paper]](https://arxiv.org/pdf/2404.05719)
 
@@ -1469,9 +1473,7 @@ Maybe not AIoT
 ### Fine-Tuning
 * Fine-Tuning Language Models Using Formal Methods Feedback: A Use Case in Autonomous Systems, MLSys '24 [[Paper]](https://arxiv.org/pdf/2310.18239)
 
-### Applications
-* Mobile Foundation Model as Firmware The Way Towards a Unified Mobile AI Landscape, Mobicom '24 [[Paper]](https://xumengwei.github.io/files/MobiCom24-MobileFM.pdf)
-* AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
+
 
 
 ## ❤️ Contribution
