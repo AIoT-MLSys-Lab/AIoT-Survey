@@ -1426,7 +1426,7 @@ Maybe not AIoT
 * Living IoT: A Flying Wireless Platform on Live Insects, MobiCom 19 [[Paper]](https://livingiot.cs.washington.edu/files/livingiot.pdf) (NO ML)
 
 
-## <a name="LLMs-for-AIoT-System"></a>LLMs for AIoT System
+## <a name="Generative-AI-for-AIoT"></a>Generative AI for AIoT
 
 ### Sensor Data Reasoning
 * Penetrative AI: Making LLMs Comprehend the Physical World (HOTMOBILE '24) [[Paper]](https://arxiv.org/html/2310.09605v2)
