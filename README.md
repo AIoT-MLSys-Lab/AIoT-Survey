@@ -7,7 +7,7 @@
 > *<sup>1</sup>The Ohio State University, <sup>2</sup>Imperial College London, <sup>3</sup>Michigan State University, <sup>4</sup>University of Michigan, <sup>5</sup>Amazon AWS AI, <sup>6</sup>Google Research, <sup>7</sup>Boson AI, <sup>8</sup>Microsoft Research Asia*  
 
 ## ❤️ Community Support
-This repository is maintained by <ins>[shakhrulsiam268](https://github.com/shakhrulsiam268)</ins> (siam.5@osu.edu), <ins>[HyunhoAhn](https://github.com/HyunhoAhn)</ins> (ahn.377@osu.edu), <ins>[samiul272](https://github.com/samiul272)</ins> (alam.140@osu.edu), and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community.
+This repository is actively maintained by <ins>[shakhrulsiam268](https://github.com/shakhrulsiam268)</ins> (siam.5@osu.edu), <ins>[HyunhoAhn](https://github.com/HyunhoAhn)</ins> (ahn.377@osu.edu), <ins>[samiul272](https://github.com/samiul272)</ins> (alam.140@osu.edu), and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community.
 
 If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a **pull request** using the following markdown format.
 
@@ -15,13 +15,14 @@ If you have any suggestions regarding our taxonomy, find any missed papers, or u
 Paper Title, <ins>Conference/Journal/Preprint, Year</ins>  [[pdf](link)] [[other resources](link)].
 ```
 
+We will actively maintain this repository by incorporating new research as it emerges.
+
+
 ## 📌 What is This Survey About?
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
 
 <p align="center">
 <img src="https://github.com/AIoT-MLSys-Lab/AIoT/assets/3488904/7d1d387e-0955-46bd-a562-fd931fea4d50.png" width="40%" height="40%"></p>
-
-We will actively maintain this repository and update the survey by incorporating new research as it emerges.
 
 ## :film_strip: OSU AIoT Seminar Series
 Website and Talk Videos: https://sites.google.com/view/osu-aiot-seminar
