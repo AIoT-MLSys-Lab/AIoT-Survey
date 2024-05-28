@@ -22,7 +22,7 @@ Artificial Intelligence of Things (AIoT) is one of the most exciting areas that 
 <img src="https://github.com/AIoT-MLSys-Lab/AIoT/assets/3488904/7d1d387e-0955-46bd-a562-fd931fea4d50.png" width="40%" height="40%"></p>
 
 ## :film_strip: OSU AIoT Seminar Series
-Besides the survey and the repository, we also host the OSU AIoT Seminar Series where we invite speakers at the frontier of AIoT from both academia and industry to talk about their works. The talk videos are available at: https://sites.google.com/view/osu-aiot-seminar
+Besides the survey and the repository, we also host the OSU AIoT Seminar Series where we invite speakers at the frontier of AIoT from both academia and industry to talk about their works. The talk videos are available to watch at: https://sites.google.com/view/osu-aiot-seminar
 
 ## 📖 Table of Content
   - [Sensing (268/98)](#sensing)
