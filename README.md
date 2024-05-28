@@ -1,6 +1,6 @@
 # Artificial Intelligence of Things: A Survey  
 
-> **[Artificial Intelligence of Things: A Survey]
+> [Artificial Intelligence of Things: A Survey]
 
 > *Shakhrul Iman Siam<sup>1</sup>, Hyunho Ahn<sup>1</sup>, Li Liu<sup>2</sup>, Samiul Alam<sup>1</sup>, Hui Shen<sup>1</sup>, Zhichao Cao<sup>2</sup>, Bhaskar Krishnamachari<sup>3</sup>, Mani Srivastava<sup>4</sup>, Mi Zhang<sup>1</sup>*
 
