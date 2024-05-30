@@ -102,6 +102,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AIoT Systems for Agriculture (9/1)](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (6/1)](#aiot-systems-for-biology)
   - [Generative AI for AIoT](#Generative-AI-for-AIoT)
+    - [Sensor Data Reasoning](#Generative-AI-for-AIoT)
+    - [Mobile Agents](#Generative-AI-for-AIoT)
+    - [Applications](#Generative-AI-for-AIoT)
     	
 ## Sensing
 
