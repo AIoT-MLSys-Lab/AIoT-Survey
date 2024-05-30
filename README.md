@@ -1446,11 +1446,12 @@ Maybe not AIoT
 * Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception, ICLR 2024 [[Paper]](https://arxiv.org/pdf/2401.16158)
 * Octopus v2: On-device language model for super agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.01744)
 * Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.11459v2)
+* AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
 * Towards an On-device Agent for Text Rewriting [[Paper]](https://arxiv.org/pdf/2308.11807)
 
 ### Applications
 * Mobile Foundation Model as Firmware The Way Towards a Unified Mobile AI Landscape, Mobicom '24 [[Paper]](https://xumengwei.github.io/files/MobiCom24-MobileFM.pdf)
-* AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
+* RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, Mobicom '24 [[Paper]](https://dl.acm.org/doi/10.1145/3636534.3649348)
 
 ### Mobile UI
 * Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs, Arxiv 2024  [[Paper]](https://arxiv.org/pdf/2404.05719)
