@@ -1465,7 +1465,6 @@ Maybe not AIoT
 * Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models, NeurIPS '23 [[Paper]](https://arxiv.org/pdf/2401.06432)
 * Prompt Public Large Language Models to Synthesize Data for Private On-device Applications, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.04360)
 
-
 ### LLM Compression for IoT
 * AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration, MLSys ‘24 [[Paper]](https://arxiv.org/pdf/2306.00978)
 
@@ -1479,7 +1478,6 @@ Maybe not AIoT
 * LLM in a flash: Efficient Large Language Model Inference with Limited Memory, Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2312.11514)
 * STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining, ASPLOS ’23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3575693.3575698)
 * SwapMoE: Efficient Memory-Constrained Serving of Large Sparse MoE Models via Dynamic Expert Pruning and Swapping, Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2308.15030)
-
 
 ### Fine-Tuning
 * Fine-Tuning Language Models Using Formal Methods Feedback: A Use Case in Autonomous Systems, MLSys '24 [[Paper]](https://arxiv.org/pdf/2310.18239)
