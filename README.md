@@ -2,7 +2,7 @@
 
 > Artificial Intelligence of Things: A Survey
 
-> *Shakhrul Iman Siam<sup>1</sup>, Hyunho Ahn<sup>1</sup>, Li Liu<sup>2</sup>, Samiul Alam<sup>1</sup>, Hui Shen<sup>1</sup>, Zhichao Cao<sup>2</sup>, Bhaskar Krishnamachari<sup>3</sup>, Mani Srivastava<sup>4</sup>, Mi Zhang<sup>1</sup>*
+> *Shakhrul Iman Siam<sup>1</sup>, Hyunho Ahn<sup>1</sup>, Li Liu<sup>2</sup>, Samiul Alam<sup>1</sup>, Hui Shen<sup>1</sup>, Zhichao Cao<sup>2</sup>, Ness Shroff<sup>1</sup>, Bhaskar Krishnamachari<sup>3</sup>, Mani Srivastava<sup>4</sup>, Mi Zhang<sup>1</sup>*
 
 > <sup>1</sup>The Ohio State University, <sup>2</sup>Michigan State University, <sup>3</sup>University of Southern California, <sup>4</sup>University of California, Los Angeles
 
