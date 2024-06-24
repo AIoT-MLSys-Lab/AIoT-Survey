@@ -19,7 +19,7 @@ Paper Title, <ins>Conference/Journal/Preprint, Year</ins>  [[pdf](link)] [[other
 Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
 
 <p align="center">
-<img src="https://github.com/AIoT-MLSys-Lab/AIoT/AIoT_Overview.jpg" width="40%" height="40%"></p>
+<img src="https://github.com/AIoT-MLSys-Lab/AIoT-Survey/AIoT_Overview.jpg" width="40%" height="40%"></p>
 
 ## :film_strip: OSU AIoT Seminar Series
 Besides the survey and the repository, we also host the OSU AIoT Seminar Series where we invite speakers at the frontier of AIoT from both academia and industry to talk about their works. The talk videos are available to watch at: https://sites.google.com/view/osu-aiot-seminar.
