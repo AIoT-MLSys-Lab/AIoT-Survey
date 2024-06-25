@@ -1484,21 +1484,28 @@ Maybe not AIoT
 
 
 ## <a name="BiasFairness-AIoT"></a>Bias, Fairness, Security and Privacy for AIoT
-### Bias in AIoT
+### Bias and Fairness in AIoT
 * Federated Learning Biases in Heterogeneous Edge-Devices - A Case-study, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568305)
 * Discovering and Understanding Algorithmic Biases in Autonomous Pedestrian Trajectory Predictions, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568433)
 * Throughput-fairness tradeoffs in mobility platforms, Mobisys 21 [[paper]](https://dl.acm.org/doi/10.1145/3458864.3467881)
 
 ### Privacy
-* Saliency-Aware Privacy Protection in Augmented Reality Systems [[Paper]]()
 * LensCap: split-process framework for fine-grained visual privacy control for augmented reality apps, Mobisys 21 [[paper]](https://dl.acm.org/doi/10.1145/3458864.3467676)
 * BystandAR: Protecting Bystander Visual Data in Augmented Reality Systems, Mobisys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596830)
 * TouchTone: Smartwatch Privacy Protection via Unobtrusive Finger Touch Gestures, Mobisys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661884)
 * MegaMind: a platform for security & privacy extensions for voice assistants, Mobisys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467962)
+* Enc2: Privacy-Preserving Inference for Tiny IoTs via Encoding and Encryption, Mobicom 23 [[Pape]](https://dl.acm.org/doi/10.1145/3570361.3592501)
 * PPFL: privacy-preserving federated learning with trusted execution environments, Mobisys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3466628)
 
 ### Security
+* PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation, Mobicom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3448618)
+* FaceRevelio: a face liveness detection system for smartphones with a single front camera, Mobicom 20 [[Paper]](https://dl.acm.org/doi/10.1145/3372224.3419206)
+* Practical Adversarial Attack on WiFi Sensing Through Unnoticeable Communication Packet Perturbation, Mobicom 24 [[paper]](https://dl.acm.org/doi/10.1145/3636534.3649367)
+* Security Analysis of SplitFed Learning, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568302)
+* F2Key: Dynamically Converting Your Face into a Private Key Based on COTS Headphones for Reliable Voice Interaction, Mobisys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661860)
 
+### Ethical and Legal Concerns
+* 
 
 
 
