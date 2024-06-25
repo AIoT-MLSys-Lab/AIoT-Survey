@@ -1483,6 +1483,21 @@ Maybe not AIoT
 * Fine-Tuning Language Models Using Formal Methods Feedback: A Use Case in Autonomous Systems, MLSys '24 [[Paper]](https://arxiv.org/pdf/2310.18239)
 
 
+## <a name="BiasFairness-AIoT"></a>Bias, Fairness, Security and Privacy for AIoT
+### Bias in AIoT
+* Federated Learning Biases in Heterogeneous Edge-Devices - A Case-study, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568305)
+* Discovering and Understanding Algorithmic Biases in Autonomous Pedestrian Trajectory Predictions, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568433)
+* Throughput-fairness tradeoffs in mobility platforms, Mobisys 21 [[paper]](https://dl.acm.org/doi/10.1145/3458864.3467881)
+
+### Privacy
+* Saliency-Aware Privacy Protection in Augmented Reality Systems [[Paper]]()
+* LensCap: split-process framework for fine-grained visual privacy control for augmented reality apps, Mobisys 21 [[paper]](https://dl.acm.org/doi/10.1145/3458864.3467676)
+* BystandAR: Protecting Bystander Visual Data in Augmented Reality Systems, Mobisys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596830)
+* TouchTone: Smartwatch Privacy Protection via Unobtrusive Finger Touch Gestures, Mobisys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661884)
+* MegaMind: a platform for security & privacy extensions for voice assistants, Mobisys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467962)
+* PPFL: privacy-preserving federated learning with trusted execution environments, Mobisys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3466628)
+
+### Security
 
 
 
