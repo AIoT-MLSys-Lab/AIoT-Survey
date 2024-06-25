@@ -1506,6 +1506,7 @@ Maybe not AIoT
 * F2Key: Dynamically Converting Your Face into a Private Key Based on COTS Headphones for Reliable Voice Interaction, Mobisys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661860)
 
 ### Ethical and Legal Concerns
+* Trust but Verify: Auditing the Secure Internet of Things, Mobisys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081342)
 * 
 
 
