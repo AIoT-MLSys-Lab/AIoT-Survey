@@ -1506,8 +1506,10 @@ Maybe not AIoT
 * F2Key: Dynamically Converting Your Face into a Private Key Based on COTS Headphones for Reliable Voice Interaction, Mobisys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661860)
 
 ### Ethical and Legal Concerns
-* Trust but Verify: Auditing the Secure Internet of Things, Mobisys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081342)
-* 
+* Ethics of the health-related internet of things: a narrative review [[Paper]](https://link.springer.com/article/10.1007/s10676-017-9426-4)
+* Ethical dilemmas are really important to potential adopters of autonomous vehicles [[Paper]](https://link.springer.com/article/10.1007/s10676-021-09605-y)
+* Addressing inequal risk exposure in the development of automated vehicles [[Paper]](https://link.springer.com/article/10.1007/s10676-021-09610-1)
+  
 
 
 
