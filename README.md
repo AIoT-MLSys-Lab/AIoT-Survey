@@ -1497,6 +1497,7 @@ Maybe not AIoT
 * MegaMind: a platform for security & privacy extensions for voice assistants, Mobisys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467962)
 * Enc2: Privacy-Preserving Inference for Tiny IoTs via Encoding and Encryption, Mobicom 23 [[Pape]](https://dl.acm.org/doi/10.1145/3570361.3592501)
 * PPFL: privacy-preserving federated learning with trusted execution environments, Mobisys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3466628)
+* Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX, Mobicom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3345447)
 
 ### Security
 * PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation, Mobicom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3448618)
@@ -1504,6 +1505,7 @@ Maybe not AIoT
 * Practical Adversarial Attack on WiFi Sensing Through Unnoticeable Communication Packet Perturbation, Mobicom 24 [[paper]](https://dl.acm.org/doi/10.1145/3636534.3649367)
 * Security Analysis of SplitFed Learning, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568302)
 * F2Key: Dynamically Converting Your Face into a Private Key Based on COTS Headphones for Reliable Voice Interaction, Mobisys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661860)
+* ShieldScatter: Improving IoT Security with Backscatter Assistance, Sensys 18 [Not DL, but match topic] [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274841)
 
 ### Ethical and Legal Concerns
 * Ethics of the health-related internet of things: a narrative review [[Paper]](https://link.springer.com/article/10.1007/s10676-017-9426-4)
