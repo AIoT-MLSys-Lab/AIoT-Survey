@@ -16,7 +16,7 @@ Paper Title, <ins>Conference/Journal/Preprint, Year</ins>  [[pdf](link)] [[other
 ```
 
 ## 📌 What is This Survey About?
-Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT).
+Artificial Intelligence of Things (AIoT) is one of the most exciting areas that lies at the intersection of Artificial Intelligence (AI) and Internet of Things (IoT). In this survey, we provide a systematic and comprehensive review of AIoT research. We examine AIoT literature related to sensing, computing, and networking & communication, which form the three key components of AIoT. In addition to advancements in these areas, we review domain-specific AIoT systems that are designed for various important application domains. As both IoT and AI become increasingly critical to our society, we believe AIoT is emerging as an essential research field. We hope this survey will serve as a valuable resource for those engaged in AIoT research and act as a catalyst for future explorations to bridge gaps and drive advancements in this exciting field.
 
 <p align="center">
 <img src="https://github.com/AIoT-MLSys-Lab/AIoT-Survey/blob/main/AIoT_Overview.jpg" width="40%" height="40%"></p>
