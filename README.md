@@ -71,7 +71,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Model Deployment on the Edge (2)](#model-deployment-on-the-edge)
     - [Automated Machine Learning for AIoT (11)](#automated-machine-learning-for-aiot)
     - [Compiler for AIoT (18)](#compiler-for-aiot)
-  - [Networking](#networking-and-communication)
+  - [Networking and Communication](#networking-and-communication)
     - [Battery (208/10+16)](#battery)
     <!---
       - [Cellular ()](#cellular)
