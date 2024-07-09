@@ -113,7 +113,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Sensor Data Reasoning](#Generative-AI-for-AIoT)
     - [Mobile Agents](#Generative-AI-for-AIoT)
     - [Applications](#Generative-AI-for-AIoT)
-  - [Bias, Fairness, Security and Privacy for AIoT](#BiasFairness-AIoT)
     	
 ## Sensing
 
