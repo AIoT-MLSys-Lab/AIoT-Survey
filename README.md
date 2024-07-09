@@ -7,7 +7,7 @@
 > <sup>1</sup>The Ohio State University, <sup>2</sup>Michigan State University, <sup>3</sup>University of Southern California, <sup>4</sup>University of California, Los Angeles
 
 ## ❤️ Community Support
-This repository is maintained by <ins>[shakhrulsiam268](https://github.com/shakhrulsiam268)</ins> (siam.5@osu.edu), <ins>[HyunhoAhn](https://github.com/HyunhoAhn)</ins> (ahn.377@osu.edu), <ins>[samiul272](https://github.com/samiul272)</ins> (alam.140@osu.edu), and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community.
+This repository is maintained by <ins>[shakhrulsiam268](https://github.com/shakhrulsiam268)</ins> (siam.5@osu.edu), <ins>[HyunhoAhn](https://github.com/HyunhoAhn)</ins> (ahn.377@osu.edu), and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community.
 
 We will actively maintain this repository by incorporating new research as it emerges. If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a **pull request** using the following markdown format.
 
