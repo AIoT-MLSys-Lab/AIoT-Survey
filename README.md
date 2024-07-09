@@ -29,6 +29,7 @@ As both IoT and AI become increasingly critical to our society, we believe AIoT 
 ## :film_strip: OSU AIoT Seminar Series
 Besides the survey and the repository, we also host the OSU AIoT Seminar Series where we invite speakers at the frontier of AIoT from both academia and industry to talk about their works. The talk videos are available at: https://sites.google.com/view/osu-aiot-seminar.
 
+
 ## 📖 Table of Content
   - [Sensing (268/98)](#sensing)
     - [Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))](#motion-sensing)
