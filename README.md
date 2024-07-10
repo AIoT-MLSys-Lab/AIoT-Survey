@@ -49,7 +49,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
       	- [RF Sensing (5/4)](#rf-sensing)
     - [Vision Sensing (Total: 25 | No ML(7) | ML(2) | DL(16))](#vision-sensing)
     - [Acoustic Sensing (Total: 45 | No ML(23) | ML(10) | DL(12))](#acoustic-sensing)
-    - [Multi-Modal Sensing (32/20)](#multi-modal-sensing)
+    - [Multi-Modal Sensing (Total: 32 | No ML(3) | ML(9) | DL(20))](#multi-modal-sensing)
     - [Earable Sensing (Total: 18 | No ML(4) | ML(8) | DL(5))](#earable-sensing)
     - [Visible Light Sensing (14/1)](#light-sensing)
     - [Magentic Sensing (4/2)](#magnetic-sensing)
@@ -469,7 +469,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ```
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
 
-### Multi-Modal Sensing	(Total: 32 | No ML(3) | ML(9) | DL(20))
+### Multi-Modal Sensing
 ```diff
 + Physics-Informed Data Denoising for Real-Life Sensing Systems, Sensys 23 [[Paper]](https://arxiv.org/pdf/2311.06968) (DL)
 + SudokuSens: Enhancing Deep Learning Robustness for IoT Sensing Applications using a Generative Approach, SenSys 23 [[Paper]](https://arxiv.org/pdf/2402.02275) (DL)
