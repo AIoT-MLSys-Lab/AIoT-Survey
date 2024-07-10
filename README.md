@@ -1159,9 +1159,9 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 - Industrial Knee-jerk: In-Network Simultaneous Planning and Control on a TSN Switch, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596836) (DL)
 
 
-## AIoT Systems and their Applications (Total: 209)
+## Domain-specific AIoT Systems
 							
-### AIoT Systems for Healthcare and Wellbeing (Total: 44 | No ML(17) | ML(7) | DL(20))
+### AIoT Systems for Healthcare and Well-being
 ```diff
 + PDAssess: A Privacy-preserving Free-speech based Parkinson’s Disease Daily Assessment System, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625805)
 + AccessWear: Making Smartphone Applications Accessible to Blind Users, MobiCom 23 [[Paper]](https://www3.cs.stonybrook.edu/~jain/papers/MobiCom_AccessWear_2023.pdf) (NO ML)
