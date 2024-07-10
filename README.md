@@ -83,17 +83,19 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AI Agents for AIoT](#ai-agents-for-aiot)
   - [Networking and Communication](#networking-and-communication)
     - [Battery (Total: 221 | No ML(188) | ML(12) | DL(21))](#battery)
-    <!---
-      - [Cellular ()](#cellular)
-      - [WiFi ()](#wifi)
-      - [Acoustic ()](#acoustic)
-      - [Visible Light ()](#visible-Light)
-      - [Millimeter-Wave ()](#millimeter-Wave)
-      - [LoRa/LoRaWAN ()](#lora-lorawan)
-      - [LPWAN ()](#lpwan)
-      - [SDR ()](#sdr)
-      - [CTC ()](#ctc)
-      - [... ()]() -->
+      - [Cellular (Total:49  | No ML(37) | ML(4) | DL(8))](#cellular)
+      - [WiFi (Total: 15 | No ML(12) | ML(1) | DL(2))](#wifi)
+      - [Acoustic (Total: 9 | No ML(8) | ML(0) | DL(1))](#acoustic)
+      - [Visible Light (Total: 17 | No ML(14) | ML(0) | DL(3))](#visible-Light)
+      - [Bluetooth (Total: 4 | No ML(4) | ML(0) | DL(0))](#bluetooth)
+      - [Millimeter-Wave (Total: 25 | No ML(23) | ML(2) | DL(0))](#millimeter-Wave)
+      - [UWB (Total: 5 | No ML(5) | ML(0) | DL(0))](#uwb)
+      - [TV Whitespace (Total: 5 | No ML(5) | ML(0) | DL(0))](#tv-whitespace)
+      - [LoRa/LoRaWAN (Total: 24 | No ML(17) | ML(3) | DL(4))](#lora-lorawan)
+      - [LPWAN (Total: 13 | No ML(12) | ML(0) | DL(1))](#lpwan)
+      - [SDR (Total: 7 | No ML(7) | ML(0) | DL(0))](#sdr)
+      - [CTC (Total: 23 | No ML(23) | ML(0) | DL(0))](#ctc)
+      - [... (Total: 25 | No ML(21) | ML(2) | DL(2))](#other-sensor-network) -->
     - [Batteryless (Total: 100 | No ML(93) | ML(4) | DL(3))](#batteryless)
     <!---
       - [Cellular ()](#cellular)
@@ -839,10 +841,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - Underwater Messaging Using Mobile Devices, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544258)[[Code]](https://github.com/uw-x/watercomms) (NO ML)
 - AquaHelper: Underwater SOS Transmission and Detection in Swimming Pools, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625816) (NO ML)
 - Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound, MobiCom 23 [[Paper]](https://tachen-cs.github.io/data/papers/2023-mobicom-spotsound/SpotSound.pdf) (DL)
-  
-#### Vibration (Total: 2 | No ML(2) | ML(0) | DL(0))
-- Ripple II: Faster Communication through Physical Vibration, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-roy.pdf) (NO ML)
-- mmRipple: Communicating with mmWave Radars through Smartphone Vibration, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586956) (NO ML)
 
 #### Visible Light (Total: 17 | No ML(14) | ML(0) | DL(3))
 
@@ -904,19 +902,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - WISE: Low-Cost Wide Band Spectrum Sensing Using UWB, SenSys 22 [[Paper]](https://huangqy7.github.io/Paper/WISE_final.pdf) (NO ML)
 - Network On or Off? Instant Global Binary Decisions over UWB with Flick, IPSN 23 [[Paper]](http://disi.unitn.it/~picco/papers/ipsn23.pdf) (NO ML)
 
-#### Satellite (Total: 2 | No ML(2) | ML(0) | DL(0))
-- A Community-Driven Approach to Democratize Access to Satellite Ground Stations, MobiCom 21 [[Paper]](https://swarunkumar.com/papers/quasar-mobicom2021.pdf) (NO ML)
-- A Case for Stateless Mobile Core Network Functions in Space, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544233) (NO ML)
-
-#### Magnetic (Total: 1 | No ML(1) | ML(0) | DL(0))
-- MagneComm: Magnetometer-based Near-Field Communication, MobiCom 17 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobicom17_pan.pdf) (NO ML)
-
-#### EM Side-Channel (Total: 1 | No ML(1) | ML(0) | DL(0))
-- Everything has its Bad Side and Good Side: Turning Processors to Low Overhead Radios Using Side-Channels, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586959) (NO ML)( with LoRa modulation)
-
-#### Molecular (Total: 1 | No ML(0) | ML(1) | DL(0))
-- Understanding and Embracing the Complexities of the Molecular Communication Channel in Liquids, MobiCom 20 [[Paper]](https://haitham.ece.illinois.edu/Papers/BioMC.pdf)(Traditional ML, HMM)
-
 #### TV Whitespace (Total: 5 | No ML(5) | ML(0) | DL(0))
 -  SNOW: Sensor Network over White Spaces, SenSys 16 [[Paper]](https://www.cse.wustl.edu/~lu/papers/sensys16.pdf) (NO ML)
 - Enabling Reliable, Asynchronous, and Bidirectional Communication in Sensor Networks over White Spaces, SenSys 17 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/02/sensys17.pdf) (NO ML)
@@ -931,7 +916,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - Automated Estimation of Link Quality for LoRa: A Remote Sensing Approach, IPSN 19 [[Paper]](https://pure.tudelft.nl/ws/files/55547022/IPSN2019.pdf)(Traditional ML)
 - Exploring LoRa for Long-range Through-wall Sensing, IMWUT/UbiComp 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397326) (NO ML)	
 - LMAC: efficient carrier-sense multiple access for LoRa, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419200) (NO ML)
-
 - SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9111031)(Traditional ML)
 - Concurrent Interference Cancellation : Decoding Multi-Packet Collisions in LoRa, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472931.pdf) (NO ML)
 - NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485928)(DL)
@@ -964,18 +948,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - Link Quality Modeling for LoRa Networks in Orchards, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586969) (NO ML)
 - FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586963)(NO ML)
 - Low-Bandwidth Self-Improving Transmission of Rare Training Data, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613300) (DL)
-  
-#### LR-WPAN (Total: 3 | No ML(3) | ML(0) | DL(0))
-- Empowering Low-Power Wide Area Networks in Urban Settings, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098845) (NO ML)
-- Mixer: Efficient Many-to-All Broadcast in Dynamic Wireless Mesh Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274849) (NO ML)(in principle Mixer works on any physical layer that features the capture effect)
-- Performant TCP for Low-Power Wireless Networks, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-kumar.pdf) (LLNs) (NO ML)
-
-
-#### HART (Total: 1 | No ML(0) | ML(0) | DL(1))
-- Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-shi.pdf)(DL)
-  
-#### VHF (Total:1  | No ML(1) | ML(0) | DL(0))
-- Blind Distributed MU-MIMO for IoT Networking over VHF Narrowband Spectrum, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345427)(NO ML)
 
 #### SDR (Total: 7 | No ML(7) | ML(0) | DL(0))
 - The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf)(NO ML) (Best Community Paper Award)
@@ -985,10 +957,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - TinySDR: Low-Power SDR Platform for Over-the-Air Programmable IoT Testbeds, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/hessar) (NO ML)
 - TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO ML)
 - RFClock: Timing, Phase and Frequency Synchronization for Distributed Wireless Networks, MobiCom 21 [[Paper]](https://genesys-lab.org/papers/RFCLOCK_MOBICOM2021.pdf) (NO ML)(works in 2.4GHz and 915MHz ISM band)
-
-#### Conductive Material (Total: 2 | No ML(2) | ML(0) | DL(0))
-- Surface MIMO: Using Conductive Surfaces For MIMO Between Small Devices, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1809.02726.pdf) (NO ML)
-- COCOON-A Conductive Substrate-based Coupled Oscillator Network for Wireless Communication, SenSys 21 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys21-COCOON.pdf) (NO ML)
 
 #### CTC (Total: 23 | No ML(23) | ML(0) | DL(0))
 - B2W2: N-Way Concurrent Communication for IoT Devices, SenSys 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2994551.2994561) (NO ML)
@@ -1019,18 +987,34 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs, MobiCom 19 [[Paper]](https://cse.buffalo.edu/faculty/dimitrio/publications/mobicom19.pdf) (NO ML)
 - MPBond: Efficient Network-level Collaboration Among Personal Mobile Devices, MobiSys 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mpbond_mobisys20.pdf) (NO ML)
 - A real-time experimentation platform for sub-6 GHz and millimeter-wave MIMO systems, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3466868) [[code]](https://github.com/rafaruizortiz/MIMORPH)(NO ML)
-#### Other Sensor Network (Total: 11 | No ML(9) | ML(1) | DL(1))
+#### Other Sensor Network (Total: 25 | No ML(21) | ML(2) | DL(2))
+- Ripple II: Faster Communication through Physical Vibration, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-roy.pdf) (NO ML)
 - Effectively Capturing Attention Using the Capture Effect, SenSys 16 [[Paper]](https://tik-db.ee.ethz.ch/file/b468db98c89b23c868db49b3e72817d0/paper-sp.pdf) (NO ML)
 - Staffetta: Smart Duty-Cycling for Opportunistic Data Collection, SenSys 16 [[Paper]](https://www.st.ewi.tudelft.nl/marco/files/staffetta_Sensys16.pdf) (NO ML)
 - Network-wide Consensus Utilizing the Capture Effect in Low-power Wireless Networks, SenSys 17 [[Paper]](http://www.diva-portal.org/smash/get/diva2:1170407/FULLTEXT01.pdf)(NO ML)
+- Empowering Low-Power Wide Area Networks in Urban Settings, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098845) (NO ML)
+- MagneComm: Magnetometer-based Near-Field Communication, MobiCom 17 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobicom17_pan.pdf) (NO ML)
+- Surface MIMO: Using Conductive Surfaces For MIMO Between Small Devices, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1809.02726.pdf) (NO ML)
 - System Architecture Directions for Post-SoC/32-bit Networked Sensors, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274839) (NO ML) (Best Paper Runner-up)
+- Mixer: Efficient Many-to-All Broadcast in Dynamic Wireless Mesh Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274849) (NO ML)(in principle Mixer works on any physical layer that features the capture effect)
 - NEOFog: Nonvolatility-Exploiting Optimizations for Fog Computing, ASPLOS 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3173162.3177154) (NO ML) 
+- Blind Distributed MU-MIMO for IoT Networking over VHF Narrowband Spectrum, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345427)(NO ML)
 - SkySense: Terrestrial and Aerial Spectrum Use Analysed Using Lightweight Sensing Technology with Weather Balloons, MobiSys 20 [[Paper]](https://www.lenders.ch/publications/conferences/mobisys20.pdf) (NO ML)
+- Understanding and Embracing the Complexities of the Molecular Communication Channel in Liquids, MobiCom 20 [[Paper]](https://haitham.ece.illinois.edu/Papers/BioMC.pdf)(Traditional ML, HMM)
+- Performant TCP for Low-Power Wireless Networks, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-kumar.pdf) (LLNs) (NO ML)
 - LAVA: fine-grained 3D indoor wireless coverage for small IoT devices, SIGCOMM	21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3452296.3472890) (NO ML)	
 - STeC: Exploiting Spatial and Temporal Correlation for Event-based Communication in WSNs, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485951) （NO ML）
+- COCOON-A Conductive Substrate-based Coupled Oscillator Network for Wireless Communication, SenSys 21 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys21-COCOON.pdf) (NO ML)
+- A Community-Driven Approach to Democratize Access to Satellite Ground Stations, MobiCom 21 [[Paper]](https://swarunkumar.com/papers/quasar-mobicom2021.pdf) (NO ML)
+- Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-shi.pdf)(DL)
+- A Case for Stateless Mobile Core Network Functions in Space, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544233) (NO ML)
 - Sirius: A Self-Localization System for Resource-Constrained IoT Sensors, MobiSys 23 [[Paper]](https://www.cs.umd.edu/~nakul/assets/papers/sirius_mobisys2023_nakul.pdf) (DL)
 - NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Kai.Zheng_SenSys23_NeuroRadar.pdf) (ML)
 - Hydra: Concurrent Coordination for Fault-tolerant Networking, IPSN 23 [[Paper]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/602741/7/3583120.3587047.pdf) (NO ML)
+- mmRipple: Communicating with mmWave Radars through Smartphone Vibration, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586956) (NO ML)
+- Everything has its Bad Side and Good Side: Turning Processors to Low Overhead Radios Using Side-Channels, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586959) (NO ML)( with LoRa modulation)
+
+
 
 ### Hybrid (Total: 2 | No ML(2) | ML(0) | DL(0))
 - Braidio: An Integrated Active-Passive Radio for Mobile Devices with Asymmetric Energy Budgets, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934902) (NO ML)
