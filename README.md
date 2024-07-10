@@ -117,7 +117,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AIoT Systems for AR/VR/MR (Total: 35 | No ML(19) | ML(4) | DL(12))](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (19/2)](#aiot-systems-for-drones)
     - [AIoT Systems for Satellites](#aiot-systems-for-satellites)
-    - [AIoT Systems for Agriculture (Total: 9 | No ML(7) | ML(1) | DL(1)))](#aiot-systems-for-agriculture)
+    - [AIoT Systems for Agriculture (Total: 9 | No ML(7) | ML(1) | DL(1))](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (Total: 7 | No ML(5) | ML(1) | DL(1))](#aiot-systems-for-biology)
     	
 ## Sensing
