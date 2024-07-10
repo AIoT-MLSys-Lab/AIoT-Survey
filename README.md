@@ -41,7 +41,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	- [Wi-Fi Sensing (Total: 43 | No ML(19) | ML(10) | DL(14))](#wi-fi-sensing)
     	- [mmWave Sensing (Total: 20 | No ML(6) | ML(3) | DL(11))](#mmwave-sensing)
     	- [TeraHertz Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))](#teraHertz-sensing)
-    	- [UWB Sensing (12/2)](#uwb-sensing)
+    	- [UWB Sensing (Total: 12 | No ML(9) | ML(1) | DL(2))](#uwb-sensing)
      	- [Cellular Sensing (2/0)](#cellular-sensing)
     	- [LoRa Sensing (1/0)](#lora-sensing)
     	- [Bluetooth Sensing (5/2)](#bluetooth-sensing)
@@ -264,7 +264,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Quasi-Optical 3D localization using Asymmetric Signatures above 100 GHz, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517022) (NO ML)
 * LeakyTrack: Non-Coherent Single-Antenna Nodal and Environmental Mobility Tracking with a Leaky-Wave Antenna, SenSys 20 [[Paper]](https://www.brown.edu/research/labs/mittleman/sites/brown.edu.research.labs.mittleman/files/uploads/SenSys_2020.pdf) (NO ML)
 
-#### UWB Sensing (Total: 12 | No ML(9) | ML(1) | DL(2))
+#### UWB Sensing
 * Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (NO ML) (Best Paper Award Runner-ups) 
 * Enabling High Accuracy Pervasive Tracking with Ultra Low Power UWB Tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560542) (NO ML)
 * SiWa: See into Walls via Deep UWB Radars, MobiCom 21 [[Paper]](https://arxiv.org/pdf/2110.14279.pdf) (DL)
