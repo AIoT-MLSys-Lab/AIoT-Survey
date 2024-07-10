@@ -1215,7 +1215,31 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 
 ### AIoT Systems for Video Streaming
-```diff
+#### Adaptive Video Streaming
+* Swift: Adaptive Video Streaming with Layered Neural Codecs, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-dasari.pdf) (DL)
+* Loki: Improving Long Tail Performance of Learning-Based Real-Time Video Adaptation by Fusing Rule-Based Models, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483259) (DL)
+* SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-zhang.pdf) (DL)
+* Learning in situ: a randomized experiment in video streaming, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-yan.pdf) (DL)
+* OnRL: improving mobile video telephony via online reinforcement learning, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419186) (DL)
+* PERCEIVE: Deep Learning-based Cellular Uplink Prediction Using Real-time Scheduling Patterns, MobiSys 20 [[Paper]](https://mail.netstech.org/wp-content/uploads/2021/07/perceive-mobisys-2020.pdf)（DL）
+* Neural Adaptive Video Streaming with Pensieve, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098843) (DL)
+
+
+#### Video Enhancement
+* OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851) (DL)
+* YuZu: Neural-Enhanced Volumetric Video Streaming, NSDI 22 [[paper]](https://www.usenix.org/system/files/nsdi22-paper-bhardwaj.pdf) (DL)
+* NeuroScaler: neural video enhancement at scale, SIGCOMM 22 [[Paper]](https://jaykim305.github.io/assets/pdf/neuroscaler-sigcomm22.pdf) (DL)
+* NEMO: enabling neural-enhanced video streaming on commodity mobile devices, MobiCom 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3372224.3419185.pdf) (DL)
+* Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning, SIGCOMM 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3387514.3405856.pdf) (DL)
+* Neural Adaptive Content-aware Internet Video Delivery, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-yeo.pdf) (DL)
+
+
+#### Efficiency Optimization
+* Tambur: Efficient loss recovery for videoconferencing via streaming codes, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-rudow.pdf) (DL)
+* Pano: optimizing 360° video streaming with a better understanding of quality perception, SIGCOMM 19 [[Paper]](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf) (DL)
+* Popularity Prediction of Facebook Videos for Higher Quality Streaming, ATC 17 [[Paper]](https://www.usenix.org/system/files/conference/atc17/atc17-tang.pdf) (DL)
+
+#### 
 + MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592530) (DL)
 + FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592525) (DL)
 + Dragonfly: Higher Perceptual Quality For Continuous 360° Video Playback, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604876) (NO ML)
@@ -1225,27 +1249,15 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 + Sammy: smoothing video traffic to be a friendly internet neighbor, SIGCOMM 23 [[Paper]](https://brucespang.com/papers/sammy.pdf) (NO ML)
 + Veritas: Answering Causal Queries from Video Streaming Traces, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604828) (ML)
 + ZGaming: Zero-Latency 3D Cloud Gaming by Image Prediction, SICGOMM 23 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604819) (DL)
-```
-* OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851) (DL)
 * Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-zhuqi.pdf) (NO ML)
 * Enabling High Quality Real-Time Communications with Adaptive Frame-Rate, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-meng.pdf) (NO ML)
-* Tambur: Efficient loss recovery for videoconferencing via streaming codes, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-rudow.pdf) (DL)
-* Swift: Adaptive Video Streaming with Layered Neural Codecs, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-dasari.pdf) (DL)
-* NeuroScaler: neural video enhancement at scale, SIGCOMM 22 [[Paper]](https://jaykim305.github.io/assets/pdf/neuroscaler-sigcomm22.pdf) (DL)
 * GSO-Simulcast: Global Stream Orchestration in Simulcast Video Conferencing Systems, SIGCOMM 22 [[Paper]](https://yfmascgy.github.io/papers/gso-simulcast.pdf) (NO ML)
 * LiveNet: a low-latency video transport network for large-scale live streaming, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544236) (NO ML)
-* YuZu: Neural-Enhanced Volumetric Video Streaming, NSDI 22 [[paper]](https://www.usenix.org/system/files/nsdi22-paper-bhardwaj.pdf) (DL)
 * Vues: Practical Mobile Volumetric Video Streaming Through Multiview Transcoding, MobiCom22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vues_mobicom22.pdf) (ML)
 * Warehouse-Scale Video Acceleration: Co-design and Deployment in the Wild, ASPLOS 21 [[Paper]](https://gwern.net/doc/cs/hardware/2021-ranganathan.pdf) (NO ML)
-* SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-zhang.pdf) (DL)
 * XLINK: QoE-Driven Multi-Path QUIC Transport in Large-scale Video Services, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472893.pdf) (NO ML)
 * Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices, ATC 21 [[Paper]](https://www.usenix.org/system/files/atc21-meng.pdf) (NO ML)
-* Loki: Improving Long Tail Performance of Learning-Based Real-Time Video Adaptation by Fusing Rule-Based Models, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483259) (DL)
 * GROOT: a real-time streaming system of high-fidelity volumetric videos, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/GROOT.pdf) (NO ML)
-* OnRL: improving mobile video telephony via online reinforcement learning, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419186) (DL)
-* NEMO: enabling neural-enhanced video streaming on commodity mobile devices, MobiCom 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3372224.3419185.pdf) (DL)
-* Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning, SIGCOMM 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3387514.3405856.pdf) (DL)
-* Learning in situ: a randomized experiment in video streaming, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-yan.pdf) (DL)
 * ViVo: visibility-aware mobile volumetric video streaming, MobiCom 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf) (ML)
 * Server-Driven Video Streaming for Deep Learning Inference, SIGCOMM 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887) (DL)
 * Jigsaw: Robust Live 4K Video Streaming, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300127) (NO ML)
@@ -1253,22 +1265,17 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs, MobiSys 19 [Paper] (NO ML)
 * End-to-end transport for video QoE fairness, SIGCOMM 19 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3341302.3342077) (NO ML)
 * Vantage: optimizing video upload for time-shifted viewing of social live streams, SIGCOMM 19 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3341302.3342064) (NO ML)
-* Pano: optimizing 360° video streaming with a better understanding of quality perception, SIGCOMM 19 [[Paper]](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf) (DL)
 * VideoChef: Efficient Approximation for Streaming Video Processing Pipelines, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-xu-ran.pdf) (ML)
 * Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241565) (ML)
 * Salsify: Low-Latency Network Video Through Tighter Integration Between a Video Codec and a Transport Protocol, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-fouladi.pdf) (NO ML)
 * Towards Battery-Free HD Video Streaming, NSDI 18 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf) (NO ML)
-* Neural Adaptive Content-aware Internet Video Delivery, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-yeo.pdf) (DL)
 * Oboe: Auto-tuning Video ABR Algorithms to Network Conditions, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230558) (NO ML)
 * Rubiks: Practical 360-Degree Streaming for Smartphones, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210323) (ML)
 * Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf) (NO ML)
-* Popularity Prediction of Facebook Videos for Higher Quality Streaming, ATC 17 [[Paper]](https://www.usenix.org/system/files/conference/atc17/atc17-tang.pdf) (DL)
 * SVE: Distributed Video Processing at Facebook Scale, SOSP 17 [[Paper]](https://www.cs.princeton.edu/~wlloyd/papers/sve-sosp17.pdf) (NO ML)
 * Disk|Crypt|Net: rethinking the stack for high-performance video streaming, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098844) (NO ML)
-* Neural Adaptive Video Streaming with Pensieve, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098843) (DL)
 * CFA: A Practical Prediction System for Video QoE Optimization, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-jiang-junchen.pdf) (ML)
 * RnB: Rate and Brightness Adaptation for Rate-Distortion-Energy Tradeoff in HTTP Adaptive Streaming over Mobile Devices, MobiCom 16 [[Paper]](https://mason.gmu.edu/~zyan4/papers/rnb_mobicom16.pdf) (ML)
-* PERCEIVE: Deep Learning-based Cellular Uplink Prediction Using Real-time Scheduling Patterns, MobiSys 20 [[Paper]](https://mail.netstech.org/wp-content/uploads/2021/07/perceive-mobisys-2020.pdf)（DL）
 
 
 ### AIoT Systems for Video Analytics		
