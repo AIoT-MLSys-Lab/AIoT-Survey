@@ -114,7 +114,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AIoT Systems for Video Streaming (Total: 43 | No ML(18) | ML(7) | DL(18))](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22/19)](#aiot-systems-for-video-analytics)
     - [AIoT Systems for Autonomous Driving (31/12)](#aiot-systems-for-autonomous-driving)
-    - [AIoT Systems for AR/VR/MR (35/12)](#aiot-systems-for-ar/vr/mr)
+    - [AIoT Systems for AR/VR/MR (Total: 35 | No ML(19) | ML(4) | DL(12))](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (19/2)](#aiot-systems-for-drones)
     - [AIoT Systems for Satellites](#aiot-systems-for-satellites)
     - [AIoT Systems for Agriculture (9/1)](#aiot-systems-for-agriculture)
@@ -1334,7 +1334,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * CarMap: Fast 3D Feature Map Updates for Automobiles, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ahmad.pdf) (DL)
 * The Architectural Implications of Autonomous Driving: Constraints and Acceleration, ASPLOS 18 [[Paper]](https://people.computing.clemson.edu/~jmarty/projects/lowLatencyNetworking/papers/EmergingApplicationSystems/AutonomousVehicles/AutonomousCarConstraints.pdf) (DL)
 
-### AIoT Systems for AR/VR/MR (Total: 35 | No ML(19) | ML(4) | DL(12))
+### AIoT Systems for AR/VR/MR
 ```diff
 + Egocentric Human Pose Estimation using Head-mounted mmWave Radar, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625799) (DL)
 + XRLoc: Accurate UWB Localization to Realize XR Deployments, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.12512) (NO ML)
