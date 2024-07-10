@@ -1163,30 +1163,32 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 							
 ### AIoT Systems for Healthcare and Well-being
 #### Physiological Monitoring
-* SpiroSonic: monitoring human lung function via acoustic sensing on commodity smartphones, MobiCom 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom20.pdf) (DL)
-* MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing, MobiCom 21 [[Paper]](https://rabbitnick.github.io/pubs/movifi.pdf) (DL)
 * Passive Vital Sign Monitoring via Facial Vibrations Leveraging AR/VR Headsets, MobiSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596848) (DL)
-* VitaMon: measuring heart rate variability using smartphone front camera, SenSys 19 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5936&context=sis_research) (DL)
-* Contactless seismocardiography via deep learning radars, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419982) (DL)
 * Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508) (DL)
 * Crisp-BP: Continuous Wrist PPG-based Blood Pressure Measurement, MobiCom 21 [[Paper]](https://cis.temple.edu/~yu/research/CrispBP-Mobicom21.pdf) (DL)
+* MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing, MobiCom 21 [[Paper]](https://rabbitnick.github.io/pubs/movifi.pdf) (DL)
+* SpiroSonic: monitoring human lung function via acoustic sensing on commodity smartphones, MobiCom 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom20.pdf) (DL)
+* Contactless seismocardiography via deep learning radars, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419982) (DL)
+* VitaMon: measuring heart rate variability using smartphone front camera, SenSys 19 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5936&context=sis_research) (DL)
+
 
 #### In-Situ Disease Detection and Monitoring
-* StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones, UbiComp 14 [[Paper]](https://dl.acm.org/doi/10.1145/2632048.2632054)
-* Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior: An Exploratory Study, JMIR 15 [[Paper]](https://www.jmir.org/2015/7/e175)
-* Burnout and the Quantified Workplace: Tensions around Personal Sensing Interventions for Stress in Resident Physicians [[Paper]](https://dl.acm.org/doi/10.1145/3555531)
-* PDVocal: Towards Privacy-preserving Parkinson's Disease Detection using Non-speech Body Sounds, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300125) (DL)
-* EarHealth: an earphone-based acoustic otoscope for detection of multiple ear diseases in daily life, MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538935) (DL)
 * PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones, MobiSys 23 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys23-ptease.pdf) (DL)
+* EarHealth: an earphone-based acoustic otoscope for detection of multiple ear diseases in daily life, MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538935) (DL)
+* Burnout and the Quantified Workplace: Tensions around Personal Sensing Interventions for Stress in Resident Physicians, ACM HCI 22 [[Paper]](https://dl.acm.org/doi/10.1145/3555531)
 * Predicting Early Warning Signs of Psychotic Relapse From Passive Sensing Data: An Approach Using Encoder-Decoder Neural Networks, JMIR 20 [[Paper]](https://mhealth.jmir.org/2020/8/e19962)
+* PDVocal: Towards Privacy-preserving Parkinson's Disease Detection using Non-speech Body Sounds, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300125) (DL)
+* Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior: An Exploratory Study, JMIR 15 [[Paper]](https://www.jmir.org/2015/7/e175)
+* StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones, UbiComp 14 [[Paper]](https://dl.acm.org/doi/10.1145/2632048.2632054)
 
 #### Assistive Technology
+* Wireless earbuds for low-cost hearing screening, Mobisys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596856)
+* An off-the-shelf otoacoustic-emission probe for hearing screening via a smartphone, Nature Biomedical Engineering 2022 [[Paper]] (https://www.nature.com/articles/s41551-022-00947-6)
+* SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300117) (DL)
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images, MobiSys 17 [[Paper]](https://mi-zhang.github.io/papers/2017_MobiSys_MobileDeepPill.pdf) (DL)
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693) (DL)
-* SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300117) (DL)
 * iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081343) (DL)
-* An off-the-shelf otoacoustic-emission probe for hearing screening via a smartphone, Nature Biomedical Engineering 2022 [[Paper]] (https://www.nature.com/articles/s41551-022-00947-6)
-* Wireless earbuds for low-cost hearing screening, Mobisys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596856)
+
 
 #### Personal Health Insight Generation
 * Towards a Personal Health Large Language Model, Arxiv 24 [[Paper]](https://arxiv.org/abs/2406.06474)
