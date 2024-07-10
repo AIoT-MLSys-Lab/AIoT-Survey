@@ -33,7 +33,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ## 📖 Table of Content
   - [Sensing (Total: 268)](#sensing)
     - [Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))](#motion-sensing)
-    - [Wireless Sensing (119/36)](#wireless-sensing)
+    - [Wireless Sensing (Total: 119)](#wireless-sensing)
     	- [RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))](#rfid-sensing)
     	- [Wi-Fi Sensing (43/14)](#wi-fi-sensing)
     	- [mmWave Sensing (21/11)](#mmwave-sensing)
