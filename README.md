@@ -51,7 +51,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Acoustic Sensing (Total: 45 | No ML(23) | ML(10) | DL(12))](#acoustic-sensing)
     - [Multi-Modal Sensing (Total: 32 | No ML(3) | ML(9) | DL(20))](#multi-modal-sensing)
     - [Earable Sensing (Total: 18 | No ML(4) | ML(8) | DL(5))](#earable-sensing)
-    - [Visible Light Sensing (14/1)](#light-sensing)
+    - [Visible Light Sensing (Total: 14 | No ML(7) | ML(6) | DL(1))](#light-sensing)
     - [Magentic Sensing (4/2)](#magnetic-sensing)
     - [Cross-Medium Sensing (1/0)](#cross-medium-sensing)
     - [Generative AI for Sensing](#generative-ai-for-sensing)
@@ -443,7 +443,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf) (ML)
 * Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention) (NO ML)
 
-### Light Sensing (Total: 14 | No ML(7) | ML(6) | DL(1))
+### Visible Light Sensing
 ```diff
 + LiT: Fine-grained Toothbrushing Monitoring with Commercial LED Toothbrush, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613287) (ML)
 ```
