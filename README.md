@@ -96,7 +96,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
       - [CTC ()](#ctc)
       - [... ()]() -->
     - [Hybrid (2/0)](#hybrid)
-    - [NA (6/3)](#na) 
+    - [Others (6/3)](#na) 
   - [Domain-specific AIoT Systems (209/81)](#domain-specific-aiot-systems)
     - [AIoT Systems for Healthcare and Well-being (44/20)](#aiot-systems-for-healthcare-and-well-being)
     - [AIoT Systems for Video Streaming (41/17)](#aiot-systems-for-video-streaming)
