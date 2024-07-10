@@ -115,7 +115,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AIoT Systems for Video Analytics (Total: 19 | No ML(1) | ML(0) | DL(19))](#aiot-systems-for-video-analytics)
     - [AIoT Systems for Autonomous Driving (Total: 31 | No ML(16) | ML(3) | DL(12))](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (Total: 35 | No ML(19) | ML(4) | DL(12))](#aiot-systems-for-ar/vr/mr)
-    - [AIoT Systems for Drones (19/2)](#aiot-systems-for-drones)
+    - [AIoT Systems for Drones (Total: 19 | No ML(16) | ML(1) | DL(2))](#aiot-systems-for-drones)
     - [AIoT Systems for Satellites](#aiot-systems-for-satellites)
     - [AIoT Systems for Agriculture (Total: 9 | No ML(7) | ML(1) | DL(1))](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (Total: 7 | No ML(5) | ML(1) | DL(1))](#aiot-systems-for-biology)
@@ -1376,7 +1376,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * Ultra-Low Power Gaze Tracking for Virtual Reality, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131682) (ML)
 * FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (NO ML)
 
-### AIoT Systems for Drones (Total: 19 | No ML(16) | ML(1) | DL(2))
+### AIoT Systems for Drones
 ```diff
 + Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields,MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613292) (NO ML)
 + BatMobility: Towards Flying Without Seeing for Autonomous Drones, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2307.11518.pdf) (DL)
