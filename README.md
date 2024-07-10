@@ -48,7 +48,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
      	- [Aerial Sensing (1/0)](#ariel-sensing)
       	- [RF Sensing (5/4)](#rf-sensing)
     - [Vision Sensing (25/16)](#vision-sensing)
-    - [Acoustic Sensing (45/12)](#acoustic-sensing)
+    - [Acoustic Sensing (Total: 45 | No ML(23) | ML(10) | DL(12))](#acoustic-sensing)
     - [Multi-Modal Sensing (32/20)](#multi-modal-sensing)
     - [Earable Sensing (Total: 18 | No ML(4) | ML(8) | DL(5))](#earable-sensing)
     - [Visible Light Sensing (14/1)](#light-sensing)
@@ -345,7 +345,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 
-### Acoustic Sensing (Total: 45 | No ML(23) | ML(10) | DL(12))	
+### Acoustic Sensing	
 ```diff
 ! DeepRange: Acoustic Ranging via Deep Learning, IMWUT 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432195)
 ! Your Table Can Be an Input Panel: Acoustic-based Device-Free Interaction Recognition, IMWUT 2019 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3314390)
