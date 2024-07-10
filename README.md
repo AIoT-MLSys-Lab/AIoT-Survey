@@ -108,7 +108,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Others (6/3)](#na) 
   - [Domain-specific AIoT Systems (Total: 209)](#domain-specific-aiot-systems)
     - [AIoT Systems for Healthcare and Well-being (44/20)](#aiot-systems-for-healthcare-and-well-being)
-    - [AIoT Systems for Video Streaming (41/17)](#aiot-systems-for-video-streaming)
+    - [AIoT Systems for Video Streaming (Total: 43 | No ML(18) | ML(7) | DL(18))](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22/19)](#aiot-systems-for-video-analytics)
     - [AIoT Systems for Autonomous Driving (31/12)](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (35/12)](#aiot-systems-for-ar/vr/mr)
@@ -1214,7 +1214,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * Burnout: A Wearable System for Unobtrusive Skeletal Muscle Fatigue Estimation, IPSN 16 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper21.pdf) (ML)
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 
-### AIoT Systems for Video Streaming (Total: 43 | No ML(18) | ML(7) | DL(18))
+### AIoT Systems for Video Streaming
 ```diff
 + MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592530) (DL)
 + FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592525) (DL)
