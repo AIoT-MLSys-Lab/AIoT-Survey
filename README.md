@@ -113,7 +113,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AIoT Systems for Healthcare and Well-being (Total: 44 | No ML(17) | ML(7) | DL(20))](#aiot-systems-for-healthcare-and-well-being)
     - [AIoT Systems for Video Streaming (Total: 43 | No ML(18) | ML(7) | DL(18))](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22/19)](#aiot-systems-for-video-analytics)
-    - [AIoT Systems for Autonomous Driving (31/12)](#aiot-systems-for-autonomous-driving)
+    - [AIoT Systems for Autonomous Driving (Total: 31 | No ML(16) | ML(3) | DL(12))](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (Total: 35 | No ML(19) | ML(4) | DL(12))](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (19/2)](#aiot-systems-for-drones)
     - [AIoT Systems for Satellites](#aiot-systems-for-satellites)
@@ -1295,7 +1295,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230554) (DL)
 * Panoptes: Servicing Multiple Applications Simultaneously using Steerable Cameras, IPSN 17 [[Paper]](https://winlab.rutgers.edu/~shubhamj/papers/Shubham_Panoptes_IPSN2017.pdf) (NO ML)
 
-### AIoT Systems for Autonomous Driving (Total: 31 | No ML(16) | ML(3) | DL(12))
+### AIoT Systems for Autonomous Driving
 ```diff
 + Ghost-Probe: NLOS Pedestrian Rushing Detection with Monocular Camera for Automated Driving, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625791) (DL)
 + mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613291) (DL)
