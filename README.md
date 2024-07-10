@@ -112,7 +112,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
   - [Domain-specific AIoT Systems (Total: 209)](#domain-specific-aiot-systems)
     - [AIoT Systems for Healthcare and Well-being (Total: 44 | No ML(17) | ML(7) | DL(20))](#aiot-systems-for-healthcare-and-well-being)
     - [AIoT Systems for Video Streaming (Total: 43 | No ML(18) | ML(7) | DL(18))](#aiot-systems-for-video-streaming)
-    - [AIoT Systems for Video Analytics (22/19)](#aiot-systems-for-video-analytics)
+    - [AIoT Systems for Video Analytics (Total: 19 | No ML(1) | ML(0) | DL(19))](#aiot-systems-for-video-analytics)
     - [AIoT Systems for Autonomous Driving (Total: 31 | No ML(16) | ML(3) | DL(12))](#aiot-systems-for-autonomous-driving)
     - [AIoT Systems for AR/VR/MR (Total: 35 | No ML(19) | ML(4) | DL(12))](#aiot-systems-for-ar/vr/mr)
     - [AIoT Systems for Drones (19/2)](#aiot-systems-for-drones)
@@ -1271,7 +1271,7 @@ Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Netwo
 * PERCEIVE: Deep Learning-based Cellular Uplink Prediction Using Real-time Scheduling Patterns, MobiSys 20 [[Paper]](https://mail.netstech.org/wp-content/uploads/2021/07/perceive-mobisys-2020.pdf)（DL）
 
 
-### AIoT Systems for Video Analytics (Total: 19 | No ML(1) | ML(0) | DL(19))		
+### AIoT Systems for Video Analytics		
 ```diff
 + PacketGame: Multi-Stream Packet Gating for Concurrent Video Inference at Scale, SIGCOMM 23 [[Paper]](https://yuanmu97.github.io/preprint/packetgame_sigcomm23.pdf) (DL)
 ```
