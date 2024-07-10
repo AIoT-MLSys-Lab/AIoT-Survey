@@ -47,7 +47,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Vision Sensing (25/16)](#vision-sensing)
     - [Acoustic Sensing (45/12)](#acoustic-sensing)
     - [Multi-Modal Sensing (32/20)](#multi-modal-sensing)
-    - [Earable Sensing (18/5)](#earables)
+    - [Earable Sensing (Total: 18 | No ML(4) | ML(8) | DL(5))](#earable-sensing)
     - [Visible Light Sensing (14/1)](#light-sensing)
     - [Magentic Sensing (4/2)](#magnetic-sensing)
     - [Cross-Medium Sensing (1/0)](#cross-medium-sensing)
@@ -314,7 +314,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (ML)
 
 	
-### Earables (Total: 18 | No ML(4) | ML(8) | DL(5))
+### Earable Sensing 
 
 ```diff
 ! MandiPass: Secure and Usable User Authentication via Earphone IMU, IEEE Transactions on Mobile Computing 2021 [[Paper]](https://ieeexplore.ieee.org/document/9546415)
