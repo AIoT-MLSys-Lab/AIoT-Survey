@@ -52,7 +52,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Magentic Sensing (4/2)](#magnetic-sensing)
     - [Cross-Medium Sensing (1/0)](#cross-medium-sensing)
     - [Generative AI for Sensing](#generative-ai-for-sensing)
-  - [Computing (154)](#computing)
+  - [Computing (Total: 154)](#computing)
     - [On-Device Inference (70)](#on-device-inference)
       	- [Model Compression (12)](#model-compression)
       	- [Inference Optimization (21)](#inference-optimization)
@@ -106,7 +106,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
       - [... ()]() -->
     - [Hybrid (2/0)](#hybrid)
     - [Others (6/3)](#na) 
-  - [Domain-specific AIoT Systems (209/81)](#domain-specific-aiot-systems)
+  - [Domain-specific AIoT Systems (Total: 209)](#domain-specific-aiot-systems)
     - [AIoT Systems for Healthcare and Well-being (44/20)](#aiot-systems-for-healthcare-and-well-being)
     - [AIoT Systems for Video Streaming (41/17)](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22/19)](#aiot-systems-for-video-analytics)
