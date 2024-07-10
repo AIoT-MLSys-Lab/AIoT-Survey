@@ -1411,13 +1411,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (NO ML)
 
 ### AIoT Systems for Drones
-```diff
 + Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields,MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613292) (NO ML)
 + BatMobility: Towards Flying Without Seeing for Autonomous Drones, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2307.11518.pdf) (DL)
 + RF-Search: Searching Unconscious Victim in Smoke Scenes with RF-enabled Drone, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613305) (NO ML)
 + MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility Conditions, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613264) (NO ML)
 + Taming Event Cameras with Bio-Inspired Architecture and Algorithm: A Case for Drone Obstacle Avoidance, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613269) (NO ML)
-```
 * Placement Optimization for UAV-Enabled Wireless Networks with Multi-Hop Backhauls in Urban Environments, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a054/962400a054.pdf) (NO ML)
 * Wi-Drone: Wi-Fi-based 6-DoF Tracking for Indoor Drone Flight Control, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538936) (NO ML)
 * Reverse Engineering and Retrofitting Robotic Aerial Vehicle Control Firmware using DisPatch, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538938) (NO ML)
@@ -1440,23 +1438,18 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Reactive Control of Autonomous Drones, MobiSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2906388.2906410) (NO ML) (Best Paper) 
 
 ### AIoT Systems for Satellites
-```diff
-Maybe not AIoT
 + Global Localization of Energy-Constrained Miniature RF Emitters using Low Earth Orbit Satellites, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625794) (NO ML)
 + A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592519) (NO ML)
 + Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592521) (NO ML)
 + PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613257) (NO ML)
 + GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2304.07572.pdf) (NO ML)
-```
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 
 ### AIoT Systems for Agriculture
-```diff
 + Meta-Sticker: Sub-Terahertz Metamaterial Stickers for Non-Invasive Mobile Food Sensing, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625815) (NO ML)
 + AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613275) (ML) (Best Paper Award)
 + eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613262) (NO ML)
-```
 * DRLIC: Deep Reinforcement Learning for Irrigation Control, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a041/962400a041.pdf) (DL)
 * IoTree: a battery-free wearable system with biocompatible sensors for continuous tree health monitoring, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3567652) (NO ML)
 * Estimating Soil Moisture using RF Signals, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517025) (NO ML) 
@@ -1468,9 +1461,7 @@ Maybe not AIoT
 * MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (NO ML)
 
 ### AIoT Systems for Biology
-```diff
 + Towards Practical and Scalable Molecular Networks, SIGCOMM 23 [[Paper]](https://uwconnect.ece.wisc.edu/wp-content/uploads/sites/1525/2023/08/Towards-Practical-and-Scalable-Molecular-Networks.pdf) (ML)
-```
 * Wind dispersal of battery-free wireless devices, Nature 2022 [[Paper]](https://www.nature.com/articles/s41586-021-04363-9) (NO ML)
 * Vildehaye: A Family of Versatile, Widely-Applicable, and Field-Proven Lightweight Wildlife Tracking and Sensing Tags, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a001/962400a001.pdf) (NO ML)
 * mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking,	MobiCom	21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483263) (DL)	
