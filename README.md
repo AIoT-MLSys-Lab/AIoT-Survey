@@ -66,9 +66,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	- [Training across Distributed Devices (2)](#training-on-distributed-devices)
     - [Federated Learning (20)](#federated-learning)
     	- [Benchmarks (5)](#training-benchmarks)
-    - [AI Agents for AIoT](#ai-agents-for-aiot)
     - [Model Deployment on the Edge (2)](#model-deployment-on-the-edge)
-    - [Compiler for AIoT (18)](#compiler-for-aiot)
+    - [Compilers for AIoT (18)](#compilers-for-aiot)
+    - [AI Agents for AIoT](#ai-agents-for-aiot)
   - [Networking and Communication](#networking-and-communication)
     - [Battery (208/10+16)](#battery)
     <!---
