@@ -82,7 +82,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Compilers for AIoT (18)](#compilers-for-aiot)
     - [AI Agents for AIoT](#ai-agents-for-aiot)
   - [Networking and Communication](#networking-and-communication)
-    - [Battery (208/10+16)](#battery)
+    - [Battery (Total: 221 | No ML(188) | ML(12) | DL(21))](#battery)
     <!---
       - [Cellular ()](#cellular)
       - [WiFi ()](#wifi)
@@ -94,7 +94,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
       - [SDR ()](#sdr)
       - [CTC ()](#ctc)
       - [... ()]() -->
-    - [Batteryless (90/3+2)](#batteryless)
+    - [Batteryless (Total: 100 | No ML(93) | ML(4) | DL(3))](#batteryless)
     <!---
       - [Cellular ()](#cellular)
       - [WiFi ()](#wifi)
