@@ -119,7 +119,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	
 ## Sensing
 
-### Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))
+### Motion Sensing
 #### Human Activity Recognition
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (DL)
 * Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391) (DL)
