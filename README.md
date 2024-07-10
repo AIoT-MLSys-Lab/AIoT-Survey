@@ -115,7 +115,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AIoT Systems for Drones (19/2)](#aiot-systems-for-drones)
     - [AIoT Systems for Satellites](#aiot-systems-for-satellites)
     - [AIoT Systems for Agriculture (9/1)](#aiot-systems-for-agriculture)
-    - [AIoT Systems for Biology (6/1)](#aiot-systems-for-biology)
+    - [AIoT Systems for Biology (Total: 7 | No ML(5) | ML(1) | DL(1))](#aiot-systems-for-biology)
     	
 ## Sensing
 
@@ -1433,7 +1433,7 @@ Maybe not AIoT
 * FarmBeats: An IoT Platform for Data-Driven Agriculture, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vasisht.pdf) (ML)
 * MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (NO ML)
 
-### AIoT Systems for Biology (Total: 7 | No ML(5) | ML(1) | DL(1))
+### AIoT Systems for Biology
 ```diff
 + Towards Practical and Scalable Molecular Networks, SIGCOMM 23 [[Paper]](https://uwconnect.ece.wisc.edu/wp-content/uploads/sites/1525/2023/08/Towards-Practical-and-Scalable-Molecular-Networks.pdf) (ML)
 ```
