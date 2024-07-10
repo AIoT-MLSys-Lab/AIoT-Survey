@@ -667,6 +667,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * 	Local SGD with Periodic Averaging: Tighter Analysis and Adaptive Synchronization, NeurIPS 19 [[Paper]](https://proceedings.neurips.cc/paper/2019/file/c17028c9b6e0c5deaad29665d582284a-Paper.pdf)
 ##### Personalization
 * TailorFL: Dual-Personalized Federated Learning under System and Data Heterogeneity, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568503)
+* Distributed learning of fully connected neural networks using independent subnet training, VLDB 22 [[Paper]](https://dl.acm.org/doi/10.14778/3529337.3529343)
 * Personalized Federated Learning by Structured and Unstructured Pruning under Data Heterogeneity, ICDCSW 21 [[Paper]](https://ieeexplore.ieee.org/document/9545941)
 * FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition, SenSys 21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)	
 ##### Client Selection
@@ -677,13 +678,23 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Efficient Training Management for Mobile Crowd-Machine Learning: A Deep Reinforcement Learning Approach in IEEE Wireless Communications Letters 2019 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8716527)
 
 ##### Model Heterogeneity
-* FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)			
+* Distillation-Based Semi-Supervised Federated Learning for Communication-Efficient Collaborative Training With Non-IID Private Data in IEEE Transactions on Mobile Computing, 2023 [[Paper]](https://ieeexplore.ieee.org/document/9392310)
+* FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)
+* Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning, IJCAI 22 [[Paper]](https://www.ijcai.org/proceedings/2022/0399)
+* FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout, NeurIPS 21 [[Paper]](https://proceedings.neurips.cc/paper/2021/file/6aed000af86a084f9cb0264161e29dd3-Paper.pdf)
+* HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients, ICLR 21 [[Paper]](https://openreview.net/forum?id=TNkPBBYFkXg)
+			
 ##### Frameworks and Benchmarks
-* FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things
+* FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things, Arxiv 23 [[Paper]](https://arxiv.org/abs/2310.00109)
 * FedMultimodal: A Benchmark for Multimodal Federated Learning, KDD 23
 * FedAudio: A Federated Learning Benchmark for Audio Tasks, ICASSP 23 [[Paper]](https://arxiv.org/pdf/2210.15707.pdf)
 * FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks, NACCL 22 [[Paper]](https://arxiv.org/pdf/2104.08815.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fednlp) 
-* FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks, Arxiv [[Paper]](https://arxiv.org/pdf/2111.11066.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fedcv)
+* Flower: A Friendly Federated Learning Research Framework, Arxiv 22 [[Paper]](https://arxiv.org/abs/2007.14390)
+* FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, ICML 22 [[Paper]](https://openreview.net/forum?id=LZ5cx2yismf)
+* FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks, Arxiv 21 [[Paper]](https://arxiv.org/pdf/2111.11066.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fedcv)
+* FedML: A Research Library and Benchmark for Federated Machine Learning, Arxiv 20 [[Paper]](https://arxiv.org/abs/2007.13518)
+
+
 
 ### Offloading	
 ```diff
