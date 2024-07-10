@@ -68,7 +68,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	- [Training on a Single Device (11)](#training-on-a-single-device)
     	- [Training across Distributed Devices (2)](#training-on-distributed-devices)
     - [Federated Learning (20)](#federated-learning)
-	- [Data Heterogeneity](#data-heterogeneity)
+    	- [Data Heterogeneity](#data-heterogeneity)
   	- [Communication Optimization](#training-benchmarks)
     	- [System Heterogeneity](#system-heterogeneity)
       	- [Personalization](#training-benchmarks)
