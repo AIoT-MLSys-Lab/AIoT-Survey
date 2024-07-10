@@ -107,7 +107,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Hybrid (2/0)](#hybrid)
     - [Others (6/3)](#na) 
   - [Domain-specific AIoT Systems (Total: 209)](#domain-specific-aiot-systems)
-    - [AIoT Systems for Healthcare and Well-being (44/20)](#aiot-systems-for-healthcare-and-well-being)
+    - [AIoT Systems for Healthcare and Well-being (Total: 44 | No ML(17) | ML(7) | DL(20))](#aiot-systems-for-healthcare-and-well-being)
     - [AIoT Systems for Video Streaming (Total: 43 | No ML(18) | ML(7) | DL(18))](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics (22/19)](#aiot-systems-for-video-analytics)
     - [AIoT Systems for Autonomous Driving (31/12)](#aiot-systems-for-autonomous-driving)
