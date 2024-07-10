@@ -35,7 +35,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))](#motion-sensing)
     - [Wireless Sensing (Total: 119)](#wireless-sensing)
     	- [RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))](#rfid-sensing)
-    	- [Wi-Fi Sensing (43/14)](#wi-fi-sensing)
+    	- [Wi-Fi Sensing (Total: 43 | No ML(19) | ML(10) | DL(14))](#wi-fi-sensing)
     	- [mmWave Sensing (Total: 20 | No ML(6) | ML(3) | DL(11))](#mmwave-sensing)
     	- [TeraHertz Sensing (2/0)](#teraHertz-sensing)
     	- [UWB Sensing (12/2)](#uwb-sensing)
@@ -134,7 +134,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Practically Adopting Human Activity Recognition, MobiCom 23 [[Paper]](https://dapowan.github.io/files/UniHAR.pdf) (DL)
 
 ### Wireless Sensing
-#### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))
+#### RFID Sensing
 ```diff
 ! ShakeReader: ‘Read’ UHF RFID using Smartphone, IEEE INFOCOM 2021 [[Paper]](https://ieeexplore.ieee.org/document/9488802)
 ```
@@ -172,7 +172,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 
-#### Wi-Fi Sensing (Total: 43 | No ML(19) | ML(10) | DL(14))
+#### Wi-Fi Sensing
 ```diff
 + Next2You: Robust Copresence Detection Based on Channel State Information, SenSys 23 [[Paper]](https://arxiv.org/pdf/2111.05224) (DL)
 + Construct 3D Hand Skeleton with Commercial WiFi, SenSys 23 [[Paper]](https://arxiv.org/pdf/2312.15507) (DL)
