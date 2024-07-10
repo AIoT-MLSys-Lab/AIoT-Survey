@@ -47,7 +47,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	- [Bluetooth Sensing (5/2)](#bluetooth-sensing)
      	- [Aerial Sensing (1/0)](#ariel-sensing)
       	- [RF Sensing (5/4)](#rf-sensing)
-    - [Vision Sensing (25/16)](#vision-sensing)
+    - [Vision Sensing (Total: 25 | No ML(7) | ML(2) | DL(16))](#vision-sensing)
     - [Acoustic Sensing (Total: 45 | No ML(23) | ML(10) | DL(12))](#acoustic-sensing)
     - [Multi-Modal Sensing (32/20)](#multi-modal-sensing)
     - [Earable Sensing (Total: 18 | No ML(4) | ML(8) | DL(5))](#earable-sensing)
@@ -343,8 +343,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (NO ML)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML) (Also healthcare)
 
-
-
 ### Acoustic Sensing	
 ```diff
 ! DeepRange: Acoustic Ranging via Deep Learning, IMWUT 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432195)
@@ -402,7 +400,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf) (DL)
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf) (ML)
 																
-### Vision Sensing (Total: 25 | No ML(7) | ML(2) | DL(16))
+### Vision Sensing
 ```diff
 + Testing Masks and Air Filters With Your Smartphones, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625807) (DL)
 + NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592523) (DL)
