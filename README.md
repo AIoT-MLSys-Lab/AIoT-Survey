@@ -40,7 +40,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	- [RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))](#rfid-sensing)
     	- [Wi-Fi Sensing (Total: 43 | No ML(19) | ML(10) | DL(14))](#wi-fi-sensing)
     	- [mmWave Sensing (Total: 20 | No ML(6) | ML(3) | DL(11))](#mmwave-sensing)
-    	- [TeraHertz Sensing (2/0)](#teraHertz-sensing)
+    	- [TeraHertz Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))](#teraHertz-sensing)
     	- [UWB Sensing (12/2)](#uwb-sensing)
      	- [Cellular Sensing (2/0)](#cellular-sensing)
     	- [LoRa Sensing (1/0)](#lora-sensing)
@@ -260,7 +260,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FerroTag: a paper-based mmWave-scannable tagging infrastructure, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360019) (Best Paper) (ML)
 * Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852) (NO ML)
 
-#### TeraHertz Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
+#### TeraHertz Sensing
 * Quasi-Optical 3D localization using Asymmetric Signatures above 100 GHz, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517022) (NO ML)
 * LeakyTrack: Non-Coherent Single-Antenna Nodal and Environmental Mobility Tracking with a Leaky-Wave Antenna, SenSys 20 [[Paper]](https://www.brown.edu/research/labs/mittleman/sites/brown.edu.research.labs.mittleman/files/uploads/SenSys_2020.pdf) (NO ML)
 
