@@ -1175,14 +1175,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Transforming Wearable Data into Health Insights using Large Language Model Agents, Arxiv 24 [[Paper]](https://arxiv.org/abs/2406.06464)
 * From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models, IMWUT 24 [[Paper]](https://dl.acm.org/doi/10.1145/3659604)
 
-
-```diff
+#### 
 + PDAssess: A Privacy-preserving Free-speech based Parkinson’s Disease Daily Assessment System, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625805)
 + AccessWear: Making Smartphone Applications Accessible to Blind Users, MobiCom 23 [[Paper]](https://www3.cs.stonybrook.edu/~jain/papers/MobiCom_AccessWear_2023.pdf) (NO ML)
 + Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses, MobiCom  23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613260) (ML)
 + SignQuery: A Natural User Interface and Search Engine for Sign Languages with Wearable Sensors, MobiCom 23 [[Paper]](https://www.cse.psu.edu/~mkg31/papers/signquery.pdf) (DL)
 + APG: Audioplethysmography for Cardiac Monitoring in Hearables, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613281) (NO ML)
-```
 * DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596867) (NO ML)
 * Wireless earbuds for low-cost hearing screening, MobiSys 23 [[Paper]](https://homes.cs.washington.edu/~jucha/docs/oaebuds.pdf) [[Code]](https://github.com/uw-x/OAEbuds) (NO ML)
 * ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586962) (DL)
@@ -1239,7 +1237,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Pano: optimizing 360° video streaming with a better understanding of quality perception, SIGCOMM 19 [[Paper]](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf) (DL)
 * Popularity Prediction of Facebook Videos for Higher Quality Streaming, ATC 17 [[Paper]](https://www.usenix.org/system/files/conference/atc17/atc17-tang.pdf) (DL)
 
-#### others
+#### 
 + MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592530) (DL)
 + FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592525) (DL)
 + Dragonfly: Higher Perceptual Quality For Continuous 360° Video Playback, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604876) (NO ML)
@@ -1306,7 +1304,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Video Analytics with Zero-streaming Cameras, ATC 21 [[Paper]](https://xumengwei.github.io/files/ATC-DIVA.pdf) (DL)
 * Approximate query service on autonomous IoT cameras,	MobiSys	20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948) (DL)
 
-#### others
+#### 
 
 + PacketGame: Multi-Stream Packet Gating for Concurrent Video Inference at Scale, SIGCOMM 23 [[Paper]](https://yuanmu97.github.io/preprint/packetgame_sigcomm23.pdf) (DL)
 * Caesar: cross-camera complex activity recognition, SenSys 19 [[Paper]](http://web.cs.ucla.edu/~ravi/CS239_W20/papers/caesar.pdf) (DL)
@@ -1362,37 +1360,46 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * RoS: Passive Smart Surface for Roadside-to-Vehicle Communication, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472896.pdf) (NO ML)
 
 ### AIoT Systems for AR/VR/MR
-```diff
+#### Object Detection
+* DeepMix: mobility-aware, lightweight, and hybrid 3D object detection for headsets, MobiSys 22 [[Paper]](https://arxiv.org/pdf/2201.08812.pdf) (DL)
+* Edge Assisted Real-time Object Detection for Mobile Augmented Reality, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300116) (DL)
+* Frugal following: power thrifty object detection and tracking for mobile augmented reality, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360044) (DL)
+
+#### Gesture-Based Interaction
+* ExGSense: Toward Facial Gesture Sensing and Reconstruction with a Sparse Near-Eye Sensor Array, IPSN 21 [[Paper]](http://xyzhang.ucsd.edu/papers/Chen.Chen_IPSN21_ExGSense.pdf) (DL)
+* HandSense: capacitive coupling-based dynamic, micro finger gesture recognition, SenSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/sensys19-final195.pdf) (DL)
+
+
+#### Performance Enhancement
+* Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality, SenSys 22 [[Paper]](https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf) (DL)
+* CollabAR: Edge-assisted Collaborative Image Recognition for Mobile Augmented Reality, IPSN 20 [[Paper]](https://research.ece.cmu.edu/lions/Papers/CollabAR_IPSN.pdf) (DL)
+* Heimdall: mobile GPU coordination platform for augmented reality applications, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/Heimdall.pdf) (DL)
+* Transparent AR Processing Acceleration at the Edge, EuroSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3301418.3313942) (DL)
+
+
+#### Omnidirectional AR
+* SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, MobiCom 22 [[Papaer]](https://www-users.cse.umn.edu/~fengqian/paper/salientvr_mobicom22.pdf) (DL)
+* Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality, MobiSys 21 [[Paper]](https://arxiv.org/pdf/2106.15280.pdf) (DL)
+
+####
 + Egocentric Human Pose Estimation using Head-mounted mmWave Radar, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625799) (DL)
 + XRLoc: Accurate UWB Localization to Realize XR Deployments, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.12512) (NO ML)
 + UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613263) (DL)
-```
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception, NSDI	23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki) (NO ML)
 * Cyclops: an FSO-based wireless link for VR headsets, SIGCOMM 22 [[Paper]](http://www.contrib.andrew.cmu.edu/~malleshd/papers/sigcomm-2022-paper.pdf) (NO ML)
 * Multi-User Augmented Reality with Infrastructure-free Collaborative Localization, IPSN 22 [[Paper]](https://arxiv.org/pdf/2111.00174.pdf) (NO ML)
-* Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality, SenSys 22 [[Paper]](https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf) (DL)
-* SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, MobiCom 22 [[Papaer]](https://www-users.cse.umn.edu/~fengqian/paper/salientvr_mobicom22.pdf) (DL)
-* DeepMix: mobility-aware, lightweight, and hybrid 3D object detection for headsets, MobiSys 22 [[Paper]](https://arxiv.org/pdf/2201.08812.pdf) (DL)
-* ExGSense: Toward Facial Gesture Sensing and Reconstruction with a Sparse Near-Eye Sensor Array, IPSN 21 [[Paper]](http://xyzhang.ucsd.edu/papers/Chen.Chen_IPSN21_ExGSense.pdf) (DL)
 * Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446715) (ML)
 * FollowUpAR: enabling follow-up effects in mobile AR applications, MobiSys 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jingao/papers/mobisys21_followupar.pdf) (NO ML)
-* Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality, MobiSys 21 [[Paper]](https://arxiv.org/pdf/2106.15280.pdf) (DL)
 * All that GLITTERs: Low-Power Spoof-Resilient Light Anchors for Augmented Reality, IPSN 20 [[Paper]](https://users.ece.cmu.edu/~vsekar/assets/pdf/ipsn20_glitter.pdf) (NO ML)
 * Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) (NO ML)
 * Firefly: Untethered Multi-user VR for Commodity Mobile Devices, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-liu-xing.pdf) (ML)
-* CollabAR: Edge-assisted Collaborative Image Recognition for Mobile Augmented Reality, IPSN 20 [[Paper]](https://research.ece.cmu.edu/lions/Papers/CollabAR_IPSN.pdf) (DL)
-* Heimdall: mobile GPU coordination platform for augmented reality applications, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/Heimdall.pdf) (DL)
 * DeltaVR: Achieving High-Performance Mobile VR Dynamics through Pixel Reuse, IPSN 19 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn19.pdf) (NO ML)
 * GLEAM: An Illumination Estimation Framework for Real-time Photorealistic Augmented Reality on Mobile Devices, MobiSys 19 [[Paper]](https://meteor.ame.asu.edu/publications/mobisys19prakash-gleam.pdf) (NO ML)
 * Aura: Inside-out Electromagnetic Controller Tracking MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326090) (ML)
-* Edge Assisted Real-time Object Detection for Mobile Augmented Reality, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300116) (DL)
 * When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079) (NO ML)
 * Freedom: Fast Recovery Enhanced VR Delivery Over Mobile Networks, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326087) (NO ML)
-* Transparent AR Processing Acceleration at the Edge, EuroSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3301418.3313942) (DL)
 * LpGL: Low-power Graphics Library for Mobile AR Headsets, MobiSys 19, [[Paper]](http://nsl.cau.ac.kr/~jpaek/docs/lpgl-mobisys2019.pdf) (NO ML)
 * Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering, MobiSys 18 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) (NO ML)
-* Frugal following: power thrifty object detection and tracking for mobile augmented reality, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360044) (DL)
-* HandSense: capacitive coupling-based dynamic, micro finger gesture recognition, SenSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/sensys19-final195.pdf) (DL)
 * Conductive Inkjet Printed Passive 2D TrackPad for VR Interaction, MobiCom 18 [[Paper]](http://xyzhang.ucsd.edu/papers/CGao_MobiCom18_Inkput.pdf) (NO ML)
 * Empath-D: VR-based Empathetic App Design for Accessibility, MobiSys 18 [[Paper]](https://nclab.kaist.ac.kr/files/papers/Conference/mobisys18-10-kim.pdf) (NO ML)
 * Depth Aware Finger Tapping on Virtual Display, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210315) (NO ML)
