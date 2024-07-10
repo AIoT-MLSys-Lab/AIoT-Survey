@@ -36,7 +36,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Wireless Sensing (Total: 119)](#wireless-sensing)
     	- [RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))](#rfid-sensing)
     	- [Wi-Fi Sensing (43/14)](#wi-fi-sensing)
-    	- [mmWave Sensing (21/11)](#mmwave-sensing)
+    	- [mmWave Sensing (Total: 20 | No ML(6) | ML(3) | DL(11))](#mmwave-sensing)
     	- [TeraHertz Sensing (2/0)](#teraHertz-sensing)
     	- [UWB Sensing (12/2)](#uwb-sensing)
      	- [Cellular Sensing (2/0)](#cellular-sensing)
@@ -134,7 +134,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Practically Adopting Human Activity Recognition, MobiCom 23 [[Paper]](https://dapowan.github.io/files/UniHAR.pdf) (DL)
 
 ### Wireless Sensing
-
 #### RFID Sensing (Total: 27 | No ML(20) | ML(2) | DL(5))
 ```diff
 ! ShakeReader: ‘Read’ UHF RFID using Smartphone, IEEE INFOCOM 2021 [[Paper]](https://ieeexplore.ieee.org/document/9488802)
@@ -230,7 +229,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * WiWho: WiFi-Based Person Identification in Smart Spaces, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460727) (ML)
 * Decimeter-Level Localization with a Single WiFi Access Point, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf) (NO ML)
 
-#### mmWave Sensing (Total: 20 | No ML(6) | ML(3) | DL(11))
+#### mmWave Sensing
 ```diff
 + Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625795) (NO ML)
 + RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Xingyu.Chen_SenSys23_RFGen.pdf) (DL)
