@@ -1239,7 +1239,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Pano: optimizing 360° video streaming with a better understanding of quality perception, SIGCOMM 19 [[Paper]](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf) (DL)
 * Popularity Prediction of Facebook Videos for Higher Quality Streaming, ATC 17 [[Paper]](https://www.usenix.org/system/files/conference/atc17/atc17-tang.pdf) (DL)
 
-#### 
+#### others
 + MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592530) (DL)
 + FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592525) (DL)
 + Dragonfly: Higher Perceptual Quality For Continuous 360° Video Playback, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604876) (NO ML)
@@ -1278,28 +1278,38 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * RnB: Rate and Brightness Adaptation for Rate-Distortion-Energy Tradeoff in HTTP Adaptive Streaming over Mobile Devices, MobiCom 16 [[Paper]](https://mason.gmu.edu/~zyan4/papers/rnb_mobicom16.pdf) (ML)
 
 
-### AIoT Systems for Video Analytics		
-```diff
-+ PacketGame: Multi-Stream Packet Gating for Concurrent Video Inference at Scale, SIGCOMM 23 [[Paper]](https://yuanmu97.github.io/preprint/packetgame_sigcomm23.pdf) (DL)
-```
-* Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-padmanabhan.pdf) [[code]](https://github.com/artpad6/gemel_nsdi23) (DL)
-* Boggart: Towards General-Purpose Acceleration of Retrospective Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-agarwal-neil.pdf) (DL)
+### AIoT Systems for Video Analytics	
+#### Continuous Learning 
 * RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf) (DL)
-* Privid: Practical, Privacy-Preserving Video Analytics Queries, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-cangialosi.pdf) (DL)
 * Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-bhardwaj.pdf) (DL)
-* CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-hwang.pdf) (DL)
-* AccMPEG: Optimizing Video Encoding for Video Analytics, MLSys 22 [[Paper]](https://arxiv.org/pdf/2204.12534.pdf) (DL)
-* Tutti: coupling 5G RAN and mobile edge computing for latency-critical video analytics, MobiCom 22 [[Paper]](https://dl.acm.org/doi/10.1145/3495243.3560538) (DL)
-* Turbo: Opportunistic Enhancement for Edge Video Analytics, SenSys 22 [[Paper]](https://arxiv.org/pdf/2207.00172.pdf) (DL)
+
+#### Adaptation
 * Enhancing Video Analytics Accuracy via Real-time Automated Camera Parameter Tuning, SenSys 22 [[Paper]](https://arxiv.org/pdf/2107.03964.pdf) (DL)
-* Video Analytics with Zero-streaming Cameras, ATC 21 [[Paper]](https://xumengwei.github.io/files/ATC-DIVA.pdf) (DL)
-* Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics, SIGCOMM 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874) (DL)
-* Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence, SenSys 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf) (DL)
-* Approximate query service on autonomous IoT cameras,	MobiSys	20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948) (DL)
-* Scaling Video Analytics on Constrained Edge Nodes, MLSys 19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf) (DL)
-* Caesar: cross-camera complex activity recognition, SenSys 19 [[Paper]](http://web.cs.ucla.edu/~ravi/CS239_W20/papers/caesar.pdf) (DL)
 * Chameleon: scalable adaptation of video analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230574) (DL)
 * AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230554) (DL)
+
+#### Efficiency Optimization
+* Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-padmanabhan.pdf) [[code]](https://github.com/artpad6/gemel_nsdi23) (DL)
+* CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-hwang.pdf) (DL)
+* AccMPEG: Optimizing Video Encoding for Video Analytics, MLSys 22 [[Paper]](https://arxiv.org/pdf/2204.12534.pdf) (DL)
+* Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics, SIGCOMM 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874) (DL)
+* Scaling Video Analytics on Constrained Edge Nodes, MLSys 19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf) (DL)
+
+#### Resource Management
+* Turbo: Opportunistic Enhancement for Edge Video Analytics, SenSys 22 [[Paper]](https://arxiv.org/pdf/2207.00172.pdf) (DL)
+* Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence, SenSys 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf) (DL)
+
+#### Queries Optimization
+* Boggart: Towards General-Purpose Acceleration of Retrospective Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-agarwal-neil.pdf) (DL)
+* Privid: Practical, Privacy-Preserving Video Analytics Queries, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-cangialosi.pdf) (DL)
+* Tutti: coupling 5G RAN and mobile edge computing for latency-critical video analytics, MobiCom 22 [[Paper]](https://dl.acm.org/doi/10.1145/3495243.3560538) (DL)
+* Video Analytics with Zero-streaming Cameras, ATC 21 [[Paper]](https://xumengwei.github.io/files/ATC-DIVA.pdf) (DL)
+* Approximate query service on autonomous IoT cameras,	MobiSys	20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948) (DL)
+
+#### others
+
++ PacketGame: Multi-Stream Packet Gating for Concurrent Video Inference at Scale, SIGCOMM 23 [[Paper]](https://yuanmu97.github.io/preprint/packetgame_sigcomm23.pdf) (DL)
+* Caesar: cross-camera complex activity recognition, SenSys 19 [[Paper]](http://web.cs.ucla.edu/~ravi/CS239_W20/papers/caesar.pdf) (DL)
 * Panoptes: Servicing Multiple Applications Simultaneously using Steerable Cameras, IPSN 17 [[Paper]](https://winlab.rutgers.edu/~shubhamj/papers/Shubham_Panoptes_IPSN2017.pdf) (NO ML)
 
 ### AIoT Systems for Autonomous Driving
