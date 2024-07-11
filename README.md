@@ -134,7 +134,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Practically Adopting Human Activity Recognition, MobiCom 23 [[Paper]](https://dapowan.github.io/files/UniHAR.pdf) (DL)
 
 ### Wireless Sensing
-#### RFID Sensing
+#### 🏷️ RFID Sensing
 ```diff
 ! ShakeReader: ‘Read’ UHF RFID using Smartphone, IEEE INFOCOM 2021 [[Paper]](https://ieeexplore.ieee.org/document/9488802)
 ```
@@ -279,7 +279,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization, SenSys 16 [[Paper]](https://patpannuto.com/pubs/kempke16surepoint.pdf) (NO ML)
 * Harmonium: Asymmetric, Bandstitched UWB for Fast, Accurate, and Robust Indoor Localization, IPSN 16 [[Paper]](https://patpannuto.com/pubs/kempke16harmonium.pdf) (NO ML)
 
-#### Cellular Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
+#### 📶 Cellular Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
 ```diff
 + Experience: Large-scale Cellular Localization for Pickup Position Recommendation at Black-hole, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613298) (DL)
 ```
@@ -323,7 +323,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (ML)
 
 	
-### Earable Sensing 
+### 🦻 Earable Sensing 
 
 ```diff
 ! MandiPass: Secure and Usable User Authentication via Earphone IMU, IEEE Transactions on Mobile Computing 2021 [[Paper]](https://ieeexplore.ieee.org/document/9546415)
@@ -349,7 +349,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (NO ML)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML) (Also healthcare)
 
-### Acoustic Sensing	
+### 🎵 Acoustic Sensing	
 ```diff
 ! DeepRange: Acoustic Ranging via Deep Learning, IMWUT 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432195)
 ! Your Table Can Be an Input Panel: Acoustic-based Device-Free Interaction Recognition, IMWUT 2019 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3314390)
@@ -406,7 +406,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf) (DL)
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf) (ML)
 																
-### Vision Sensing
+### 👁️ Vision Sensing
 ```diff
 + Testing Masks and Air Filters With Your Smartphones, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625807) (DL)
 + NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592523) (DL)
@@ -440,7 +440,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf) (ML)
 * Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention) (NO ML)
 
-### Visible Light Sensing
+### 💡 Visible Light Sensing
 ```diff
 + LiT: Fine-grained Toothbrushing Monitoring with Commercial LED Toothbrush, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613287) (ML)
 ```
@@ -459,7 +459,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (NO ML)
 * LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973767) (NO ML)
 
-### Magentic Sensing (Total: 4 | No ML(0) | ML(3) | DL(2))
+### 🧲 Magentic Sensing (Total: 4 | No ML(0) | ML(3) | DL(2))
 ```diff
 + METRO: Magnetic Road Markings for All-weather, Smart Roads, SenSys 23 [[Paper]](https://theisclab.com/docs/2023_Sensys_METRO_Wang.pdf) (NO ML)
 ```
@@ -519,7 +519,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ## Computing							
 	
 ### On-Device Inference						
-#### Model Compression
+#### 🗜 Model Compression
 * Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors, MLSys 22 [[Paper]](https://arxiv.org/abs/2201.11651)
 * PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning, ASPLOS	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3373376.3378534)	
 * Memory-Driven Mixed Low Precision Quantization for Enabling Deep Network Inference on Microcontrollers, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/9b8619251a19057cff70779273e95aa6-Paper.pdf)
@@ -755,8 +755,8 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 ## Networking and Communication
 
-### Battery
-#### Cellular
+### 🔋 Battery
+#### 📶 Cellular
 - iCellular: Device-Customized Cellular Network Access on Commodity Smartphones, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-li-yuanjie.pdf) (NO ML)
 - Eliminating Channel Feedback in Next-Generation Cellular Networks, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/10.1145/2934872.2934895) (NO ML)
 - Proteus: a network service control platform for service evolution in a mobile software defined infrastructure, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973757) (NO ML)
@@ -825,7 +825,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - SenCom: Integrated Sensing and Communication with Practical WiFi, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613274) (NO ML)
 - SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication, NSDI 23 [[paper]](https://www.usenix.org/system/files/nsdi23-zhao-renjie.pdf) (NO ML)
 
-#### Acoustic
+#### 🎵 Acoustic
 
 - Messages Behind the Sound: Real-Time Hidden Acoustic Signal Capture with Smartphones, MobiCom 16 [[Paper]](https://cse.buffalo.edu/~lusu/papers/MobiCom2016.pdf) (NO ML)
 - Near-Ultrasound Communication for TV's 2nd Screen Services,  MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973774) (NO ML)
@@ -837,7 +837,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - AquaHelper: Underwater SOS Transmission and Detection in Swimming Pools, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625816) (NO ML)
 - Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound, MobiCom 23 [[Paper]](https://tachen-cs.github.io/data/papers/2023-mobicom-spotsound/SpotSound.pdf) (DL)
 
-#### Visible Light
+#### 💡 Visible Light
 
 - The DarkLight Rises: Visible Light Communication in the Dark, MobiCom 16 [[Paper]](https://www.cs.dartmouth.edu/~xia/papers/mobicom16-darklight.pdf) (NO ML)
 - Card-stunt as a Service: Empowering a Massively Packed Crowd for Instant Collective Expressiveness, MobiSys 17 [[Paper]](https://nclab.kaist.ac.kr/uploads/2017/08/mobisys2017_cardstunt.pdf) (NO ML)
