@@ -1109,6 +1109,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ## Domain-specific AIoT Systems
 							
 ### 🩺 AIoT Systems for Healthcare and Well-being
+<a name="aiot-systems-for-healthcare-and-well-being"></a>
 #### Physiological Monitoring
 * Passive Vital Sign Monitoring via Facial Vibrations Leveraging AR/VR Headsets, MobiSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596848) (DL)
 * Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508) (DL)
@@ -1180,6 +1181,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 
 ### 📺 AIoT Systems for Video Streaming
+<a name="aiot-systems-for-video-streaming"></a>
 #### Adaptive Video Streaming
 * Swift: Adaptive Video Streaming with Layered Neural Codecs, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-dasari.pdf) (DL)
 * Loki: Improving Long Tail Performance of Learning-Based Real-Time Video Adaptation by Fusing Rule-Based Models, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483259) (DL)
@@ -1244,6 +1246,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 ### 🎦 AIoT Systems for Video Analytics	
+<a name="aiot-systems-for-video-analytics"></a>
 #### Continuous Learning 
 * RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf) (DL)
 * Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-bhardwaj.pdf) (DL)
@@ -1278,6 +1281,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Panoptes: Servicing Multiple Applications Simultaneously using Steerable Cameras, IPSN 17 [[Paper]](https://winlab.rutgers.edu/~shubhamj/papers/Shubham_Panoptes_IPSN2017.pdf) (NO ML)
 
 ### 🚘 AIoT Systems for Autonomous Driving
+<a name="aiot-systems-for-autonomous-driving"></a>
 #### Perception Enhancement
 * AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/AutoMatch-SenSys22.pdf) (DL)
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups) (DL)
@@ -1327,6 +1331,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * RoS: Passive Smart Surface for Roadside-to-Vehicle Communication, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472896.pdf) (NO ML)
 
 ### 🥽 AIoT Systems for AR/VR/MR
+<a name="aiot-systems-for-arvrmr"></a>
 #### Object Detection
 * DeepMix: mobility-aware, lightweight, and hybrid 3D object detection for headsets, MobiSys 22 [[Paper]](https://arxiv.org/pdf/2201.08812.pdf) (DL)
 * Edge Assisted Real-time Object Detection for Mobile Augmented Reality, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300116) (DL)
@@ -1378,6 +1383,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (NO ML)
 
 ### AIoT Systems for Drones
+<a name="aiot-systems-for-drones"></a>
 + Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields,MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613292) (NO ML)
 + BatMobility: Towards Flying Without Seeing for Autonomous Drones, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2307.11518.pdf) (DL)
 + RF-Search: Searching Unconscious Victim in Smoke Scenes with RF-enabled Drone, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613305) (NO ML)
@@ -1405,6 +1411,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Reactive Control of Autonomous Drones, MobiSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2906388.2906410) (NO ML) (Best Paper) 
 
 ### 🛰️ AIoT Systems for Satellites
+<a name="aiot-systems-for-satellites"></a>
 + Global Localization of Energy-Constrained Miniature RF Emitters using Low Earth Orbit Satellites, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625794) (NO ML)
 + A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592519) (NO ML)
 + Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592521) (NO ML)
@@ -1414,6 +1421,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 
 ### 🌾 AIoT Systems for Agriculture
+<a name="aiot-systems-for-agriculture"></a>
 + Meta-Sticker: Sub-Terahertz Metamaterial Stickers for Non-Invasive Mobile Food Sensing, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625815) (NO ML)
 + AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613275) (ML) (Best Paper Award)
 + eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613262) (NO ML)
