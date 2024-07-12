@@ -227,7 +227,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 + mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
 + Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613302) (DL)
 * mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596839) (DL)
-* Contactless Material Identification with Millimeter Wave Vibrometry, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596850) (DL)
 * Fusang: Graph-inspired Robust and Accurate Object Recognition on Commodity mmWave Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596849) [[Code]](https://github.com/OpenNISLab/Pro-Fusang) (DL)
 * Hawkeye: Hectometer-range Subcentimeter Localization for Large-scale mmWave Backscatter, MobiSys 23 [[Paper]](https://arxiv.org/pdf/2301.02402.pdf) (NO ML)
 * Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "Phase Carriers", IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586965) (NO ML)
@@ -301,16 +300,21 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, MobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)（DL）
 * Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (ML)
 
-	
+#### Generative AI for Sensing (Total: 3 | No ML(0) | ML(1) | DL(3))
+* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (DL)
+* LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (DL)
+* Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (DL)
+
+
 ### 🦻 Earable Sensing 
 
-* MandiPass: Secure and Usable User Authentication via Earphone IMU, IEEE Transactions on Mobile Computing 2021 [[Paper]](https://ieeexplore.ieee.org/document/9546415)
 * DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178)
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314) (Survey)
 * FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones, IPSN 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn22.pdf) [[Dataset]](https://developers.google.com/mediapipe) [[Code]](https://github.com/muxspace/facial_expressions) (DL)
 * Individualizing Head Related Transfer Functions for Binaural Acoustic Applications, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.11138.pdf) (DL)
 * ClearBuds: wireless binaural earbuds for learning-based speech enhancement, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538933) [[Code]](https://clearbuds.cs.washington.edu) (DL)
+* MandiPass: Secure and Usable User Authentication via Earphone IMU, IEEE Transactions on Mobile Computing 2021 [[Paper]](https://ieeexplore.ieee.org/document/9546415)
 * EarGate: Gait-based User Identification with In-ear Microphones, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483240) (DL)
 * BioFace-3D: Continuous 3D Facial Reconstruction Through Lightweight Single-ear Biosensors, MobiCom 21 [[Paper]](https://people.cs.umass.edu/~phuc/papers/bioface_2021.pdf) (DL)
 * HeadFi: bringing intelligence to all headphones, MobiCom 21	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448624) (Best Paper Award Runner-up) (ML) 
@@ -326,7 +330,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML) (Also healthcare)
 
 ### 🎵 Acoustic Sensing	
-
+* DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178)
 * DeepRange: Acoustic Ranging via Deep Learning, IMWUT 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432195)
 * Your Table Can Be an Input Panel: Acoustic-based Device-Free Interaction Recognition, IMWUT 2019 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3314390)
 * Sequence-Based Device-Free Gesture Recognition Framework for Multi-Channel Acoustic Signals [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095790)
@@ -444,6 +448,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 + SudokuSens: Enhancing Deep Learning Robustness for IoT Sensing Applications using a Generative Approach, SenSys 23 [[Paper]](https://arxiv.org/pdf/2402.02275) (DL)
 + MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels, SenSys 23 [[Paper]](https://arxiv.org/pdf/2404.01958) (DL)
 + The Wisdom of 1,170 Teams: Lessons and Experiences from a Large Indoor Localization Competition, MobiCom 23 [[Paper]](https://yshu.org/paper/mobicom23comp.pdf) (DL) (Best Community Contributions Award)
+* Contactless Material Identification with Millimeter Wave Vibrometry, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596850) (DL)
 * Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables, MobiSys 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VibVoice-MobiSys23.pdf) (DL)
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586958) (DL)
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
