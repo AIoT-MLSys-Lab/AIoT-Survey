@@ -53,7 +53,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Visible Light Sensing (Total: 14 | No ML(7) | ML(6) | DL(1))](#light-sensing)
     - [Magentic Sensing (4/2)](#magnetic-sensing)
     - [Cross-Medium Sensing (1/0)](#cross-medium-sensing)
-    - [Generative AI for Sensing](#generative-ai-for-sensing)
+    - [Generative AI for Sensing (3/3)](#generative-ai-for-sensing)
   - [Computing (Total: 154)](#computing)
     - [On-Device Inference (70)](#on-device-inference)
       	- [Model Compression (12)](#model-compression)
@@ -300,12 +300,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag, MobiCom 17 [[Paper]](https://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2019/12/RF-Echo-A-Non-Line-of-Sight-Indoor-Localization-System-Using-a-Low-Power-Active-RF-Reflector-ASIC-Tag.pdf)（DL）
 * Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (ML)
 
-#### Generative AI for Sensing (Total: 3 | No ML(0) | ML(1) | DL(3))
-* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (DL)
-* LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (DL)
-* Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (DL)
-
-
 ### 🦻 Earable Sensing 
 
 * DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178)
@@ -442,6 +436,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ### 🔀 Cross-Medium Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
 + Underwater 3D positioning on smart devices, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604851) (NO ML)
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
+
+#### Generative AI for Sensing (Total: 3 | No ML(0) | ML(1) | DL(3))
+* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (DL)
+* LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (DL)
+* Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (DL)
 
 ### Multi-Modal Sensing
 + Physics-Informed Data Denoising for Real-Life Sensing Systems, Sensys 23 [[Paper]](https://arxiv.org/pdf/2311.06968) (DL)
