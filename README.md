@@ -840,7 +840,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - When VLC Meets Under-Screen Camera, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596855) (NO ML)
 - Harmony: An In-band Time Synchronisation System for Visible Light Communication, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568549) (NO ML)
 - CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560526)(DL)
-- Practical Optical Camera Communication Behind Unseen and Complex Backgrounds, MobiSys 24, [[Paper]]([https://dl.acm.org/doi/10.1145/3643832.3661861](https://dl.acm.org/doi/10.1145/3643832.3661866)) (DL)
+- Practical Optical Camera Communication Behind Unseen and Complex Backgrounds, MobiSys 24, [[Paper]]([https://dl.acm.org/doi/10.1145/3643832.3661861](https://dl.acm.org/doi/10.1145/3643832.3661866]) (DL)
 
 #### Bluetooth
 - Beetle: Flexible Communication for Bluetooth Low Energy, MobiSys 16 [[Paper]](http://iot.stanford.edu/pubs/beetle-mobisys16.pdf) (NO ML)
