@@ -500,10 +500,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (DL)
      
 ## 🧮 Computing							
-	
+<a name="computing"></a>	
 ### 📲 On-Device Inference						
-	
+<a name="on-device-inference"></a>
+
 #### ⚡ Inference Optimization
+<a name="inference-optimization"></a>
 ##### Computation Optimization
 * Boosting DNN Cold Inference on Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596842)
 * ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU, MobiSys 23 [[Paper]](https://yuanchun-li.github.io/static/files/MobiSys23_ConvReLU++.pdf) [[Code]](https://github.com/GAIR-team/conv_relu_plus_plus)
@@ -548,6 +550,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
 
 #### 🔀 Cross-Processor Inference (Total: 11)
+<a name="cross-processor-inference"></a>
 ##### Model Partitioning
 * NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596870)
 * BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
@@ -568,6 +571,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 #### ⏳ Runtime Adaptation
+<a name="runtime-adaptation"></a>
 * Memory-Efficient Domain Incremental Learning for Internet of Things,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)	
 * LiteReconfig: Cost and Content Aware Reconfiguration of Video Object Detection Systems for Mobile GPUs, EuroSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 21	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
@@ -637,7 +641,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 	
 
 ### 🎯 On-Device Training
-
+<a name="on-device-training"></a>
 #### Training on a Single Device
 + Cost-effective On-device Continual Learning over Memory Hierarchy with Miro, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2308.06053.pdf)
 + LifeLearner: Hardware-Aware Meta Continual Learning System for Embedded Computing Platforms, SenSys 23 [[Paper]](https://arxiv.org/pdf/2311.11420)
@@ -733,7 +737,8 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)	
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
 														
-### Compiler for AIoT							
+### Compiler for AIoT	
+<a name="compilers-for-aiot"></a>
 * Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582061)
 * Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
 * Romou: rapidly generate high-performance tensor kernels for mobile GPUs,	MobiCom	22	[[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf)	
