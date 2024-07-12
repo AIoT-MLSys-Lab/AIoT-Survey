@@ -28,11 +28,7 @@ As both IoT and AI become increasingly critical to our society, we believe AIoT 
 ## :film_strip: OSU AIoT Seminar Series
 Besides the survey and the repository, we also host the OSU AIoT Seminar Series where we invite speakers at the frontier of AIoT from both academia and industry to talk about their works. The talk videos are available at: https://sites.google.com/view/osu-aiot-seminar.
 
-
 ## 📖 Table of Content
-
-⚡Note: "No ML" denotes no machine learning techniques used. "ML" denotes traditional machine learning techniques used. "DL" denotes deep learning techniques used.
-
   - [Sensing (Total: 268)](#sensing)
     - [Motion Sensing (Total: 9 | No ML(1) | ML(2) | DL(6))](#motion-sensing)
     - [Wireless Sensing (Total: 119)](#wireless-sensing)
@@ -116,6 +112,8 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AIoT Systems for Agriculture (Total: 9 | No ML(7) | ML(1) | DL(1))](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology (Total: 7 | No ML(5) | ML(1) | DL(1))](#aiot-systems-for-biology)
     	
+⚡Note: "No ML" denotes no machine learning techniques used. "ML" denotes traditional machine learning techniques used. "DL" denotes deep learning techniques used.
+
 ## 🌡️ Sensing
 
 ### 👋 Motion Sensing
