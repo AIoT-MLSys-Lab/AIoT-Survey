@@ -408,39 +408,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf) (ML)
 * Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention) (NO ML)
 
-### 💡 Visible Light Sensing
-+ LiT: Fine-grained Toothbrushing Monitoring with Commercial LED Toothbrush, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613287) (ML)
-* SMART: Screen-based Gesture Recognition on Commodity Mobile Devices, MobiCom 21 [[Paper]](https://huangqy7.github.io/Paper/mobicom21-SMART.pdf) (DL)
-* Lili: Liquor Quality Monitoring Based on Light Signals, MobiCom 21 [[Paper]](https://luwang-szu.github.io/paper/LiliMobiCom.pdf) (ML)
-* CurveLight:An Accurateand Practical Light Positioning System, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485934) (ML)
-* LiTag: Localization and Posture Estimation with Passive Visible Light Tags, SenSys 20 [[Paper]](https://www.cse.msu.edu/~lilingk1/publications/sensys20-LiTag.pdf) (NO ML)
-* SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.01766.pdf) (ML)
-* RainbowLight: Towards Low Cost Ambient Light Positioning with Mobile Phones, MobiCom 18 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBICOM2018-rainbowlight.pdf) (NO ML)
-* Augmenting Indoor Inertial Tracking with Polarized Light, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210340) (NO ML)
-* Battery-Free Eye Tracker on Glasses, MobiCom 18 [[Paper]](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3975&context=facoa) (ML)
-* SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, SenSys 17 [[Paper]](https://www-users.cse.umn.edu/~tianhe/Papers/SmartLight.pdf) (NO ML) (Best Paper)
-* CELLI: Indoor Positioning Using Polarized Sweeping Light Beams, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081352) (ML)
-* Enabling High-Precision Visible Light Localization in Today’s Buildings. MobiSys 17 [[Paper]](https://cseweb.ucsd.edu//~shz338/images/MobiSys_17.pdf) (ML)
-* Pulsar: Towards Ubiquitous Visible Light Localization, MobiCom 17 [[Paper]](https://dl.acm.org/doi/10.1145/3117811.3117821) (NO ML)
-* Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (NO ML)
-* LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973767) (NO ML)
-
-### 🧲 Magentic Sensing (Total: 4 | No ML(0) | ML(3) | DL(2))
-+ METRO: Magnetic Road Markings for All-weather, Smart Roads, SenSys 23 [[Paper]](https://theisclab.com/docs/2023_Sensys_METRO_Wang.pdf) (NO ML)
-* Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf) (ML)
-* MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483260) (ML)
-* MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://www.ece.sunysb.edu/~slin/Publications/MOBICOM2020.pdf) (DL)
-* MagHacker: Eavesdropping on Stylus Pen Writing via Magnetic Sensing from Commodity Mobile Devices, MobiSys 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys20.pdf) (DL)
-* MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107) (ML)
-
-### 🔀 Cross-Medium Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
-+ Underwater 3D positioning on smart devices, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604851) (NO ML)
-* Sunflower: Locating Underwater Robots From the Air,	MobiSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
-
-#### Generative AI for Sensing (Total: 3 | No ML(0) | ML(1) | DL(3))
-* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (DL)
-* LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (DL)
-* Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (DL)
 
 ### Multi-Modal Sensing
 + Physics-Informed Data Denoising for Real-Life Sensing Systems, Sensys 23 [[Paper]](https://arxiv.org/pdf/2311.06968) (DL)
@@ -481,6 +448,40 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Sensor-assisted Face Recognition System on Smart Glass via Multi-view Sparse Representation Classification, IPSN 16 [[Paper]](https://www.cse.unsw.edu.au/~wenh/xu_ipsn_20162.pdf) (ML)
 * EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)(ML)
 
+
+### 💡 Visible Light Sensing
++ LiT: Fine-grained Toothbrushing Monitoring with Commercial LED Toothbrush, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613287) (ML)
+* SMART: Screen-based Gesture Recognition on Commodity Mobile Devices, MobiCom 21 [[Paper]](https://huangqy7.github.io/Paper/mobicom21-SMART.pdf) (DL)
+* Lili: Liquor Quality Monitoring Based on Light Signals, MobiCom 21 [[Paper]](https://luwang-szu.github.io/paper/LiliMobiCom.pdf) (ML)
+* CurveLight:An Accurateand Practical Light Positioning System, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485934) (ML)
+* LiTag: Localization and Posture Estimation with Passive Visible Light Tags, SenSys 20 [[Paper]](https://www.cse.msu.edu/~lilingk1/publications/sensys20-LiTag.pdf) (NO ML)
+* SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.01766.pdf) (ML)
+* RainbowLight: Towards Low Cost Ambient Light Positioning with Mobile Phones, MobiCom 18 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBICOM2018-rainbowlight.pdf) (NO ML)
+* Augmenting Indoor Inertial Tracking with Polarized Light, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210340) (NO ML)
+* Battery-Free Eye Tracker on Glasses, MobiCom 18 [[Paper]](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3975&context=facoa) (ML)
+* SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp, SenSys 17 [[Paper]](https://www-users.cse.umn.edu/~tianhe/Papers/SmartLight.pdf) (NO ML) (Best Paper)
+* CELLI: Indoor Positioning Using Polarized Sweeping Light Beams, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081352) (ML)
+* Enabling High-Precision Visible Light Localization in Today’s Buildings. MobiSys 17 [[Paper]](https://cseweb.ucsd.edu//~shz338/images/MobiSys_17.pdf) (ML)
+* Pulsar: Towards Ubiquitous Visible Light Localization, MobiCom 17 [[Paper]](https://dl.acm.org/doi/10.1145/3117811.3117821) (NO ML)
+* Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (NO ML)
+* LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973767) (NO ML)
+
+### 🧲 Magentic Sensing (Total: 4 | No ML(0) | ML(3) | DL(2))
++ METRO: Magnetic Road Markings for All-weather, Smart Roads, SenSys 23 [[Paper]](https://theisclab.com/docs/2023_Sensys_METRO_Wang.pdf) (NO ML)
+* Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf) (ML)
+* MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483260) (ML)
+* MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://www.ece.sunysb.edu/~slin/Publications/MOBICOM2020.pdf) (DL)
+* MagHacker: Eavesdropping on Stylus Pen Writing via Magnetic Sensing from Commodity Mobile Devices, MobiSys 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys20.pdf) (DL)
+* MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107) (ML)
+
+### 🔀 Cross-Medium Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
++ Underwater 3D positioning on smart devices, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604851) (NO ML)
+* Sunflower: Locating Underwater Robots From the Air,	MobiSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
+
+### Generative AI for Sensing (Total: 3 | No ML(0) | ML(1) | DL(3))
+* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (DL)
+* LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (DL)
+* Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (DL)
      
 ## 🧮 Computing							
 	
