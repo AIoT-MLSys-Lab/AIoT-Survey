@@ -118,6 +118,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ## 🌡️ Sensing
 
 ### 👋 Motion Sensing
+<a name="motion-sensing"></a>
 #### Human Activity Recognition
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (DL)
 * Transferring Activity Recognition Models for New Wearable Sensors with Deep Generative Domain Adaptation, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310391) (DL)
@@ -132,7 +133,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Practically Adopting Human Activity Recognition, MobiCom 23 [[Paper]](https://dapowan.github.io/files/UniHAR.pdf) (DL)
 
 ### 🌐 Wireless Sensing
+<a name="wireless-sensing"></a>
 #### 🏷️ RFID Sensing
+<a name="rfid-sensing"></a>
 + ShakeReader: ‘Read’ UHF RFID using Smartphone, IEEE INFOCOM 2021 [[Paper]](https://ieeexplore.ieee.org/document/9488802)
 + A Handheld Fine-Grained RFID Localization System with Complex-Controlled Polarization,MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592504) (NO ML)
 + Fast, Fine-grained, and Robust Grouping of RFIDs, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3592510) (NO ML)
@@ -165,6 +168,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 
 #### 🌐 Wi-Fi Sensing
+<a name="wi-fi-sensing"></a>
 * UniFi: A Unified Framework for Generalizable Gesture Recognition with Wi-Fi Signals Using Consistency-guided Multi-View Networks, IMWUT 24 [[Paper]](https://dl.acm.org/doi/10.1145/3631429) (DL)
 + RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://arxiv.org/pdf/2404.09140) (DL)
 + Next2You: Robust Copresence Detection Based on Channel State Information, SenSys 23 [[Paper]](https://arxiv.org/pdf/2111.05224) (DL)
@@ -222,6 +226,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Decimeter-Level Localization with a Single WiFi Access Point, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf) (NO ML)
 
 #### 🌫️ mmWave Sensing
+<a name="mmwave-sensing"></a>
 + Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625795) (NO ML)
 + RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Xingyu.Chen_SenSys23_RFGen.pdf) (DL)
 + mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
@@ -247,10 +252,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852) (NO ML)
 
 #### TeraHertz Sensing
+<a name="teraHertz-sensing"></a>
 * Quasi-Optical 3D localization using Asymmetric Signatures above 100 GHz, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3517022) (NO ML)
 * LeakyTrack: Non-Coherent Single-Antenna Nodal and Environmental Mobility Tracking with a Leaky-Wave Antenna, SenSys 20 [[Paper]](https://www.brown.edu/research/labs/mittleman/sites/brown.edu.research.labs.mittleman/files/uploads/SenSys_2020.pdf) (NO ML)
 
 #### UWB Sensing
+<a name="uwb-sensing"></a>
 * Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (NO ML) (Best Paper Award Runner-ups) 
 * Enabling High Accuracy Pervasive Tracking with Ultra Low Power UWB Tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560542) (NO ML)
 * SiWa: See into Walls via Deep UWB Radars, MobiCom 21 [[Paper]](https://arxiv.org/pdf/2110.14279.pdf) (DL)
@@ -265,18 +272,21 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Harmonium: Asymmetric, Bandstitched UWB for Fast, Accurate, and Robust Indoor Localization, IPSN 16 [[Paper]](https://patpannuto.com/pubs/kempke16harmonium.pdf) (NO ML)
 
 #### Cellular Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
+<a name="cellular-sensing"></a>
 + Experience: Large-scale Cellular Localization for Pickup Position Recommendation at Black-hole, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613298) (DL)
 * Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
 * LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568525) (NO ML)
 * LTE-based Pervasive Sensing Across Indoor and Outdoor, SenSys	21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943) (NO ML)
 
 #### LoRa Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
+<a name="lora-sensing"></a>
 + In-Orchard Localization with a Single LoRa Gateway and Generative Model-based Efficient Fingerprinting, MobiSys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661876) (DL)
 * Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (NO ML)
 - Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (NO ML)
 - Combating interference for long range LoRa sensing, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430731) (NO ML)
 
 #### Bluetooth Sensing (Total: 5 | No ML(2) | ML(1) | DL(2))
+<a name="bluetooth-sensing"></a>
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution) (DL)
 * Nationwide Deployment and Operation of a Virtual Arrival Detection System in the Wild, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472911.pdf) (NO ML)
 * From Conception to Retirement: a Lifetime Story of a 3-Year-Old Wireless Beacon System in the Wild, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-ding.pdf) (NO ML)
@@ -284,13 +294,16 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf) (ML)
 
 #### Aerial Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
+<a name="ariel-sensing"></a>
 + BEAVIS: Balloon Enabled Aerial Vehicle for IoT and Sensing, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592498) (NO ML)
 * Robust Indoor Localization with ADS-B, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483257) (NO ML)
 
 #### NFC Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
+<a name="nfc-sensing"></a>
 * Locating Everyday Objects using NFC Textiles, IPSN 21 [[Paper]](https://swarunkumar.com/papers/textilesense-ipsn2021.pdf) (NO ML)
 
 #### RF Sensing (Total: 5 | No ML(0) | ML(1) | DL(4))
+<a name="rf-sensing"></a>
 + XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL) (Also Multi-Modal)
 - Quantum Wireless Sensing: Principle, Design and Implementation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613258) (NO ML)
 - DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613272) (NO ML)
@@ -301,6 +314,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (ML)
 
 ### 👁️ Vision Sensing
+<a name="vision-sensing"></a>
 + Testing Masks and Air Filters With Your Smartphones, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625807) (DL)
 + NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592523) (DL)
 + Squint: A Framework for Dynamic Voltage Scaling of Image Sensors Towards Low Power IoT Vision, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613303) (DL)
@@ -333,6 +347,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention) (NO ML)
 
 ### 🎵 Acoustic Sensing	
+<a name="acoustic-sensing"></a>
 * DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178)
 * DeepRange: Acoustic Ranging via Deep Learning, IMWUT 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432195)
 * Your Table Can Be an Input Panel: Acoustic-based Device-Free Interaction Recognition, IMWUT 2019 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3314390)
@@ -387,6 +402,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 																
 
 ### 🖇️ Multi-Modal Sensing
+<a name="multi-modal-sensing"></a>
 + Physics-Informed Data Denoising for Real-Life Sensing Systems, Sensys 23 [[Paper]](https://arxiv.org/pdf/2311.06968) (DL)
 + SudokuSens: Enhancing Deep Learning Robustness for IoT Sensing Applications using a Generative Approach, SenSys 23 [[Paper]](https://arxiv.org/pdf/2402.02275) (DL)
 + MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels, SenSys 23 [[Paper]](https://arxiv.org/pdf/2404.01958) (DL)
@@ -426,7 +442,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)(ML)
 
 ### 🦻 Earable Sensing 
-
+<a name="earable-sensing"></a>
 * DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178)
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314) (Survey)
@@ -449,6 +465,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML) (Also healthcare)
 
 ### 💡 Visible Light Sensing
+<a name="light-sensing"></a>
 + LiT: Fine-grained Toothbrushing Monitoring with Commercial LED Toothbrush, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613287) (ML)
 * SMART: Screen-based Gesture Recognition on Commodity Mobile Devices, MobiCom 21 [[Paper]](https://huangqy7.github.io/Paper/mobicom21-SMART.pdf) (DL)
 * Lili: Liquor Quality Monitoring Based on Light Signals, MobiCom 21 [[Paper]](https://luwang-szu.github.io/paper/LiliMobiCom.pdf) (ML)
@@ -466,6 +483,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LiTell: Robust Indoor Localization Using Unmodified Light Fixtures, MobiCom 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2973750.2973767) (NO ML)
 
 ### 🧲 Magentic Sensing (Total: 4 | No ML(0) | ML(3) | DL(2))
+<a name="magnetic-sensing"></a>
 + METRO: Magnetic Road Markings for All-weather, Smart Roads, SenSys 23 [[Paper]](https://theisclab.com/docs/2023_Sensys_METRO_Wang.pdf) (NO ML)
 * Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf) (ML)
 * MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483260) (ML)
@@ -474,10 +492,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107) (ML)
 
 ### 🔀 Cross-Medium Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
+<a name="cross-medium-sensing"></a>
 + Underwater 3D positioning on smart devices, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604851) (NO ML)
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (NO ML)
 
 ### 📜 Generative AI for Sensing (Total: 3 | No ML(0) | ML(1) | DL(3))
+<a name="generative-ai-for-sensing"></a>
 * LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (DL)
 * LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (DL)
 * Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (DL)
