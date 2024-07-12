@@ -166,7 +166,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Analog On-Tag Hashing: Towards Selective Reading as Hash Primitives in Gen2 RFID Systems, MobiCom 16 [[Paper]](https://web.comp.polyu.edu.hk/csyanglei/data/files/tash-mobicom17.pdf) (NO ML)
 
 #### 🌐 Wi-Fi Sensing
-- RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://dl.acm.org/doi/10.1145/3636534.3649348) (DL)
+- RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://arxiv.org/pdf/2404.09140) (DL)
 + Next2You: Robust Copresence Detection Based on Channel State Information, SenSys 23 [[Paper]](https://arxiv.org/pdf/2111.05224) (DL)
 + Construct 3D Hand Skeleton with Commercial WiFi, SenSys 23 [[Paper]](https://arxiv.org/pdf/2312.15507) (DL)
 + BIFROST: Reinventing WiFi Signals Based on Dispersion Effect for Accurate Indoor Localization, SensSys 23 [[Paper]](https://wangwg1996.github.io/files/PDF/BIFROST_conf.pdf) (NO ML)
@@ -752,10 +752,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 - NeRF2: Neural Radio-Frequency Radiance Fields, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592527) (DL)
 - DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-sentosa.pdf) (NO ML)
 - Scalable Distributed Massive MIMO Baseband Processing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-gong.pdf) (NO ML)
-- RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://dl.acm.org/doi/10.1145/3636534.3649348) (DL)
 
 #### WiFi
-
+- RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://arxiv.org/pdf/2404.09140) (DL)
 - Characterizing and Improving WiFi Latency in Large-Scale Operational Networks, MobiSys 16 [[Paper]](http://zmy.io/files/mobisys16-WiFiSeer.pdf)（Traditional ML）
 - Real-time Distributed MIMO Systems, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934905) (NO ML)
 - Wi-Fi Goes to Town: Rapid Picocell Switching for Wireless Transit Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098846) (NO ML)
