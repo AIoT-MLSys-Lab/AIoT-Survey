@@ -41,7 +41,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	- [LoRa Sensing (1/0)](#lora-sensing)
     	- [Bluetooth Sensing (5/2)](#bluetooth-sensing)
      	- [Aerial Sensing (1/0)](#ariel-sensing)
-      	- [NFC Sensing (1/0)](nfc-sensing)
+      	- [NFC Sensing (1/0)](#nfc-sensing)
       	- [RF Sensing (5/4)](#rf-sensing)
     - [Vision Sensing (Total: 25 | No ML(7) | ML(2) | DL(16))](#vision-sensing)
     - [Acoustic Sensing (Total: 45 | No ML(23) | ML(10) | DL(12))](#acoustic-sensing)
