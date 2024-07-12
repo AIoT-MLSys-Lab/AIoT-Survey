@@ -115,6 +115,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	
 ⚡Note: "No ML" denotes no machine learning techniques used. "ML" denotes traditional machine learning techniques used. "DL" denotes deep learning techniques used.
 
+<a name="sensing"></a>
 ## 🌡️ Sensing
 
 <a name="motion-sensing"></a>
