@@ -30,12 +30,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 ## 📖 Table of Content
   - [Sensing (Total: 319)](#sensing)
-    - [Motion Sensing (10/7)](#motion-sensing)
-    - [Wireless Sensing (Total: 145)](#wireless-sensing)
-    	- [RFID Sensing (29/5)](#rfid-sensing)
-    	- [Wi-Fi Sensing (55/20)](#wi-fi-sensing)
-    	- [mmWave Sensing (23/13)](#mmwave-sensing)
-    	- [TeraHertz Sensing (2/0)](#teraHertz-sensing)
+    - [Motion Sensing](#motion-sensing)
+    - [Wireless Sensing](#wireless-sensing)
+    	- [RFID Sensing](#rfid-sensing)
+    	- [Wi-Fi Sensing](#wi-fi-sensing)
+    	- [mmWave Sensing](#mmwave-sensing)
+    	- [TeraHertz Sensing](#teraHertz-sensing)
     	- [UWB Sensing (12/2)](#uwb-sensing)
      	- [Cellular Sensing (4/1)](#cellular-sensing)
     	- [LoRa Sensing (4/1)](#lora-sensing)
