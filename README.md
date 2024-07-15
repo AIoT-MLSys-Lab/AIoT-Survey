@@ -192,14 +192,17 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LocAP: Autonomous Millimeter Accurate Mapping of WiFi Infrastructure, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ayyalasomayajula.pdf) (NO ML)
 * Multipath Triangulation: Decimeter-level WiFi Localization and Orientation with a Single Unaided Receiver, MobiSys 18 [[Paper]](https://elahe.web.illinois.edu/Elahe%20Soltan_files/papers/MobiSys18_MonoLoco_CameraReady.pdf) (NO ML)
 * Decimeter-Level Localization with a Single WiFi Access Point, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf) (NO ML)
-
+* LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(NO ML)
 
  
 ##### Imaging
+* Wiffract: A New Foundation for RF Imaging via Edge Tracing, MobiCom 22 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/PallaproluKoranyMostofi_MobiCom2022.pdf) (ML)
 * Wi-Fi See It All: Generative Adversarial Network-augmented Versatile Wi-Fi Imaging, SenSys 20 [[Paper]](https://cse.msu.edu/~caozc/papers/sensys20-chen.pdf) (DL)
+* 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf) (NO ML)
+
 
 ##### 3D Human Reconstruction
-+ Construct 3D Hand Skeleton with Commercial WiFi, SenSys 23 [[Paper]](https://arxiv.org/pdf/2312.15507) (DL)
+* Construct 3D Hand Skeleton with Commercial WiFi, SenSys 23 [[Paper]](https://arxiv.org/pdf/2312.15507) (DL)
 * Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.10957.pdf) (DL)
 * Towards 3D human pose construction using wifi, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~lusu/papers/MobiCom2020.pdf) (DL)
 
@@ -209,38 +212,40 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf) (DL)
 * RF-URL: unsupervised representation learning for RF sensing, MobiCom 22 [[Paper]](http://staff.ustc.edu.cn/~dongheng/dhfiles/rf-url.pdf) (DL)
 * Solving the WiFi Sensing Dilemma in Reality Leveraging Conformal Prediction, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568529) (DL)
-+ Towards Position-Independent Sensing for Gesture Recognition with Wi-Fi, IMWUT 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3463504) (NO ML)
-+ Multi-User Gesture Recognition Using WiFi, MobiSys 18 [[Paper]](https://raghavhv.wordpress.ncsu.edu/files/2018/06/mobisys18-31-hampapur.pdf) (NO ML)
-+ Understanding WiFi signal frequency features for position-independent gesture sensing, IEEE Transactions on Mobile Computing 2022 [[Paper]](https://hal.science/hal-03363402/file/Understanding_WiFi_Signal_Frequency_Features_for_Position-Independent_Gesture_Sensing.pdf) (NO ML)
-+ WiFi-Enabled Smart Human Dynamics Monitoring, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131692) (ML)
-+ HeadScan: A Wearable System for Radio-based Sensing of Head and Mouth-related Activities, IPSN 16 [[Paper]](https://innovationcenter.msu.edu/wp-content/uploads/2021/07/HeadScan-A-Wearable-System-for-Radio-Based-Sensing-of-Head-and-Mouth-Related-Activities-1.pdf) (ML)
-+ BodyScan: Enabling Radio-based Sensing on Wearable Devices for Contactless Activity and Vital Sign Monitoring, MobiSys 16 [[Paper]](https://mi-zhang.github.io/papers/2016_MobiSys_BodyScan.pdf) (ML)
-+ Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340) (ML)
+* Understanding WiFi signal frequency features for position-independent gesture sensing, IEEE Transactions on Mobile Computing 22 [[Paper]](https://hal.science/hal-03363402/file/Understanding_WiFi_Signal_Frequency_Features_for_Position-Independent_Gesture_Sensing.pdf) (NO ML)
+* Towards Position-Independent Sensing for Gesture Recognition with Wi-Fi, IMWUT 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3463504) (NO ML)
+* Multi-User Gesture Recognition Using WiFi, MobiSys 18 [[Paper]](https://raghavhv.wordpress.ncsu.edu/files/2018/06/mobisys18-31-hampapur.pdf) (NO ML)
+* Position and Orientation Agnostic Gesture Recognition Using WiFi, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081340) (ML)
+* WiFi-Enabled Smart Human Dynamics Monitoring, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131692) (ML)
+* HeadScan: A Wearable System for Radio-based Sensing of Head and Mouth-related Activities, IPSN 16 [[Paper]](https://innovationcenter.msu.edu/wp-content/uploads/2021/07/HeadScan-A-Wearable-System-for-Radio-Based-Sensing-of-Head-and-Mouth-Related-Activities-1.pdf) (ML)
+* BodyScan: Enabling Radio-based Sensing on Wearable Devices for Contactless Activity and Vital Sign Monitoring, MobiSys 16 [[Paper]](https://mi-zhang.github.io/papers/2016_MobiSys_BodyScan.pdf) (ML)
+
+
 
 ##### Respiration Monitoring
 * MultiSense: Enabling Multi-person Respiration Sensing with Commodity WiFi, IMWUT 20 [[Paper]](https://hal.science/hal-03363355v1/file/3411816.pdf) (NO ML)
 * FarSense: Pushing the Range Limit of WiFi-based Respiration Sensing with CSI Ratio of Two Antennas, IMWUT 19 [[Ppaper]](https://arxiv.org/pdf/1907.03994) (NO ML)
 
+##### Tracking
+* Tracking from One Side -- Multi-Person Passive Tracking with WiFi Magnitude Measurements, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310399) (NO ML)
+* Toward Reliable Localization by Unequal AoA Tracking, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326103) (NO ML)
+* mD-Track: Leveraging Multi-Dimensionality for Passive Indoor Wi-Fi Tracking, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300133) (ML)
+* Magnitude-Based Angle-of-Arrival Estimation, Localization, and Target Tracking, IPSN 18 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN18_KaranamKoranyMostofi.pdf) (NO ML)
 
+##### Miscellaneous 
 * MUSE-Fi: Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613290) (DL)
 * Next2You: Robust Copresence Detection Based on Channel State Information, SenSys 23 [[Paper]](https://arxiv.org/pdf/2111.05224) (DL)
 * Enabling Ubiquitous Wi-Fi Sensing with Beamforming Reports, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604817) (ML)
 * Exploring Multiple Antennas for Long-range WiFi Sensing, IMWUT 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
-* Wiffract: A New Foundation for RF Imaging via Edge Tracing, MobiCom 22 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/PallaproluKoranyMostofi_MobiCom2022.pdf) (ML)
 * Counting a stationary crowd using off-the-shelf wifi, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468012) (NO ML)
-* Tracking from One Side -- Multi-Person Passive Tracking with WiFi Magnitude Measurements, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310399) (NO ML)
 * Proximity Detection with Single-Antenna IoT Devices, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300120) (NO ML)
-* mD-Track: Leveraging Multi-Dimensionality for Passive Indoor Wi-Fi Tracking, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300133) (ML)
 * On the Feasibility of Wi-Fi Based Material Sensing, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345442) (ML)
-* Toward Reliable Localization by Unequal AoA Tracking, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326103) (NO ML)
 * RF-based Inertial Measurement, SIGCOMM 19 [[Paper]](https://cswu.me/papers/sigcomm19_rim_paper.pdf) (NO ML)
-* Magnitude-Based Angle-of-Arrival Estimation, Localization, and Target Tracking, IPSN 18 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN18_KaranamKoranyMostofi.pdf) (NO ML)
 * LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf) (ML)
 * Verification: Accuracy Evaluation of WiFi Fine Time Measurements on an Open Platform, MobiCom 18 [[Paper]](https://winlab.rutgers.edu/~gruteser/papers/ftm_mobicom.pdf) (NO ML) 
-* 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf) (NO ML)
 * Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
 * WiWho: WiFi-Based Person Identification in Smart Spaces, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460727) (ML)
-* LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(NO ML)
+
 
 <a name="mmwave-sensing"></a>
 #### 🌫️ mmWave Sensing (Total: 23 | No ML(7) | ML(3) | DL(13))
