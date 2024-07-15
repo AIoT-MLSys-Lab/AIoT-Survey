@@ -114,7 +114,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AIoT Systems for Agriculture](#aiot-systems-for-agriculture)
     - [AIoT Systems for Biology](#aiot-systems-for-biology)
     	
-⚡Note: "No ML" denotes no machine learning techniques used. "ML" denotes traditional machine learning techniques used. "DL" denotes deep learning techniques used.
+⚡Note: "No ML" denotes no machine learning techniques are used. "ML" denotes traditional machine learning techniques are used. "DL" denotes deep learning techniques are used. "GenAI" denotes generative AI techniques are used.
 
 <a name="sensing"></a>
 ## 🌡️ Sensing (319)
