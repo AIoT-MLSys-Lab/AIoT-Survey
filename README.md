@@ -258,6 +258,8 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
   
 ##### Human Activity Recognition
+* mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
+* Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613302) (DL)
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf) (DL)
 
 ##### Human Voice Recognition
@@ -272,20 +274,19 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ##### Temperature Monitoring
 * ThermoWave: A New Paradigm of Wireless Passive Temperature Monitoring via mmWave Sensing, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020b.pdf) (DL)
 
-
-
-* Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "Phase Carriers", IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586965) (NO ML)
-* mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
-* Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613302) (DL)
+##### Localization
 * Hawkeye: Hectometer-range Subcentimeter Localization for Large-scale mmWave Backscatter, MobiSys 23 [[Paper]](https://arxiv.org/pdf/2301.02402.pdf) (NO ML)
-* Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625795) (NO ML)
-* RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Xingyu.Chen_SenSys23_RFGen.pdf) (DL)
-* Augmenting mmWave localization accuracy through sub-6 GHz on off-the-shelf devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538920) (NO ML)
-* Dancing Waltz with Ghosts: Measuring Sub-𝑚𝑚-Level 2D Rotor Orbit with a Single mmWave Radar, IPSN 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/GWaltz_IPSN2021.pdf) (ML)
-* Millimetro: mmWave Retro-Reflective Tags for Accurate, Long Range Localization, MobiCom 21 [[Paper]](https://swarunkumar.com/papers/millimetro-mobicom2021.pdf) (NO ML)
-* mmVib: micrometer-level vibration measurement with mmwave radar, MobiCom 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf) (NO ML)
-* Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf) (ML)
 * Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852) (NO ML)
+* Augmenting mmWave localization accuracy through sub-6 GHz on off-the-shelf devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538920) (NO ML)
+* Millimetro: mmWave Retro-Reflective Tags for Accurate, Long Range Localization, MobiCom 21 [[Paper]](https://swarunkumar.com/papers/millimetro-mobicom2021.pdf) (NO ML)
+
+##### Measurement and displacement sensing
+* Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "Phase Carriers", IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586965) (NO ML)
+* mmVib: micrometer-level vibration measurement with mmwave radar, MobiCom 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf) (NO ML)
+* Dancing Waltz with Ghosts: Measuring Sub-𝑚𝑚-Level 2D Rotor Orbit with a Single mmWave Radar, IPSN 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/GWaltz_IPSN2021.pdf) (ML)
++ Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625795) (NO ML)
++ RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Xingyu.Chen_SenSys23_RFGen.pdf) (GenAI)
++ Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf) (ML)
 
 
 <a name="lte-sensing"></a>
