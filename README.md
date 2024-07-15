@@ -406,7 +406,25 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 
 <a name="acoustic-sensing"></a>
 ### 🎵 Acoustic Sensing	(Total: 51 | No ML(24) | ML(10) | DL(17))
+
+#### Localization
 * DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178) (DL)
+* Owlet: enabling spatial information in ubiquitous acoustic devices,	MobiSys	21	[[Paper]](https://www.cs.umd.edu/~nirupam/images/2_publication/papers/Owlet_MobiSys21_nirupam.pdf) (DL)  
+* DeepRange: Acoustic Ranging via Deep Learning, IMWUT 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432195) (DL)
+
+
+#### Movement Tracking
+* RNN-Based Room Scale Hand Motion Tracking, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345439) (DL)
+* VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic Signals, MobiCom 18 [[Paper]](https://cs.nju.edu.cn/lxie/publication/Mobicom2018.pdf) (NO ML)	
+* FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals, SenSys 20 [[Paper]](https://people.cs.umass.edu/~dli/papers/SenSys20_FM-Track.pdf) (NO ML)
+
+
+#### Emotion Recognition
+
+
+#### Keyword Detection
+
+#### 
 * Sequence-Based Device-Free Gesture Recognition Framework for Multi-Channel Acoustic Signals, ICASSP 23 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095790) (DL)
 * Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586954) (NO ML)
 * Meta-Speaker: Acoustic Source Projection by Exploiting Air Nonlinearity, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613279) (NO ML)
@@ -429,20 +447,15 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments, IPSN 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3412382.3458267) (ML)
 * MAVL: Multiresolution Analysis of Voice Localization, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf) (NO ML)
 * Microphone Array Backscatter: An Application-Driven Design for Lightweight Spatial Sound Recording over the Air, MobiCom 21 [[Paper]](https://www2.cs.sfu.ca/~jcliu/Papers/Microphone21.pdf) (NO ML)
-* Owlet: enabling spatial information in ubiquitous acoustic devices,	MobiSys	21	[[Paper]](https://www.cs.umd.edu/~nirupam/images/2_publication/papers/Owlet_MobiSys21_nirupam.pdf) (DL)
-* DeepRange: Acoustic Ranging via Deep Learning, IMWUT 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3432195) (DL)
 * Voice Localization Using Nearby Wall Reflections, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/voloc_mobicom20.pdf) (NO ML)
 * AcuTe: acoustic thermometer empowered by a single smartphone, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430714#:~:text=AcuTe%20empowers%20a%20single%20smartphone,between%20temperature%20and%20sound%20speed.) (NO ML)
 * Symphony: Localizing Multiple Acoustic Sources with a Single Microphone Array, SenSys 20 [[Paper]](https://arxiv.org/pdf/2209.15325.pdf) (NO ML)
-* FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals, SenSys 20 [[Paper]](https://people.cs.umass.edu/~dli/papers/SenSys20_FM-Track.pdf) (NO ML)
 * Your Table Can Be an Input Panel: Acoustic-based Device-Free Interaction Recognition, IMWUT 2019 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3314390) (DL)
 * Mic2Mic: Using Cycle-Consistent Generative Adversarial Networks to Overcome Microphone Variability in Speech Systems, IPSN 19 [[Paper]](https://core.ac.uk/download/pdf/219542364.pdf) (DL)
 * Can a Phone Hear the Shape of a Room?, IPSN 19 [[Paper]](https://users.ece.cmu.edu/~agr/resources/publications/ipsn19-shih.pdf) (ML)
 * Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.02349.pdf) (NO ML)
-* RNN-Based Room Scale Hand Motion Tracking, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345439) (DL)
 * BreathListener: Fine-grained Breathing Monitoring in Driving Environments Utilizing Acoustic Signals, MobiSys 19 [[Paper]](https://www.cs.sjtu.edu.cn/~linghe.kong/2019/XuMOBISYS2019BreathListener.pdf) (DL)
 * A closer look at quality-aware runtime assessment of sensing models in multi-device environments, SenSys 19 [[Paper]](https://akhilmathurs.github.io/papers/min_sensys2019.pdf) (DL)
-* VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic Signals, MobiCom 18 [[Paper]](https://cs.nju.edu.cn/lxie/publication/Mobicom2018.pdf) (NO ML)	
 * Cross-Platform Support for Rapid Development of Mobile Acoustic Sensing Applications, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210312) (ML)
 * Sonoloc: Scalable positioning of commodity mobile devices, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210324) (NO ML)
 * AIM: Acoustic Imaging on a Mobile, MobiSys 18 [[Paper]](https://www.cs.utexas.edu/~meiwang/uploads/8/9/9/1/89919297/aim.pdf) (Best Paper) (NO ML)
