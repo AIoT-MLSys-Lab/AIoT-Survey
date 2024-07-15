@@ -243,29 +243,59 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 <a name="mmwave-sensing"></a>
 #### 🌫️ mmWave Sensing (Total: 23 | No ML(7) | ML(3) | DL(13))
-* Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "Phase Carriers", IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586965) (NO ML)
-* mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
-* Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613302) (DL)
+##### Human Mesh Reconstruction
 * mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596839) (DL)
-* Fusang: Graph-inspired Robust and Accurate Object Recognition on Commodity mmWave Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596849) [[Code]](https://github.com/OpenNISLab/Pro-Fusang) (DL)
-* Hawkeye: Hectometer-range Subcentimeter Localization for Large-scale mmWave Backscatter, MobiSys 23 [[Paper]](https://arxiv.org/pdf/2301.02402.pdf) (NO ML)
-* Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625795) (NO ML)
-* RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Xingyu.Chen_SenSys23_RFGen.pdf) (DL)
-* SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf) (DL)
-* Augmenting mmWave localization accuracy through sub-6 GHz on off-the-shelf devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538920) (NO ML)
 * m3Track: mmWave-based Multi-User 3D Posture Tracking, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538926) (DL)
 * M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects,	SenSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568545) (DL)
 * Synthesized Millimeter-Waves for Human Motion Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568542) (DL)
+* mmMesh: towards 3D real-time dynamic human mesh construction using millimeter-wave, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467679) (DL)
+
+  
+##### Human Activity Recognition
+* SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf) (DL)
+
+##### Human Voice Recognition
+* FerroTag: a paper-based mmWave-scannable tagging infrastructure, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360019) (Best Paper) (ML)
+
+##### Object Recognition
+* Fusang: Graph-inspired Robust and Accurate Object Recognition on Commodity mmWave Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596849) [[Code]](https://github.com/OpenNISLab/Pro-Fusang) (DL)
+
+##### Map Generation
+* See through smoke: robust indoor mapping with low-cost mmWave radar,	MobiSys	20 [[Paper]](https://arxiv.org/pdf/1911.00398.pdf) (DL)
+
+##### Temperature Monitoring
+* ThermoWave: A New Paradigm of Wireless Passive Temperature Monitoring via mmWave Sensing, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020b.pdf) (DL)
+
+
+
+* Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "Phase Carriers", IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586965) (NO ML)
+* mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
+* Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613302) (DL)
+* Hawkeye: Hectometer-range Subcentimeter Localization for Large-scale mmWave Backscatter, MobiSys 23 [[Paper]](https://arxiv.org/pdf/2301.02402.pdf) (NO ML)
+* Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625795) (NO ML)
+* RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Xingyu.Chen_SenSys23_RFGen.pdf) (DL)
+* Augmenting mmWave localization accuracy through sub-6 GHz on off-the-shelf devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538920) (NO ML)
 * Dancing Waltz with Ghosts: Measuring Sub-𝑚𝑚-Level 2D Rotor Orbit with a Single mmWave Radar, IPSN 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/GWaltz_IPSN2021.pdf) (ML)
 * Millimetro: mmWave Retro-Reflective Tags for Accurate, Long Range Localization, MobiCom 21 [[Paper]](https://swarunkumar.com/papers/millimetro-mobicom2021.pdf) (NO ML)
-* mmMesh: towards 3D real-time dynamic human mesh construction using millimeter-wave, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467679) (DL)
-* ThermoWave: A New Paradigm of Wireless Passive Temperature Monitoring via mmWave Sensing, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobicom2020b.pdf) (DL)
 * mmVib: micrometer-level vibration measurement with mmwave radar, MobiCom 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf) (NO ML)
-* See through smoke: robust indoor mapping with low-cost mmWave radar,	MobiSys	20 [[Paper]](https://arxiv.org/pdf/1911.00398.pdf) (DL)
 * Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf) (ML)
-* WaveEar: Exploring a mmWave-based Noise-resistant Speech Sensing for Voice-User Interface, MobiSys 19 [[Paper]](https://www.acsu.buffalo.edu/~huiningl/papers/waveear2019.pdf) (DL)
-* FerroTag: a paper-based mmWave-scannable tagging infrastructure, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360019) (Best Paper) (ML)
 * Accurate 3D Localization for 60 GHz Networks, SenSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3274783.3274852) (NO ML)
+
+
+<a name="lte-sensing"></a>
+#### LTE Sensing (Total: 4 | No ML(3) | ML(0) | DL(1))
+##### Traffic Monitoring
+* LTE-based Pervasive Sensing Across Indoor and Outdoor, Sensys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)
+##### Soil Moisture Monitoring
+LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568525)
+
+<a name="lora-sensing"></a>
+#### LoRa Sensing (Total: 4 | No ML(3) | ML(0) | DL(1))
+* In-Orchard Localization with a Single LoRa Gateway and Generative Model-based Efficient Fingerprinting, MobiSys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661876) (DL)
+* Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (NO ML)
+* Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (NO ML)
+* Combating interference for long range LoRa sensing, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430731) (NO ML)
+
 
 <a name="teraHertz-sensing"></a>
 #### TeraHertz Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
@@ -294,12 +324,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568525) (NO ML)
 * LTE-based Pervasive Sensing Across Indoor and Outdoor, SenSys	21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943) (NO ML)
 
-<a name="lora-sensing"></a>
-#### LoRa Sensing (Total: 4 | No ML(3) | ML(0) | DL(1))
-* In-Orchard Localization with a Single LoRa Gateway and Generative Model-based Efficient Fingerprinting, MobiSys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661876) (DL)
-* Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (NO ML)
-* Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (NO ML)
-* Combating interference for long range LoRa sensing, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430731) (NO ML)
 
 <a name="bluetooth-sensing"></a>
 #### Bluetooth Sensing (Total: 5 | No ML(2) | ML(1) | DL(2))
