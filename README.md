@@ -1454,7 +1454,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Ultra-Low Power Gaze Tracking for Virtual Reality, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131682) (ML)
 * FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (NO ML)
 
-### AIoT Systems for Drones (Total: 25 | No ML(20) | ML(1) | DL(3))
+### AIoT Systems for Drones (Total: 25 | No ML(21) | ML(1) | DL(3))
 <a name="aiot-systems-for-drones"></a>
 * Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields,MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613292) (NO ML)
 * BatMobility: Towards Flying Without Seeing for Autonomous Drones, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2307.11518.pdf) (DL)
@@ -1466,7 +1466,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Reverse Engineering and Retrofitting Robotic Aerial Vehicle Control Firmware using DisPatch, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538938) (NO ML)
 * AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking, SenSys 22 [[Paper]](https://mottola.faculty.polimi.it/papers/sun22aim.pdf) (NO ML)
 * MicNest: Long-Range Instant Acoustic Localization of Drones in Precise Landing, SenSys 22 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2022.MicNest.pdf) (Best Paper Runner-up Award) (NO ML)
-* Throughput-Fairness Tradeoffs in Mobility Platforms, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467881)
+* Throughput-Fairness Tradeoffs in Mobility Platforms, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467881) (NO ML)
 * Quantifying the Design-Space Tradeoffs in Autonomous Drones, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446721) (NO ML)
 * Visage: Enabling Timely Analytics for Drone Imagery, MobiCom 21 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/Visage_Mobicom_2021.pdf) (DL)
 * Bleep: motor-enabled audio side-channel for constrained UAVs, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419183) (NO ML)
@@ -1482,14 +1482,14 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Argus: Realistic Target Coverage by Drones, IPSN 17 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3055031.3055078) (NO ML)
 * Reactive Control of Autonomous Drones, MobiSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2906388.2906410) (NO ML) (Best Paper) 
 
-### 🛰️ AIoT Systems for Satellites (Total: 7 | No ML() | ML() | DL())
+### 🛰️ AIoT Systems for Satellites (Total: 7 | No ML(6) | ML(0) | DL(1))
 <a name="aiot-systems-for-satellites"></a>
 * Global Localization of Energy-Constrained Miniature RF Emitters using Low Earth Orbit Satellites, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625794) (NO ML)
 * A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592519) (NO ML)
 * Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592521) (NO ML)
 * PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613257) (NO ML)
 * GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2304.07572.pdf) (NO ML)
-* SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf)
+* SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf) (DL)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (NO ML)
 
 ### 🌾 AIoT Systems for Agriculture (Total: 12 | No ML(9) | ML(2) | DL(1))
