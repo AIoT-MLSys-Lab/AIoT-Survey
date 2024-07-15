@@ -764,7 +764,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ## Networking and Communication (338)
 
 <a name="user-content-battery"></a>
-### 🔋 Battery (226)
+### 🔋 Battery (200)
 <a name="user-content-cellular"></a>
 #### 📶 Cellular (Total: 48 | No ML(37) | ML(4) | DL(7)
 * iCellular: Device-Customized Cellular Network Access on Commodity Smartphones, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-li-yuanjie.pdf) (NO ML)
@@ -966,7 +966,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 #### SDR (Total: 7 | No ML(7) | ML(0) | DL(0))
 * The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf)(NO ML) (Best Community Paper Award)
 * SparSDR: Sparsity-proportional Backhaul and Compute for SDRs, MobiSys 19 [[Paper]](http://people.csail.mit.edu/moein/papers/sparsdr-mobisys19.pdf) (NO ML)
-* * Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf) (NO ML)(supports multiple objectives)
+* Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf) (NO ML)(supports multiple objectives)
 * SDR receiver using commodity wifi via physical-layer signal reconstruction, MobiCom 20 [[Paper]](https://seit.egr.msu.edu/paper/Mobicom2020-SDRLite.pdf)（No ML）（introduces a device identification application using DL）
 * TinySDR: Low-Power SDR Platform for Over-the-Air Programmable IoT Testbeds, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/hessar) (NO ML)
 * TyrLoc: a low-cost multi-technology MIMO localization system with a single RF chain,	MobiSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3458864.3467677)	(NO ML)
@@ -1000,7 +1000,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 <a name="user-content-other-multi-band"></a>
-##### Multi-band Operation (Total: 4 | No ML(4) | ML(0) | DL(0))
+#### Multi-band Operation (Total: 4 | No ML(4) | ML(0) | DL(0))
 * An In-depth Understanding of Multipath TCP on Mobile Devices: Measurement and System Design, MobiCom 16 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/multipath_mobicom16.pdf) (NO ML)
 * MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs, MobiCom 19 [[Paper]](https://cse.buffalo.edu/faculty/dimitrio/publications/mobicom19.pdf) (NO ML)
 * MPBond: Efficient Network-level Collaboration Among Personal Mobile Devices, MobiSys 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mpbond_mobisys20.pdf) (NO ML)
