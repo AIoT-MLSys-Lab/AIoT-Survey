@@ -1177,6 +1177,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Industrial Knee-jerk: In-Network Simultaneous Planning and Control on a TSN Switch, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596836) (DL)
 * Softly, Deftly, Scrolls Unfurl Their Splendor: Rolling Flexible Surfaces for Wideband Wireless, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592520) (NO ML)
 
+<a name="domain-specific-aiot-systems"></a>
 ## Domain-specific AIoT Systems (256)
 							
 ### 🩺 AIoT Systems for Healthcare and Well-being ()
