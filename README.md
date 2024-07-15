@@ -77,7 +77,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Model Deployment on the Edge](#model-deployment-on-the-edge)
     - [Compilers for AIoT](#compilers-for-aiot)
     - [AI Agents for AIoT](#ai-agents-for-aiot)
-  - [Networking and Communication (Total: 338)](#networking-and-communication)
+  - [Networking and Communication (Total: 337)](#networking-and-communication)
     - [Battery](#user-content-battery)
       - [Cellular](#user-content-cellular)
       - [WiFi](#user-content-wifi)
@@ -761,7 +761,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 
 <a name="networking-and-communication"></a>
-## Networking and Communication (338)
+## Networking and Communication (337)
 
 <a name="user-content-battery"></a>
 ### 🔋 Battery (225)
