@@ -182,16 +182,17 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 ##### Indoor Localization
 * Understanding Localization by a Tailored GPT, Mobisys 24[[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661869) (DL)
-* Deep learning based wireless localization for indoor navigation, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380894) (DL)
-+ BIFROST: Reinventing WiFi Signals Based on Dispersion Effect for Accurate Indoor Localization, SensSys 23 [[Paper]](https://wangwg1996.github.io/files/PDF/BIFROST_conf.pdf) (NO ML)
-+ RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625806) (NO ML)
-+ Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, IMWUT 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
-+ Experience: pushing indoor localization from laboratory to the wild, MobiCom 22  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (Best Community Contribution Runner-ups) (DL)
-+ Accurate Ubiquitous Localization with Off-the-Shelf IEEE 802.11ac Devices, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468850) (NO ML)
-+ LocAP: Autonomous Millimeter Accurate Mapping of WiFi Infrastructure, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ayyalasomayajula.pdf) (NO ML)
-+ Multipath Triangulation: Decimeter-level WiFi Localization and Orientation with a Single Unaided Receiver, MobiSys 18 [[Paper]](https://elahe.web.illinois.edu/Elahe%20Soltan_files/papers/MobiSys18_MonoLoco_CameraReady.pdf) (NO ML)
-+ Decimeter-Level Localization with a Single WiFi Access Point, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf) (NO ML)
+* BIFROST: Reinventing WiFi Signals Based on Dispersion Effect for Accurate Indoor Localization, SensSys 23 [[Paper]](https://wangwg1996.github.io/files/PDF/BIFROST_conf.pdf) (NO ML)
+* RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625806) (NO ML)
+* Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, IMWUT 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (NO ML)
+* Experience: pushing indoor localization from laboratory to the wild, MobiCom 22  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560546) (Best Community Contribution Runner-ups) (DL)
+* Accurate Ubiquitous Localization with Off-the-Shelf IEEE 802.11ac Devices, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3468850) (NO ML)
 * WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-gupta.pdf) (NO ML)
+* Deep learning based wireless localization for indoor navigation, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380894) (DL)
+* LocAP: Autonomous Millimeter Accurate Mapping of WiFi Infrastructure, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ayyalasomayajula.pdf) (NO ML)
+* Multipath Triangulation: Decimeter-level WiFi Localization and Orientation with a Single Unaided Receiver, MobiSys 18 [[Paper]](https://elahe.web.illinois.edu/Elahe%20Soltan_files/papers/MobiSys18_MonoLoco_CameraReady.pdf) (NO ML)
+* Decimeter-Level Localization with a Single WiFi Access Point, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf) (NO ML)
+
 
  
 ##### Imaging
