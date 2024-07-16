@@ -101,7 +101,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
       - [Visible Light](#user-content-visible-Light-1)
       - [Acoustic](#user-content-acoustic-1)
       - [...](#user-content-other-batteryless-works)
-    - [Hybrid](#hybrid)
     - [Others](#na) 
   - [Domain-specific AIoT Systems (Total: 256)](#domain-specific-aiot-systems)
     - [AIoT Systems for Healthcare and Well-being](#aiot-systems-for-healthcare-and-well-being)
@@ -1248,11 +1247,6 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * SmartShell: A Near-Field Reflective Surface Enhancing RSS, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596866) (NO ML)
 * DeepGANTT: A Scalable Deep Learning Scheduler for Backscatter Networks, IPSN 23 [[Paper]](https://arxiv.org/pdf/2112.12985.pdf)(DL)
 * RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-xinyi.pdf) (NO ML)
-
-<a name="hybrid"></a>
-### Hybrid (Total: 2 | No ML(2) | ML(0) | DL(0))
-* Braidio: An Integrated Active-Passive Radio for Mobile Devices with Asymmetric Energy Budgets, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934902) (NO ML)
-* Polymorphic radios: A new design paradigm for ultra-low power communication, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230571)(NO ML) (strawman solution that connects BLE with WISP)
 
 <a name="na"></a>
 ### NA (Total: 9 | No ML(6) | ML(0) | DL(3))
