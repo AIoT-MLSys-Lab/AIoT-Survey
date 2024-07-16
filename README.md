@@ -75,7 +75,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
         - [Client Selection](#client-selection)
       	- [Model Heterogeneity](#model-heterogeneity)
        	- [Frameworks and Benchmarks](#frameworks-and-benchmarks)
-    - [Model Deployment on the Edge](#model-deployment-on-the-edge)
     - [Compilers for AIoT](#compilers-for-aiot)
     - [AI Agents for AIoT](#ai-agents-for-aiot)
   - [Networking and Communication (Total: 337)](#networking-and-communication)
@@ -814,13 +813,6 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, ICML 22 [[Paper]](https://openreview.net/forum?id=LZ5cx2yismf)
 * FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks, Arxiv 21 [[Paper]](https://arxiv.org/pdf/2111.11066.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fedcv)
 * FedML: A Research Library and Benchmark for Federated Machine Learning, Arxiv 20 [[Paper]](https://arxiv.org/abs/2007.13518)
-
-
-
-									
-### Model Deployment on the Edge
-* ML-EXray: Visibility into ML Deployment on the Edge, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)
-* GPUReplay: a 50-KB GPU stack for client ML, ASPLOS 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507754)	
 																				
 ### Automated Machine Learning for AIoT
 * HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596845)
