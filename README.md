@@ -790,7 +790,7 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * Distributed learning of fully connected neural networks using independent subnet training, VLDB 22 [[Paper]](https://dl.acm.org/doi/10.14778/3529337.3529343)
 * Personalized Federated Learning by Structured and Unstructured Pruning under Data Heterogeneity, ICDCSW 21 [[Paper]](https://ieeexplore.ieee.org/document/9545941)
 * FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition, SenSys 21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)	
-
+* AttFL: A Personalized Federated Learning Framework for Time-series Mobile and Embedded Sensor Data Processing, IMWUT 2024
 ##### Client Selection
 * REFL: Resource-Efficient Federated Learning, EuroSys 23 [[Paper]](https://arxiv.org/pdf/2111.01108.pdf)
 * PyramidFL: a fine-grained client selection framework for efficient federated learning, MobiCom 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)
