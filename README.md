@@ -460,7 +460,7 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf) (ML)
 
 
-#### 
+####  Miscellaneous Topics
 * PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones, MobiCom 23 [[Paper]](https://people.cs.umass.edu/~dli/papers/Mobicom23_PowerPhone.pdf) (DL)
 * VeCare: Statistical Acoustic Sensing for Automotive In-Cabin Monitoring, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yi.pdf) (NO ML)
 * Acoustic Sensing and Communication Using Metasurface, NSDI 23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf) (NO ML)
@@ -521,7 +521,7 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels, SenSys 23 [[Paper]](https://arxiv.org/pdf/2404.01958) (DL)
 
 
-
+#### Miscellaneous Topics
 * Physics-Informed Data Denoising for Real-Life Sensing Systems, Sensys 23 [[Paper]](https://arxiv.org/pdf/2311.06968) (DL)
 * SudokuSens: Enhancing Deep Learning Robustness for IoT Sensing Applications using a Generative Approach, SenSys 23 [[Paper]](https://arxiv.org/pdf/2402.02275) (DL)
 * MiLTOn: Sensing Product Integrity without Opening the Box using Non-Invasive Acoustic Vibrometry, IPSN 22 [[Paper]](https://swarunkumar.com/papers/milton-ipsn2022.pdf) (ML)
@@ -555,7 +555,7 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * Personalizing Head Related Transfer Functions for Earables, SIGCOMM 21 [[Paper]](https://synrg.csl.illinois.edu/papers/UNIQ_Sigcomm21.pdf) (NO ML)
 
 
-
+#### Miscellaneous Topics
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, IMWUT 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314) (Survey)
 * HeadFi: bringing intelligence to all headphones, MobiCom 21	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448624) (Best Paper Award Runner-up) (ML) 
