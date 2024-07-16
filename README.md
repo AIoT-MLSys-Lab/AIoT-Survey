@@ -287,9 +287,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "Phase Carriers", IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586965) (NO ML)
 * mmVib: micrometer-level vibration measurement with mmwave radar, MobiCom 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf) (NO ML)
 * Dancing Waltz with Ghosts: Measuring Sub-𝑚𝑚-Level 2D Rotor Orbit with a Single mmWave Radar, IPSN 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/GWaltz_IPSN2021.pdf) (ML)
-+ Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625795) (NO ML)
-+ RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Xingyu.Chen_SenSys23_RFGen.pdf) (GenAI)
-+ Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf) (ML)
+
+#### Miscellaneous Topics
+* Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625795) (NO ML)
+* RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Xingyu.Chen_SenSys23_RFGen.pdf) (GenAI)
+* Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf) (ML)
 
 
 <a name="lte-sensing"></a>
@@ -424,16 +426,19 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 
 
 #### Movement Tracking
+* Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586954) (NO ML)
 * SVoice: Enabling Voice Communication in Silence via Acoustic Sensing on Commodity Devices, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568530) (DL)
 * Experience: practical problems for acoustic sensing,	MobiCom	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560527)(NO ML)
+* Enabling Contact-free Acoustic Sensing under Device Motion,	IMWUT	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3550329)(NO ML)
+* MagicInput: Training-free Multi-lingual Finger Input System using Data Augmentation based on MNISTs, ISPN 21 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/assets/publications/ipsn21_pan.pdf)	(ML)
 * FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals, SenSys 20 [[Paper]](https://people.cs.umass.edu/~dli/papers/SenSys20_FM-Track.pdf) (NO ML)
 * RNN-Based Room Scale Hand Motion Tracking, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345439) (DL)
 * Your Table Can Be an Input Panel: Acoustic-based Device-Free Interaction Recognition, IMWUT 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3314390) (DL)
 * BreathListener: Fine-grained Breathing Monitoring in Driving Environments Utilizing Acoustic Signals, MobiSys 19 [[Paper]](https://www.cs.sjtu.edu.cn/~linghe.kong/2019/XuMOBISYS2019BreathListener.pdf) (DL)
+* Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.02349.pdf) (NO ML)
 * VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic Signals, MobiCom 18 [[Paper]](https://cs.nju.edu.cn/lxie/publication/Mobicom2018.pdf) (NO ML)
-* Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586954) (NO ML)
-* CAT: High-Precision Acoustic Motion Tracking, MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973755) (NO ML)
 * Strata: Fine-Grained Acoustic-based Device-Free Tracking, MobiSys 17 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobisys17_strata.pdf) (NO ML) (Also VR/AR)
+* CAT: High-Precision Acoustic Motion Tracking, MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973755) (NO ML)
 
 
 #### Emotion Recognition
@@ -464,17 +469,14 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones, MobiCom 23 [[Paper]](https://people.cs.umass.edu/~dli/papers/Mobicom23_PowerPhone.pdf) (DL)
 * VeCare: Statistical Acoustic Sensing for Automotive In-Cabin Monitoring, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yi.pdf) (NO ML)
 * Acoustic Sensing and Communication Using Metasurface, NSDI 23	[[Paper]](https://www.usenix.org/system/files/nsdi23-zhang-yongzhao.pdf) (NO ML)
-* Enabling Contact-free Acoustic Sensing under Device Motion,	IMWUT	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3550329)(NO ML)	
 * AvA: An Adaptive Audio Filtering Architecture for Enhancing Mobile, Embedded, and Cyber-Physical Systems, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a106/962400a106.pdf) (ML)
 * SPiDR: ultra-low-power acoustic spatial sensing for micro-robot navigation,	MobiSys	22	[[Paper]](https://www.cs.umd.edu/~nakul/assets/papers/spidr_mobisys2022_nakul.pdf) (NO ML) (Best Paper)
 * SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification, SenSys 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568534) (DL)
 * SpeechQoE: A Novel Personalized QoE Assessment Model for Voice Services via Speech Sensing, SenSys 22 [[Paper]](https://ranger.uta.edu/~mingli/publications/SpeechQoE.pdf) (DL)
-* MagicInput: Training-free Multi-lingual Finger Input System using Data Augmentation based on MNISTs, ISPN 21 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/assets/publications/ipsn21_pan.pdf)	(ML)
 * Sound-Adapter: Multi-Source Domain Adaptation for Acoustic Classification Through Domain Discovery, IPSN 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3412382.3458265) (DL)
 * CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments, IPSN 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3412382.3458267) (ML)
 * Microphone Array Backscatter: An Application-Driven Design for Lightweight Spatial Sound Recording over the Air, MobiCom 21 [[Paper]](https://www2.cs.sfu.ca/~jcliu/Papers/Microphone21.pdf) (NO ML)
 * AcuTe: acoustic thermometer empowered by a single smartphone, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430714#:~:text=AcuTe%20empowers%20a%20single%20smartphone,between%20temperature%20and%20sound%20speed.) (NO ML)
-* Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.02349.pdf) (NO ML)
 * Cross-Platform Support for Rapid Development of Mobile Acoustic Sensing Applications, MobiSys 18 [[Paper]](https://dl.acm.org/doi/10.1145/3210240.3210312) (ML)
 * Sonoloc: Scalable positioning of commodity mobile devices, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210324) (NO ML)
 * AIM: Acoustic Imaging on a Mobile, MobiSys 18 [[Paper]](https://www.cs.utexas.edu/~meiwang/uploads/8/9/9/1/89919297/aim.pdf) (Best Paper) (NO ML)
@@ -495,6 +497,7 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 
 #### Tracking
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586958) (DL)
+* ITrackU: tracking a pen-like instrument via UWB-IMU fusion, MobiSys 21 [[Paper]](https://faculty.cc.gatech.edu/~dhekne/itracku_mobisys2021.pdf) (NO ML)		
 * milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion,	SenSys	20	[[Paper]](https://arxiv.org/pdf/2006.02266.pdf) (DL)
 * BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131689) (ML)
 
@@ -503,6 +506,7 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf) (DL)
 * RFusion: Robotic Grasping via RF-Visual Sensing and Learning, SenSys 21 [[Paper]](https://www.mit.edu/~fadel/papers/RFusion-paper.pdf) (DL)
 * The Wisdom of 1,170 Teams: Lessons and Experiences from a Large Indoor Localization Competition, MobiCom 23 [[Paper]](https://yshu.org/paper/mobicom23comp.pdf) (DL) (Best Community Contributions Award)
+* BatMapper: Acoustic Sensing Based Indoor Floor Plan Construction Using Smartphones, MobiSys 17 [[Paper]](https://zhoubinwy.github.io/pdf/batmapper.pdf)(NO ML)
 * Indoor localization via multi-modal sensing on smartphones, UbiComp	16	[[Paper]](https://dl.acm.org/doi/abs/10.1145/2971648.2971668) (ML)
 
 #### Speech Enhancement 
@@ -526,14 +530,12 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * SudokuSens: Enhancing Deep Learning Robustness for IoT Sensing Applications using a Generative Approach, SenSys 23 [[Paper]](https://arxiv.org/pdf/2402.02275) (DL)
 * MiLTOn: Sensing Product Integrity without Opening the Box using Non-Invasive Acoustic Vibrometry, IPSN 22 [[Paper]](https://swarunkumar.com/papers/milton-ipsn2022.pdf) (ML)
 * Motion inspires notion: self-supervised visual-LiDAR fusion for environment depth estimation, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538918) (DL)
-* ITrackU: tracking a pen-like instrument via UWB-IMU fusion, MobiSys 21 [[Paper]](https://faculty.cc.gatech.edu/~dhekne/itracku_mobisys2021.pdf) (NO ML)		
 * UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485942) (DL)
 * SmrtFridge: IoT-based,  user interaction-driven food item & quantity sensing,	SenSys 19 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5649&context=sis_research) (DL)
 * CrowdEstimator: Approximating Crowd Sizes with Multi-modal Data for Internet-of-Things Services, MobiSys 18 [[Paper]](https://arxiv.org/pdf/1909.13673.pdf) (ML)	
 * EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274847)(ML)
 * EngageMon: Multi-Modal Engagement Sensing for Mobile Games, UbiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3191745) (ML)
 * Bringing IoT to Sports Analytics, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-gowda.pdf) (NO ML)
-* BatMapper: Acoustic Sensing Based Indoor Floor Plan Construction Using Smartphones, MobiSys 17 [[Paper]](https://zhoubinwy.github.io/pdf/batmapper.pdf)(NO ML)
 * Non-Intrusive Multi-Modal Estimation of Building Occupancy, SenSys 17 [[Paper]](http://www.phpathak.com/files/occupancy-sensys.pdf) (ML)
 * Sensor-assisted Face Recognition System on Smart Glass via Multi-view Sparse Representation Classification, IPSN 16 [[Paper]](https://www.cse.unsw.edu.au/~wenh/xu_ipsn_20162.pdf) (ML)
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf) (ML)
@@ -547,6 +549,7 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 #### User Identification
 * EarGate: Gait-based User Identification with In-ear Microphones, MobiCom 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3483240) (DL)
 * MandiPass: Secure and Usable User Authentication via Earphone IMU, IEEE Transactions on Mobile Computing 2021 [[Paper]](https://ieeexplore.ieee.org/document/9546415) (DL)
+* HeadFi: bringing intelligence to all headphones, MobiCom 21	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448624) (Best Paper Award Runner-up) (ML) 
 
 #### Sound Localization
 * DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178) (DL)
@@ -554,11 +557,13 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * Individualizing Head Related Transfer Functions for Binaural Acoustic Applications, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.11138.pdf) (DL)
 * Personalizing Head Related Transfer Functions for Earables, SIGCOMM 21 [[Paper]](https://synrg.csl.illinois.edu/papers/UNIQ_Sigcomm21.pdf) (NO ML)
 
+#### Noise Cancellation
+* WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
+* MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (NO ML)
+
 
 #### Miscellaneous Topics
-* WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, IMWUT 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314) (Survey)
-* HeadFi: bringing intelligence to all headphones, MobiCom 21	[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447993.3448624) (Best Paper Award Runner-up) (ML) 
 * OESense: employing occlusion effect for in-ear human sensing, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467680) (ML)
 * Ear-AR: indoor acoustic augmented reality on earphones, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/ear-ar_mobicom20.pdf) (ML)
 * EarSense: Earphones as a Teeth Activity Sensor, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/earsense_mobicom20.pdf) (NO ML)
@@ -566,7 +571,6 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * EarphoneTrack: involving earphones into the ecosystem of acoustic motion tracking, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430730) (NO ML)
 * ERICA: Enabling Real-time Mistake Detection & Corrective Feedback for Free-Weights Exercises, SenSys 20 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6897&context=sis_research) (ML)
 * TYTH-Typing On Your Teeth: Tongue-Teeth Localization for Human-Computer Interface, MobiSys 18 [[Paper]](http://mnslab.org/tamvu/paper/2018%20TYTH_Phuc.pdf) (ML)
-* MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (NO ML)
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML)
 
 <a name="light-sensing"></a>
