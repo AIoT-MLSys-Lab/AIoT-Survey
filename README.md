@@ -295,7 +295,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 <a name="lte-sensing"></a>
-#### LTE Sensing (Total: 4 | No ML(3) | ML(0) | DL(1))
+#### LTE Sensing (Total: 2)
 ##### Traffic Monitoring
 * LTE-based Pervasive Sensing Across Indoor and Outdoor, Sensys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)
 ##### Soil Moisture Monitoring
