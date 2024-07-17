@@ -37,7 +37,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	- [mmWave Sensing](#mmwave-sensing)
        	- [LTE Sensing](#lte-sensing)
        	- [LoRa Sensing](#lora-sensing)
-	- [TeraHertz Sensing](#teraHertz-sensing)
+       	- [TeraHertz Sensing](#teraHertz-sensing)
     	- [UWB Sensing](#uwb-sensing)
     	- [Bluetooth Sensing](#bluetooth-sensing)
      	- [Aerial Sensing](#ariel-sensing)
