@@ -35,11 +35,10 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	- [RFID Sensing](#rfid-sensing)
     	- [Wi-Fi Sensing](#wi-fi-sensing)
     	- [mmWave Sensing](#mmwave-sensing)
-    	- [TeraHertz Sensing](#teraHertz-sensing)
-    	- [UWB Sensing](#uwb-sensing)
-     	- [Cellular Sensing](#cellular-sensing)
     	- [LoRa Sensing](#lora-sensing)
        	- [LTE Sensing](#lte-sensing)
+       	- [TeraHertz Sensing](#teraHertz-sensing)
+    	- [UWB Sensing](#uwb-sensing)
     	- [Bluetooth Sensing](#bluetooth-sensing)
      	- [Aerial Sensing](#ariel-sensing)
       	- [NFC Sensing](#nfc-sensing)
@@ -295,12 +294,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 <a name="lte-sensing"></a>
-#### LTE Sensing (Total: 2)
-##### Traffic Monitoring
+#### LTE Sensing (Total: 4)
+* Experience: Large-scale Cellular Localization for Pickup Position Recommendation at Black-hole, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613298) (DL)
+* LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568525)
+* Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
 * LTE-based Pervasive Sensing Across Indoor and Outdoor, Sensys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)
-##### Soil Moisture Monitoring
-LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568525)
-
+  
 <a name="lora-sensing"></a>
 #### LoRa Sensing (Total: 4 | No ML(3) | ML(0) | DL(1))
 * In-Orchard Localization with a Single LoRa Gateway and Generative Model-based Efficient Fingerprinting, MobiSys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661876) (DL)
@@ -329,11 +328,6 @@ LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](http
 * Calibration-Free Network Localization using Non-Line-of-Sight Ultra-Wideband Measurements, IPSN 17 [[Paper]](https://web.eecs.umich.edu/~prabal/pubs/papers/di_franco17nlos.pdf) (ML)
 * SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization, SenSys 16 [[Paper]](https://patpannuto.com/pubs/kempke16surepoint.pdf) (NO ML)
 * Harmonium: Asymmetric, Bandstitched UWB for Fast, Accurate, and Robust Indoor Localization, IPSN 16 [[Paper]](https://patpannuto.com/pubs/kempke16harmonium.pdf) (NO ML)
-
-<a name="cellular-sensing"></a>
-#### Cellular Sensing (Total: 4 | No ML(3) | ML(0) | DL(1))
-* Experience: Large-scale Cellular Localization for Pickup Position Recommendation at Black-hole, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613298) (DL)
-* Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
 
 
 <a name="bluetooth-sensing"></a>
