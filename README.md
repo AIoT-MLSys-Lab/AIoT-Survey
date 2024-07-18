@@ -1440,13 +1440,17 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Ghost-Probe: NLOS Pedestrian Rushing Detection with Monocular Camera for Automated Driving, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625791) (DL)
 * Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors, MobiCom 23 [[Paper]](https://ry4nzhu.github.io/publication/robust_real_time/robust_real_time.pdf) (DL)
 * AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592517) (DL) (also federated learning)
+* Mosaic: leveraging diverse reflector geometries for omnidirectional around-corner automotive radar, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538944) (NO ML)
 * AutoMatch: Leveraging Traffic Camera to Improve Perception and Localization of Autonomous Vehicles, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/AutoMatch-SenSys22.pdf) (DL)
 * VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, MobiCom 22 [[Paper]](https://yanzhenyu.com/assets/pdf/VIPS-MobiCom22.pdf) (Best Paper Award Runner-ups) (DL)
 * AutoCast: scalable infrastructure-less cooperative perception for distributed collaborative driving, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538925) (NO ML)
 * EMP: Edge-assisted Multi-vehicle Perception, MobiCom 21 [[Paper]](https://xiaoshawnzhu.github.io/emp-mobicom21.pdf) (DL)
 * VI-Eye: Semantic-based 3D Point Cloud Registration for Infrastructure-assisted Autonomous Driving, MobiCom 20 [[Paper]](https://aiot.ie.cuhk.edu.hk/papers/VI_Eye.pdf) (DL)
+* Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach, MobiCom 20 [[Paper]](https://soar.group/pubs/RetroI2V.MobiCom20.pdf) (NO ML)
 * Pointillism: Accurate 3D Bounding Box Estimation with Multi-Radars, SenSys 20 [[Paper]](https://wcsng.ucsd.edu/files/Pointillism_paper.pdf) [[code]](https://github.com/Kshitizbansal/pointillism-multi-radar-data) (DL)
 * SmartDashCam: Automatic Live Calibration for DashCams, IPSN 19 [[Paper]](http://web.cse.ohio-state.edu/~sinha.43/publications/conf/ipsn19-smartdashcam.pdf) (NO ML)
+* AVR: Augmented Vehicular Reality, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210319) (Best Paper Runner-Up) (NO ML)
+* Object Recognition and Navigation using a Single Networking Device, MobiSys 17 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/60gradar-mobisys17.pdf) (NO ML)
 
 
 #### Localization, Tracking, and Mapping (Total:  | No ML() | ML() | DL())
@@ -1456,36 +1460,30 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Large-Scale Vehicle Trajectory Reconstruction with Camera Sensing Network, MobiCom 21 [[Paper]](https://wands.sg/publications/full_list/papers/MobiCom_21_1.pdf) (DL)
 * Wi-Go: Accurate and Scalable Vehicle Positioning using WiFi Fine Timing Measurement, MobiSys 20 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/3386901.3388944.pdf) (NO ML)
 * CarMap: Fast 3D Feature Map Updates for Automobiles, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-ahmad.pdf) (DL)
+* VeMo: Enabling Transparent Vehicular Mobility Modeling at Individual Levels with Full Penetration, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300130) (ML)
 * Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300132) (NO ML)
 * The Architectural Implications of Autonomous Driving: Constraints and Acceleration, ASPLOS 18 [[Paper]](https://people.computing.clemson.edu/~jmarty/projects/lowLatencyNetworking/papers/EmergingApplicationSystems/AutonomousVehicles/AutonomousCarConstraints.pdf) (DL)
+* EXIMIUS: A Measurement Framework for Explicit and Implicit Urban Traffic Sensing, SenSys 18 [[Paper]](https://people.cs.rutgers.edu/~dz220/paper/Eximius.pdf) (NO ML)
 
 
 #### Automatic Testing (Total:  | No ML() | ML() | DL())
 * Automatic Unusual Driving Event Identification for Dependable Self-Driving, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274838) (DL)
+* Sentio: Driver-in-the-Loop Forward Collision Warning Using Multisample Reinforcement Learning, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274843) (ML)
 * BigRoad: Scaling Road Data Acquisition for Dependable Self-Driving, MobiSys 17 [[Paper]](https://personal.stevens.edu/~ychen6/papers/mobisys17-BigRoad.pdf) (DL)
 
 #### Control and Actuation (Total:  | No ML() | ML() | DL())
 * Eagle: End-to-end Deep Reinforcement Learning based Autonomous Control of PTZ Cameras, IoTDI 23 [[Paper]](https://dl.acm.org/doi/10.1145/3576842.3582366)
 
-#### V2V Communication (temp)_
+#### Vehicular Networking
 * mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613291) (DL)
 * RoS: Passive Smart Surface for Roadside-to-Vehicle Communication, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472896.pdf) (NO ML)
 * Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419208) (NO ML)
-
-
-#### 
-* Mosaic: leveraging diverse reflector geometries for omnidirectional around-corner automotive radar, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538944) (NO ML)
-* Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach, MobiCom 20 [[Paper]](https://soar.group/pubs/RetroI2V.MobiCom20.pdf) (NO ML)
-* VeMo: Enabling Transparent Vehicular Mobility Modeling at Individual Levels with Full Penetration, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300130) (ML)
-* Diagnosing Vehicles with Automotive Batteries, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300126) (ML)
-* Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300132) (NO ML)
 * RAVEN: Improving Interactive Latency for the Connected Car, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241571) (NO ML)
-* CoReCast: Collision Resilient Broadcasting in Vehicular Networks, MobiSys 18 [[Paper]](http://web.cse.ohio-state.edu/~sinha.43/publications/conf/mobisys17-corecast.pdf) (NO ML)
-* AVR: Augmented Vehicular Reality, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210319) (Best Paper Runner-Up) (NO ML)
-* Sentio: Driver-in-the-Loop Forward Collision Warning Using Multisample Reinforcement Learning, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274843) (ML)
-* EXIMIUS: A Measurement Framework for Explicit and Implicit Urban Traffic Sensing, SenSys 18 [[Paper]](https://people.cs.rutgers.edu/~dz220/paper/Eximius.pdf) (NO ML)
-* Object Recognition and Navigation using a Single Networking Device, MobiSys 17 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/60gradar-mobisys17.pdf) (NO ML)
+* CoReCast: Collision Resilient Broadcasting in Vehicular Networks, MobiSys 18 [[Paper]](https://abaxi.github.io/pdfs/corecast_paper.pdf) (NO ML)
 * Experience: Accurate Simulation of Dense Scenarios with Hundreds of Vehicular Transmitters, MobiCom 16 [[Paper]](https://www.winlab.rutgers.edu/~cb3974/publication_pdf/Experience_Simulation_MobiCom_2016.pdf)(NO ML)
+
+* Diagnosing Vehicles with Automotive Batteries, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300126) (ML)
+
 
 ### 🥽 AIoT Systems for AR/VR/MR (Total:  | No ML() | ML() | DL())
 <a name="aiot-systems-for-arvrmr"></a>
