@@ -1464,6 +1464,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 #### Automatic Testing (Total:  | No ML() | ML() | DL())
+* Diagnosing Vehicles with Automotive Batteries, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300126) (ML)
 * Automatic Unusual Driving Event Identification for Dependable Self-Driving, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274838) (DL)
 * Sentio: Driver-in-the-Loop Forward Collision Warning Using Multisample Reinforcement Learning, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274843) (ML)
 * BigRoad: Scaling Road Data Acquisition for Dependable Self-Driving, MobiSys 17 [[Paper]](https://personal.stevens.edu/~ychen6/papers/mobisys17-BigRoad.pdf) (DL)
@@ -1478,8 +1479,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * RAVEN: Improving Interactive Latency for the Connected Car, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241571) (NO ML)
 * CoReCast: Collision Resilient Broadcasting in Vehicular Networks, MobiSys 18 [[Paper]](https://abaxi.github.io/pdfs/corecast_paper.pdf) (NO ML)
 * Experience: Accurate Simulation of Dense Scenarios with Hundreds of Vehicular Transmitters, MobiCom 16 [[Paper]](https://www.winlab.rutgers.edu/~cb3974/publication_pdf/Experience_Simulation_MobiCom_2016.pdf)(NO ML)
-
-* Diagnosing Vehicles with Automotive Batteries, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300126) (ML)
 
 
 ### 🥽 AIoT Systems for AR/VR/MR (Total:  | No ML() | ML() | DL())
