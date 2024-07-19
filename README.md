@@ -1485,25 +1485,49 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ### 🥽 AIoT Systems for AR/VR/MR (Total:  | No ML() | ML() | DL())
 <a name="aiot-systems-for-arvrmr"></a>
 #### Object Detection (Total:  | No ML() | ML() | DL())
+* Augmenting Augmented Reality with Non-Line-of-Sight Perception, NSDI	23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki) (NO ML)
+* XRLoc: Accurate UWB Localization to Realize XR Deployments, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.12512) (NO ML)
+* Multi-User Augmented Reality with Infrastructure-free Collaborative Localization, IPSN 22 [[Paper]](https://arxiv.org/pdf/2111.00174.pdf) (NO ML)
 * DeepMix: mobility-aware, lightweight, and hybrid 3D object detection for headsets, MobiSys 22 [[Paper]](https://arxiv.org/pdf/2201.08812.pdf) (DL)
+* FollowUpAR: enabling follow-up effects in mobile AR applications, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467675) (NO ML)
+* All that GLITTERs: Low-Power Spoof-Resilient Light Anchors for Augmented Reality, IPSN 20 [[Paper]](https://users.ece.cmu.edu/~vsekar/assets/pdf/ipsn20_glitter.pdf) (NO ML)
 * Edge Assisted Real-time Object Detection for Mobile Augmented Reality, MobiCom 19 [[Paper]](https://dl.acm.org/doi/10.1145/3300061.3300116) (DL)
+* When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079) (NO ML)
 * Frugal following: power thrifty object detection and tracking for mobile augmented reality, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360044) (DL)
+* Empath-D: VR-based Empathetic App Design for Accessibility, MobiSys 18 [[Paper]](https://nclab.kaist.ac.kr/files/papers/Conference/mobisys18-10-kim.pdf) (NO ML)
+
+
 
 #### Gesture-Based Interaction (Total:  | No ML() | ML() | DL())
+* UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613263) (DL)
+* Egocentric Human Pose Estimation using Head-mounted mmWave Radar, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625799) (DL)
+* Cyclops: an FSO-based wireless link for VR headsets, SIGCOMM 22 [[Paper]](http://www.contrib.andrew.cmu.edu/~malleshd/papers/sigcomm-2022-paper.pdf) (NO ML)
 * ExGSense: Toward Facial Gesture Sensing and Reconstruction with a Sparse Near-Eye Sensor Array, IPSN 21 [[Paper]](http://xyzhang.ucsd.edu/papers/Chen.Chen_IPSN21_ExGSense.pdf) (DL)
+* Aura: Inside-out Electromagnetic Controller Tracking MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326090) (ML)
 * HandSense: capacitive coupling-based dynamic, micro finger gesture recognition, SenSys 19 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/sensys19-final195.pdf) (DL)
+* Conductive Inkjet Printed Passive 2D TrackPad for VR Interaction, MobiCom 18 [[Paper]](http://xyzhang.ucsd.edu/papers/CGao_MobiCom18_Inkput.pdf) (NO ML)
 * Depth Aware Finger Tapping on Virtual Display, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210315) (NO ML)
+* When Virtual Reality Meets Internet of Things in the Gym: Enabling Immersive Interactive Machine Exercises, UbiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3214281) (ML)
 * Ultra-Low Power Gaze Tracking for Virtual Reality, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131682) (ML)
 
 
 
 #### Performance Enhancement (Total:  | No ML() | ML() | DL())
 * Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality, SenSys 22 [[Paper]](https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf) (DL)
+* Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446715) (ML)
+* Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) (NO ML)
+* Firefly: Untethered Multi-user VR for Commodity Mobile Devices, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-liu-xing.pdf) (ML)
 * CollabAR: Edge-assisted Collaborative Image Recognition for Mobile Augmented Reality, IPSN 20 [[Paper]](https://research.ece.cmu.edu/lions/Papers/CollabAR_IPSN.pdf) (DL)
 * Heimdall: mobile GPU coordination platform for augmented reality applications, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/Heimdall.pdf) (DL)
 * Transparent AR Processing Acceleration at the Edge, EuroSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3301418.3313942) (DL)
 * DeltaVR: Achieving High-Performance Mobile VR Dynamics through Pixel Reuse, IPSN 19 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn19.pdf) (NO ML)
+* GLEAM: An Illumination Estimation Framework for Real-time Photorealistic Augmented Reality on Mobile Devices, MobiSys 19 [[Paper]](https://meteor.ame.asu.edu/publications/mobisys19prakash-gleam.pdf) (NO ML)
+* Freedom: Fast Recovery Enhanced VR Delivery Over Mobile Networks, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326087) (NO ML)
+* LpGL: Low-power Graphics Library for Mobile AR Headsets, MobiSys 19, [[Paper]](http://nsl.cau.ac.kr/~jpaek/docs/lpgl-mobisys2019.pdf) (NO ML)
+* Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering, MobiSys 18 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) (NO ML)
 * MARVEL: Enabling Mobile Augmented Reality with Low Energy and Low Latency, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274834) (NO ML)
+* Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices, MobiCom 17 [[Paper]](https://www.cse.psu.edu/~gxc27/teach/597/Furion.pdf) (NO ML)
+* Enabling High-Quality Untethered Virtual Reality, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-abari.pdf) (NO ML)
 * FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (NO ML)
 
 
@@ -1511,34 +1535,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, MobiCom 22 [[Papaer]](https://www-users.cse.umn.edu/~fengqian/paper/salientvr_mobicom22.pdf) (DL)
 * Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality, MobiSys 21 [[Paper]](https://arxiv.org/pdf/2106.15280.pdf) (DL)
 
-####
-* XRLoc: Accurate UWB Localization to Realize XR Deployments, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.12512) (NO ML)
-* Augmenting Augmented Reality with Non-Line-of-Sight Perception, NSDI	23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki) (NO ML)
-* Cyclops: an FSO-based wireless link for VR headsets, SIGCOMM 22 [[Paper]](http://www.contrib.andrew.cmu.edu/~malleshd/papers/sigcomm-2022-paper.pdf) (NO ML)
-* Multi-User Augmented Reality with Infrastructure-free Collaborative Localization, IPSN 22 [[Paper]](https://arxiv.org/pdf/2111.00174.pdf) (NO ML)
-* Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446715) (ML)
-* FollowUpAR: enabling follow-up effects in mobile AR applications, MobiSys 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jingao/papers/mobisys21_followupar.pdf) (NO ML)
-* All that GLITTERs: Low-Power Spoof-Resilient Light Anchors for Augmented Reality, IPSN 20 [[Paper]](https://users.ece.cmu.edu/~vsekar/assets/pdf/ipsn20_glitter.pdf) (NO ML)
-* Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) (NO ML)
-* Firefly: Untethered Multi-user VR for Commodity Mobile Devices, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-liu-xing.pdf) (ML)
 
-
-* Egocentric Human Pose Estimation using Head-mounted mmWave Radar, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625799) (DL)
-* UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613263) (DL)
-* Ultra-Low Power Gaze Tracking for Virtual Reality, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131682) (ML)
-
-  
-* GLEAM: An Illumination Estimation Framework for Real-time Photorealistic Augmented Reality on Mobile Devices, MobiSys 19 [[Paper]](https://meteor.ame.asu.edu/publications/mobisys19prakash-gleam.pdf) (NO ML)
-* Aura: Inside-out Electromagnetic Controller Tracking MobiSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326090) (ML)
-* When IoT met Augmented Reality: Visualizing the Source of the Wireless Signal in AR View, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326079) (NO ML)
-* Freedom: Fast Recovery Enhanced VR Delivery Over Mobile Networks, MobiSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3307334.3326087) (NO ML)
-* LpGL: Low-power Graphics Library for Mobile AR Headsets, MobiSys 19, [[Paper]](http://nsl.cau.ac.kr/~jpaek/docs/lpgl-mobisys2019.pdf) (NO ML)
-* Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering, MobiSys 18 [[Paper]](https://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) (NO ML)
-* Conductive Inkjet Printed Passive 2D TrackPad for VR Interaction, MobiCom 18 [[Paper]](http://xyzhang.ucsd.edu/papers/CGao_MobiCom18_Inkput.pdf) (NO ML)
-* Empath-D: VR-based Empathetic App Design for Accessibility, MobiSys 18 [[Paper]](https://nclab.kaist.ac.kr/files/papers/Conference/mobisys18-10-kim.pdf) (NO ML)
-* When Virtual Reality Meets Internet of Things in the Gym: Enabling Immersive Interactive Machine Exercises, UbiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3214281) (ML)
-* Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices, MobiCom 17 [[Paper]](https://www.cse.psu.edu/~gxc27/teach/597/Furion.pdf) (NO ML)
-* Enabling High-Quality Untethered Virtual Reality, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-abari.pdf) (NO ML)
 
 ### AIoT Systems for Drones (Total: 25 | No ML(21) | ML(1) | DL(3))
 <a name="aiot-systems-for-drones"></a>
