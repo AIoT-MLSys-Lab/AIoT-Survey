@@ -267,6 +267,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf) (DL)
 
 ##### Human Voice Recognition
+* WaveEar: Exploring a mmWave-based Noise-resistant Speech Sensing for Voice-User Interface, Mobisys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326073)
 * FerroTag: a paper-based mmWave-scannable tagging infrastructure, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360019) (Best Paper) (ML)
 
 ##### Object Recognition
