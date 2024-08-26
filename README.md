@@ -370,6 +370,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 <a name="vision-sensing"></a>
 ### 👁️ Vision Sensing (Total: 30 | No ML(7) | ML(2) | DL(21))
+
+#### Human Activity Recognition
+* Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
+* MobiPose: real-time multi-person pose estimation on mobile devices, SensSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726) (DL)
+
+
 #### Image Enhancement
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592523) (DL)
 * MobiSpectral: Hyperspectral Imaging on Mobile Devices, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613296) (DL)
@@ -397,16 +403,13 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention) (NO ML)
 
 
-#### Human Activity Recognition
-* Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
-* MobiPose: real-time multi-person pose estimation on mobile devices, SensSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726) (DL)
 
-#### Eye Gaze Recognition
+#### Eye Tracking
 * Gaze Tracking on Any Surface with Your Phone, SenSys 22 [[Paper]](https://www.cs.cityu.edu.hk/~zhenjili/2022-SenSys-ASGaze.pdf) [[code]](https://github.com/Jiani-CAO/ASGaze) (DL)
 * GazeGraph: Graph-based Few-Shot Cognitive Context Sensing from Human Visual Behavior, SenSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10296635) (DL)
 * EMO: real-time emotion recognition from single-eye images for resource-constrained eyewear devices, MobiSys 20 [[Paper]](https://dongshuhao.github.io/assets/pdf/2020/Wu_2020.pdf) (DL)
 
-#### Gesture Reconstruction
+#### Pose Estimation
 * RoFin: 3D Hand Pose Reconstructing via 2D Rolling Fingertips, MobiSys 23 [[Paper]](https://tianxing.me/paper/zhang-mobisys23.pdf) (DL)
 * MoiréPose: Ultra High Precision Camera-to-Screen Pose Estimation based on Moiré Pattern, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560537) (NO ML)
 * Glimpse.3D: A Motion-Triggered Stereo Body Camera for 3D Experience Capture and Preview, IPSN 18 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper8.pdf) (ML)
@@ -450,7 +453,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf) (DL)
 
 
-#### Keyword Detection
+#### Keyword and Event Detection
 * SoundSieve: Seconds-Long Audio Event Recognition on Intermittently-Powered Systems, MobiSys 23 [[Paper]](https://arxiv.org/pdf/2305.16445.pdf) (DL)
 * A closer look at quality-aware runtime assessment of sensing models in multi-device environments, SenSys 19 [[Paper]](https://akhilmathurs.github.io/papers/min_sensys2019.pdf) (DL)
 
@@ -490,6 +493,17 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 																
 <a name="multi-modal-sensing"></a>
 ### 🖇️ Multi-Modal Sensing (Total: 37 | No ML(3) | ML(9) | DL(25))
+
+#### Human Activity Recognition
+* CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
+* VMA: Domain Variance- and Modality-Aware Model Transfer for Fine-Grained Occupant Activity Recognition, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a247/962400a247.pdf) (DL)
+* Cosmo: contrastive fusion learning with small data for multimodal human activity recognition,	MobiCom	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560519) (DL)
+* Low-latency speculative inference on distributed multi-modal data streams,MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467884) (DL)
+* Optimal sensor channel selection for resource-efficient deep activity recognition, IPSN 21 [[Paper]](https://acris.aalto.fi/ws/portalfiles/portal/64950790/ELEC_Souza_Leite_Xiao_Optimal_Sensor_Channel_IPSN_2021_acceptedauthormanuscript.pdf) (DL)
+* Multimodal deep learning for activity and context recognition, UbiComp 18 [[Paper]](https://homepages.inf.ed.ac.uk/mmarina/papers/ubicomp18.pdf) (DL)
+* MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels, SenSys 23 [[Paper]](https://arxiv.org/pdf/2404.01958) (DL)
+
+
 #### Human and Object Identification
 * Contactless Material Identification with Millimeter Wave Vibrometry, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596850) (DL)
 * Capricorn: Towards Real-Time Rich Scene Analysis Using RF-Vision Sensor Fusion, SenSys22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568504) (DL)
@@ -518,14 +532,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485945) (DL)
 
 
-#### Human Activity Recognition
-* CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
-* VMA: Domain Variance- and Modality-Aware Model Transfer for Fine-Grained Occupant Activity Recognition, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a247/962400a247.pdf) (DL)
-* Cosmo: contrastive fusion learning with small data for multimodal human activity recognition,	MobiCom	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560519) (DL)
-* Low-latency speculative inference on distributed multi-modal data streams,MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467884) (DL)
-* Optimal sensor channel selection for resource-efficient deep activity recognition, IPSN 21 [[Paper]](https://acris.aalto.fi/ws/portalfiles/portal/64950790/ELEC_Souza_Leite_Xiao_Optimal_Sensor_Channel_IPSN_2021_acceptedauthormanuscript.pdf) (DL)
-* Multimodal deep learning for activity and context recognition, UbiComp 18 [[Paper]](https://homepages.inf.ed.ac.uk/mmarina/papers/ubicomp18.pdf) (DL)
-* MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels, SenSys 23 [[Paper]](https://arxiv.org/pdf/2404.01958) (DL)
 
 
 #### Miscellaneous Topics
@@ -545,7 +551,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 <a name="earable-sensing"></a>
 ### 🦻 Earable Sensing (Total: 20 | No ML(4) | ML(8) | DL(7))
-#### Facial Landmark Detection
+#### Facial Expression Sensing 
 * FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones, IPSN 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn22.pdf) [[Dataset]](https://developers.google.com/mediapipe) [[Code]](https://github.com/muxspace/facial_expressions) (DL)
 * BioFace-3D: Continuous 3D Facial Reconstruction Through Lightweight Single-ear Biosensors, MobiCom 21 [[Paper]](https://people.cs.umass.edu/~phuc/papers/bioface_2021.pdf) (DL)
 
@@ -621,46 +627,40 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 #### ⚡ Inference Optimization
 <a name="inference-optimization"></a>
-##### Computation Optimization
 * Boosting DNN Cold Inference on Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596842)
+* LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613285)
+* Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
+* Space-Efficient TREC for Enabling Deep Learning on Microcontrollers, ASPLOS 23 [[Paper]](https://research.csc.ncsu.edu/picture/publications/papers/asplos23a_mcu.pdf)
 * ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU, MobiSys 23 [[Paper]](https://yuanchun-li.github.io/static/files/MobiSys23_ConvReLU++.pdf) [[Code]](https://github.com/GAIR-team/conv_relu_plus_plus)
+* mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
 * NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)
-* InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference, MobiCom 22 [[Paper]](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf)	
+* InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference, MobiCom 22 [[Paper]](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf)
+* SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI	22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
 * IOS: Inter-Operator Scheduler for CNN Acceleration, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
 * Flexible High-resolution Object Detection on Edge Devices with Tunable Latency, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
-* Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)			
+* MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning, NeurIPS 21
+* Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)
+* DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)   
 * DeepCache: Principled Cache for Mobile Deep Vision, MobiCom 18 [[Paper]](https://arxiv.org/pdf/1712.01670.pdf) [[Code]](https://github.com/xumengwei/DeepCache) (DL)
 * FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices, SenSys 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3274783.3274840)
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
 
 
-##### Memory Optimization
-+ LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613285)
-* Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
-* Space-Efficient TREC for Enabling Deep Learning on Microcontrollers, ASPLOS 23 [[Paper]](https://research.csc.ncsu.edu/picture/publications/papers/asplos23a_mcu.pdf)
-* mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
-* SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI	22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
-* MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning, NeurIPS 21
-* DeQA: On-Device Question Answering, MobiSys 19 [[Paper]](https://www3.cs.stonybrook.edu/~arunab/papers/deqa.pdf)
-
 #### Multi-Tenant Inference
-##### Resource Utilization
-* YONO: Modeling Multiple Heterogeneous Neural Networks on Microcontrollers, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.03794.pdf)
+* Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.04339)
+* POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
+* Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)
+* YONO: Modeling Multiple Heterogeneous Neural Networks on Microcontrollers, IPSN 22 [[Paper]](https://arxiv.org/pdf/2203.03794.pdf)   
+* VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)
+* RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938)
 * LegoDNN: block-grained scaling of deep neural networks for mobile vision, MobiCom 21 [[Paper]](https://arxiv.org/pdf/2112.09852.pdf) (Best Community Paper Award Runner-Up)	
+* NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-bateni.pdf)
 * Fast and scalable in-memory deep multitask learning via neural weight virtualization,	MobiSys	20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388947)		
+* NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)
 * Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications, ASPLOS 18	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3173162.3173185) (DL)
 * Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing, ATC 18 [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-jiang.pdf)			
-* NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)	
-
-##### Execution Strategy
-+ Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.04339)
-* POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
-* Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)			
-* VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling, ASPLOS	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507752)
-* RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485938)		
-* NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-bateni.pdf)
 * DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
 * MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
 
@@ -673,8 +673,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs, MobiCom 21 [[Paper]](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf)
 * Efficient Execution of Deep Neural Networks on Mobile Devices with NPU, IPSN 21 [[Paper]](http://mcn.cse.psu.edu/paper/tan-tianxiang/ipsn20-tan.pdf)		
 * DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN 16 [[Paper]](https://www.fahim-kawsar.net/papers/Lane.IPSN2016-Camera.pdf)
-
-
 * Neuro.ZERO: a zero-energy neural network accelerator for embedded sensing and inference systems, SenSys 19 [[Paper]](https://eisys.web.unc.edu/wp-content/uploads/sites/20971/2019/10/sensys19-final95.pdf)
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 * Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading, MobiSys 17 [[Paper]](https://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf)
@@ -738,7 +736,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 #### Privacy-Preserving Offloading 
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
-
 + EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge, SenSys 23 [[Paper]](https://arxiv.org/pdf/2311.10986) 
 + Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592531)
 + Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3592514)
@@ -952,33 +949,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Card-stunt as a Service: Empowering a Massively Packed Crowd for Instant Collective Expressiveness, MobiSys 17 [[Paper]](https://nclab.kaist.ac.kr/uploads/2017/08/mobisys2017_cardstunt.pdf) (NO ML)
 * The DarkLight Rises: Visible Light Communication in the Dark, MobiCom 16 [[Paper]](https://www.cs.dartmouth.edu/~xia/papers/mobicom16-darklight.pdf) (NO ML)
 
-<a name="user-content-millimeter-Wave"></a>
-#### 〰️ mmWave (Total: 25 | No ML(23) | ML(2) | DL(0))
-* mmRipple: Communicating with mmWave Radars through Smartphone Vibration, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586956) (NO ML)
-* Bringing Millimeter Wave Technology to Any IoT Device, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613255) (NO ML)
-* SIGNiPHY: Reconciling random access with directional reception for efficient mmWave WLANs, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596860) (NO ML)
-* mmWall: A Steerable, Transflective Metamaterial Surface for NextG mmWave Networks, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-cho-kun-woo.pdf) (NO ML)
-* M5: Facilitating Multi-user Volumetric Content Delivery with Multi-lobe Multicast over mmWave, SenSys 22 [[Paper]](http://www.phpathak.com/files/m5-sensys.pdf) (ML)
-* Two beams are better than one: Towards Reliable and High Throughput mmWave Links, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472924.pdf) (NO ML)
-* Practical Null Steering in Millimeter Wave Networks, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-madani.pdf) (NO ML)
-* SpaceBeam: LiDAR-driven one-shot mmWave beam management, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466864) (ML)
-* X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays, MobiCom 20 [[Paper]](http://xyzhang.ucsd.edu/papers/SWang_MobiCom20_X-Array.pdf) (NO ML)
-* Millimeter-Wave Full Duplex Radios, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380879) (NO ML)
-* M-Cube: a millimeter-wave massive MIMO software radio, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380892) (NO ML) (Best Paper Award)
-* mm-FLEX: An Open Platform for Millimeter-Wave Mobile Full-Bandwidth Experimentation, MobiSys 20 [[Paper]](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/808/MOBISYS_2020_FINAL.pdf?sequence=1&isAllowed=y) (NO ML)
-* KinPhy: a kinetic in-band channel for millimetre-wave networks, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360039) (NO ML)
-* A Millimeter Wave Network for Billions of Things, SIGCOMM 19 [[Paper]](http://web.cs.ucla.edu/~omid/Papers/Sigcomm19.pdf) (NO ML)
-* Many-to-Many Beam Alignment in Millimeter Wave Networks, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-jog.pdf) (NO ML)
-* LiSteer: mmWave Beam Acquisition and Steering by Tracking Indicator LEDs on Wireless APs, MobiCom 18 [[Paper]](https://dl.acm.org/doi/10.1145/3241539.3241542) (NO ML)
-* Multi-Stream Beam-Training for mmWave MIMO Networks, MobiCom 18 [[Paper]](https://cse.buffalo.edu/faculty/dimitrio/publications/mobicom18_mute.pdf) (NO ML)
-* Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241579) (NO ML)
-* Adaptive Codebook Optimization for Beam Training on Off-the-Shelf IEEE 802.11ad Devices, MobiCom 18 [[Paper]](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/614/Adaptive_Codebook_Optimization_Beam_Training_Off-the-Shelf_IEEE%20802.11ad_Devices_2018_EN.pdf?sequence=1&isAllowed=y) (NO ML)
-* Fast Millimeter Wave Beam Alignment, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230581) (NO ML)
-* WiFi-Assisted 60 GHz Wireless Networks, MobiCom 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3117811.3117817) (NO ML)
-* Pose Information Assisted 60 GHz Networks: Towards Seamless Coverage and Mobility Support, MobiCom 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3117811.3117832) (NO ML)
-* Facilitating Robust 60 GHz Network Deployment by Sensing Ambient Reflectors, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wei-teng.pdf) (NO ML)
-* OpenMili: A 60 GHz Software Radio Platform With a Reconfigurable Phased-Array Antenna, MobiCom 16 [[Paper]](http://xyzhang.ucsd.edu/papers/JZhang_MobiCom16_OpenMili.pdf) (NO ML)
-* BeamSpy: Enabling Robust 60 GHz Links Under Blockage, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-sur.pdf) (NO ML)
 
 <a name="user-content-loralorawan"></a>
 #### LoRa/LoRaWAN (Total: 24 | No ML(18) | ML(2) | DL(4))
@@ -1006,6 +976,35 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LongShoT: Long-Range Synchronization of Time, IPSN 19 [[Paper]](https://par.nsf.gov/servlets/purl/10107899) (NO ML)
 * FTrack: parallel decoding for LoRa transmissions, SenSys 19 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/FTrack_Sensys19.pdf) (NO ML)
 * WIDESEE: Towards Wide-Area Contactless Wireless Sensing, SenSys 19 [[Paper]](https://zwang4.github.io/publications/sensys19.pdf) (NO ML)
+
+
+<a name="user-content-millimeter-Wave"></a>
+#### 〰️ mmWave (Total: 25 | No ML(23) | ML(2) | DL(0))
+* mmRipple: Communicating with mmWave Radars through Smartphone Vibration, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586956) (NO ML)
+* Bringing Millimeter Wave Technology to Any IoT Device, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613255) (NO ML)
+* SIGNiPHY: Reconciling random access with directional reception for efficient mmWave WLANs, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596860) (NO ML)
+* mmWall: A Steerable, Transflective Metamaterial Surface for NextG mmWave Networks, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-cho-kun-woo.pdf) (NO ML)
+* M5: Facilitating Multi-user Volumetric Content Delivery with Multi-lobe Multicast over mmWave, SenSys 22 [[Paper]](http://www.phpathak.com/files/m5-sensys.pdf) (ML)
+* Two beams are better than one: Towards Reliable and High Throughput mmWave Links, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472924.pdf) (NO ML)
+* Practical Null Steering in Millimeter Wave Networks, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-madani.pdf) (NO ML)
+* SpaceBeam: LiDAR-driven one-shot mmWave beam management, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466864) (ML)
+* X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased Arrays, MobiCom 20 [[Paper]](http://xyzhang.ucsd.edu/papers/SWang_MobiCom20_X-Array.pdf) (NO ML)
+* Millimeter-Wave Full Duplex Radios, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380879) (NO ML)
+* M-Cube: a millimeter-wave massive MIMO software radio, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3380892) (NO ML) (Best Paper Award)
+* mm-FLEX: An Open Platform for Millimeter-Wave Mobile Full-Bandwidth Experimentation, MobiSys 20 [[Paper]](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/808/MOBISYS_2020_FINAL.pdf?sequence=1&isAllowed=y) (NO ML)
+* KinPhy: a kinetic in-band channel for millimetre-wave networks, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360039) (NO ML)
+* A Millimeter Wave Network for Billions of Things, SIGCOMM 19 [[Paper]](http://web.cs.ucla.edu/~omid/Papers/Sigcomm19.pdf) (NO ML)
+* Many-to-Many Beam Alignment in Millimeter Wave Networks, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-jog.pdf) (NO ML)
+* LiSteer: mmWave Beam Acquisition and Steering by Tracking Indicator LEDs on Wireless APs, MobiCom 18 [[Paper]](https://dl.acm.org/doi/10.1145/3241539.3241542) (NO ML)
+* Multi-Stream Beam-Training for mmWave MIMO Networks, MobiCom 18 [[Paper]](https://cse.buffalo.edu/faculty/dimitrio/publications/mobicom18_mute.pdf) (NO ML)
+* Towards Scalable and Ubiquitous Millimeter-Wave Wireless Networks, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241579) (NO ML)
+* Adaptive Codebook Optimization for Beam Training on Off-the-Shelf IEEE 802.11ad Devices, MobiCom 18 [[Paper]](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/614/Adaptive_Codebook_Optimization_Beam_Training_Off-the-Shelf_IEEE%20802.11ad_Devices_2018_EN.pdf?sequence=1&isAllowed=y) (NO ML)
+* Fast Millimeter Wave Beam Alignment, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230581) (NO ML)
+* WiFi-Assisted 60 GHz Wireless Networks, MobiCom 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3117811.3117817) (NO ML)
+* Pose Information Assisted 60 GHz Networks: Towards Seamless Coverage and Mobility Support, MobiCom 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3117811.3117832) (NO ML)
+* Facilitating Robust 60 GHz Network Deployment by Sensing Ambient Reflectors, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wei-teng.pdf) (NO ML)
+* OpenMili: A 60 GHz Software Radio Platform With a Reconfigurable Phased-Array Antenna, MobiCom 16 [[Paper]](http://xyzhang.ucsd.edu/papers/JZhang_MobiCom16_OpenMili.pdf) (NO ML)
+* BeamSpy: Enabling Robust 60 GHz Links Under Blockage, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-sur.pdf) (NO ML)
 
 <a name="user-content-lpwan"></a>
 #### LPWAN (Total: 13  | No ML(12) | ML(0) | DL(1))
