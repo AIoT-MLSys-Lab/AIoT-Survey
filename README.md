@@ -167,7 +167,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 
 <a name="wi-fi-sensing"></a>
-#### 🌐 Wi-Fi Sensing (Total: 55 | No ML(24) | ML(11) | DL(20))
+#### 🌐 Wi-Fi Sensing (Total: 56 | No ML(24) | ML(11) | DL(21))
 ##### Human Activity Recognition
 * XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL)
 * SiFall: Practical Online Fall Detection with RF Sensing, SenSys 22 [[Paper]](https://arxiv.org/pdf/2301.03773.pdf) (DL)
@@ -244,7 +244,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf) (ML)
 
 <a name="mmwave-sensing"></a>
-#### 🌫️ mmWave Sensing (Total: 23 | No ML(7) | ML(3) | DL(13))
+#### 🌫️ mmWave Sensing (Total: 24 | No ML(7) | ML(3) | DL(14))
 
 ##### Human Activity Recognition
 * mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
@@ -260,7 +260,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * mmMesh: towards 3D real-time dynamic human mesh construction using millimeter-wave, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467679) (DL)
 
 ##### Voice Reconstruction
-* WaveEar: Exploring a mmWave-based Noise-resistant Speech Sensing for Voice-User Interface, Mobisys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326073)
+* WaveEar: Exploring a mmWave-based Noise-resistant Speech Sensing for Voice-User Interface, Mobisys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326073) (DL)
 * FerroTag: a paper-based mmWave-scannable tagging infrastructure, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360019) (Best Paper) (ML)
 
 ##### Object Recognition
@@ -289,17 +289,17 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf) (ML)
 
 <a name="lte-sensing"></a>
-#### LTE Sensing (Total: 4)
+#### LTE Sensing (Total: 4 | No ML(3) | ML(0) | DL(1))
 ##### Traffic Monitoring
 * Experience: Large-scale Cellular Localization for Pickup Position Recommendation at Black-hole, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613298) (DL)
 * Enabling IoT Self-Localization Using Ambient 5G Signals, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-jog.pdf) (NO ML)
-* LTE-based Pervasive Sensing Across Indoor and Outdoor, Sensys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943)
+* LTE-based Pervasive Sensing Across Indoor and Outdoor, Sensys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485943) (NO ML)
 
 ##### Soil Moisture Monitoring
-* LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568525)
+* LTE-Based Low-Cost and Low-Power Soil Moisture Sensing, Sensys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568525) (NO ML)
 
 <a name="lora-sensing"></a>
-#### LoRa Sensing (Total: 4 | No ML(3) | ML(0) | DL(1))
+#### LoRa Sensing (Total: 5 | No ML(3) | ML(0) | DL(2))
 * In-Orchard Localization with a Single LoRa Gateway and Generative Model-based Efficient Fingerprinting, MobiSys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661876) (DL)
 * Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (NO ML)
 * XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL)
@@ -339,7 +339,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Locating Everyday Objects using NFC Textiles, IPSN 21 [[Paper]](https://swarunkumar.com/papers/textilesense-ipsn2021.pdf) (NO ML)
 
 <a name="rf-sensing"></a>
-#### RF Sensing (Total: 8 | No ML(2) | ML(1) | DL(5))
+#### RF Sensing (Total: 7 | No ML(2) | ML(1) | DL(4))
 * Quantum Wireless Sensing: Principle, Design and Implementation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613258) (NO ML)
 * DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613272) (NO ML)
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513) (DL)
