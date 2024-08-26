@@ -760,7 +760,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ##### Data Heterogeneity
 * GPT-FL: Generative Pre-trained Model-Assisted Federated Learning." ArXiv 23 [[Paper]](https://arxiv.org/abs/2306.02210)
 * BalanceFL: Addressing Class Imbalance in Long-tail Federated Learning, IPSN 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BalanceFL-IPSN22.pdf) [[code]](https://github.com/sxontheway/BalanceFL)
-*  FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients,	MobiSys	22	[[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
+*  FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients, MobiSys 22 [[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
 
 #####  Communication Optimization
 * Faster Non-Convex Federated Learning via Global and Local Momentum, UAI 22 [[Paper](https://openreview.net/forum?id=SSlLRUIs9e9)
@@ -784,7 +784,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * TailorFL: Dual-Personalized Federated Learning under System and Data Heterogeneity, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568503)
 * Personalized Federated Learning by Structured and Unstructured Pruning under Data Heterogeneity, ICDCSW 21 [[Paper]](https://ieeexplore.ieee.org/document/9545941)
 * FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition, SenSys 21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)	
-* FedMask:  Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking, SenSys 21 [[Paper]]
+* FedMask:  Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485929)
 
 ##### Client Selection
 * PyramidFL: a fine-grained client selection framework for efficient federated learning, MobiCom 22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)
@@ -796,9 +796,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning, IJCAI 22 [[Paper]](https://www.ijcai.org/proceedings/2022/0399)
 * FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout, NeurIPS 21 [[Paper]](https://proceedings.neurips.cc/paper/2021/file/6aed000af86a084f9cb0264161e29dd3-Paper.pdf)
 * HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients, ICLR 21 [[Paper]](https://openreview.net/forum?id=TNkPBBYFkXg)
-* Ensemble distillation for robust model fusion in federated learning. NeurIPS 20 [[Paper]](https://dl.acm.org/doi/abs/10.5555/3495724.3495922)
+* Ensemble distillation for robust model fusion in federated learning, NeurIPS 20 [[Paper]](https://dl.acm.org/doi/abs/10.5555/3495724.3495922)
 * FedMD: Heterogenous Federated Learning via Model Distillation, Arxiv 2019 [[Paper]](https://arxiv.org/abs/1910.03581)
-* Expanding the reach of federated learning by reducing client resource requirements. Arxiv 18 [[Paper]](https://arxiv.org/abs/1812.07210) 
+* Expanding the reach of federated learning by reducing client resource requirements, Arxiv 18 [[Paper]](https://arxiv.org/abs/1812.07210) 
 			
 ##### Frameworks and Benchmarks
 * FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things, Arxiv 23 [[Paper]](https://arxiv.org/abs/2310.00109)
@@ -810,7 +810,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations, Arxiv 22 [[Paper]](https://arxiv.org/abs/2203.13789)
 * FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, ICML 22 [[Paper]](https://openreview.net/forum?id=LZ5cx2yismf)
 * FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks, Arxiv 21 [[Paper]](https://arxiv.org/pdf/2111.11066.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fedcv)
-* FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks, Arxiv 21 [[Paper]](FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks)
+* FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks, Arxiv 21 [[Paper]](https://arxiv.org/abs/2104.07145)
 * FedML: A Research Library and Benchmark for Federated Machine Learning, Arxiv 20 [[Paper]](https://arxiv.org/abs/2007.13518)
 																				
 ### Automated Machine Learning for AIoT
