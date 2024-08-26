@@ -74,7 +74,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
       	- [Model Heterogeneity](#model-heterogeneity)
        	- [Frameworks and Benchmarks](#frameworks-and-benchmarks)
     - [Compilers for AIoT](#compilers-for-aiot)
-    - [AI Agents for AIoT](#ai-agents-for-aiot)
+    - [AI Agents for AIoT](#ai-agent-aiot)
   - [Networking and Communication (Total: 333)](#networking-and-communication)
     - [Battery](#user-content-battery)
       - [Cellular](#user-content-cellular)
@@ -814,7 +814,16 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks, International Workshop on Trustable, Verifiable and Auditable Federated Learning in conjunction with AAAI 22 [[Paper]](https://arxiv.org/pdf/2111.11066.pdf) [[code]](https://github.com/FedML-AI/FedML/tree/master/python/app/fedcv)
 * FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks,  Workshop on Distributed and Private Machine Learning in conjunction with ICLR 21 [[Paper]](https://arxiv.org/abs/2104.07145)
 * FedML: A Research Library and Benchmark for Federated Machine Learning, International Workshop on Scalability, Privacy, and Security in Federated Learning in conjunction with NeurIPS 20 [[Paper]](https://arxiv.org/abs/2007.13518)
-																				
+
+### AI Agents for AIoT
+<a name="ai-agent-aiot"></a>
+* Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception, ICLR 2024 [[Paper]](https://arxiv.org/pdf/2401.16158)
+* Octopus v2: On-device language model for super agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.01744)
+* Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.11459v2)
+* AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
+* Towards an On-device Agent for Text Rewriting [[Paper]](https://arxiv.org/pdf/2308.11807)
+
+
 ### Automated Machine Learning for AIoT
 * HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596845)
 * Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
@@ -827,7 +836,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
 * MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)	
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
-														
+
+
+
 ### Compiler for AIoT	
 <a name="compilers-for-aiot"></a>
 * Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582061)
