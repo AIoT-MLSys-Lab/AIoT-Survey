@@ -53,7 +53,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Generative AI for Sensing](#generative-ai-for-sensing)
   - [Computing (Total: 154)](#computing)
     - [On-Device Inference](#on-device-inference)
-      	- [Model Compression](#model-compression)
       	- [Inference Optimization](#inference-optimization)
       	- [Multi-Tenant Inference](#multi-tenant-inference)
       	- [Cross-Processor Inference](#cross-processor-inference)
