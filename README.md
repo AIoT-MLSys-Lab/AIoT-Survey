@@ -100,7 +100,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
       - [Acoustic](#user-content-acoustic-1)
       - [...](#user-content-other-batteryless-works)
     - [Others](#na) 
-  - [Domain-specific AIoT Systems (Total: 256)](#domain-specific-aiot-systems)
+  - [Domain-specific AIoT Systems (Total: 254)](#domain-specific-aiot-systems)
     - [AIoT Systems for Healthcare and Well-being](#aiot-systems-for-healthcare-and-well-being)
     - [AIoT Systems for Video Streaming](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics](#aiot-systems-for-video-analytics)
@@ -1223,9 +1223,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Idea: A System for Efficient Failure Management in Smart IoT Environments, MobiSys 16 [[Paper]](https://pages.cs.wisc.edu/~sdsen/papers/2016idea.pdf) (NO ML)
 
 <a name="domain-specific-aiot-systems"></a>
-## Domain-specific AIoT Systems (256)
+## Domain-specific AIoT Systems (254)
 							
-### 🩺 AIoT Systems for Healthcare and Well-being (Total:  | No ML() | ML() | DL())
+### 🩺 AIoT Systems for Healthcare and Well-being (Total:57 | No ML(22) | ML(9) | DL(26))
 <a name="aiot-systems-for-healthcare-and-well-being"></a>
 #### Vital Sign Monitoring 
 * APG: Audioplethysmography for Cardiac Monitoring in Hearables, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613281) (NO ML)
@@ -1236,11 +1236,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Network-side digital contact tracing on a large university campus, MobiCom 22 [[Paper]](https://arxiv.org/pdf/2201.10641.pdf) (NO ML)
 * Hearing Heartbeat from Voice: Towards Next Generation Voice-User Interfaces with Cardiac Sensing Function, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568508) (DL)
 * mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568506) (ML)
-* Your Smart Speaker Can “Hear” Your Heartbeat!, UbiComp 21 [[Paper]](https://dl.acm.org/doi/10.1145/3432237)	(NO ML)	
+* Your Smart Speaker Can “Hear” Your Heartbeat!, UbiComp 21 [[Paper]](https://dl.acm.org/doi/10.1145/3432237) (NO ML)	
 * Healthy diapering with passive RFIDs for diaper wetness sensing and urine pH identification, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466870) (ML)
 * Crisp-BP: Continuous Wrist PPG-based Blood Pressure Measurement, MobiCom 21 [[Paper]](https://cis.temple.edu/~yu/research/CrispBP-Mobicom21.pdf) (DL)
 * MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing, MobiCom 21 [[Paper]](https://rabbitnick.github.io/pubs/movifi.pdf) (DL)
-* U-Verse: a miniaturized platform for end-to-end closed-loop implantable internet of medical things systems, SenSys 21, [[Paper]](https://ece.northeastern.edu/wineslab/papers/GuidaSENSYS2019.pdf)	(NO ML)
+* U-Verse: a miniaturized platform for end-to-end closed-loop implantable internet of medical things systems, SenSys 21, [[Paper]](https://ece.northeastern.edu/wineslab/papers/GuidaSENSYS2019.pdf) (NO ML)
 * SpiroSonic: monitoring human lung function via acoustic sensing on commodity smartphones, MobiCom 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom20.pdf) (DL)
 * Contactless seismocardiography via deep learning radars, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419982) (DL)
 * RFWash: A Weakly Supervised Tracking of Hand Hygiene Technique, SenSys 20 [[Paper]](https://dl.acm.org/doi/10.1145/3384419.3430733) (DL)
@@ -1261,26 +1261,26 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 #### In-Situ Illness Detection and Monitoring 
 * PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones, MobiSys 23 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys23-ptease.pdf) (DL)
 * PDAssess: A Privacy-preserving Free-speech based Parkinson’s Disease Daily Assessment System, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625805) (DL)
-* Burnout and the Quantified Workplace: Tensions around Personal Sensing Interventions for Stress in Resident Physicians, ACM HCI 22 [[Paper]](https://dl.acm.org/doi/10.1145/3555531)
+* Burnout and the Quantified Workplace: Tensions around Personal Sensing Interventions for Stress in Resident Physicians, ACM HCI 22 [[Paper]](https://dl.acm.org/doi/10.1145/3555531) (NO ML)
 * EarHealth: an earphone-based acoustic otoscope for detection of multiple ear diseases in daily life, MobiSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538935) (DL)
 * Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones, SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437) (DL)
 * NFCapsule: An Ingestible Sensor Pill for Eosinophilic Esophagitis Detection Based on Near-field Coupling, SenSys 22 [[Paper]](https://swarunkumar.com/papers/nfcapsule-sensys2022.pdf) (NO ML)
-* Predicting Early Warning Signs of Psychotic Relapse From Passive Sensing Data: An Approach Using Encoder-Decoder Neural Networks, JMIR 20 [[Paper]](https://mhealth.jmir.org/2020/8/e19962)
+* Predicting Early Warning Signs of Psychotic Relapse From Passive Sensing Data: An Approach Using Encoder-Decoder Neural Networks, JMIR 20 [[Paper]](https://mhealth.jmir.org/2020/8/e19962) (DL)
 * PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion,	MobiCom	20	[[Paper]](https://www.acsu.buffalo.edu/~huiningl/papers/pdlens.pdf) (DL)
 * Painometry: Wearable and Objective Quantification System for Acute Postoperative Pain, MobiSys 20 [[Paper]](http://mnslab.org/tamvu/paper/2020%20Painometry_Hoang.pdf) (ML)
 * PDVocal: Towards Privacy-preserving Parkinson's Disease Detection using Non-speech Body Sounds, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300125) (DL)
 * HealthSense: Software-defined Mobile-based Clinical Trials, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345433) (Best Paper) (NO ML)
 * Glasses for the Third Eye: Improving the Quality of Clinical Data Analysis with Motion Sensor-based Data Filtering, SenSys 17 [[Paper]](http://nsl.cau.ac.kr/~jpaek/docs/medisense-sensys2017-published.pdf) (ML)
-* Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior: An Exploratory Study, JMIR 15 [[Paper]](https://www.jmir.org/2015/7/e175)
-* StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones, UbiComp 14 [[Paper]](https://dl.acm.org/doi/10.1145/2632048.2632054)
+* Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior: An Exploratory Study, JMIR 15 [[Paper]](https://www.jmir.org/2015/7/e175) (NO ML)
+* StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones, UbiComp 14 [[Paper]](https://dl.acm.org/doi/10.1145/2632048.2632054) (ML)
 
 #### Assistive Technology
 * ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586962) (DL)
 * AccessWear: Making Smartphone Applications Accessible to Blind Users, MobiCom 23 [[Paper]](https://www3.cs.stonybrook.edu/~jain/papers/MobiCom_AccessWear_2023.pdf) (NO ML)
 * Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses, MobiCom  23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613260) (ML)
 * SignQuery: A Natural User Interface and Search Engine for Sign Languages with Wearable Sensors, MobiCom 23 [[Paper]](https://www.cse.psu.edu/~mkg31/papers/signquery.pdf) (DL)
-* Wireless earbuds for low-cost hearing screening, Mobisys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596856)
-* An off-the-shelf otoacoustic-emission probe for hearing screening via a smartphone, Nature Biomedical Engineering 2022 [[Paper]](https://www.nature.com/articles/s41551-022-00947-6)
+* Wireless earbuds for low-cost hearing screening, Mobisys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596856) (NO ML)
+* An off-the-shelf otoacoustic-emission probe for hearing screening via a smartphone, Nature Biomedical Engineering 2022 [[Paper]](https://www.nature.com/articles/s41551-022-00947-6) (NO ML)
 * RehabPhone: A Sotware-Defined Tool using 3D Printing and Smartphones for Personalized Home-based Rehabilitation, MobiSys 20 [[Paper]](https://cse.buffalo.edu/~wenyaoxu/papers/conference/xu-mobisys2020a.pdf) (NO ML)
 * SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300117) (DL)
 * MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images, MobiSys 17 [[Paper]](https://mi-zhang.github.io/papers/2017_MobiSys_MobileDeepPill.pdf) (DL)
@@ -1288,11 +1288,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081343) (DL)
 
 #### Personal Health Insight Generation
-* Towards a Personal Health Large Language Model, Arxiv 24 [[Paper]](https://arxiv.org/abs/2406.06474)
-* Transforming Wearable Data into Health Insights using Large Language Model Agents, Arxiv 24 [[Paper]](https://arxiv.org/abs/2406.06464)
-* From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models, IMWUT 24 [[Paper]](https://dl.acm.org/doi/10.1145/3659604)
+* Towards a Personal Health Large Language Model, Arxiv 24 [[Paper]](https://arxiv.org/abs/2406.06474) (DL)
+* Transforming Wearable Data into Health Insights using Large Language Model Agents, Arxiv 24 [[Paper]](https://arxiv.org/abs/2406.06464) (DL)
+* From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models, IMWUT 24 [[Paper]](https://dl.acm.org/doi/10.1145/3659604) (DL)
 
-### 📺 AIoT Systems for Video Streaming (Total:  | No ML() | ML() | DL())
+### 📺 AIoT Systems for Video Streaming (Total:51 | No ML(23) | ML(8) | DL(20))
 <a name="aiot-systems-for-video-streaming"></a>
 #### Adaptive Video Streaming 
 * Enabling High Quality Real-Time Communications with Adaptive Frame-Rate, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-meng.pdf) (NO ML)
@@ -1309,7 +1309,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-zhang.pdf) (DL)
 * Learning in situ: a randomized experiment in video streaming, NSDI 20 [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-yan.pdf) (DL)
 * OnRL: improving mobile video telephony via online reinforcement learning, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419186) (DL)
-* PERCEIVE: Deep Learning-based Cellular Uplink Prediction Using Real-time Scheduling Patterns, MobiSys 20 [[Paper]](https://mail.netstech.org/wp-content/uploads/2021/07/perceive-mobisys-2020.pdf)（DL）
+* PERCEIVE: Deep Learning-based Cellular Uplink Prediction Using Real-time Scheduling Patterns, MobiSys 20 [[Paper]](https://mail.netstech.org/wp-content/uploads/2021/07/perceive-mobisys-2020.pdf)(DL)
 * Jigsaw: Robust Live 4K Video Streaming, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300127) (NO ML)
 * Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345430) (DL)
 * End-to-end transport for video QoE fairness, SIGCOMM 19 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3341302.3342077) (NO ML)
@@ -1354,8 +1354,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * ViVo: visibility-aware mobile volumetric video streaming, MobiCom 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf) (ML)
 
 
-
-### 🎦 AIoT Systems for Video Analytics	(Total:  | No ML() | ML() | DL())
+### 🎦 AIoT Systems for Video Analytics	(Total:21 | No ML(1) | ML(0) | DL(20))
 <a name="aiot-systems-for-video-analytics"></a>
 #### Continuous Learning
 * RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf) (DL)
@@ -1388,7 +1387,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 
-### 🚘 AIoT Systems for Autonomous Driving (Total:  | No ML() | ML() | DL())
+### 🚘 AIoT Systems for Autonomous Driving (Total:35 | No ML(15) | ML(3) | DL(17))
 <a name="aiot-systems-for-autonomous-driving"></a>
 #### Perception Enhancement
 * Ghost-Probe: NLOS Pedestrian Rushing Detection with Monocular Camera for Automated Driving, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625791) (DL)
@@ -1427,7 +1426,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * BigRoad: Scaling Road Data Acquisition for Dependable Self-Driving, MobiSys 17 [[Paper]](https://personal.stevens.edu/~ychen6/papers/mobisys17-BigRoad.pdf) (DL)
 
 #### Control and Actuation
-* Eagle: End-to-end Deep Reinforcement Learning based Autonomous Control of PTZ Cameras, IoTDI 23 [[Paper]](https://dl.acm.org/doi/10.1145/3576842.3582366)
+* Eagle: End-to-end Deep Reinforcement Learning based Autonomous Control of PTZ Cameras, IoTDI 23 [[Paper]](https://dl.acm.org/doi/10.1145/3576842.3582366) (DL)
 
 #### Vehicular Networking
 * mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613291) (DL)
@@ -1438,7 +1437,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Experience: Accurate Simulation of Dense Scenarios with Hundreds of Vehicular Transmitters, MobiCom 16 [[Paper]](https://www.winlab.rutgers.edu/~cb3974/publication_pdf/Experience_Simulation_MobiCom_2016.pdf)(NO ML)
 
 
-### 🥽 AIoT Systems for AR/VR/MR (Total:  | No ML() | ML() | DL())
+### 🥽 AIoT Systems for AR/VR/MR (Total:38 | No ML(20) | ML(5) | DL(13))
 <a name="aiot-systems-for-arvrmr"></a>
 #### Object Detection (Total:  | No ML() | ML() | DL())
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception, NSDI	23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki) (NO ML)
