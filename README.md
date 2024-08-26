@@ -773,7 +773,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 ##### System Heterogeneity
-* TimelyFL: Heterogeneity-aware Asynchronous Federated Learning with Adaptive Partial Training, CVPR 23 [[Paper]](https://ieeexplore.ieee.org/document/10208323)
+* TimelyFL: Heterogeneity-aware Asynchronous Federated Learning with Adaptive Partial Training, CVPR Workshop 23 [[Paper]](https://ieeexplore.ieee.org/document/10208323)
 * Federated Learning with Buffered Asynchronous Aggregation, AISTATS 22 [[Paper]](https://proceedings.mlr.press/v151/nguyen22b)
 * FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568538)
 * FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing, in IEEE Journal on Selected Areas in Communications 2021 [[Paper]](https://ieeexplore.ieee.org/document/9562538)
