@@ -73,8 +73,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
         - [Client Selection](#client-selection)
       	- [Model Heterogeneity](#model-heterogeneity)
        	- [Frameworks and Benchmarks](#frameworks-and-benchmarks)
-    - [Compilers for AIoT](#compilers-for-aiot)
     - [AI Agents for AIoT](#ai-agent-aiot)
+    - [Compilers for AIoT](#compilers-for-aiot)
+    
   - [Networking and Communication (Total: 333)](#networking-and-communication)
     - [Battery](#user-content-battery)
       - [Cellular](#user-content-cellular)
