@@ -40,7 +40,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
        	- [TeraHertz Sensing](#teraHertz-sensing)
     	- [UWB Sensing](#uwb-sensing)
     	- [Bluetooth Sensing](#bluetooth-sensing)
-     	- [Aerial Sensing](#ariel-sensing)
       	- [NFC Sensing](#nfc-sensing)
       	- [RF Sensing](#rf-sensing)
     - [Vision Sensing](#vision-sensing)
@@ -133,8 +132,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Closing the Gaps in Inertial Motion Tracking, MobiCom 18 [[Paper]](https://synrg.csl.illinois.edu/papers/muse-mobicom18.pdf) (No ML)
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (ML)
 
-
-
 <a name="wireless-sensing"></a>
 ### 🌐 Wireless Sensing (145)
 <a name="rfid-sensing"></a>
@@ -183,8 +180,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241570) (DL)
 * WiWho: WiFi-Based Person Identification in Smart Spaces, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460727) (ML)
 
-
-
 ##### 3D Human Mesh Reconstruction
 * Construct 3D Hand Skeleton with Commercial WiFi, SenSys 23 [[Paper]](https://arxiv.org/pdf/2312.15507) (DL)
 * Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.10957.pdf) (DL)
@@ -212,8 +207,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Wi-Fi See It All: Generative Adversarial Network-augmented Versatile Wi-Fi Imaging, SenSys 20 [[Paper]](https://cse.msu.edu/~caozc/papers/sensys20-chen.pdf) (DL)
 * 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf) (No ML)
 
-
-
 ##### Gesture Recognition
 * RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://arxiv.org/pdf/2404.09140) (DL)
 * UniFi: A Unified Framework for Generalizable Gesture Recognition with Wi-Fi Signals Using Consistency-guided Multi-View Networks, IMWUT 24 [[Paper]](https://dl.acm.org/doi/10.1145/3631429) (DL)
@@ -230,7 +223,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices, SenSys 17 [[Paper]](https://netstech.org/wp-content/uploads/2018/10/phase_calibration_sensys17.pdf) (NO ML)
 * HeadScan: A Wearable System for Radio-based Sensing of Head and Mouth-related Activities, IPSN 16 [[Paper]](https://innovationcenter.msu.edu/wp-content/uploads/2021/07/HeadScan-A-Wearable-System-for-Radio-Based-Sensing-of-Head-and-Mouth-Related-Activities-1.pdf) (ML)
 * BodyScan: Enabling Radio-based Sensing on Wearable Devices for Contactless Activity and Vital Sign Monitoring, MobiSys 16 [[Paper]](https://mi-zhang.github.io/papers/2016_MobiSys_BodyScan.pdf) (ML)
-
 
 ##### Respiration Monitoring
 * MultiSense: Enabling Multi-person Respiration Sensing with Commodity WiFi, IMWUT 20 [[Paper]](https://hal.science/hal-03363355v1/file/3411816.pdf) (NO ML)
@@ -251,7 +243,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Exploring Multiple Antennas for Long-range WiFi Sensing, IMWUT 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494979) (NO ML)
 * LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf) (ML)
 
-
 <a name="mmwave-sensing"></a>
 #### 🌫️ mmWave Sensing (Total: 23 | No ML(7) | ML(3) | DL(13))
 
@@ -261,15 +252,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL)
 * SPARCS: A Sparse Recovery Approach for Integrated Communication and Human Sensing in mmWave Systems, IPSN 22 [[Paper]](https://arxiv.org/pdf/2205.03263.pdf) (DL)
 
-
 ##### 3D Human Mesh Reconstruction
 * mm3DFace: Nonintrusive 3D Facial Reconstruction Leveraging mmWave Signals, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596839) (DL)
 * m3Track: mmWave-based Multi-User 3D Posture Tracking, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538926) (DL)
 * M4esh: mmWave-Based 3D Human Mesh Construction for Multiple Subjects,	SenSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568545) (DL)
 * Synthesized Millimeter-Waves for Human Motion Sensing, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568542) (DL)
 * mmMesh: towards 3D real-time dynamic human mesh construction using millimeter-wave, MobiSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3458864.3467679) (DL)
-
-  
 
 ##### Voice Reconstruction
 * WaveEar: Exploring a mmWave-based Noise-resistant Speech Sensing for Voice-User Interface, Mobisys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326073)
@@ -300,7 +288,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis and Generative Diffusion Models, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Xingyu.Chen_SenSys23_RFGen.pdf) (GenAI)
 * Osprey: A mmWave Approach to Tire Wear Sensing, MobiSys 20 [[Paper]](https://swarunkumar.com/papers/osprey-mobisys2020.pdf) (ML)
 
-
 <a name="lte-sensing"></a>
 #### LTE Sensing (Total: 4)
 ##### Traffic Monitoring
@@ -318,7 +305,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL)
 * Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (NO ML)
 * Combating interference for long range LoRa sensing, SenSys 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3384419.3430731) (NO ML)
-
 
 <a name="teraHertz-sensing"></a>
 #### TeraHertz Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
@@ -340,7 +326,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization, SenSys 16 [[Paper]](https://patpannuto.com/pubs/kempke16surepoint.pdf) (NO ML)
 * Harmonium: Asymmetric, Bandstitched UWB for Fast, Accurate, and Robust Indoor Localization, IPSN 16 [[Paper]](https://patpannuto.com/pubs/kempke16harmonium.pdf) (NO ML)
 
-
 <a name="bluetooth-sensing"></a>
 #### Bluetooth Sensing (Total: 5 | No ML(2) | ML(1) | DL(2))
 * Experience: Practical Indoor Localization for Malls, MobiCom 22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/mloc_mobicom22.pdf) (Best Community Contribution) (DL)
@@ -348,11 +333,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * From Conception to Retirement: a Lifetime Story of a 3-Year-Old Wireless Beacon System in the Wild, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-ding.pdf) (NO ML)
 * Nationwide Deployment and Operation of a Virtual Arrival Detection System in the Wild, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472911.pdf) (NO ML)
 * Group-In: Group Inference from Wireless Traces of Mobile Devices, IPSN 20 [[Paper]](https://arxiv.org/pdf/2005.12848.pdf) (ML)
-
-<a name="ariel-sensing"></a>
-#### Aerial Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
-* BEAVIS: Balloon Enabled Aerial Vehicle for IoT and Sensing, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592498) (NO ML)
-* Robust Indoor Localization with ADS-B, MobiCom 21 [[Paper]](https://dl.acm.org/doi/10.1145/3447993.3483257) (NO ML)
 
 <a name="nfc-sensing"></a>
 #### NFC Sensing (Total: 1 | No ML(1) | ML(0) | DL(0))
@@ -375,7 +355,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
 * MobiPose: real-time multi-person pose estimation on mobile devices, SensSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726) (DL)
 
-
 #### Image Enhancement
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592523) (DL)
 * MobiSpectral: Hyperspectral Imaging on Mobile Devices, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613296) (DL)
@@ -384,7 +363,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Starfish: resilient image compression for AIoT cameras, SenSys 20 [[Paper]](https://panhu.me/pdf/2020/Starfish.pdf) (DL)
 * MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1908.07985.pdf) (DL)
 * HyperSight: boosting distant 3D vision on a single dual-camera smartphone, SenSys 19 [[Paper]](https://dl.acm.org/doi/10.1145/3356250.3360029) (NO ML)
-
 
 #### Object Detection
 * Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulation, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596840) (DL)
@@ -402,8 +380,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://www.osti.gov/servlets/purl/1811681) (DL)
 * Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention) (NO ML)
 
-
-
 #### Eye Tracking
 * Gaze Tracking on Any Surface with Your Phone, SenSys 22 [[Paper]](https://www.cs.cityu.edu.hk/~zhenjili/2022-SenSys-ASGaze.pdf) [[code]](https://github.com/Jiani-CAO/ASGaze) (DL)
 * GazeGraph: Graph-based Few-Shot Cognitive Context Sensing from Human Visual Behavior, SenSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10296635) (DL)
@@ -417,7 +393,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 #### Depth Estimation
 * MobiDepth: Real-Time Depth Estimation Using On-Device Dual Cameras, MobiCom 22 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/09/mobicom22-final138.pdf) (NO ML)
 
-
 <a name="acoustic-sensing"></a>
 ### 🎵 Acoustic Sensing	(Total: 51 | No ML(24) | ML(10) | DL(17))
 
@@ -429,7 +404,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MAVL: Multiresolution Analysis of Voice Localization, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-wang-mei.pdf) (NO ML)
 * Voice Localization Using Nearby Wall Reflections, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/voloc_mobicom20.pdf) (NO ML)
 * Can a Phone Hear the Shape of a Room?, IPSN 19 [[Paper]](https://users.ece.cmu.edu/~agr/resources/publications/ipsn19-shih.pdf) (ML)
-
 
 #### Movement Tracking
 * Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586954) (NO ML)
@@ -446,12 +420,10 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Strata: Fine-Grained Acoustic-based Device-Free Tracking, MobiSys 17 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobisys17_strata.pdf) (NO ML) (Also VR/AR)
 * CAT: High-Precision Acoustic Motion Tracking, MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973755) (NO ML)
 
-
 #### Emotion Recognition
 * Mic2Mic: Using Cycle-Consistent Generative Adversarial Networks to Overcome Microphone Variability in Speech Systems, IPSN 19 [[Paper]](https://core.ac.uk/download/pdf/219542364.pdf) (DL)
 * Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations, UbiComp 17 [[Paper]](https://core.ac.uk/reader/227518690) (DL)
 * DeepEar: robust smartphone audio sensing in unconstrained acoustic environments using deep learning, UbiComp 15 [[Paper]](https://core.ac.uk/download/pdf/42340233.pdf) (DL)
-
 
 #### Keyword and Event Detection
 * SoundSieve: Seconds-Long Audio Event Recognition on Intermittently-Powered Systems, MobiSys 23 [[Paper]](https://arxiv.org/pdf/2305.16445.pdf) (DL)
@@ -463,13 +435,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Room-scale Hand Gesture Recognition Using Smart Speakers, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dli/papers/SenSys2022_SpeakerGesture.pdf) (ML)
 * LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Sign, IMWUT 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3517253) (NO ML)	
 
-
 #### Source Identification
 * Meta-Speaker: Acoustic Source Projection by Exploiting Air Nonlinearity, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613279) (NO ML)
 * SCAN: Learning Speaker Identity From Noisy Sensor Data, IPSN 17 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/sensornets/papers/paper8.pdf) (ML)
 * Symphony: Localizing Multiple Acoustic Sources with a Single Microphone Array, SenSys 20 [[Paper]](https://arxiv.org/pdf/2209.15325.pdf) (NO ML)
 * BodyBeat: A Mobile System for Sensing Non-Speech Body Sounds, MobiSys 14 [[Paper]](https://pac.cs.cornell.edu/pubs/body-beat-mobisys-2014.pdf) (ML)
-
 
 ####  Miscellaneous Topics
 * PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones, MobiCom 23 [[Paper]](https://people.cs.umass.edu/~dli/papers/Mobicom23_PowerPhone.pdf) (DL)
@@ -503,7 +473,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Multimodal deep learning for activity and context recognition, UbiComp 18 [[Paper]](https://homepages.inf.ed.ac.uk/mmarina/papers/ubicomp18.pdf) (DL)
 * MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels, SenSys 23 [[Paper]](https://arxiv.org/pdf/2404.01958) (DL)
 
-
 #### Human and Object Identification
 * Contactless Material Identification with Millimeter Wave Vibrometry, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596850) (DL)
 * Capricorn: Towards Real-Time Rich Scene Analysis Using RF-Vision Sensor Fusion, SenSys22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568504) (DL)
@@ -511,13 +480,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * RFID and camera fusion for recognition of human-object interactions, MobiCom	21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483244) (DL)	
 * XModal-ID: Using WiFi for Through-Wall Person Identification from Candidate Video Footage, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345437) (DL)
 
-
 #### Tracking
 * Interpersonal Distance Tracking with mmWave Radar and IMUs, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586958) (DL)
 * ITrackU: tracking a pen-like instrument via UWB-IMU fusion, MobiSys 21 [[Paper]](https://faculty.cc.gatech.edu/~dhekne/itracku_mobisys2021.pdf) (NO ML)		
 * milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor fusion,	SenSys	20	[[Paper]](https://arxiv.org/pdf/2006.02266.pdf) (DL)
 * BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131689) (ML)
-
 
 #### Localization
 * Indoor Smartphone SLAM with Learned Echoic Location Features, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.08493.pdf) (DL)
@@ -530,9 +497,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables, MobiSys 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VibVoice-MobiSys23.pdf) (DL)
 * UltraSE: single-channel speech enhancement using ultrasound, MobiCom 21 [[Paper]](http://xyzhang.ucsd.edu/papers/Ke.Sun_MobiCom21_UltraSE.pdf) (DL)	
 * Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals,	SenSys	21	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485945) (DL)
-
-
-
 
 #### Miscellaneous Topics
 * Physics-Informed Data Denoising for Real-Life Sensing Systems, Sensys 23 [[Paper]](https://arxiv.org/pdf/2311.06968) (DL)
@@ -569,7 +533,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 #### Noise Cancellation
 * WINC: A Wireless IoT Network for Multi-Noise Source Cancellation, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586964) (ML)
 * MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (NO ML)
-
 
 #### Miscellaneous Topics
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, IMWUT 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314) (Survey)
@@ -647,7 +610,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
 
-
 #### Multi-Tenant Inference
 * Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.04339)
 * POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
@@ -679,8 +641,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 * Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading, MobiSys 17 [[Paper]](https://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf)
 
-
-
 #### ⏳ Runtime Adaptation
 <a name="runtime-adaptation"></a>
 + AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592529)
@@ -693,8 +653,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles, SenSys 20 [[Paper]](https://arxiv.org/pdf/2010.10754.pdf)
 * FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision, SEC 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)
-
-		
+	
 #### Model Compression
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)
 * DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131675)
@@ -731,7 +690,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)		
 * FoggyCache: Cross-Device Approximate Computation Reuse, MobiCom 18 [[Paper]](https://www.cs.yale.edu/homes/guo-peizhen/files/foggycache-mobicom18.pdf)
 
-
 #### Privacy-Preserving Offloading 
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
 + EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge, SenSys 23 [[Paper]](https://arxiv.org/pdf/2311.10986) 
@@ -739,7 +697,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 + Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3592514)
 + Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
 	
-
 ### 🎯 On-Device Training
 <a name="on-device-training"></a>
 #### Training on a Single Device
@@ -771,7 +728,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Ensemble distillation for robust model fusion in federated learning, NeurIPS 20 [[Paper]](https://dl.acm.org/doi/abs/10.5555/3495724.3495922)
 * FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization, AISTATS 20 [[Paper]](http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf)
 * A Distributed Synchronous SGD Algorithm with Global Top-k Sparsification for Low Bandwidth Networks, ICDCS 19 [[Paper]](https://www.computer.org/csdl/proceedings-article/icdcs/2019/251900c238/1ezRT3vzfcA)
-
 
 #### System Heterogeneity
 * TimelyFL: Heterogeneity-aware Asynchronous Federated Learning with Adaptive Partial Training, CVPR Workshop 23 [[Paper]](https://ieeexplore.ieee.org/document/10208323)
@@ -824,7 +780,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
 * Towards an On-device Agent for Text Rewriting [[Paper]](https://arxiv.org/pdf/2308.11807)
 
-
 ### Automated Machine Learning for AIoT
 * HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596845)
 * Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
@@ -837,8 +792,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems, MLSys 20 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2020/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf)
 * MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)	
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
-
-
 
 ### Compiler for AIoT	
 <a name="compilers-for-aiot"></a>
@@ -958,7 +911,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Card-stunt as a Service: Empowering a Massively Packed Crowd for Instant Collective Expressiveness, MobiSys 17 [[Paper]](https://nclab.kaist.ac.kr/uploads/2017/08/mobisys2017_cardstunt.pdf) (NO ML)
 * The DarkLight Rises: Visible Light Communication in the Dark, MobiCom 16 [[Paper]](https://www.cs.dartmouth.edu/~xia/papers/mobicom16-darklight.pdf) (NO ML)
 
-
 <a name="user-content-loralorawan"></a>
 #### LoRa/LoRaWAN (Total: 24 | No ML(18) | ML(2) | DL(4))
 * ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT, MobiSys 24, [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661861) (DL)
@@ -985,7 +937,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LongShoT: Long-Range Synchronization of Time, IPSN 19 [[Paper]](https://par.nsf.gov/servlets/purl/10107899) (NO ML)
 * FTrack: parallel decoding for LoRa transmissions, SenSys 19 [[Paper]](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/FTrack_Sensys19.pdf) (NO ML)
 * WIDESEE: Towards Wide-Area Contactless Wireless Sensing, SenSys 19 [[Paper]](https://zwang4.github.io/publications/sensys19.pdf) (NO ML)
-
 
 <a name="user-content-millimeter-Wave"></a>
 #### 〰️ mmWave (Total: 25 | No ML(23) | ML(2) | DL(0))
@@ -1040,8 +991,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SparSDR: Sparsity-proportional Backhaul and Compute for SDRs, MobiSys 19 [[Paper]](http://people.csail.mit.edu/moein/papers/sparsdr-mobisys19.pdf) (NO ML)
 * Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf) (NO ML)(supports multiple objectives)
 * The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf)(NO ML) (Best Community Paper Award)
-
-
 
 <a name="user-content-ctc"></a>
 #### CTC (Total: 23 | No ML(22) | ML(0) | DL(1))
@@ -1138,7 +1087,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Staffetta: Smart Duty-Cycling for Opportunistic Data Collection, SenSys 16 [[Paper]](https://www.st.ewi.tudelft.nl/marco/files/staffetta_Sensys16.pdf) (NO ML)
 * Effectively Capturing Attention Using the Capture Effect, SenSys 16 [[Paper]](https://tik-db.ee.ethz.ch/file/b468db98c89b23c868db49b3e72817d0/paper-sp.pdf) (NO ML)
 * Ripple II: Faster Communication through Physical Vibration, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-roy.pdf) (NO ML)
-
 
 <a name="user-content-batteryless"></a>
 ### Batteryless (99)
