@@ -50,7 +50,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Magentic Sensing](#magnetic-sensing)
     - [Cross-Medium Sensing](#cross-medium-sensing)
     - [Generative AI for Sensing](#generative-ai-for-sensing)
-  - [Computing (Total: 154)](#computing)
+  - [Computing (Total: 172)](#computing)
     - [On-Device Inference](#on-device-inference)
       	- [Inference Optimization](#inference-optimization)
       	- [Multi-Tenant Inference](#multi-tenant-inference)
@@ -583,12 +583,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (GenAI)
 * Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (GenAI)
      
-## 🧮 Computing							
+## 🧮 Computing (172)							
 <a name="computing"></a>	
 ### 📲 On-Device Inference						
 <a name="on-device-inference"></a>
 
-#### ⚡ Inference Optimization
+#### ⚡ Inference Optimization (Total: 19)
 <a name="inference-optimization"></a>
 * Boosting DNN Cold Inference on Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596842)
 * LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613285)
@@ -610,7 +610,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications, MobiSys 17 [[Paper]](https://www.cse.iitd.ac.in/~rijurekha/course/deepmon.pdf) 
 * SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing, ASPLOS 17 [[Paper]](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf) 
 
-#### Multi-Tenant Inference
+#### Multi-Tenant Inference (Total: 14)
 * Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.04339)
 * POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586953)
 * Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences, OSDI 22 [[Paper]](https://www.usenix.org/conference/osdi22/presentation/han)
@@ -626,7 +626,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware, MobiSys 17 [[Paper]](https://akhilmathurs.github.io/papers/mathur_mobisys2017.pdf)
 * MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints, MobiSys 17 [[Paper]](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
 
-#### 🔀 Cross-Processor Inference (Total: 11)
+#### 🔀 Cross-Processor Inference (Total: 12)
 <a name="cross-processor-inference"></a>
 * NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596870)
 * PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
@@ -641,11 +641,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 * Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading, MobiSys 17 [[Paper]](https://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf)
 
-#### ⏳ Runtime Adaptation
+#### ⏳ Runtime Adaptation (Total: 10)
 <a name="runtime-adaptation"></a>
-+ AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592529)
-+ On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625814)
-+ Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
+* AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592529)
+* On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625814)
+* Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
 * Memory-Efficient Domain Incremental Learning for Internet of Things,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)	
 * LiteReconfig: Cost and Content Aware Reconfiguration of Video Object Detection Systems for Mobile GPUs, EuroSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 21	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
@@ -654,34 +654,34 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision, SEC 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)
 	
-#### Model Compression
+#### Model Compression (Total: 3)
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)
 * DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131675)
 * Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables, SenSys 16 [[Paper]](https://discovery.ucl.ac.uk/id/eprint/1535346/1/main%20(3).pdf)
 	
-#### 🔐 Privacy-Preserving Inference
+#### 🔐 Privacy-Preserving Inference (Total: 3)
 * Characterizing and Optimizing End-to-End Systems for Private Inference, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2207.07177.pdf)
 * SOTER: Guarding Black-box Inference for General Neural Networks at the Edge, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-shen.pdf)	
 * Shredder: Learning Noise Distributions to Protect Inference Privacy, ASPLOS 20 [[Paper]](https://arxiv.org/pdf/1905.11814.pdf)
   
-#### 📊 Benchmarks (Total: 2)
-+ nnPerf: Demystifying DNN Runtime Inference Latency on Mobile Platforms, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625797)
+#### 📊 Benchmarks (Total: 3)
+* nnPerf: Demystifying DNN Runtime Inference Latency on Mobile Platforms, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625797)
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
 
 ### Offloading	
-#### Model Partitioning
+#### Model Partitioning (Total: 3)
 * Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI, MobiCom 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom22.pdf)	
 * CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215)	
 * Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge, ASPLOS 17 [[Paper]](https://dl.acm.org/doi/10.1145/3037697.3037698)
   
-#### Workload Partitioning
+#### Workload Partitioning (Total: 4)
 * CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks, IPSN 23 [[Paper]](https://neawhen.github.io/neiwen.github.io/assets/pdf/coedge_ipsn23.pdf)
 * Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading, MobiCom 21 [[Paper]](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)	
 * Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping, MobiSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10167133) (NO ML) (Also AR)
 * LEO: Scheduling Sensor Inference Algorithms across Heterogeneous Mobile Processors and Network Resources, MobiCom 16 [[Paper]](https://core.ac.uk/download/pdf/83939419.pdf)
 
-#### Communication Optimization
+#### Communication Optimization (Total: 7)
 * Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL, SenSys 22 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/11/sensys22-hyperion.pdf) (NO ML)
 * SwarmMap: Scaling Up Real-time Collaborative Visual SLAM at the Edge, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-xu_jingao.pdf) (NO ML)
 * Context-Aware Compilation of DNN Training Pipelines across Edge and Cloud, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494981) [[code]](https://github.com/dixiyao/Context-Aware-Compilation-of-DNN-Training-Pipelines-across-Edge-and-Cloud)
@@ -690,18 +690,18 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)		
 * FoggyCache: Cross-Device Approximate Computation Reuse, MobiCom 18 [[Paper]](https://www.cs.yale.edu/homes/guo-peizhen/files/foggycache-mobicom18.pdf)
 
-#### Privacy-Preserving Offloading 
+#### Privacy-Preserving Offloading (Total: 5)
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
-+ EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge, SenSys 23 [[Paper]](https://arxiv.org/pdf/2311.10986) 
-+ Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592531)
-+ Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3592514)
-+ Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
+* EdgeFM: Leveraging Foundation Model for Open-set Learning on the Edge, SenSys 23 [[Paper]](https://arxiv.org/pdf/2311.10986) 
+* Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592531)
+* Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3592514)
+* Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
 	
 ### 🎯 On-Device Training
 <a name="on-device-training"></a>
-#### Training on a Single Device
-+ Cost-effective On-device Continual Learning over Memory Hierarchy with Miro, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2308.06053.pdf)
-+ LifeLearner: Hardware-Aware Meta Continual Learning System for Embedded Computing Platforms, SenSys 23 [[Paper]](https://arxiv.org/pdf/2311.11420)
+#### Training on a Single Device (Total: 11)
+* Cost-effective On-device Continual Learning over Memory Hierarchy with Miro, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2308.06053.pdf)
+* LifeLearner: Hardware-Aware Meta Continual Learning System for Embedded Computing Platforms, SenSys 23 [[Paper]](https://arxiv.org/pdf/2311.11420)
 * ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection, MobiSys 23 [[Paper]](https://hellokevin07.github.io/files/mobisys23-ElasticTrainer.pdf) [[Code]](https://github.com/HelloKevin07/ElasticTrainer)
 * On-Device Training Under 256KB Memory, NeurIPS 22 [[Paper]](https://arxiv.org/abs/2206.15472)
 * Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-he.pdf)
@@ -712,24 +712,24 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Full deep neural network training on a pruned weight budget,	MLSys	19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/135.pdf)		
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/10.1145/3297858.3304038)	
 
-#### Training on Distributed Devices
+#### Training on Distributed Devices (Total: 2)
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
 
 ### Federated Learning
-#### Data Heterogeneity
+#### Data Heterogeneity (Total: 3)
 * GPT-FL: Generative Pre-trained Model-Assisted Federated Learning." ArXiv 23 [[Paper]](https://arxiv.org/abs/2306.02210)
 * BalanceFL: Addressing Class Imbalance in Long-tail Federated Learning, IPSN 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BalanceFL-IPSN22.pdf) [[code]](https://github.com/sxontheway/BalanceFL)
 *  FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients, MobiSys 22 [[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
 
-####  Communication Optimization
+####  Communication Optimization (Total: 5)
 * Faster Non-Convex Federated Learning via Global and Local Momentum, UAI 22 [[Paper]](https://openreview.net/forum?id=SSlLRUIs9e9)
 * Adaptive Quantization of Model Updates for Communication-Efficient Federated Learning, ICASSP 21 [[Paper]](https://ieeexplore.ieee.org/document/9413697)
 * Ensemble distillation for robust model fusion in federated learning, NeurIPS 20 [[Paper]](https://dl.acm.org/doi/abs/10.5555/3495724.3495922)
 * FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization, AISTATS 20 [[Paper]](http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf)
 * A Distributed Synchronous SGD Algorithm with Global Top-k Sparsification for Low Bandwidth Networks, ICDCS 19 [[Paper]](https://www.computer.org/csdl/proceedings-article/icdcs/2019/251900c238/1ezRT3vzfcA)
 
-#### System Heterogeneity
+#### System Heterogeneity (Total: 6)
 * TimelyFL: Heterogeneity-aware Asynchronous Federated Learning with Adaptive Partial Training, CVPR Workshop 23 [[Paper]](https://ieeexplore.ieee.org/document/10208323)
 * Federated Learning with Buffered Asynchronous Aggregation, AISTATS 22 [[Paper]](https://proceedings.mlr.press/v151/nguyen22b)
 * FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568538)
@@ -737,7 +737,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low Overhead, in IEEE Transactions on Computers 2021 [[Paper]](https://ieeexplore.ieee.org/document/9093123)
 * Asynchronous Federated Optimization, Workshop on Optimization for Machine Learning in conjunction with NeurIPS 20 [[Paper]](https://arxiv.org/abs/1903.03934)
 
-#### Personalization
+#### Personalization (Total: 6)
 * FedSelect: Personalized Federated Learning with Customized Selection of Parameters for Fine-Tuning, CVPR 2024 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tamirisa_FedSelect_Personalized_Federated_Learning_with_Customized_Selection_of_Parameters_for_CVPR_2024_paper.pdf)
 * AttFL: A Personalized Federated Learning Framework for Time-series Mobile and Embedded Sensor Data Processing, IMWUT 2024 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3610917)
 * TailorFL: Dual-Personalized Federated Learning under System and Data Heterogeneity, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568503)
@@ -745,12 +745,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition, SenSys 21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)	
 * FedMask:  Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485929)
 
-#### Client Selection
+#### Client Selection (Total: 3)
 * PyramidFL: a fine-grained client selection framework for efficient federated learning, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)
 * Oort: Efficient Federated Learning via Guided Participant Selection, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-lai.pdf)		
 * ClusterFL: a similarity-aware federated learning system for human activity recognition, MobiSys 21 [[Paper]](https://aiot.ie.cuhk.edu.hk/papers/ClusterFL.pdf)
 
-#### Model Heterogeneity
+#### Model Heterogeneity (Total: 7)
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)
 * Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning, IJCAI 22 [[Paper]](https://www.ijcai.org/proceedings/2022/0399)
 * FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout, NeurIPS 21 [[Paper]](https://proceedings.neurips.cc/paper/2021/file/6aed000af86a084f9cb0264161e29dd3-Paper.pdf)
@@ -759,7 +759,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FedMD: Heterogenous Federated Learning via Model Distillation, Workshop on Federated Learning for Data Privacy and Confidentiality in conjunction with NeurIPS 2019 [[Paper]](https://arxiv.org/abs/1910.03581)
 * Expanding the reach of federated learning by reducing client resource requirements, Arxiv 18 [[Paper]](https://arxiv.org/abs/1812.07210) 
 			
-#### Frameworks and Benchmarks
+#### Frameworks and Benchmarks (Total: 11)
 * FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things, DMLR 24 [[Paper]](https://openreview.net/forum?id=fYNw9Ukljz)
 * FedMultimodal: A Benchmark for Multimodal Federated Learning, KDD 23 [[Paper]](https://arxiv.org/abs/2306.09486)
 * FedAudio: A Federated Learning Benchmark for Audio Tasks, ICASSP 23 [[Paper]](https://arxiv.org/pdf/2210.15707.pdf)
@@ -772,7 +772,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks,  Workshop on Distributed and Private Machine Learning in conjunction with ICLR 21 [[Paper]](https://arxiv.org/abs/2104.07145)
 * FedML: A Research Library and Benchmark for Federated Machine Learning, International Workshop on Scalability, Privacy, and Security in Federated Learning in conjunction with NeurIPS 20 [[Paper]](https://arxiv.org/abs/2007.13518)
 
-### AI Agents for AIoT
+### AI Agents for AIoT (Total: 5)
 <a name="ai-agent-aiot"></a>
 * Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception, ICLR 2024 [[Paper]](https://arxiv.org/pdf/2401.16158)
 * Octopus v2: On-device language model for super agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.01744)
@@ -780,7 +780,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf)
 * Towards an On-device Agent for Text Rewriting [[Paper]](https://arxiv.org/pdf/2308.11807)
 
-### Automated Machine Learning for AIoT
+### Automated Machine Learning for AIoT (Total: 11)
 * HarvNet: Resource-Optimized Operation of Multi-Exit Deep Neural Networks on Energy Harvesting Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596845)
 * Hyperscale Hardware Optimized Neural Architecture Search, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582049)
 * Towards the Co-design of Neural Networks and Accelerators, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf)			
@@ -793,7 +793,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MCUNet: Tiny Deep Learning on IoT Devices,	NeurIPS	20	[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/86c51678350f656dcc7f490a43946ee5-Abstract.html)	
 * Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?, NeurIPS 20 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)	
 
-### Compiler for AIoT	
+### Compiler for AIoT (Total: 19)
 <a name="compilers-for-aiot"></a>
 * Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators, ASPLOS 23 [[Paper]](https://dl.acm.org/doi/10.1145/3582016.3582061)
 * Bringing WebAssembly to Resource-constrained IoT Devices for Seamless Device-Cloud Integration, MobiSys 22 [[paper]](https://liborui.github.io/publication/2022-mobisys22-wait/2022-mobisys22-wait.pdf) (NO ML)
