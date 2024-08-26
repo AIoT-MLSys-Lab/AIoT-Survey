@@ -759,21 +759,21 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
 
-#### Federated Learning
-##### Data Heterogeneity
+### Federated Learning
+#### Data Heterogeneity
 * GPT-FL: Generative Pre-trained Model-Assisted Federated Learning." ArXiv 23 [[Paper]](https://arxiv.org/abs/2306.02210)
 * BalanceFL: Addressing Class Imbalance in Long-tail Federated Learning, IPSN 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BalanceFL-IPSN22.pdf) [[code]](https://github.com/sxontheway/BalanceFL)
 *  FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients, MobiSys 22 [[Paper]](https://arxiv.org/pdf/2201.01601.pdf)
 
-#####  Communication Optimization
-* Faster Non-Convex Federated Learning via Global and Local Momentum, UAI 22 [[Paper](https://openreview.net/forum?id=SSlLRUIs9e9)
+####  Communication Optimization
+* Faster Non-Convex Federated Learning via Global and Local Momentum, UAI 22 [[Paper]](https://openreview.net/forum?id=SSlLRUIs9e9)
 * Adaptive Quantization of Model Updates for Communication-Efficient Federated Learning, ICASSP 21 [[Paper]](https://ieeexplore.ieee.org/document/9413697)
 * Ensemble distillation for robust model fusion in federated learning, NeurIPS 20 [[Paper]](https://dl.acm.org/doi/abs/10.5555/3495724.3495922)
 * FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization, AISTATS 20 [[Paper]](http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf)
 * A Distributed Synchronous SGD Algorithm with Global Top-k Sparsification for Low Bandwidth Networks, ICDCS 19 [[Paper]](https://www.computer.org/csdl/proceedings-article/icdcs/2019/251900c238/1ezRT3vzfcA)
 
 
-##### System Heterogeneity
+#### System Heterogeneity
 * TimelyFL: Heterogeneity-aware Asynchronous Federated Learning with Adaptive Partial Training, CVPR Workshop 23 [[Paper]](https://ieeexplore.ieee.org/document/10208323)
 * Federated Learning with Buffered Asynchronous Aggregation, AISTATS 22 [[Paper]](https://proceedings.mlr.press/v151/nguyen22b)
 * FedSEA: A Semi-Asynchronous Federated Learning Framework for Extremely Heterogeneous Devices, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568538)
@@ -781,7 +781,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low Overhead, in IEEE Transactions on Computers 2021 [[Paper]](https://ieeexplore.ieee.org/document/9093123)
 * Asynchronous Federated Optimization, Workshop on Optimization for Machine Learning in conjunction with NeurIPS 20 [[Paper]](https://arxiv.org/abs/1903.03934)
 
-##### Personalization
+#### Personalization
 * FedSelect: Personalized Federated Learning with Customized Selection of Parameters for Fine-Tuning, CVPR 2024 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tamirisa_FedSelect_Personalized_Federated_Learning_with_Customized_Selection_of_Parameters_for_CVPR_2024_paper.pdf)
 * AttFL: A Personalized Federated Learning Framework for Time-series Mobile and Embedded Sensor Data Processing, IMWUT 2024 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3610917)
 * TailorFL: Dual-Personalized Federated Learning under System and Data Heterogeneity, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568503)
@@ -789,12 +789,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FedDL: Federated Learning via Dynamic Layer Sharing for Human Activity Recognition, SenSys 21	[[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485946)	
 * FedMask:  Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking, SenSys 21 [[Paper]](https://dl.acm.org/doi/10.1145/3485730.3485929)
 
-##### Client Selection
+#### Client Selection
 * PyramidFL: a fine-grained client selection framework for efficient federated learning, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517017)
 * Oort: Efficient Federated Learning via Guided Participant Selection, OSDI 21 [[Paper]](https://www.usenix.org/system/files/osdi21-lai.pdf)		
 * ClusterFL: a similarity-aware federated learning system for human activity recognition, MobiSys 21 [[Paper]](https://aiot.ie.cuhk.edu.hk/papers/ClusterFL.pdf)
 
-##### Model Heterogeneity
+#### Model Heterogeneity
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction, NeurIPS 22 [[Paper]](https://openreview.net/forum?id=OtxyysUdBE)
 * Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning, IJCAI 22 [[Paper]](https://www.ijcai.org/proceedings/2022/0399)
 * FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout, NeurIPS 21 [[Paper]](https://proceedings.neurips.cc/paper/2021/file/6aed000af86a084f9cb0264161e29dd3-Paper.pdf)
@@ -803,7 +803,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FedMD: Heterogenous Federated Learning via Model Distillation, Workshop on Federated Learning for Data Privacy and Confidentiality in conjunction with NeurIPS 2019 [[Paper]](https://arxiv.org/abs/1910.03581)
 * Expanding the reach of federated learning by reducing client resource requirements, Arxiv 18 [[Paper]](https://arxiv.org/abs/1812.07210) 
 			
-##### Frameworks and Benchmarks
+#### Frameworks and Benchmarks
 * FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things, DMLR 24 [[Paper]](https://openreview.net/forum?id=fYNw9Ukljz)
 * FedMultimodal: A Benchmark for Multimodal Federated Learning, KDD 23 [[Paper]](https://arxiv.org/abs/2306.09486)
 * FedAudio: A Federated Learning Benchmark for Audio Tasks, ICASSP 23 [[Paper]](https://arxiv.org/pdf/2210.15707.pdf)
