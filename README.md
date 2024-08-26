@@ -666,8 +666,10 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 #### 🔀 Cross-Processor Inference (Total: 11)
 <a name="cross-processor-inference"></a>
-##### Model Partitioning
 * NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596870)
+* PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
+* Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
+* Mandheling: mixed-precision on-device DNN training with DSP offloading,MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
 * BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
 * CoDL: Efficient CPU-GPU Co-execution for Deep Learning Inference on Mobile Devices, MobiSys 22 [[Paper]](https://chrisplus.me/assets/pdf/mobisys22-CoDL.pdf)
 * AsyMo: Scalable and Efficient Deep-Learning Inference on Asymmetric Mobile CPUs, MobiCom 21 [[Paper]](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-asymo.pdf)
@@ -677,14 +679,13 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3302424.3303950)	
 * Accelerating Mobile Audio Sensing Algorithms through On-Chip GPU Offloading, MobiSys 17 [[Paper]](https://www.cl.cam.ac.uk/~cm542/papers/mobisys17.pdf)
 
-##### Task Scheduling
-* PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
-* Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
-* Mandheling: mixed-precision on-device DNN training with DSP offloading,MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560545)			
 
 
 #### ⏳ Runtime Adaptation
 <a name="runtime-adaptation"></a>
++ AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592529)
++ On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625814)
++ Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
 * Memory-Efficient Domain Incremental Learning for Internet of Things,	SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568436)	
 * LiteReconfig: Cost and Content Aware Reconfiguration of Video Object Detection Systems for Mobile GPUs, EuroSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577)
 * Mistify: Automating DNN Model Porting for On-Device Inference at the Edge, NSDI 21	[[Paper]](https://www.usenix.org/system/files/nsdi21-guo.pdf)	
@@ -693,9 +694,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision, SEC 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)
 * MetaSense: few-shot adaptation to untrained conditions in deep mobile sensing, SenSys	19 [[Paper]](https://taesikgong.com/paper/SenSys19_MetaSense.pdf)
 
-+ AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592529)
-+ On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625814)
-+ Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines, SenSys 22 [[Paper]](https://alessandro-montanari.github.io/papers/sensys2022.pdf)
 		
 #### Model Compression
 * On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework, MobiSys 18 [[Paper]](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)
