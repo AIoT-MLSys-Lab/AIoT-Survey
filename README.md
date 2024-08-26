@@ -1277,9 +1277,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 <a name="domain-specific-aiot-systems"></a>
 ## Domain-specific AIoT Systems (256)
 							
-### 🩺 AIoT Systems for Healthcare and Well-being ()
+### 🩺 AIoT Systems for Healthcare and Well-being (Total:  | No ML() | ML() | DL())
 <a name="aiot-systems-for-healthcare-and-well-being"></a>
-#### Vital Sign Monitoring (Total:  | No ML() | ML() | DL())
+#### Vital Sign Monitoring 
 * APG: Audioplethysmography for Cardiac Monitoring in Hearables, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613281) (NO ML)
 * DF-Sense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596867) (NO ML)
 * Passive Vital Sign Monitoring via Facial Vibrations Leveraging AR/VR Headsets, MobiSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596848) (DL)
@@ -1310,8 +1310,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Burnout: A Wearable System for Unobtrusive Skeletal Muscle Fatigue Estimation, IPSN 16 [[Paper]](https://www.ceid.upatras.gr/webpages/courses/adhocnets/files/papers/paper21.pdf) (ML)
 * HB-Phone: a Bed-Mounted Geophone-Based Heartbeat Monitoring System, IPSN 16 [[Paper]](https://ieeexplore.ieee.org/document/7460676) (NO ML)
 
-
-#### In-Situ Illness Detection and Monitoring (Total:  | No ML() | ML() | DL())
+#### In-Situ Illness Detection and Monitoring 
 * PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones, MobiSys 23 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys23-ptease.pdf) (DL)
 * PDAssess: A Privacy-preserving Free-speech based Parkinson’s Disease Daily Assessment System, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625805) (DL)
 * Burnout and the Quantified Workplace: Tensions around Personal Sensing Interventions for Stress in Resident Physicians, ACM HCI 22 [[Paper]](https://dl.acm.org/doi/10.1145/3555531)
@@ -1327,8 +1326,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Mobile Phone Sensor Correlates of Depressive Symptom Severity in Daily-Life Behavior: An Exploratory Study, JMIR 15 [[Paper]](https://www.jmir.org/2015/7/e175)
 * StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones, UbiComp 14 [[Paper]](https://dl.acm.org/doi/10.1145/2632048.2632054)
 
-
-#### Assistive Technology (Total:  | No ML() | ML() | DL())
+#### Assistive Technology
 * ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes, IPSN 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3586962) (DL)
 * AccessWear: Making Smartphone Applications Accessible to Blind Users, MobiCom 23 [[Paper]](https://www3.cs.stonybrook.edu/~jain/papers/MobiCom_AccessWear_2023.pdf) (NO ML)
 * Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses, MobiCom  23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613260) (ML)
@@ -1341,17 +1339,14 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation,SenSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3131672.3131693) (DL)
 * iBlink: Smart Glasses for Facial Paralysis Patients, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081343) (DL)
 
-
-#### Personal Health Insight Generation (Total:  | No ML() | ML() | DL())
+#### Personal Health Insight Generation
 * Towards a Personal Health Large Language Model, Arxiv 24 [[Paper]](https://arxiv.org/abs/2406.06474)
 * Transforming Wearable Data into Health Insights using Large Language Model Agents, Arxiv 24 [[Paper]](https://arxiv.org/abs/2406.06464)
 * From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models, IMWUT 24 [[Paper]](https://dl.acm.org/doi/10.1145/3659604)
 
-
-
-### 📺 AIoT Systems for Video Streaming ()
+### 📺 AIoT Systems for Video Streaming (Total:  | No ML() | ML() | DL())
 <a name="aiot-systems-for-video-streaming"></a>
-#### Adaptive Video Streaming (Total:  | No ML() | ML() | DL())
+#### Adaptive Video Streaming 
 * Enabling High Quality Real-Time Communications with Adaptive Frame-Rate, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-meng.pdf) (NO ML)
 * Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-li-zhuqi.pdf) (NO ML)
 * Dragonfly: Higher Perceptual Quality For Continuous 360° Video Playback, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604876) (NO ML)
@@ -1377,16 +1372,14 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Neural Adaptive Video Streaming with Pensieve, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098843) (DL)
 * RnB: Rate and Brightness Adaptation for Rate-Distortion-Energy Tradeoff in HTTP Adaptive Streaming over Mobile Devices, MobiCom 16 [[Paper]](https://mason.gmu.edu/~zyan4/papers/rnb_mobicom16.pdf) (ML)
 
-
-#### Video Enhancement (Total:  | No ML() | ML() | DL())
+#### Video Enhancement
 * OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596851) (DL)
 * NeuroScaler: neural video enhancement at scale, SIGCOMM 22 [[Paper]](https://jaykim305.github.io/assets/pdf/neuroscaler-sigcomm22.pdf) (DL)
 * NEMO: enabling neural-enhanced video streaming on commodity mobile devices, MobiCom 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3372224.3419185.pdf) (DL)
 * Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning, SIGCOMM 20 [[Paper]](https://hyunhoyeo.com/assets/pdf/3387514.3405856.pdf) (DL)
 * Neural Adaptive Content-aware Internet Video Delivery, OSDI 18 [[Paper]](https://www.usenix.org/system/files/osdi18-yeo.pdf) (DL)
 
-
-#### Efficiency Optimization (Total:  | No ML() | ML() | DL())
+#### Efficiency Optimization
 * Tambur: Efficient loss recovery for videoconferencing via streaming codes, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-rudow.pdf) (DL)
 * CellFusion: Multipath Vehicle-to-Cloud Video Streaming with Network Coding in the Wild, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604832) (NO ML)
 * Converge: QoE-driven Multipath Video Conferencing over WebRTC, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604822) (NO ML)
@@ -1404,8 +1397,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Disk|Crypt|Net: rethinking the stack for high-performance video streaming, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098844) (NO ML)
 * CFA: A Practical Prediction System for Video QoE Optimization, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-jiang-junchen.pdf) (ML)
 
-
-#### Volumetric Videos  (Total:  | No ML() | ML() | DL())
+#### Volumetric Videos  
 * FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592525) (DL)
 * MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592530) (DL)
 * Vues: Practical Mobile Volumetric Video Streaming Through Multiview Transcoding, MobiCom22 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vues_mobicom22.pdf) (ML)
@@ -1415,20 +1407,20 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 
-### 🎦 AIoT Systems for Video Analytics	()
+### 🎦 AIoT Systems for Video Analytics	(Total:  | No ML() | ML() | DL())
 <a name="aiot-systems-for-video-analytics"></a>
-#### Continuous Learning (Total:  | No ML() | ML() | DL())
+#### Continuous Learning
 * RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf) (DL)
 * Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-bhardwaj.pdf) (DL)
 
-#### Runtime Adaptation (Total:  | No ML() | ML() | DL())
+#### Runtime Adaptation
 * Enhancing Video Analytics Accuracy via Real-time Automated Camera Parameter Tuning, SenSys 22 [[Paper]](https://arxiv.org/pdf/2107.03964.pdf) (DL)
 * Turbo: Opportunistic Enhancement for Edge Video Analytics, SenSys 22 [[Paper]](https://arxiv.org/pdf/2207.00172.pdf) (DL)
 * Distream: Scaling Live Video Analytics with Workload-Adaptive Distributed Edge Intelligence, SenSys 20 [[Paper]](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf) (DL)
 * Chameleon: scalable adaptation of video analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230574) (DL)
 * AWStream: Adaptive Wide-Area Streaming Analytics, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230554) (DL)
 
-#### Efficiency Optimization (Total:  | No ML() | ML() | DL())
+#### Efficiency Optimization
 * Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-padmanabhan.pdf) [[code]](https://github.com/artpad6/gemel_nsdi23) (DL)
 * PacketGame: Multi-Stream Packet Gating for Concurrent Video Inference at Scale, SIGCOMM 23 [[Paper]](https://yuanmu97.github.io/preprint/packetgame_sigcomm23.pdf) (DL)
 * CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics, ATC 22 [[Paper]](https://www.usenix.org/system/files/atc22-hwang.pdf) (DL)
@@ -1438,8 +1430,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Scaling Video Analytics on Constrained Edge Nodes, MLSys 19	[[Paper]](https://mlsys.org/Conferences/2019/doc/2019/197.pdf) (DL)
 * Panoptes: Servicing Multiple Applications Simultaneously using Steerable Cameras, IPSN 17 [[Paper]](https://winlab.rutgers.edu/~shubhamj/papers/Shubham_Panoptes_IPSN2017.pdf) (NO ML)
 
-
-#### Query Optimization (Total:  | No ML() | ML() | DL())
+#### Query Optimization 
 * Boggart: Towards General-Purpose Acceleration of Retrospective Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-agarwal-neil.pdf) (DL)
 * Privid: Practical, Privacy-Preserving Video Analytics Queries, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-cangialosi.pdf) (DL)
 * Tutti: coupling 5G RAN and mobile edge computing for latency-critical video analytics, MobiCom 22 [[Paper]](https://dl.acm.org/doi/10.1145/3495243.3560538) (DL)
@@ -1449,9 +1440,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 
-### 🚘 AIoT Systems for Autonomous Driving ()
+### 🚘 AIoT Systems for Autonomous Driving (Total:  | No ML() | ML() | DL())
 <a name="aiot-systems-for-autonomous-driving"></a>
-#### Perception Enhancement (Total:  | No ML() | ML() | DL())
+#### Perception Enhancement
 * Ghost-Probe: NLOS Pedestrian Rushing Detection with Monocular Camera for Automated Driving, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625791) (DL)
 * Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors, MobiCom 23 [[Paper]](https://ry4nzhu.github.io/publication/robust_real_time/robust_real_time.pdf) (DL)
 * AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592517) (DL) (also federated learning)
@@ -1468,7 +1459,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Object Recognition and Navigation using a Single Networking Device, MobiSys 17 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/60gradar-mobisys17.pdf) (NO ML)
 
 
-#### Localization, Tracking, and Mapping (Total:  | No ML() | ML() | DL())
+#### Localization, Tracking, and Mapping
 * VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving, MobiCom 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VI-Map-MobiCom23.pdf) (DL)
 * uGPS: Design and Field-Tested Seamless GNSS Infrastructure in Metro City, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560520) (NO ML)
 * MVP: magnetic vehicular positioning system for GNSS-denied environments, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483264) (DL)
@@ -1481,13 +1472,13 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * EXIMIUS: A Measurement Framework for Explicit and Implicit Urban Traffic Sensing, SenSys 18 [[Paper]](https://people.cs.rutgers.edu/~dz220/paper/Eximius.pdf) (NO ML)
 
 
-#### Automatic Testing (Total:  | No ML() | ML() | DL())
+#### Automatic Testing
 * Diagnosing Vehicles with Automotive Batteries, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300126) (ML)
 * Automatic Unusual Driving Event Identification for Dependable Self-Driving, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274838) (DL)
 * Sentio: Driver-in-the-Loop Forward Collision Warning Using Multisample Reinforcement Learning, SenSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3274783.3274843) (ML)
 * BigRoad: Scaling Road Data Acquisition for Dependable Self-Driving, MobiSys 17 [[Paper]](https://personal.stevens.edu/~ychen6/papers/mobisys17-BigRoad.pdf) (DL)
 
-#### Control and Actuation (Total:  | No ML() | ML() | DL())
+#### Control and Actuation
 * Eagle: End-to-end Deep Reinforcement Learning based Autonomous Control of PTZ Cameras, IoTDI 23 [[Paper]](https://dl.acm.org/doi/10.1145/3576842.3582366)
 
 #### Vehicular Networking
@@ -1515,7 +1506,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 
-#### User Inputs (Total:  | No ML() | ML() | DL())
+#### User Inputs
 * UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613263) (DL)
 * Egocentric Human Pose Estimation using Head-mounted mmWave Radar, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625799) (DL)
 * Cyclops: an FSO-based wireless link for VR headsets, SIGCOMM 22 [[Paper]](http://www.contrib.andrew.cmu.edu/~malleshd/papers/sigcomm-2022-paper.pdf) (NO ML)
@@ -1529,7 +1520,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 
 
-#### Performance Enhancement (Total:  | No ML() | ML() | DL())
+#### Performance Enhancement
 * Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality, SenSys 22 [[Paper]](https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf) (DL)
 * Q-VR: System-Level Design for Future Collaborative Virtual Reality Rendering, ASPLOS 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3445814.3446715) (ML)
 * Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices, ASPLOS 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3373376.3378516) (NO ML)
@@ -1548,7 +1539,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (NO ML)
 
 
-#### Omnidirectional AR (Total:  | No ML() | ML() | DL())
+#### Omnidirectional AR
 * SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, MobiCom 22 [[Papaer]](https://www-users.cse.umn.edu/~fengqian/paper/salientvr_mobicom22.pdf) (DL)
 * Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality, MobiSys 21 [[Paper]](https://arxiv.org/pdf/2106.15280.pdf) (DL)
 
