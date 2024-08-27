@@ -1126,7 +1126,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Focus: Robust Visual Codes for Everyone, MobiSys 16 [[Paper]](https://user.it.uu.se/~eding810/conferences/Mobisys16.pdf) (No ML)
 
 <a name="user-content-lora"></a>
-#### LoRa/LoRaWAN (Total: 8 | No ML(9) | ML(0) | DL(0))
+#### LoRa/LoRaWAN (Total: 8 | No ML(8) | ML(0) | DL(0))
 * LocRa: Enable Practical Long-Range Backscatter Localization for Low-Cost Tags, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596863) (No ML)
 * Long-Range Ambient LoRa Backscatter with Parallel Decoding, MobiCom 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBICOM21-p2lora.pdf) (No ML)
 * Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf) (No ML)	
