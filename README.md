@@ -41,7 +41,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     	- [UWB Sensing](#uwb-sensing)
     	- [Bluetooth Sensing](#bluetooth-sensing)
       	- [NFC Sensing](#nfc-sensing)
-      	- [RF Sensing](#rf-sensing)
+      	- [Others](#rf-sensing)
     - [Vision Sensing](#vision-sensing)
     - [Acoustic Sensing](#acoustic-sensing)
     - [Multi-Modal Sensing](#multi-modal-sensing)
@@ -198,7 +198,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Verification: Accuracy Evaluation of WiFi Fine Time Measurements on an Open Platform, MobiCom 18 [[Paper]](https://winlab.rutgers.edu/~gruteser/papers/ftm_mobicom.pdf) (No ML)
 * Decimeter-Level Localization with a Single WiFi Access Point, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf) (No ML)
 * LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(No ML)
-
  
 ##### Imaging
 * Wiffract: A New Foundation for RF Imaging via Edge Tracing, MobiCom 22 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/PallaproluKoranyMostofi_MobiCom2022.pdf) (ML)
@@ -337,7 +336,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Locating Everyday Objects using NFC Textiles, IPSN 21 [[Paper]](https://swarunkumar.com/papers/textilesense-ipsn2021.pdf) (No ML)
 
 <a name="rf-sensing"></a>
-#### RF Sensing (Total: 7 | No ML(2) | ML(1) | DL(4))
+#### Others (Total: 7 | No ML(2) | ML(1) | DL(4))
 * Quantum Wireless Sensing: Principle, Design and Implementation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613258) (No ML)
 * DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613272) (No ML)
 * Quantifying the Physical Separability of RF-based Multi-Person Respiration Monitoring via SINR, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568513) (DL)
@@ -582,7 +581,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (Gen AI)
 * Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (Gen AI)
   
-     
 ## 🧮 Computing (172)							
 <a name="computing"></a>	
 ### 📲 On-Device Inference						
