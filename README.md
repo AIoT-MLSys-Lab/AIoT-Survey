@@ -208,7 +208,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf) (No ML)
 
 ##### Gesture Recognition
-* RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://arxiv.org/pdf/2404.09140) (DL)
+* RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://arxiv.org/pdf/2404.09140) (Gen AI)
 * UniFi: A Unified Framework for Generalizable Gesture Recognition with Wi-Fi Signals Using Consistency-guided Multi-View Networks, IMWUT 24 [[Paper]](https://dl.acm.org/doi/10.1145/3631429) (DL)
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf) (DL)
 * MUSE-Fi: Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613290) (DL)
@@ -579,9 +579,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 <a name="generative-ai-for-sensing"></a>
 ### 📜 Generative AI for Sensing (Total: 3 | No ML(0) | ML(0) | DL(3))
-* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (GenAI)
-* LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (GenAI)
-* Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (GenAI)
+* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (Gen AI)
+* LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (Gen AI)
+* Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (Gen AI)
      
 ## 🧮 Computing (172)							
 <a name="computing"></a>	
