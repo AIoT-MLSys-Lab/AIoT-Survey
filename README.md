@@ -29,7 +29,7 @@ As both IoT and AI become increasingly critical to our society, we believe AIoT 
 Besides the survey and the repository, we also host the OSU AIoT Seminar Series where we invite speakers at the frontier of AIoT from both academia and industry to talk about their works. The talk videos are available at: https://sites.google.com/view/osu-aiot-seminar.
 
 ## 📖 Table of Content
-  - 🌡️ [Sensing (Total: 319)](#sensing)
+  - 🌡️ [Sensing (Total: 320)](#sensing)
     - [Motion Sensing](#motion-sensing)
     - [Wireless Sensing](#wireless-sensing)
     	- [RFID Sensing](#rfid-sensing)
@@ -50,7 +50,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Magentic Sensing](#magnetic-sensing)
     - [Cross-Medium Sensing](#cross-medium-sensing)
     - [Generative AI for Sensing](#generative-ai-for-sensing)
-  - 📲 [Computing (Total: 172)](#computing)
+  - 📲 [Computing (Total: 168)](#computing)
     - [On-Device Inference](#on-device-inference)
       	- [Inference Optimization](#inference-optimization)
       	- [Multi-Tenant Inference](#multi-tenant-inference)
@@ -78,7 +78,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AI Agents for AIoT](#ai-agent-aiot)
     - [Automated Machine Learning](#auto-ML)
     - [Compilers for AIoT](#compilers-for-aiot)
-  - 📶 [Networking and Communication (Total: 333)](#networking-and-communication)
+  - 📶 [Networking and Communication (Total: 324)](#networking-and-communication)
     - [Battery-powered Networking and Communication](#user-content-battery)
       - [Cellular/Mobile Networks](#user-content-cellular)
       - [Wi-Fi Networks](#user-content-wifi)
@@ -116,7 +116,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ⚡Note: "No ML" denotes no machine learning techniques are used. "ML" denotes traditional machine learning techniques are used. "DL" denotes deep learning techniques are used. "GenAI" denotes generative AI techniques are used.
 
 <a name="sensing"></a>
-## 🌡️ Sensing (319)
+## 🌡️ Sensing (320)
 
 <a name="motion-sensing"></a>
 ### Motion Sensing (Total: 10 | No ML(1) | ML(2) | DL(7))
@@ -585,12 +585,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (GenAI)
 * Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (GenAI)
   
-## 📲 Computing (172)							
+## 📲 Computing (168)							
 <a name="computing"></a>	
 ### On-Device Inference						
 <a name="on-device-inference"></a>
 
-#### Inference Optimization (Total: 19)
+#### Inference Optimization (Total: 16)
 <a name="inference-optimization"></a>
 * Boosting DNN Cold Inference on Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596842)
 * LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613285)
@@ -683,7 +683,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping, MobiSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10167133) (No ML) (Also AR)
 * LEO: Scheduling Sensor Inference Algorithms across Heterogeneous Mobile Processors and Network Resources, MobiCom 16 [[Paper]](https://core.ac.uk/download/pdf/83939419.pdf)
 
-#### Communication Optimization (Total: 7)
+#### Communication Optimization (Total: 6)
 * Hyperion: A Generic and Distributed Mobile Offloading Framework on OpenCL, SenSys 22 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/11/sensys22-hyperion.pdf) (No ML)
 * SwarmMap: Scaling Up Real-time Collaborative Visual SLAM at the Edge, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-xu_jingao.pdf) (No ML)
 * Context-Aware Compilation of DNN Training Pipelines across Edge and Cloud, UbiComp 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3494981) [[code]](https://github.com/dixiyao/Context-Aware-Compilation-of-DNN-Training-Pipelines-across-Edge-and-Cloud)
@@ -818,7 +818,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 
 <a name="networking-and-communication"></a>
-## 📶 Networking and Communication (333)
+## 📶 Networking and Communication (324)
 
 <a name="user-content-battery"></a>
 ### Battery-powered Networking and Communication (225)
@@ -1506,7 +1506,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf) (DL)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (No ML)
 
-### AIoT Systems for Agriculture (Total: 12 | No ML(9) | ML(2) | DL(1))
+### AIoT Systems for Agriculture (Total: 11 | No ML(8) | ML(2) | DL(1))
 <a name="aiot-systems-for-agriculture"></a>
 * Meta-Sticker: Sub-Terahertz Metamaterial Stickers for Non-Invasive Mobile Food Sensing, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625815) (No ML)
 * AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613275) (ML) (Best Paper Award)
@@ -1520,7 +1520,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FarmBeats: An IoT Platform for Data-Driven Agriculture, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vasisht.pdf) (ML)
 * MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (No ML)
 
-### AIoT Systems for Biology (Total: 8 | No ML(5) | ML(2) | DL(1))
+### AIoT Systems for Biology (Total: 9 | No ML(6) | ML(2) | DL(1))
 <a name="aiot-systems-for-biology"></a>
 * Towards Practical and Scalable Molecular Networks, SIGCOMM 23 [[Paper]](https://uwconnect.ece.wisc.edu/wp-content/uploads/sites/1525/2023/08/Towards-Practical-and-Scalable-Molecular-Networks.pdf) (ML)
 * eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613262) (No ML)
