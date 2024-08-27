@@ -579,9 +579,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 <a name="generative-ai-for-sensing"></a>
 ### 📜 Generative AI for Sensing (Total: 3 | No ML(0) | ML(0) | DL(3))
+* MEIT: Multi-Modal Electrocardiogram Instruction Tuning on Large Language Models for Report Generation, Arxiv 24 [[Paper]](https://arxiv.org/abs/2403.04945) (Gen AI)
 * LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (Gen AI)
 * LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (Gen AI)
 * Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (Gen AI)
+  
      
 ## 🧮 Computing (172)							
 <a name="computing"></a>	
