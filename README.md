@@ -810,12 +810,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * TVM: An Automated End-to-End Optimizing Compiler for Deep Learning, OSDI 18	[[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)	
 
 <a name="networking-and-communication"></a>
-## Networking and Communication (333)
+## 📶 Networking and Communication (333)
 
 <a name="user-content-battery"></a>
-### 🔋 Battery (225)
+### Battery-powered Networking and Communication (225)
 <a name="user-content-cellular"></a>
-#### 📶 Cellular/Mobile Networks (Total: 48 | No ML(37) | ML(4) | DL(7)
+#### Cellular/Mobile Networks (Total: 48 | No ML(37) | ML(4) | DL(7)
 * Scalable Distributed Massive MIMO Baseband Processing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-gong.pdf) (No ML)
 * DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-sentosa.pdf) (No ML)
 * NeRF2: Neural Radio-Frequency Radiance Fields, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592527) (DL)
@@ -865,7 +865,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Eliminating Channel Feedback in Next-Generation Cellular Networks, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/10.1145/2934872.2934895) (No ML)
 * iCellular: Device-Customized Cellular Network Access on Commodity Smartphones, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-li-yuanjie.pdf) (No ML)
 
-
 <a name="user-content-wifi"></a>
 #### Wi-Fi Networks (Total: 16 | No ML(12) | ML(1) | DL(3))
 * SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-zhao-renjie.pdf) (No ML)
@@ -886,7 +885,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://arxiv.org/pdf/2404.09140) (DL)
 
 <a name="user-content-visible-Light"></a>
-#### 💡 Visible Light Communication (Total: 17 | No ML(14) | ML(0) | DL(3))
+#### Visible Light Communication (Total: 17 | No ML(14) | ML(0) | DL(3))
 * Practical Optical Camera Communication Behind Unseen and Complex Backgrounds, MobiSys 24, [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661861) (DL)
 * When VLC Meets Under-Screen Camera, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596855) (No ML)
 * Harmony: An In-band Time Synchronisation System for Visible Light Communication, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568549) (No ML)
@@ -933,7 +932,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * WIDESEE: Towards Wide-Area Contactless Wireless Sensing, SenSys 19 [[Paper]](https://zwang4.github.io/publications/sensys19.pdf) (No ML)
 
 <a name="user-content-millimeter-Wave"></a>
-#### 〰️ mmWave (Total: 25 | No ML(23) | ML(2) | DL(0))
+#### mmWave Communication (Total: 25 | No ML(23) | ML(2) | DL(0))
 * mmRipple: Communicating with mmWave Radars through Smartphone Vibration, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586956) (No ML)
 * Bringing Millimeter Wave Technology to Any IoT Device, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613255) (No ML)
 * SIGNiPHY: Reconciling random access with directional reception for efficient mmWave WLANs, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596860) (No ML)
@@ -1036,7 +1035,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 *  SNOW: Sensor Network over White Spaces, SenSys 16 [[Paper]](https://www.cse.wustl.edu/~lu/papers/sensys16.pdf) (No ML)
 
 <a name="user-content-acoustic"></a>
-#### 🎵 Acoustic Communication (Total:9  | No ML(8) | ML(0) | DL(1))
+#### Acoustic Communication (Total:9  | No ML(8) | ML(0) | DL(1))
 * Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound, MobiCom 23 [[Paper]](https://tachen-cs.github.io/data/papers/2023-mobicom-spotsound/SpotSound.pdf) (DL)
 * AquaHelper: Underwater SOS Transmission and Detection in Swimming Pools, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625816) (No ML)
 * Underwater Messaging Using Mobile Devices, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544258)[[Code]](https://github.com/uw-x/watercomms) (No ML)
@@ -1083,27 +1082,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Ripple II: Faster Communication through Physical Vibration, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-roy.pdf) (No ML)
 
 <a name="user-content-batteryless"></a>
-### Batteryless (99)
-<a name="user-content-lora"></a>
-#### LoRa/LoRaWAN (Total: 8 | No ML(9) | ML(0) | DL(0))
-* LocRa: Enable Practical Long-Range Backscatter Localization for Low-Cost Tags, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596863) (No ML)
-* Long-Range Ambient LoRa Backscatter with Parallel Decoding, MobiCom 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBICOM21-p2lora.pdf) (No ML)
-* Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf) (No ML)	
-* Sense Me on the Ride: Accurate Mobile Sensing over a LoRa Backscatter Channel, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485933) (No ML)
-* Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-katanbaf.pdf) (No ML)
-* Rethinking ON-OFF Keying Modulation for Ambient LoRa Backscatter, SenSys 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/aloba_2020.pdf) (No ML)
-* PLoRa: A Passive Long-Range Data Network from Ambient LoRa Transmissions, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230567) (No ML)
-* LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf)	(No ML)
-
-<a name="user-content-millimeter-Wave-1"></a>
-#### mmWave (Total: 6 | No ML(6) | ML(0) | DL(0))
-* UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592526) (No ML)
-* LeakyScatter: A Frequency-Agile Directional Backscatter Network Above 100 GHz, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-kludze.pdf) (No ML)
-* A Millimeter Wave Backscatter Network for Two-Way Communication and Localization, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604873) (No ML)
-* MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion, MobiCom 22 [[Paper]](http://xyzhang.ucsd.edu/papers/Kun.Qian_MobiCom22_MilliMirror.pdf) (No ML)
-* OmniScatter: extreme sensitivity mmWave backscattering using commodity FMCW radar,	MobiSys 22 [[Paper]](http://mason.gmu.edu/~ychae2/Omniscatter.pdf)	(No	ML) (Best Paper)
-* mmTag: A Millimeter Wave Backscatter Network, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472917.pdf) (No ML)
-
+### Batteryless Networking and Communication (99)
 <a name="user-content-wifi-1"></a>
 #### Wi-Fi Networks (Total: 16 | No ML(16) | ML(0) | DL(0))
 * Leggiero: Analog WiFi Backscatter with Payload Transparency, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596835) (No ML)
@@ -1123,23 +1102,8 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * HitchHike: Practical Backscatter Using Commodity WiFi, SenSys 16 [[Paper]](https://pengyuzhang.github.io/papers/sensys16_back_comm.pdf) (No ML)
 * Enabling Practical Backscatter Communication for On-body Sensors, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934901) (No ML)
 
-<a name="user-content-rfid"></a>
-#### 🏷️ RFID (Total: 12 | No ML(12) | ML(0) | DL(0))
-* Battery-free Wideband Spectrum Mapping using Commodity RFID Tags, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592508) (No ML)
-* Go Beyond RFID: Rethinking the Design of RFID Sensor Tags for Versatile Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613284) (No ML)
-* Revisiting Cardinality Estimation in COTS RFID Systems, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613295) (No ML)
-*  Retwork: Exploring Reader Network with COTS RFID Systems, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-liu-jia_0.pdf) (No ML)
-* Fireworks: Channel Estimation of Parallel Backscattered Signals, IPSN 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2020.1.pdf)(No ML)
-* Redefining passive in backscattering with commodity devices, MobiCom 20 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/xShift-Mobicom2020.pdf)(No ML)
-*  Two to Tango: Hybrid Light and Backscatter Networks for Next Billion Devices, MobiSys 20 [[Paper]](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/811/tosubmit.pdf?sequence=1)(No ML)
-* Pushing the Range Limits of Commercial Passive RFIDs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-wang-jingxian.pdf) (No ML)
-* Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241544)(No ML)
-* FlipTracer: Practical Parallel Decoding for Backscatter Communication, MobiCom 17 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2017.1.pdf)	(No ML)
-* Drone Relays for Battery-Free Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098847) (No ML) 
-* Making Sense of Mechanical Vibration Period with Sub-millisecond Accuracy Using Backscatter Signals, MobiCom 16 [[Paper]](https://www4.comp.polyu.edu.hk/~csyanglei/data/files/tagbeat-mobicom.pdf)(No ML)
-
 <a name="user-content-visible-Light-1"></a>
-#### 💡 Visible Light Communication (Total: 12 | No ML(10) | ML(0) | DL(2))
+#### Visible Light Communication (Total: 12 | No ML(10) | ML(0) | DL(2))
 * SpectraLux: Towards Exploiting a Broader Spectrum with Passive VLC, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586966)(DL)
 * U-star: an underwater navigation system based on passive 3D optical identification tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3517019)(DL)
 * Exploiting Digital Micro-Mirror Devices for Ambient Light Communication, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-xu_talia.pdf) (No ML)
@@ -1153,8 +1117,43 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * PassiveVLC: Enabling Practical Visible Light Backscatter Communication for Battery-free IoT Applications, MobiCom 17 [[Paper]](https://ceca.pku.edu.cn/media/lw/63a22162bb427709099f765883bf243b.pdf)(No ML)
 * Focus: Robust Visual Codes for Everyone, MobiSys 16 [[Paper]](https://user.it.uu.se/~eding810/conferences/Mobisys16.pdf) (No ML)
 
+<a name="user-content-lora"></a>
+#### LoRa/LoRaWAN (Total: 8 | No ML(9) | ML(0) | DL(0))
+* LocRa: Enable Practical Long-Range Backscatter Localization for Low-Cost Tags, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596863) (No ML)
+* Long-Range Ambient LoRa Backscatter with Parallel Decoding, MobiCom 21 [[Paper]](http://tns.thss.tsinghua.edu.cn/~jiliang/publications/MOBICOM21-p2lora.pdf) (No ML)
+* Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-guo.pdf) (No ML)	
+* Sense Me on the Ride: Accurate Mobile Sensing over a LoRa Backscatter Channel, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485933) (No ML)
+* Simplifying Backscatter Deployment: Full-Duplex LoRa Backscatter, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-katanbaf.pdf) (No ML)
+* Rethinking ON-OFF Keying Modulation for Ambient LoRa Backscatter, SenSys 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/aloba_2020.pdf) (No ML)
+* PLoRa: A Passive Long-Range Data Network from Ambient LoRa Transmissions, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230567) (No ML)
+* LoRa Backscatter: Enabling The Vision of Ubiquitous Connectivity, UbiComp 17 [[Paper]](https://homes.cs.washington.edu/~gshyam/Papers/loRaBackscatter.pdf)	(No ML)
+
+<a name="user-content-millimeter-Wave-1"></a>
+#### mmWave Communication (Total: 6 | No ML(6) | ML(0) | DL(0))
+* UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592526) (No ML)
+* LeakyScatter: A Frequency-Agile Directional Backscatter Network Above 100 GHz, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-kludze.pdf) (No ML)
+* A Millimeter Wave Backscatter Network for Two-Way Communication and Localization, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604873) (No ML)
+* MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion, MobiCom 22 [[Paper]](http://xyzhang.ucsd.edu/papers/Kun.Qian_MobiCom22_MilliMirror.pdf) (No ML)
+* OmniScatter: extreme sensitivity mmWave backscattering using commodity FMCW radar,	MobiSys 22 [[Paper]](http://mason.gmu.edu/~ychae2/Omniscatter.pdf)	(No	ML) (Best Paper)
+* mmTag: A Millimeter Wave Backscatter Network, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472917.pdf) (No ML)
+
+<a name="user-content-rfid"></a>
+#### RFID (Total: 12 | No ML(12) | ML(0) | DL(0))
+* Battery-free Wideband Spectrum Mapping using Commodity RFID Tags, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592508) (No ML)
+* Go Beyond RFID: Rethinking the Design of RFID Sensor Tags for Versatile Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613284) (No ML)
+* Revisiting Cardinality Estimation in COTS RFID Systems, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613295) (No ML)
+*  Retwork: Exploring Reader Network with COTS RFID Systems, ATC 20 [[Paper]](https://www.usenix.org/system/files/atc20-liu-jia_0.pdf) (No ML)
+* Fireworks: Channel Estimation of Parallel Backscattered Signals, IPSN 20 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2020.1.pdf)(No ML)
+* Redefining passive in backscattering with commodity devices, MobiCom 20 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/xShift-Mobicom2020.pdf)(No ML)
+*  Two to Tango: Hybrid Light and Backscatter Networks for Next Billion Devices, MobiSys 20 [[Paper]](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/811/tosubmit.pdf?sequence=1)(No ML)
+* Pushing the Range Limits of Commercial Passive RFIDs, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-wang-jingxian.pdf) (No ML)
+* Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You, MobiCom 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241544)(No ML)
+* FlipTracer: Practical Parallel Decoding for Backscatter Communication, MobiCom 17 [[Paper]](http://tns.thss.tsinghua.edu.cn/sun/publications/2017.1.pdf)	(No ML)
+* Drone Relays for Battery-Free Networks, SIGCOMM 17 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3098822.3098847) (No ML) 
+* Making Sense of Mechanical Vibration Period with Sub-millisecond Accuracy Using Backscatter Signals, MobiCom 16 [[Paper]](https://www4.comp.polyu.edu.hk/~csyanglei/data/files/tagbeat-mobicom.pdf)(No ML)
+
 <a name="user-content-acoustic-1"></a>
-#### 🔊 Acoustic (Total: 5 | No ML(5) | ML(0) | DL(0))
+#### Acoustic Communication (Total: 5 | No ML(5) | ML(0) | DL(0))
 * Enabling Long-Range Underwater Backscatter via Van Atta Acoustic Networks, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604814) (No ML)
 * Higher-order modulation for acoustic backscatter communication in metals, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3544216.3544261) (No ML)
 * Microphone array backscatter: an application-driven design for lightweight spatial sound recording over the air, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483265) (No ML)
