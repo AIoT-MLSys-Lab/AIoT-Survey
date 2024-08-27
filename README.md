@@ -201,7 +201,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Multipath Triangulation: Decimeter-level WiFi Localization and Orientation with a Single Unaided Receiver, MobiSys 18 [[Paper]](https://elahe.web.illinois.edu/Elahe%20Soltan_files/papers/MobiSys18_MonoLoco_CameraReady.pdf) (No ML)
 * Verification: Accuracy Evaluation of WiFi Fine Time Measurements on an Open Platform, MobiCom 18 [[Paper]](https://winlab.rutgers.edu/~gruteser/papers/ftm_mobicom.pdf) (No ML)
 * Decimeter-Level Localization with a Single WiFi Access Point, NSDI 16 [[Paper]](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-vasisht.pdf) (No ML)
-* LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research)(No ML)
+* LiFS: Low Human-Effort Device-Free Localization with Fine-Grained Subcarrier Information, MobiCom 16 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4390&context=sis_research) (No ML)
  
 ##### Imaging
 * Wiffract: A New Foundation for RF Imaging via Edge Tracing, MobiCom 22 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/PallaproluKoranyMostofi_MobiCom2022.pdf) (ML)
