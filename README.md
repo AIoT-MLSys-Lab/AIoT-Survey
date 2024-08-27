@@ -661,8 +661,8 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
   
 #### 📊 Benchmarks (Total: 3)
 * nnPerf: Demystifying DNN Runtime Inference Latency on Mobile Platforms, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625797)
-* MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
-* URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/hash/3ef815416f775098fe977004015c6193-Abstract.html)	
+* MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://arxiv.org/pdf/2012.02328)
+* URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/4a420924d20bc025ebb37849169e6ebd-Paper.pdf)	
 
 ### Offloading	
 #### Model Partitioning (Total: 3)
