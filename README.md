@@ -189,7 +189,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 ##### Indoor Localization
 * Understanding Localization by a Tailored GPT, Mobisys 24[[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661869) (DL)
-* BIFROST: Reinventing WiFi Signals Based on Dispersion Effect for Accurate Indoor Localization, SensSys 23 [[Paper]](https://wangwg1996.github.io/files/PDF/BIFROST_conf.pdf) (No ML)
+* BIFROST: Reinventing WiFi Signals Based on Dispersion Effect for Accurate Indoor Localization, SenSys 23 [[Paper]](https://wangwg1996.github.io/files/PDF/BIFROST_conf.pdf) (No ML)
 * Enabling Ubiquitous Wi-Fi Sensing with Beamforming Reports, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/10.1145/3603269.3604817) (ML)
 * RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625806) (No ML)
 * Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing, IMWUT 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3517237) (No ML)
