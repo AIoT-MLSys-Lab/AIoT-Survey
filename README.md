@@ -74,7 +74,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
        	- [Frameworks and Benchmarks](#frameworks-and-benchmarks)
     - [AI Agents for AIoT](#ai-agent-aiot)
     - [Compilers for AIoT](#compilers-for-aiot)
-    
   - [Networking and Communication (Total: 333)](#networking-and-communication)
     - [Battery](#user-content-battery)
       - [Cellular](#user-content-cellular)
@@ -99,7 +98,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
       - [Visible Light](#user-content-visible-Light-1)
       - [Acoustic](#user-content-acoustic-1)
       - [...](#user-content-other-batteryless-works)
-    - [Others](#na) 
   - [Domain-specific AIoT Systems (Total: 254)](#domain-specific-aiot-systems)
     - [AIoT Systems for Healthcare and Well-being](#aiot-systems-for-healthcare-and-well-being)
     - [AIoT Systems for Video Streaming](#aiot-systems-for-video-streaming)
@@ -1207,18 +1205,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LoRea: A Backscatter Architecture that Achieves a Long Communication Range, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131691) (No ML)
 * Enabling Practical Backscatter Communication for On-body Sensors, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934901) (No ML)
 * Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934894) (No ML)
-
-<a name="na"></a>
-### NA (Total: 9 | No ML(6) | ML(0) | DL(3))
-* Softly, Deftly, Scrolls Unfurl Their Splendor: Rolling Flexible Surfaces for Wideband Wireless, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592520) (No ML)
-* Industrial Knee-jerk: In-Network Simultaneous Planning and Control on a TSN Switch, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596836) (DL)
-* In-Network Velocity Control of Industrial Robot Arms, NSDI 22 [[Paper]](https://www.usenix.org/system/files/nsdi22-paper-laki.pdf) (No ML) (programmable data plane)
-* Network Planning with Deep Reinforcement Learning, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472902.pdf) (DL)
-* Supreme: Fine-grained Radio Map Reconstruction via Spatial-Temporal Fusion Network, IPSN 20 [[Paper]](https://ieeexplore.ieee.org/document/9110971) [[code]](https://github.com/lkh329/Supreme) （DL)
-* Self-Reconfgurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity, MobiCom 20 [[Paper]]([https://dl.acm.org/doi/abs/10.1145/3372224.3419216](https://dl.acm.org/doi/pdf/10.1145/3372224.3419216)) (No ML)
-* Enabling deep-tissue networking for miniature medical devices, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230566) (No ML)
-* Mobile Plus: Multi-device Mobile Platform for Cross-device Functionality Sharing, MobiSys 17 [[Paper]](http://cps.kaist.ac.kr/papers/mobisys17-mobileplus.pdf) (No ML)
-* Idea: A System for Efficient Failure Management in Smart IoT Environments, MobiSys 16 [[Paper]](https://pages.cs.wisc.edu/~sdsen/papers/2016idea.pdf) (No ML)
 
 <a name="domain-specific-aiot-systems"></a>
 ## Domain-specific AIoT Systems (254)
