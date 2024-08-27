@@ -594,15 +594,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 <a name="inference-optimization"></a>
 * Boosting DNN Cold Inference on Devices, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596842)
 * LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3613285)
-* Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing, ASPLOS 23 [[Paper]](https://arxiv.org/pdf/2301.10852.pdf)
 * Space-Efficient TREC for Enabling Deep Learning on Microcontrollers, ASPLOS 23 [[Paper]](https://research.csc.ncsu.edu/picture/publications/papers/asplos23a_mcu.pdf)
 * ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU, MobiSys 23 [[Paper]](https://yuanchun-li.github.io/static/files/MobiSys23_ConvReLU++.pdf) [[Code]](https://github.com/GAIR-team/conv_relu_plus_plus)
 * mGEMM: Low-latency Convolution with Minimal Memory Overhead Optimized for Mobile Devices, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538940)
 * NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560528)
 * BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge, ASPLOS 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507746)
 * InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference, MobiCom 22 [[Paper]](https://yuanmu97.github.io/preprint/InFi_MobiCom22.pdf)
-* SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute, OSDI	22 [[Paper]](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf)			
-* IOS: Inter-Operator Scheduler for CNN Acceleration, MLSys 21 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/hash/38b3eff8baf56627478ec76a704e9b52-Abstract.html)	
 * Flexible High-resolution Object Detection on Edge Devices with Tunable Latency, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
 * MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning, NeurIPS 21
 * Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems, ASPLOS 19 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3297858.3304011)
@@ -690,7 +687,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SPINN: synergistic progressive inference of neural networks over device and cloud, MobiCom 20 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372224.3419194)	
 * Deep compressive offloading: speeding up neural network inference by trading edge computation for network latency,	SenSys	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430898)	
 * Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision,	MobiCom	19	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3300061.3345448)		
-* FoggyCache: Cross-Device Approximate Computation Reuse, MobiCom 18 [[Paper]](https://www.cs.yale.edu/homes/guo-peizhen/files/foggycache-mobicom18.pdf)
 
 #### Privacy-Preserving Offloading (Total: 5)
 * PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference, SenSys 22 [[Paper]](https://arxiv.org/pdf/2211.06716.pdf)	
