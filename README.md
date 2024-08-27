@@ -115,7 +115,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 ## 🌡️ Sensing (319)
 
 <a name="motion-sensing"></a>
-### 👋 Motion Sensing (Total: 10 | No ML(1) | ML(2) | DL(7))
+### Motion Sensing (Total: 10 | No ML(1) | ML(2) | DL(7))
 #### Human Activity Recognition
 * Practically Adopting Human Activity Recognition, MobiCom 23 [[Paper]](https://dapowan.github.io/files/UniHAR.pdf) (DL)
 * LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485937) (DL)
@@ -131,9 +131,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * I am a Smartwatch and I can Track my User’s Arm, MobiSys 16 [[Paper]](https://synrg.csl.illinois.edu/papers/ArmTrak_Mobisys.pdf) (ML)
 
 <a name="wireless-sensing"></a>
-### 🌐 Wireless Sensing (145)
+### Wireless Sensing (145)
 <a name="rfid-sensing"></a>
-#### 🏷️ RFID Sensing (Total: 29 | No ML(23) | ML(1) | DL(5))
+#### RFID Sensing (Total: 29 | No ML(23) | ML(1) | DL(5))
 * A Handheld Fine-Grained RFID Localization System with Complex-Controlled Polarization, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592504) (No ML)
 * Fast, Fine-grained, and Robust Grouping of RFIDs, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3592510) (No ML)
 * MetaSight: Localizing Blocked RFID Objects by Modulating NLOS Signals via Metasurfaces, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538947) (No ML)
@@ -165,7 +165,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 
 <a name="wi-fi-sensing"></a>
-#### 🌐 Wi-Fi Sensing (Total: 56 | No ML(24) | ML(11) | DL(21))
+#### Wi-Fi Sensing (Total: 56 | No ML(24) | ML(11) | DL(21))
 ##### Human Activity Recognition
 * XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL)
 * SiFall: Practical Online Fall Detection with RF Sensing, SenSys 22 [[Paper]](https://arxiv.org/pdf/2301.03773.pdf) (DL)
@@ -241,7 +241,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf) (ML)
 
 <a name="mmwave-sensing"></a>
-#### 🌫️ mmWave Sensing (Total: 24 | No ML(7) | ML(3) | DL(14))
+#### mmWave Sensing (Total: 24 | No ML(7) | ML(3) | DL(14))
 
 ##### Human Activity Recognition
 * mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
@@ -346,7 +346,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Emotion Recognition using Wireless Signals, MobiCom 16 [[Paper]](http://eqradio.csail.mit.edu/files/eqradio-paper.pdf) (ML)
 
 <a name="vision-sensing"></a>
-### 👁️ Vision Sensing (Total: 30 | No ML(7) | ML(2) | DL(21))
+### Vision Sensing (Total: 30 | No ML(7) | ML(2) | DL(21))
 
 #### Human Activity Recognition
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
@@ -391,7 +391,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MobiDepth: Real-Time Depth Estimation Using On-Device Dual Cameras, MobiCom 22 [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2022/09/mobicom22-final138.pdf) (No ML)
 
 <a name="acoustic-sensing"></a>
-### 🎵 Acoustic Sensing	(Total: 51 | No ML(24) | ML(10) | DL(17))
+### Acoustic Sensing (Total: 51 | No ML(24) | ML(10) | DL(17))
 
 #### Localization
 * DeepEar: Sound Localization With Binaural Microphones, IEEE Transactions on Mobile Computing 2024 [[Paper]](https://ieeexplore.ieee.org/document/9954178) (DL)
@@ -459,7 +459,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Expansion of Human–Phone Interface By Sensing Structure-Borne Sound Propagation, MobiSys 16 [[Paper]](https://yctung.github.io/files/publication/mobisys16-forcephone.pdf) (No ML)
 																
 <a name="multi-modal-sensing"></a>
-### 🖇️ Multi-Modal Sensing (Total: 37 | No ML(3) | ML(9) | DL(25))
+### Multi-Modal Sensing (Total: 37 | No ML(3) | ML(9) | DL(25))
 
 #### Human Activity Recognition
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
@@ -511,7 +511,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf) (ML)
 
 <a name="earable-sensing"></a>
-### 🦻 Earable Sensing (Total: 20 | No ML(4) | ML(8) | DL(7))
+### Earable Sensing (Total: 20 | No ML(4) | ML(8) | DL(7))
 #### Facial Expression Sensing 
 * FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones, IPSN 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn22.pdf) [[Dataset]](https://developers.google.com/mediapipe) [[Code]](https://github.com/muxspace/facial_expressions) (DL)
 * BioFace-3D: Continuous 3D Facial Reconstruction Through Lightweight Single-ear Biosensors, MobiCom 21 [[Paper]](https://people.cs.umass.edu/~phuc/papers/bioface_2021.pdf) (DL)
@@ -543,7 +543,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring, SenSys 16 [[Paper]](http://mnslab.org/tamvu/paper/2016%20Inear%20Lan%20Anh.pdf) (ML)
 
 <a name="light-sensing"></a>
-### 💡 Visible Light Sensing (Total: 15 | No ML(7) | ML(7) | DL(1))
+### Visible Light Sensing (Total: 15 | No ML(7) | ML(7) | DL(1))
 * LiT: Fine-grained Toothbrushing Monitoring with Commercial LED Toothbrush, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613287) (ML)
 * SMART: Screen-based Gesture Recognition on Commodity Mobile Devices, MobiCom 21 [[Paper]](https://huangqy7.github.io/Paper/mobicom21-SMART.pdf) (DL)
 * Lili: Liquor Quality Monitoring Based on Light Signals, MobiCom 21 [[Paper]](https://luwang-szu.github.io/paper/LiliMobiCom.pdf) (ML)
@@ -561,7 +561,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Practical Human Sensing in the Light, MobiSys 16 [[Paper]](https://www.cs.columbia.edu/~xia/publication/mobisys16-starlight/mobisys16-starlight.pdf) (No ML)
 
 <a name="magnetic-sensing"></a>
-### 🧲 Magentic Sensing (Total: 6 | No ML(1) | ML(3) | DL(2))
+### Magentic Sensing (Total: 6 | No ML(1) | ML(3) | DL(2))
 * METRO: Magnetic Road Markings for All-weather, Smart Roads, SenSys 23 [[Paper]](https://theisclab.com/docs/2023_Sensys_METRO_Wang.pdf) (No ML)
 * Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf) (ML)
 * MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483260) (ML)
@@ -570,12 +570,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107) (ML)
 
 <a name="cross-medium-sensing"></a>
-### 🔀 Cross-Medium Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
+### Cross-Medium Sensing (Total: 2 | No ML(2) | ML(0) | DL(0))
 * Underwater 3D positioning on smart devices, SIGCOMM 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3603269.3604851) (No ML)
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (No ML)
 
 <a name="generative-ai-for-sensing"></a>
-### 📜 Generative AI for Sensing (Total: 3 | No ML(0) | ML(0) | DL(3))
+### Generative AI for Sensing (Total: 3 | No ML(0) | ML(0) | DL(3))
 * MEIT: Multi-Modal Electrocardiogram Instruction Tuning on Large Language Models for Report Generation, Arxiv 24 [[Paper]](https://arxiv.org/abs/2403.04945) (Gen AI)
 * LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (Gen AI)
 * LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (Gen AI)
