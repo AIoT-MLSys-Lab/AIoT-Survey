@@ -29,7 +29,7 @@ As both IoT and AI become increasingly critical to our society, we believe AIoT 
 Besides the survey and the repository, we also host the OSU AIoT Seminar Series where we invite speakers at the frontier of AIoT from both academia and industry to talk about their works. The talk videos are available at: https://sites.google.com/view/osu-aiot-seminar.
 
 ## 📖 Table of Content
-  - [Sensing (Total: 319)](#sensing)
+  - 🌡️ [Sensing (Total: 319)](#sensing)
     - [Motion Sensing](#motion-sensing)
     - [Wireless Sensing](#wireless-sensing)
     	- [RFID Sensing](#rfid-sensing)
@@ -50,7 +50,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [Magentic Sensing](#magnetic-sensing)
     - [Cross-Medium Sensing](#cross-medium-sensing)
     - [Generative AI for Sensing](#generative-ai-for-sensing)
-  - [Computing (Total: 172)](#computing)
+  - 📲 [Computing (Total: 172)](#computing)
     - [On-Device Inference](#on-device-inference)
       	- [Inference Optimization](#inference-optimization)
       	- [Multi-Tenant Inference](#multi-tenant-inference)
@@ -78,7 +78,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
     - [AI Agents for AIoT](#ai-agent-aiot)
     - [Automated Machine Learning](#auto-ML)
     - [Compilers for AIoT](#compilers-for-aiot)
-  - [Networking and Communication (Total: 333)](#networking-and-communication)
+  - 📶 [Networking and Communication (Total: 333)](#networking-and-communication)
     - [Battery-powered Networking and Communication](#user-content-battery)
       - [Cellular/Mobile Networks](#user-content-cellular)
       - [Wi-Fi Networks](#user-content-wifi)
