@@ -169,7 +169,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 
 <a name="wi-fi-sensing"></a>
-#### Wi-Fi Sensing (Total: 56 | No ML(24) | ML(11) | DL(21))
+#### Wi-Fi Sensing (Total: 56 | No ML(24) | ML(11) | DL(21) | GenAI(1))
 ##### Human Activity Recognition
 * XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL)
 * SiFall: Practical Online Fall Detection with RF Sensing, SenSys 22 [[Paper]](https://arxiv.org/pdf/2301.03773.pdf) (DL)
@@ -209,7 +209,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * 3D Through-Wall Imaging with Unmanned Aerial Vehicles Using WiFi, IPSN 17 [[Paper]](https://web.ece.ucsb.edu/~ymostofi/papers/IPSN17_KaranamMostofi.pdf) (No ML)
 
 ##### Gesture Recognition
-* RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://arxiv.org/pdf/2404.09140) (Gen AI)
+* RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, MobiCom 24 [[Paper]](https://arxiv.org/pdf/2404.09140) (GenAI)
 * UniFi: A Unified Framework for Generalizable Gesture Recognition with Wi-Fi Signals Using Consistency-guided Multi-View Networks, IMWUT 24 [[Paper]](https://dl.acm.org/doi/10.1145/3631429) (DL)
 * SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-yang-zheng.pdf) (DL)
 * MUSE-Fi: Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613290) (DL)
@@ -579,11 +579,11 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Sunflower: Locating Underwater Robots From the Air,	MobiSys	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) (No ML)
 
 <a name="generative-ai-for-sensing"></a>
-### Generative AI for Sensing (Total: 3 | No ML(0) | ML(0) | DL(3))
-* MEIT: Multi-Modal Electrocardiogram Instruction Tuning on Large Language Models for Report Generation, Arxiv 24 [[Paper]](https://arxiv.org/abs/2403.04945) (Gen AI)
-* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (Gen AI)
-* LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (Gen AI)
-* Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (Gen AI)
+### Generative AI for Sensing (Total: 4 | No ML(0) | ML(0) | DL(0) | GenAI(4))
+* MEIT: Multi-Modal Electrocardiogram Instruction Tuning on Large Language Models for Report Generation, Arxiv 24 [[Paper]](https://arxiv.org/abs/2403.04945) (GenAI)
+* LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces, arxiv 24 [[Paper]](https://arxiv.org/pdf/2403.19857) (GenAI)
+* LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (GenAI)
+* Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (GenAI)
   
 ## 📲 Computing (172)							
 <a name="computing"></a>	
@@ -773,13 +773,13 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks,  Workshop on Distributed and Private Machine Learning in conjunction with ICLR 21 [[Paper]](https://arxiv.org/abs/2104.07145)
 * FedML: A Research Library and Benchmark for Federated Machine Learning, International Workshop on Scalability, Privacy, and Security in Federated Learning in conjunction with NeurIPS 20 [[Paper]](https://arxiv.org/abs/2007.13518)
 
-### AI Agents for AIoT (Total: 5)
+### AI Agents for AIoT (Total: 5 | No ML(0) | ML(0) | DL(0) | GenAI(5))
 <a name="ai-agent-aiot"></a>
-* Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception, ICLR 2024 [[Paper]](https://arxiv.org/pdf/2401.16158) (Gen AI)
-* Octopus v2: On-device language model for super agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.01744) (Gen AI)
-* Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.11459v2) (Gen AI)
-* AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf) (Gen AI)
-* Towards an On-device Agent for Text Rewriting [[Paper]](https://arxiv.org/pdf/2308.11807) (Gen AI)
+* Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception, ICLR 2024 [[Paper]](https://arxiv.org/pdf/2401.16158) (GenAI)
+* Octopus v2: On-device language model for super agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.01744) (GenAI)
+* Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent, Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2404.11459v2) (GenAI)
+* AutoDroid: LLM-powered Task Automation in Android, Mobicom '24 [[Paper]](https://chrisplus.me/assets/pdf/mobicom24-autoDroid.pdf) (GenAI)
+* Towards an On-device Agent for Text Rewriting [[Paper]](https://arxiv.org/pdf/2308.11807) (GenAI)
 
 ### Automated Machine Learning (Total: 11)
 <a name="auto-ML"></a>
