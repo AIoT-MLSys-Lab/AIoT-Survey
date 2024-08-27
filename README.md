@@ -354,7 +354,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 #### Human Activity Recognition
 * Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586968) (DL)
-* MobiPose: real-time multi-person pose estimation on mobile devices, SensSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726) (DL)
+* MobiPose: real-time multi-person pose estimation on mobile devices, SenSys 20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3384419.3430726) (DL)
 
 #### Image Enhancement
 * NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592523) (DL)
