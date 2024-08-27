@@ -1207,7 +1207,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 <a name="domain-specific-aiot-systems"></a>
 ## Domain-specific AIoT Systems (254)
 							
-### 🩺 AIoT Systems for Healthcare and Well-being (Total:57 | No ML(22) | ML(9) | DL(26))
+### AIoT Systems for Healthcare and Well-being (Total:57 | No ML(22) | ML(9) | DL(26))
 <a name="aiot-systems-for-healthcare-and-well-being"></a>
 #### Vital Sign Monitoring 
 * APG: Audioplethysmography for Cardiac Monitoring in Hearables, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613281) (No ML)
@@ -1274,7 +1274,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Transforming Wearable Data into Health Insights using Large Language Model Agents, Arxiv 24 [[Paper]](https://arxiv.org/abs/2406.06464) (DL)
 * From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models, IMWUT 24 [[Paper]](https://dl.acm.org/doi/10.1145/3659604) (DL)
 
-### 📺 AIoT Systems for Video Streaming (Total:51 | No ML(23) | ML(8) | DL(20))
+### AIoT Systems for Video Streaming (Total:51 | No ML(23) | ML(8) | DL(20))
 <a name="aiot-systems-for-video-streaming"></a>
 #### Adaptive Video Streaming 
 * Enabling High Quality Real-Time Communications with Adaptive Frame-Rate, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-meng.pdf) (No ML)
@@ -1335,8 +1335,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * GROOT: a real-time streaming system of high-fidelity volumetric videos, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/GROOT.pdf) (No ML)
 * ViVo: visibility-aware mobile volumetric video streaming, MobiCom 20 [[Paper]](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf) (ML)
 
-
-### 🎦 AIoT Systems for Video Analytics	(Total:21 | No ML(1) | ML(0) | DL(20))
+### AIoT Systems for Video Analytics	(Total:21 | No ML(1) | ML(0) | DL(20))
 <a name="aiot-systems-for-video-analytics"></a>
 #### Continuous Learning
 * RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics, NSDI 23 [[Paper]](https://www.usenix.org/system/files/nsdi23-khani.pdf) (DL)
@@ -1367,9 +1366,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Approximate query service on autonomous IoT cameras,	MobiSys	20 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386901.3388948) (DL)
 * Caesar: cross-camera complex activity recognition, SenSys 19 [[Paper]](http://web.cs.ucla.edu/~ravi/CS239_W20/papers/caesar.pdf) (DL)
 
-
-
-### 🚘 AIoT Systems for Autonomous Driving (Total:35 | No ML(15) | ML(3) | DL(17))
+### AIoT Systems for Autonomous Driving (Total:35 | No ML(15) | ML(3) | DL(17))
 <a name="aiot-systems-for-autonomous-driving"></a>
 #### Perception Enhancement
 * Ghost-Probe: NLOS Pedestrian Rushing Detection with Monocular Camera for Automated Driving, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625791) (DL)
@@ -1387,7 +1384,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * AVR: Augmented Vehicular Reality, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210319) (Best Paper Runner-Up) (No ML)
 * Object Recognition and Navigation using a Single Networking Device, MobiSys 17 [[Paper]](https://people.cs.uchicago.edu/~ravenben/publications/pdf/60gradar-mobisys17.pdf) (No ML)
 
-
 #### Localization, Tracking, and Mapping
 * VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving, MobiCom 23 [[Paper]](https://yanzhenyu.com/assets/pdf/VI-Map-MobiCom23.pdf) (DL)
 * uGPS: Design and Field-Tested Seamless GNSS Infrastructure in Metro City, MobiCom 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560520) (No ML)
@@ -1399,7 +1395,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300132) (No ML)
 * The Architectural Implications of Autonomous Driving: Constraints and Acceleration, ASPLOS 18 [[Paper]](https://people.computing.clemson.edu/~jmarty/projects/lowLatencyNetworking/papers/EmergingApplicationSystems/AutonomousVehicles/AutonomousCarConstraints.pdf) (DL)
 * EXIMIUS: A Measurement Framework for Explicit and Implicit Urban Traffic Sensing, SenSys 18 [[Paper]](https://people.cs.rutgers.edu/~dz220/paper/Eximius.pdf) (No ML)
-
 
 #### Automatic Testing
 * Diagnosing Vehicles with Automotive Batteries, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300126) (ML)
@@ -1418,8 +1413,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * CoReCast: Collision Resilient Broadcasting in Vehicular Networks, MobiSys 18 [[Paper]](https://abaxi.github.io/pdfs/corecast_paper.pdf) (No ML)
 * Experience: Accurate Simulation of Dense Scenarios with Hundreds of Vehicular Transmitters, MobiCom 16 [[Paper]](https://www.winlab.rutgers.edu/~cb3974/publication_pdf/Experience_Simulation_MobiCom_2016.pdf)(No ML)
 
-
-### 🥽 AIoT Systems for AR/VR/MR (Total:38 | No ML(20) | ML(5) | DL(13))
+### AIoT Systems for AR/VR/MR (Total:38 | No ML(20) | ML(5) | DL(13))
 <a name="aiot-systems-for-arvrmr"></a>
 #### Object Detection (Total:  | No ML() | ML() | DL())
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception, NSDI	23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki) (No ML)
@@ -1433,8 +1427,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Frugal following: power thrifty object detection and tracking for mobile augmented reality, SenSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3356250.3360044) (DL)
 * Empath-D: VR-based Empathetic App Design for Accessibility, MobiSys 18 [[Paper]](https://nclab.kaist.ac.kr/files/papers/Conference/mobisys18-10-kim.pdf) (No ML)
 
-
-
 #### User Inputs
 * UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613263) (DL)
 * Egocentric Human Pose Estimation using Head-mounted mmWave Radar, SenSys 23 [[Paper]](https://dl.acm.org/doi/10.1145/3625687.3625799) (DL)
@@ -1446,8 +1438,6 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Depth Aware Finger Tapping on Virtual Display, MobiSys 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3210240.3210315) (No ML)
 * When Virtual Reality Meets Internet of Things in the Gym: Enabling Immersive Interactive Machine Exercises, UbiComp 18 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3214281) (ML)
 * Ultra-Low Power Gaze Tracking for Virtual Reality, SenSys 17 [[Paper]](https://dlnext.acm.org/doi/pdf/10.1145/3131672.3131682) (ML)
-
-
 
 #### Performance Enhancement
 * Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality, SenSys 22 [[Paper]](https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf) (DL)
@@ -1467,12 +1457,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Enabling High-Quality Untethered Virtual Reality, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-abari.pdf) (No ML)
 * FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization, MobiSys 16 [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/flashback_mobisys2016.pdf) (No ML)
 
-
 #### Omnidirectional AR
 * SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, MobiCom 22 [[Papaer]](https://www-users.cse.umn.edu/~fengqian/paper/salientvr_mobicom22.pdf) (DL)
 * Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality, MobiSys 21 [[Paper]](https://arxiv.org/pdf/2106.15280.pdf) (DL)
-
-
 
 ### AIoT Systems for Drones (Total: 25 | No ML(21) | ML(1) | DL(3))
 <a name="aiot-systems-for-drones"></a>
@@ -1502,7 +1489,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Tracking Drone Orientation with Multiple GPS Receivers, MobiCom 16 [[Paper]](https://synrg.csl.illinois.edu/papers/drone-attitude-camera.pdf) (No ML)
 * Reactive Control of Autonomous Drones, MobiSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2906388.2906410) (No ML) (Best Paper) 
 
-### 🛰️ AIoT Systems for Satellites (Total: 7 | No ML(6) | ML(0) | DL(1))
+### AIoT Systems for Satellites (Total: 7 | No ML(6) | ML(0) | DL(1))
 <a name="aiot-systems-for-satellites"></a>
 * Global Localization of Energy-Constrained Miniature RF Emitters using Low Earth Orbit Satellites, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625794) (No ML)
 * A Networking Perspective on Starlink’s Self-Driving LEO Mega-Constellation, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3592519) (No ML)
@@ -1512,7 +1499,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites, IPSN 22 [[Paper]](https://swarunkumar.com/papers/selfiestick-ipsn2022.pdf) (DL)
 * SOS: Isolated Health Monitoring System to Save Our Satellites, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3466862) (No ML)
 
-### 🌾 AIoT Systems for Agriculture (Total: 12 | No ML(9) | ML(2) | DL(1))
+### AIoT Systems for Agriculture (Total: 12 | No ML(9) | ML(2) | DL(1))
 <a name="aiot-systems-for-agriculture"></a>
 * Meta-Sticker: Sub-Terahertz Metamaterial Stickers for Non-Invasive Mobile Food Sensing, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625815) (No ML)
 * AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613275) (ML) (Best Paper Award)
@@ -1526,7 +1513,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * FarmBeats: An IoT Platform for Data-Driven Agriculture, NSDI 17 [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vasisht.pdf) (ML)
 * MAGIC: Model-Based Actuation for Ground Irrigation Control, IPSN 16 [[Paper]](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/ipsn16.pdf) (No ML)
 
-### 🧬 AIoT Systems for Biology (Total: 8 | No ML(5) | ML(2) | DL(1))
+### AIoT Systems for Biology (Total: 8 | No ML(5) | ML(2) | DL(1))
 <a name="aiot-systems-for-biology"></a>
 * Towards Practical and Scalable Molecular Networks, SIGCOMM 23 [[Paper]](https://uwconnect.ece.wisc.edu/wp-content/uploads/sites/1525/2023/08/Towards-Practical-and-Scalable-Molecular-Networks.pdf) (ML)
 * eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3613262) (No ML)
