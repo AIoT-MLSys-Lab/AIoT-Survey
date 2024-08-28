@@ -894,7 +894,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 <a name="user-content-visible-Light"></a>
 #### Visible Light Communication (Total: 17 | No ML(14) | ML(0) | DL(3))
-* Practical Optical Camera Communication Behind Unseen and Complex Backgrounds, MobiSys 24, [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661861) (DL)
+* Practical Optical Camera Communication Behind Unseen and Complex Backgrounds, MobiSys 24, [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661866) (DL)
 * When VLC Meets Under-Screen Camera, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596855) (No ML)
 * Harmony: An In-band Time Synchronisation System for Visible Light Communication, SenSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560905.3568549) (No ML)
 * CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560526) (DL)
@@ -991,7 +991,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * TinySDR: Low-Power SDR Platform for Over-the-Air Programmable IoT Testbeds, NSDI 20 [[Paper]](https://www.usenix.org/conference/nsdi20/presentation/hessar) (No ML)
 * SparSDR: Sparsity-proportional Backhaul and Compute for SDRs, MobiSys 19 [[Paper]](http://people.csail.mit.edu/moein/papers/sparsdr-mobisys19.pdf) (No ML)
 * Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas, NSDI 19 [[Paper]](https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf) (No ML)
-* The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](https://web.cs.ucla.edu/~tan/documents/mobicom17.pdf) (No ML) (Best Community Paper Award)
+* The Tick Programmable Low-Latency SDR System, MobiCom 17 [[Paper]](http://metro.cs.ucla.edu/papers/mobicom17-tick.pdf) (No ML) (Best Community Paper Award)
 
 <a name="user-content-ctc"></a>
 #### CTC (Total: 23 | No ML(22) | ML(0) | DL(1))
@@ -1003,7 +1003,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Towards Seamless Wireless Link Connection, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596833) (No ML)
 * FLEW: Fully Emulated WiFi, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-cho.pdf) (No ML)
 * De-spreading over the air: long-range CTC for diverse receivers with LoRa, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560524) (No ML)
-* Network architecture, Internet of Things, Interoperability., MobiCom 22 [[Paper]](https://desword.github.io/paper/mobisys22-tinynet.pdf) (No ML)
+* TinyNet: a Lightweight, Modular, and Unified Network Architecture for the Internet of Things, MobiSys 22 [[Paper]](https://desword.github.io/assets/pdf/mobisys22-tinynet.pdf) (No ML)
 * WiBeacon: Expanding BLE Location-based Services via WiFi, MobiCom 21 [[Paper]](https://liux4189.github.io/files/WiBeacon_MobiCom_CameraReady.pdf) (No ML)
 * BlueFi: Bluetooth over WiFi, SIGCOMM 21 [[Paper]](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472920.pdf) (No ML)
 * X-MIMO: Cross-Technology Multi-User MIMO, SenSys 20 [[Paper]](https://par.nsf.gov/servlets/purl/10303948) (No ML)
@@ -1068,7 +1068,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Hydra: Concurrent Coordination for Fault-tolerant Networking, IPSN 23 [[Paper]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/602741/7/3583120.3587047.pdf) (No ML)
 * NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems, SenSys 23 [[Paper]](http://xyzhang.ucsd.edu/papers/Kai.Zheng_SenSys23_NeuroRadar.pdf) (ML)
 * Sirius: A Self-Localization System for Resource-Constrained IoT Sensors, MobiSys 23 [[Paper]](https://www.cs.umd.edu/~nakul/assets/papers/sirius_mobisys2023_nakul.pdf) (DL)
-* A Case for Stateless Mobile Core Network Functions in Space, SIGCOMM 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3544216.3544233) (No ML)
+* A Case for Stateless Mobile Core Network Functions in Space, SIGCOMM 22 [[Paper]](http://www.yuanjiel.com/publication/sigcomm22.pdf) (No ML)
 * Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation, NSDI 21 [[Paper]](https://www.usenix.org/system/files/nsdi21-shi.pdf) (DL)
 * A Community-Driven Approach to Democratize Access to Satellite Ground Stations, MobiCom 21 [[Paper]](https://swarunkumar.com/papers/quasar-mobicom2021.pdf) (No ML)
 * COCOON-A Conductive Substrate-based Coupled Oscillator Network for Wireless Communication, SenSys 21 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys21-COCOON.pdf) (No ML)
