@@ -1255,7 +1255,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones, SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437) (DL)
 * NFCapsule: An Ingestible Sensor Pill for Eosinophilic Esophagitis Detection Based on Near-field Coupling, SenSys 22 [[Paper]](https://swarunkumar.com/papers/nfcapsule-sensys2022.pdf) (No ML)
 * Predicting Early Warning Signs of Psychotic Relapse From Passive Sensing Data: An Approach Using Encoder-Decoder Neural Networks, JMIR 20 [[Paper]](https://mhealth.jmir.org/2020/8/e19962) (DL)
-* PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion,	MobiCom	20	[[Paper]](https://www.acsu.buffalo.edu/~huiningl/papers/pdlens.pdf) (DL)
+* PDLens: smartphone knows drug effectiveness among Parkinson's via daily-life activity fusion,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/10.1145/3372224.3380889) (DL)
 * Painometry: Wearable and Objective Quantification System for Acute Postoperative Pain, MobiSys 20 [[Paper]](http://mnslab.org/tamvu/paper/2020%20Painometry_Hoang.pdf) (ML)
 * PDVocal: Towards Privacy-preserving Parkinson's Disease Detection using Non-speech Body Sounds, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3300125) (DL)
 * HealthSense: Software-defined Mobile-based Clinical Trials, MobiCom 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3300061.3345433) (Best Paper) (No ML)
