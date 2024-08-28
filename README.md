@@ -317,7 +317,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Mobi2Sense: Empowering Wireless Sensing with Mobility, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560518) (No ML) (Best Paper Award Runner-ups) 
 * Enabling High Accuracy Pervasive Tracking with Ultra Low Power UWB Tags, MobiCom 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3495243.3560542) (No ML)
 * SiWa: See into Walls via Deep UWB Radars, MobiCom 21 [[Paper]](https://arxiv.org/pdf/2110.14279.pdf) (DL)
-* MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar, SenSys 21 [[Paper]](https://arxiv.org/pdf/2111.08195.pdf) (DL) (Also healthcare)
+* MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar, SenSys 21 [[Paper]](https://arxiv.org/pdf/2111.08195.pdf) (DL)
 * UWHear: Through-wall Extraction and Separation of Audio Vibrations Using Wireless Signals, SenSys 20 [[Paper]](https://ziqi.plus/papers/UWHear.pdf) (No ML)
 * Chorus: UWB Concurrent Transmissions for GPS-like Passive Localization of Countless Target, IPSN 19 [[Paper]](http://dit.unitn.it/~picco/papers/ipsn19-uwb.pdf) (No ML)
 * SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tag, IPSN 19 [[Paper]](http://www.carloalbertoboano.com/documents/grosswindhager19snaploc.pdf) (No ML)
