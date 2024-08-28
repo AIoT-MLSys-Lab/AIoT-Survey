@@ -102,7 +102,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
       - [RFID](#user-content-rfid)
       - [Acoustic Communication](#user-content-acoustic-1)
       - [Other Networks](#user-content-other-batteryless-works)
-  - 🚀 [Domain-specific AIoT Systems (Total: 254)](#domain-specific-aiot-systems)
+  - 🚀 [Domain-specific AIoT Systems (Total: 255)](#domain-specific-aiot-systems)
     - [AIoT Systems for Healthcare and Well-being](#aiot-systems-for-healthcare-and-well-being)
     - [AIoT Systems for Video Streaming](#aiot-systems-for-video-streaming)
     - [AIoT Systems for Video Analytics](#aiot-systems-for-video-analytics)
@@ -1212,7 +1212,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, SIGCOMM 16 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2934872.2934894) (No ML)
 
 <a name="domain-specific-aiot-systems"></a>
-## 🚀 Domain-specific AIoT Systems (254)
+## 🚀 Domain-specific AIoT Systems (255)
 							
 ### AIoT Systems for Healthcare and Well-being (Total:58 | No ML(22) | ML(9) | DL(23) | GenAI(4))
 <a name="aiot-systems-for-healthcare-and-well-being"></a>
