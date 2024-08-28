@@ -169,7 +169,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Deep Learning for RFID-Based Activity Recognition, SenSys 16 [[Paper]](https://dl.acm.org/doi/10.1145/2994551.2994569) (DL)
 
 <a name="wi-fi-sensing"></a>
-#### Wi-Fi Sensing (Total: 56 | No ML(24) | ML(11) | DL(21) | GenAI(1))
+#### Wi-Fi Sensing (Total: 56 | No ML(24) | ML(11) | DL(20) | GenAI(1))
 ##### Human Activity Recognition
 * XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL)
 * SiFall: Practical Online Fall Detection with RF Sensing, SenSys 22 [[Paper]](https://arxiv.org/pdf/2301.03773.pdf) (DL)
@@ -515,7 +515,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * TransitLabel: A Crowd-Sensing System for Automatic Labeling of Transit Stations Semantics, MobiSys 16 [[Paper]](https://arxiv.org/pdf/1606.03302.pdf) (ML)
 
 <a name="earable-sensing"></a>
-### Earable Sensing (Total: 20 | No ML(4) | ML(8) | DL(7))
+### Earable Sensing (Total: 19 | No ML(4) | ML(8) | DL(7))
 #### Facial Expression Sensing 
 * FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones, IPSN 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/ipsn22.pdf) [[Dataset]](https://developers.google.com/mediapipe) [[Code]](https://github.com/muxspace/facial_expressions) (DL)
 * BioFace-3D: Continuous 3D Facial Reconstruction Through Lightweight Single-ear Biosensors, MobiCom 21 [[Paper]](https://people.cs.umass.edu/~phuc/papers/bioface_2021.pdf) (DL)
@@ -585,9 +585,9 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (GenAI)
 * Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (GenAI)
   
-## 📲 Computing (168)							
+## 📲 Computing (155)							
 <a name="computing"></a>	
-### On-Device Inference						
+### On-Device Inference	(Total: 61)					
 <a name="on-device-inference"></a>
 
 #### Inference Optimization (Total: 16)
@@ -671,7 +671,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MLPerf Mobile Inference Benchmark, MLSys 22 [[Paper]](https://arxiv.org/pdf/2012.02328)
 * URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference methods, MLSys 22 [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2022/file/4a420924d20bc025ebb37849169e6ebd-Paper.pdf)	
 
-### Offloading	
+### Offloading	(Total: 18)
 #### Model Partitioning (Total: 3)
 * Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI, MobiCom 22 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobicom22.pdf)	
 * CLIO: enabling automatic compilation of deep learning pipelines across IoT and cloud,	MobiCom	20	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3372224.3419215)	
@@ -698,7 +698,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios, MobiCom 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3570361.3592514)
 * Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning, OSDI 22 [[Paper]](https://www.usenix.org/system/files/osdi22-lv.pdf)
 	
-### On-Device Training
+### On-Device Training (Total: 13)
 <a name="on-device-training"></a>
 #### Training on a Single Device (Total: 11)
 * Cost-effective On-device Continual Learning over Memory Hierarchy with Miro, MobiCom 23 [[Paper]](https://arxiv.org/pdf/2308.06053.pdf)
@@ -717,7 +717,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling, SenSys 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485730.3485930)
 * MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IPSN 20 [[Paper]](https://arxiv.org/pdf/2002.02897.pdf)
 
-### Federated Learning
+### Federated Learning (Total: 41)
 #### Data Heterogeneity (Total: 3)
 * GPT-FL: Generative Pre-trained Model-Assisted Federated Learning." ArXiv 23 [[Paper]](https://arxiv.org/abs/2306.02210)
 * BalanceFL: Addressing Class Imbalance in Long-tail Federated Learning, IPSN 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BalanceFL-IPSN22.pdf) [[code]](https://github.com/sxontheway/BalanceFL)
@@ -1214,7 +1214,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 <a name="domain-specific-aiot-systems"></a>
 ## 🚀 Domain-specific AIoT Systems (254)
 							
-### AIoT Systems for Healthcare and Well-being (Total:57 | No ML(22) | ML(9) | DL(26))
+### AIoT Systems for Healthcare and Well-being (Total:57 | No ML(22) | ML(9) | DL(23) | GenAI(3))
 <a name="aiot-systems-for-healthcare-and-well-being"></a>
 #### Vital Sign Monitoring 
 * APG: Audioplethysmography for Cardiac Monitoring in Hearables, MobiCom 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3570361.3613281) (No ML)
