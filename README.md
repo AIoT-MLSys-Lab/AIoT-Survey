@@ -418,7 +418,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * BreathListener: Fine-grained Breathing Monitoring in Driving Environments Utilizing Acoustic Signals, MobiSys 19 [[Paper]](https://www.cs.sjtu.edu.cn/~linghe.kong/2019/XuMOBISYS2019BreathListener.pdf) (DL)
 * Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices, MobiCom 19 [[Paper]](https://arxiv.org/pdf/1812.02349.pdf) (No ML)
 * VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic Signals, MobiCom 18 [[Paper]](https://cs.nju.edu.cn/lxie/publication/Mobicom2018.pdf) (No ML)
-* Strata: Fine-Grained Acoustic-based Device-Free Tracking, MobiSys 17 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobisys17_strata.pdf) (No ML) (Also VR/AR)
+* Strata: Fine-Grained Acoustic-based Device-Free Tracking, MobiSys 17 [[Paper]](https://www.cs.sjtu.edu.cn/~yichao/pmwiki/assets/publications/mobisys17_strata.pdf) (No ML)
 * CAT: High-Precision Acoustic Motion Tracking, MobiCom 16 [[Paper]](https://dl.acm.org/doi/10.1145/2973750.2973755) (No ML)
 
 #### Emotion Recognition
