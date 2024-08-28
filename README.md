@@ -628,7 +628,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 #### Cross-Processor Inference (Total: 12)
 <a name="cross-processor-inference"></a>
 * NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596870)
-* PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3587045)
+* PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators, IPSN 23 [[Paper]](https://www.researchgate.net/publication/370630326_PointSplit_Towards_On-device_3D_Object_Detection_with_Heterogeneous_Low-power_Accelerators)
 * Band: Coordinated Multi-DNN Inference on Heterogeneous Mobile Processors, MobiSys 22 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948)
 * Mandheling: mixed-precision on-device DNN training with DSP offloading,MobiCom 22 [[Paper]](https://arxiv.org/pdf/2206.07509)			
 * BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, SenSys 22 [[Paper]](https://yanzhenyu.com/assets/pdf/BlastNet-SenSys22.pdf)
