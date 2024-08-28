@@ -1422,7 +1422,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 ### AIoT Systems for AR/VR/MR (Total:38 | No ML(20) | ML(5) | DL(13))
 <a name="aiot-systems-for-arvrmr"></a>
-#### Object Detection (Total:  | No ML() | ML() | DL())
+#### Object Detection 
 * Augmenting Augmented Reality with Non-Line-of-Sight Perception, NSDI	23 [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/boroushaki) (No ML)
 * XRLoc: Accurate UWB Localization to Realize XR Deployments, SenSys 23 [[Paper]](https://arxiv.org/pdf/2307.12512) (No ML)
 * Multi-User Augmented Reality with Infrastructure-free Collaborative Localization, IPSN 22 [[Paper]](https://arxiv.org/pdf/2111.00174.pdf) (No ML)
