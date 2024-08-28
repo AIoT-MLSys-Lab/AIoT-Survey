@@ -585,7 +585,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors, arxiv 24 [[Paper]](https://arxiv.org/pdf/2406.14498) (GenAI)
 * Penetrative AI: Making LLMs Comprehend the Physical World, HOTMOBILE 24 [[Paper]](https://arxiv.org/pdf/2310.09605) (GenAI)
   
-## 📲 Computing (155)							
+## 📲 Computing (168)							
 <a name="computing"></a>	
 ### On-Device Inference	(Total: 61)					
 <a name="on-device-inference"></a>
