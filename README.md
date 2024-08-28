@@ -245,7 +245,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags, NSDI 18 [[Paper]](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf) (ML)
 
 <a name="mmwave-sensing"></a>
-#### mmWave Sensing (Total: 25 | No ML(7) | ML(3) | DL(14) | GenAI(1))
+#### mmWave Sensing (Total: 24 | No ML(7) | ML(3) | DL(13) | GenAI(1))
 
 ##### Human Activity Recognition
 * mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications, MobiCom 23 [[Paper]](https://dl.acm.org/doi/10.1145/3570361.3592515) (DL)
