@@ -184,7 +184,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 ##### 3D Human Mesh Reconstruction
 * Construct 3D Hand Skeleton with Commercial WiFi, SenSys 23 [[Paper]](https://arxiv.org/pdf/2312.15507) (DL)
-* Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction, SenSys 22 [[Paper]](https://arxiv.org/pdf/2210.10957.pdf) (DL)
+* Wi-Mesh: A WiFi Vision-based Approach for 3D Human Mesh Construction, SenSys 22 [[Paper]](https://dl.acm.org/doi/10.1145/3560905.3568536) (DL)
 * Towards 3D human pose construction using wifi, MobiCom 20 [[Paper]](https://cse.buffalo.edu/~lusu/papers/MobiCom2020.pdf) (DL)
 
 ##### Indoor Localization
@@ -301,7 +301,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 <a name="lora-sensing"></a>
 #### LoRa Sensing (Total: 5 | No ML(3) | ML(0) | DL(2))
-* In-Orchard Localization with a Single LoRa Gateway and Generative Model-based Efficient Fingerprinting, MobiSys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661876) (DL)
+* OrchLoc: In-Orchard Localization via a Single LoRa Gateway and Generative Diffusion Model-based Fingerprinting, MobiSys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661876) (DL)
 * Boosting the Long Range Sensing Potential of LoRa, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596847) (No ML)
 * XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, SenSys 23 [[Paper]](https://perfecthu.github.io/publications/23-sensys-xgait.pdf) (DL)
 * Embracing LoRa Sensing with Device Mobility, SenSys 22 [[Paper]](https://people.cs.umass.edu/~dganesan/papers/SenSys22-LoRaSensingMobility.pdf) (No ML)
@@ -375,10 +375,10 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * LAPD: Hidden Spy Camera Detection using Smartphone Time-of-Flight Sensors, SenSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485730.3485941) (DL)
 * UltraDepth: Exposing High-Resolution Texture from Depth Cameras, SenSys 21 [[Paper]](http://cvlab.cse.msu.edu/pdfs/Xie_Ouyang_Liu_Xing_UltraDepth_SenSys2021.pdf) (DL)
 * EagleEye: wearable camera-based person identification in crowded urban spaces, MobiCom 20 [[Paper]](https://juheonyi.github.io/files/EagleEye.pdf) (DL)
-* BackCam: Wireless Computer Vision Using Commodity Devices, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310403) (ML)
+* Wireless Computer Vision Using Commodity Radios, IPSN 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3302506.3310403) (ML)
 * Banner: An Image Sensor Reconfiguration Framework for Seamless Resolution-based Tradeoffs, MobiSys 19	[[Paper]](https://meteor.ame.asu.edu/publications/mobisys19hu-banner.pdf) (No ML)
 * Liquid Testing with Your Smartphone, MobiSys 19 [[Paper]](https://people.csail.mit.edu/scyue/projects/capcam/capcam.pdf) (No ML)
-* ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://www.osti.gov/servlets/purl/1811681) (DL)
+* ODDS: Real-Time Object Detection using Depth Sensors on Embedded GPUs, IPSN 18 [[Paper]](https://ieeexplore.ieee.org/document/8480074) (DL)
 * Glimpse: A Programmable Early-Discard Camera Architecture for Continuous Mobile Vision, MobiSys 17 [[Paper]](https://dl.acm.org/doi/10.1145/3081333.3081347) (Honorable Mention) (No ML)
 
 #### Eye Tracking
