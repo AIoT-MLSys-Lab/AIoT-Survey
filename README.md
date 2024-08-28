@@ -459,7 +459,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * AIM: Acoustic Imaging on a Mobile, MobiSys 18 [[Paper]](https://www.cs.utexas.edu/~meiwang/uploads/8/9/9/1/89919297/aim.pdf) (Best Paper) (No ML)
 * UbiTap: Leveraging Acoustic Dispersion for Ubiquitous Touch Interface on Solid Surfaces, SenSys 18 [[Paper]](http://cps.kaist.ac.kr/papers/18SenSys-UbiTap.pdf) (Best paper runner-up awards) (No ML)
 * SoundSifter: Mitigating Overhearing of Continuous Listening Devices, MobiSys 17 [[Paper]](https://www.cs.unc.edu/~nirjon/paper/soundsifter-mobisys2017.pdf) (ML)
-* DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom 16 [[Paper]](https://wands.sg/team/pengfei/papers/MobiCom16-DopEnc.pdf) (No ML)
+* DopEnc: Acoustic-based Encounter Profiling Using Smartphones, MobiCom 16 [[Paper]](https://zhoupf.github.io/assets/papers/MobiCom16-DopEnc.pdf) (No ML)
 * Expansion of Human–Phone Interface By Sensing Structure-Borne Sound Propagation, MobiSys 16 [[Paper]](https://yctung.github.io/files/publication/mobisys16-forcephone.pdf) (No ML)
 																
 <a name="multi-modal-sensing"></a>
@@ -467,12 +467,12 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 
 #### Human Activity Recognition
 * CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing, IPSN 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583120.3586960) (DL)
+* MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels, SenSys 23 [[Paper]](https://arxiv.org/pdf/2404.01958) (DL)
 * VMA: Domain Variance- and Modality-Aware Model Transfer for Fine-Grained Occupant Activity Recognition, IPSN 22 [[Paper]](https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a247/962400a247.pdf) (DL)
 * Cosmo: contrastive fusion learning with small data for multimodal human activity recognition,	MobiCom	22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3495243.3560519) (DL)
 * Low-latency speculative inference on distributed multi-modal data streams,MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467884) (DL)
 * Optimal sensor channel selection for resource-efficient deep activity recognition, IPSN 21 [[Paper]](https://acris.aalto.fi/ws/portalfiles/portal/64950790/ELEC_Souza_Leite_Xiao_Optimal_Sensor_Channel_IPSN_2021_acceptedauthormanuscript.pdf) (DL)
 * Multimodal deep learning for activity and context recognition, UbiComp 18 [[Paper]](https://homepages.inf.ed.ac.uk/mmarina/papers/ubicomp18.pdf) (DL)
-* MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels, SenSys 23 [[Paper]](https://arxiv.org/pdf/2404.01958) (DL)
 
 #### Human and Object Identification
 * Contactless Material Identification with Millimeter Wave Vibrometry, MobiSys 23 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596850) (DL)
@@ -569,7 +569,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * METRO: Magnetic Road Markings for All-weather, Smart Roads, SenSys 23 [[Paper]](https://theisclab.com/docs/2023_Sensys_METRO_Wang.pdf) (No ML)
 * Automatic Calibration of Magnetic Tracking, MobiCom 22 [[Paper]](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/mobicom22-wang.pdf) (ML)
 * MagX: Wearable, Untethered Hands Tracking with Passive Magnets, MobiCom 21 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447993.3483260) (ML)
-* MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://www.ece.sunysb.edu/~slin/Publications/MOBICOM2020.pdf) (DL)
+* MET: a magneto-inductive sensing based electric toothbrushing monitoring system, MobiCom 20 [[Paper]](https://dl.acm.org/doi/10.1145/3372224.3380896) (DL)
 * MagHacker: Eavesdropping on Stylus Pen Writing via Magnetic Sensing from Commodity Mobile Devices, MobiSys 20 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys20.pdf) (DL)
 * MagTrack: Enabling Safe Driving Monitoring with Wearable Magnetics, MobiSys 19 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3307334.3326107) (ML)
 
