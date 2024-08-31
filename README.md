@@ -4,7 +4,7 @@
 > *Shakhrul Iman Siam<sup>1</sup>, Hyunho Ahn<sup>1</sup>, Li Liu<sup>2</sup>, Samiul Alam<sup>1</sup>, Hui Shen<sup>1</sup>, Zhichao Cao<sup>2</sup>, Ness Shroff<sup>1</sup>, Bhaskar Krishnamachari<sup>3</sup>, Mani Srivastava<sup>4</sup>, Mi Zhang<sup>1</sup>*
 
 > <sup>1</sup>The Ohio State University, <sup>2</sup>Michigan State University, <sup>3</sup>University of Southern California, <sup>4</sup>University of California, Los Angeles
-### ⚡News: Our survey has been officially accepted by ACM Transactions on Sensor Networks (TOSN), August 2024.
+### ⚡News: Our survey has been officially accepted by ACM Transactions on Sensor Networks (TOSN), August 2024. [[ACM Digital Library Link](https://dl.acm.org/doi/10.1145/3690639)]
 
 ## ❤️ Community Support
 This repository is maintained by <ins>[shakhrulsiam268](https://github.com/shakhrulsiam268)</ins> (siam.5@osu.edu), <ins>[HyunhoAhn](https://github.com/HyunhoAhn)</ins> (ahn.377@osu.edu), and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community.
