@@ -1,5 +1,6 @@
-# Artificial Intelligence of Things: A Survey  
-> Artificial Intelligence of Things: A Survey
+# Artificial Intelligence of Things: A Survey 
+
+> **[Artificial Intelligence of Things: A Survey](https://mi-zhang.github.io/papers/2024_ACMTOSN_AIoTSurvey.pdf)**
 
 > *Shakhrul Iman Siam<sup>1</sup>, Hyunho Ahn<sup>1</sup>, Li Liu<sup>2</sup>, Samiul Alam<sup>1</sup>, Hui Shen<sup>1</sup>, Zhichao Cao<sup>2</sup>, Ness Shroff<sup>1</sup>, Bhaskar Krishnamachari<sup>3</sup>, Mani Srivastava<sup>4</sup>, Mi Zhang<sup>1</sup>*
 
