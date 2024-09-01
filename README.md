@@ -1259,6 +1259,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 #### In-Situ Illness Detection and Monitoring 
 * PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones, MobiSys 23 [[Paper]](https://sites.pitt.edu/~weigao/publications/mobisys23-ptease.pdf) (DL)
 * PDAssess: A Privacy-preserving Free-speech based Parkinson’s Disease Daily Assessment System, SenSys 23 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3625687.3625805) (DL)
+* Camera-based remote photoplethysmography to predict blood pressure in clinic patients with cardiovascular disease, Journal of Hypertension 23 [[Paper]](https://journals.lww.com/jhypertension/abstract/2023/06003/camera_based_remote_photoplethysmography_to.8.aspx)
 * Burnout and the Quantified Workplace: Tensions around Personal Sensing Interventions for Stress in Resident Physicians, ACM HCI 22 [[Paper]](https://dl.acm.org/doi/10.1145/3555531) (No ML)
 * EarHealth: an earphone-based acoustic otoscope for detection of multiple ear diseases in daily life, MobiSys 22 [[Paper]](https://web.archive.org/web/20220703105522id_/https://dl.acm.org/doi/pdf/10.1145/3498361.3538935) (DL)
 * Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones, SenSys	22	[[Paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437) (DL)
