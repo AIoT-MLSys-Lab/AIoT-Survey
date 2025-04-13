@@ -545,6 +545,7 @@ Besides the survey and the repository, we also host the OSU AIoT Seminar Series 
 * MUTE: bringing IoT to noise cancellation, SIGCOMM 18 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3230543.3230550) (No ML)
 
 #### Miscellaneous Topics
+* Enabling Hands-Free Voice Assistant Activation on Earphones, Mobisys 24 [[Paper]](https://dl.acm.org/doi/10.1145/3643832.3661890)
 * Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena, IMWUT 22 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3550314) (Survey)
 * OESense: employing occlusion effect for in-ear human sensing, MobiSys 21 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3458864.3467680) (ML)
 * Ear-AR: indoor acoustic augmented reality on earphones, MobiCom 20 [[Paper]](https://synrg.csl.illinois.edu/papers/ear-ar_mobicom20.pdf) (ML)
